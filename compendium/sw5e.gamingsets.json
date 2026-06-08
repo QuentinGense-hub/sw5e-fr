@@ -1,0 +1,35 @@
+{
+  "label": "Gaming Sets",
+  "entries": {
+    "Pazaak deck": {
+      "name": "Pazaak deck"
+    },
+    "Dejarik set": {
+      "name": "Dejarik set"
+    },
+    "Kirgatz set": {
+      "name": "Kirgatz set"
+    },
+    "Chatta-ragul set": {
+      "name": "Chatta-ragul set"
+    },
+    "Sabacc deck": {
+      "name": "Sabacc deck"
+    },
+    "Chance cubes": {
+      "name": "Chance cubes"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

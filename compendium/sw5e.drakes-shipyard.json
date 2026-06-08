@@ -1,0 +1,365 @@
+{
+  "label": "Drakes Shipyard",
+  "entries": {
+    "Fang-class": {
+      "name": "Classe Fang",
+      "description": ""
+    },
+    "Probe-Mate Hyperspace Pod": {
+      "name": "Probe-Mate Hyperspace Pod",
+      "description": ""
+    },
+    "CR90 Corvette": {
+      "name": "CR90 Corvette",
+      "description": ""
+    },
+    "Arquitens-class Light Cruiser": {
+      "name": "Croiseur léger de classe Arquitens",
+      "description": ""
+    },
+    "Arquitens-class Command Cruiser": {
+      "name": "Croiseur de commandement de classe Arquitens",
+      "description": ""
+    },
+    "VCX-100 light freighter": {
+      "name": "VCX-100 light freighter",
+      "description": ""
+    },
+    "Y-Wing Starfighter - BTL-B/S3": {
+      "name": "Y-Wing Starfighter - BTL-B/S3",
+      "description": ""
+    },
+    "TIE/sa Bomber (Missile Boat)": {
+      "name": "TIE/sa Bomber (Missile Boat)",
+      "description": ""
+    },
+    "Y-TIE Fighter": {
+      "name": "Y-TIE Fighter",
+      "description": ""
+    },
+    "Baleen-class Heavy Freighter": {
+      "name": "Cargo lourd de classe Baleen",
+      "description": ""
+    },
+    "M3-A Scyk \"TIE Killer\"": {
+      "name": "M3-A Scyk \"TIE Killer\"",
+      "description": ""
+    },
+    "X-TIE Fighter": {
+      "name": "X-TIE Fighter",
+      "description": ""
+    },
+    "A/SF-01 B-wing starfighter": {
+      "name": "A/SF-01 B-wing starfighter",
+      "description": ""
+    },
+    "ST-70 Razor Crest Assault Ship - Legendary": {
+      "name": "ST-70 Razor Crest Assault Ship - Legendary",
+      "description": ""
+    },
+    "C-wing Corellian/B-wing": {
+      "name": "C-wing Corellian/B-wing",
+      "description": ""
+    },
+    "Gand Starfighter": {
+      "name": "Gand Starfighter",
+      "description": ""
+    },
+    "DeepWater-class Light Freighter": {
+      "name": "Cargo léger de classe DeepWater",
+      "description": ""
+    },
+    "RZ-1 A-wing Interceptor": {
+      "name": "RZ-1 A-wing Interceptor",
+      "description": ""
+    },
+    "TYE-wing": {
+      "name": "TYE-wing",
+      "description": ""
+    },
+    "AEG-77 Vigo Gunship": {
+      "name": "AEG-77 Vigo Gunship",
+      "description": ""
+    },
+    "TIE/sa Bomber (Mine Layer)": {
+      "name": "TIE/sa Bomber (Mine Layer)",
+      "description": ""
+    },
+    "EF76 Nebulon-B Escort Frigate": {
+      "name": "EF76 Nebulon-B Escort Frigate",
+      "description": ""
+    },
+    "Wander-class Jump Freighter": {
+      "name": "Cargo de saut de classe Wander",
+      "description": ""
+    },
+    "Horizon-class Star Yacht - Legendary": {
+      "name": "Star Yacht de classe Horizon - Légendaire",
+      "description": ""
+    },
+    "N-1 Naboo Starfighter": {
+      "name": "N-1 Naboo Starfighter",
+      "description": ""
+    },
+    "X-Wing Starfighter - Advanced": {
+      "name": "X-Wing Starfighter - Advanced",
+      "description": ""
+    },
+    "Barloz Class Medium Freighter": {
+      "name": "Cargo moyen de classe Barloz",
+      "description": ""
+    },
+    "VCX-100 light freighter, Modified": {
+      "name": "VCX-100 light freighter, Modified",
+      "description": ""
+    },
+    "Z-95 Headhunter": {
+      "name": "Z-95 Headhunter",
+      "description": ""
+    },
+    "A-Z-Z-3 Light Freighter": {
+      "name": "A-Z-Z-3 Light Freighter",
+      "description": ""
+    },
+    "Baradium Missile": {
+      "name": "Baradium Missile",
+      "description": ""
+    },
+    "Chir'daki Deathseed": {
+      "name": "Chir'daki Deathseed",
+      "description": ""
+    },
+    "EF76 Nebulon-B Escort Frigate (Medical)": {
+      "name": "EF76 Nebulon-B Escort Frigate (Medical)",
+      "description": ""
+    },
+    "HMP Droid Gunship": {
+      "name": "HMP Droid Gunship",
+      "description": ""
+    },
+    "VCX-series auxiliary starfighter": {
+      "name": "VCX-series auxiliary starfighter",
+      "description": ""
+    },
+    "Vulture Droid - CIS": {
+      "name": "Vulture Droid - CIS",
+      "description": ""
+    },
+    "Escape Pod": {
+      "name": "Escape Pod",
+      "description": ""
+    },
+    "Nantex-class Territorial Defense Starfighter": {
+      "name": "Chasseur stellaire de défense territoriale de classe Nantex",
+      "description": ""
+    },
+    "DeepWater-class Light Freighter - Legendary": {
+      "name": "Cargo léger de classe DeepWater - Légendaire",
+      "description": ""
+    },
+    "YT-1300, Heavily Modified": {
+      "name": "YT-1300, Heavily Modified",
+      "description": ""
+    },
+    "VT-49 Decimator": {
+      "name": "VT-49 Decimator",
+      "description": ""
+    },
+    "StarViper Mk. II": {
+      "name": "StarViper Mk. II",
+      "description": ""
+    },
+    "Clutch Tri-Fighter": {
+      "name": "Clutch Tri-Fighter",
+      "description": ""
+    },
+    "U-wing Starfighter/Support Craft - UT-60D": {
+      "name": "U-wing Starfighter/Support Craft - UT-60D",
+      "description": ""
+    },
+    "Imperial I-class Star Destroyer": {
+      "name": "Destroyer stellaire impérial de classe I",
+      "description": ""
+    },
+    "Aka'jor-class Shuttle": {
+      "name": "Navette de classe Aka'jor",
+      "description": ""
+    },
+    "YT-1300f Light Freighter": {
+      "name": "YT-1300f Light Freighter",
+      "description": ""
+    },
+    "Executor I-class Star Dreadnought": {
+      "name": "Dreadnought étoilé de classe I Executor",
+      "description": ""
+    },
+    "Delta-7 Aethersprite-class light interceptor - Modified": {
+      "name": "Intercepteur de lumière de classe Delta-7 Aethersprite - Modifié",
+      "description": ""
+    },
+    "TIE/LN Starfighter": {
+      "name": "TIE/LN Starfighter",
+      "description": ""
+    },
+    "M12-L Kimogila Heavy Fighter": {
+      "name": "M12-L Kimogila Heavy Fighter",
+      "description": ""
+    },
+    "Basilisk Space Droid": {
+      "name": "Basilisk Space Droid",
+      "description": ""
+    },
+    "StarViper-class Attack Platform": {
+      "name": "Plateforme d'attaque de classe StarViper",
+      "description": ""
+    },
+    "Droid Tri-Fighter": {
+      "name": "Droid Tri-Fighter",
+      "description": ""
+    },
+    "Baudo-class Star Yacht - Modified": {
+      "name": "Star Yacht de classe Baudo - Modifié",
+      "description": ""
+    },
+    "V-wing Starfighter - Alpha-3 Nimbus-class": {
+      "name": "V-wing Starfighter - Classe Alpha-3 Nimbus",
+      "description": ""
+    },
+    "TIE Advanced x1": {
+      "name": "TIE Advanced x1",
+      "description": ""
+    },
+    "Delta-7 Aethersprite-class light interceptor": {
+      "name": "Intercepteur de lumière de classe Delta-7 Aethersprite",
+      "description": ""
+    },
+    "YT-1300, Modified": {
+      "name": "YT-1300, Modified",
+      "description": ""
+    },
+    "M22-T Krayt Gunship": {
+      "name": "M22-T Krayt Gunship",
+      "description": ""
+    },
+    "TIE/sa Bomber": {
+      "name": "TIE/sa Bomber",
+      "description": ""
+    },
+    "Crusader XX-777 Prototype Droid Frigate": {
+      "name": "Crusader XX-777 Prototype Droid Frigate",
+      "description": ""
+    },
+    "Wayfarer-class Medium Transport": {
+      "name": "Transport moyen de classe Wayfarer",
+      "description": ""
+    },
+    "Baudo-class Star Yacht": {
+      "name": "Yacht étoilé de classe Baudo",
+      "description": ""
+    },
+    "Dynamic-class light freighter": {
+      "name": "Cargo léger de classe Dynamic",
+      "description": ""
+    },
+    "TIE/D Defender": {
+      "name": "TIE/D Defender",
+      "description": ""
+    },
+    "M3-A Scyk Fighter": {
+      "name": "M3-A Scyk Fighter",
+      "description": ""
+    },
+    "Amphibious Fighter": {
+      "name": "Amphibious Fighter",
+      "description": ""
+    },
+    "TIE/HU Hunter Multi-role Starfighter": {
+      "name": "TIE/HU Hunter Multi-role Starfighter",
+      "description": ""
+    },
+    "X-70B Phantom-class Prototype": {
+      "name": "Prototype de classe Phantom X-70B",
+      "description": ""
+    },
+    "ARC-170 Starfighter": {
+      "name": "ARC-170 Starfighter",
+      "description": ""
+    },
+    "GAT-12 Skipray Blastboat": {
+      "name": "GAT-12 Skipray Blastboat",
+      "description": ""
+    },
+    "Z-TIE Fighter": {
+      "name": "Z-TIE Fighter",
+      "description": ""
+    },
+    "ETA-2 Actis-class Interceptor": {
+      "name": "Intercepteur de classe Actis ETA-2",
+      "description": ""
+    },
+    "AIAT/i Gunship": {
+      "name": "AIAT/i Gunship",
+      "description": ""
+    },
+    "K-wing - BTL-S8": {
+      "name": "K-wing - BTL-S8",
+      "description": ""
+    },
+    "N-1 Naboo Starfighter, Custom": {
+      "name": "N-1 Naboo Starfighter, Custom",
+      "description": ""
+    },
+    "TIE/IN Interceptor": {
+      "name": "TIE/IN Interceptor",
+      "description": ""
+    },
+    "M3-A Scyk \"Heavy\" Fighter": {
+      "name": "M3-A Scyk \"Heavy\" Fighter",
+      "description": ""
+    },
+    "StarViper-class Attack Platform - Prototype": {
+      "name": "Plateforme d'attaque de classe StarViper - Prototype",
+      "description": ""
+    },
+    "Z-'ceptor": {
+      "name": "Z-'ceptor",
+      "description": ""
+    },
+    "X-ceptor": {
+      "name": "X-ceptor",
+      "description": ""
+    },
+    "ST-70 Razor Crest Assault Ship": {
+      "name": "ST-70 Razor Crest Assault Ship",
+      "description": ""
+    },
+    "T-65 X-Wing Starfighter": {
+      "name": "T-65 X-Wing Starfighter",
+      "description": ""
+    },
+    "M4-C Dunelizard Fighter": {
+      "name": "M4-C Dunelizard Fighter",
+      "description": ""
+    },
+    "DP20 Frigate": {
+      "name": "DP20 Frigate",
+      "description": ""
+    },
+    "YV-929 Armed Freighter": {
+      "name": "YV-929 Armed Freighter",
+      "description": ""
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

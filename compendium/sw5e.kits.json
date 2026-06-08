@@ -1,0 +1,71 @@
+{
+  "label": "Specialist's Kits",
+  "entries": {
+    "Forgery kit": {
+      "name": "Forgery kit"
+    },
+    "Demolitions kit": {
+      "name": "Demolitions kit"
+    },
+    "Security kit": {
+      "name": "Security kit"
+    },
+    "Artillerist's kit": {
+      "name": "Artillerist's kit"
+    },
+    "Biochemist's kit": {
+      "name": "Biochemist's kit"
+    },
+    "Trapper's kit": {
+      "name": "Trapper's kit"
+    },
+    "Brewer's kit": {
+      "name": "Brewer's kit"
+    },
+    "Bioanalysis kit": {
+      "name": "Bioanalysis kit"
+    },
+    "Munitions kit": {
+      "name": "Munitions kit"
+    },
+    "Chef's kit": {
+      "name": "Chef's kit"
+    },
+    "Disguise kit": {
+      "name": "Disguise kit"
+    },
+    "Scavenging kit": {
+      "name": "Scavenging kit"
+    },
+    "Spicer's kit": {
+      "name": "Spicer's kit"
+    },
+    "Archaeologist kit": {
+      "name": "Archaeologist kit"
+    },
+    "Slicer's kit": {
+      "name": "Slicer's kit"
+    },
+    "Alchemist's kit": {
+      "name": "Alchemist's kit"
+    },
+    "Poisoner's kit": {
+      "name": "Poisoner's kit"
+    },
+    "Mechanic's kit": {
+      "name": "Mechanic's kit"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

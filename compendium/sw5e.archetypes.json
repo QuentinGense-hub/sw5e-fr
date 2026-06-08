@@ -1,0 +1,1035 @@
+{
+  "label": "Archétypes",
+  "entries": {
+    "Way of the Seer": {
+      "description": "<h1>Voie du Voyant</h1>\n<p>La Force nous guide d'innombrables façons, se manifestant souvent par des visions. Les consulaires qui suivent la Voie du Voyant tentent d'exploiter ces visions afin d'œuvrer pour le meilleur avenir possible, tel qu'ils le voient.</p>",
+      "name": "Voie du Voyant",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Shii-Cho Form": {
+      "description": "<h1>Forme Shii-Cho</h1>\n<p>La Forme Shii-Cho, également connue sous le nom de Forme de la Détermination, utilise des attaques sauvages et imprévisibles conçues pour distraire et désarmer leurs adversaires. Les gardiens qui se concentrent sur la Forme Shii-Cho portent des attaques apparemment aléatoires, mais délibérées, pour déséquilibrer leurs adversaires.</p>",
+      "name": "Forme Shii-Cho",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Physician Pursuit": {
+      "description": "<h1>Voie du Médecin</h1>\n<p>Les médecins étudient les sciences médicales, anatomiques et biologiques. Les érudits qui choisissent la Voie du Médecin utilisent leurs connaissances pour soigner leurs alliés sur le terrain et porter des coups dévastateurs avec une précision chirurgicale.</p>",
+      "name": "Voie du Médecin",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Médecin"
+        }
+      }
+    },
+    "Sawbones Practice": {
+      "description": "<h1>Pratique du Chirurgien</h1>\n<p>Les opératifs qui choisissent la Pratique du Chirurgien ont étudié le corps humanoïde à un niveau plus intime que les autres opératifs. Alors que d'autres savent peut-être où frapper pour tuer, vous savez aussi comment réparer les blessures que vous infligez, ainsi que comment les aggraver. Vous plongez dans les secrets du corps, apprenant autant de connaissances médicales que possible, quel que soit le degré de saleté du travail.</p>",
+      "name": "Pratique du Chirurgien",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Artillerist Technique": {
+      "description": "<h1>Technique de l'Artilleur</h1>\n<p>Certains éclaireurs choisissent de contourner les défenses, tandis que d'autres choisissent de les traverser. Les adeptes de la Technique de l'Artilleur apprennent à exercer un plus grand contrôle sur leurs pouvoirs techniques, provoquant des effets retardés—et souvent amplifiés.</p>",
+      "name": "Technique de l'Artilleur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Witchcraft": {
+      "description": "<h1>Voie de la Sorcellerie</h1>\n<p>La Force connecte tous les êtres vivants. Les sentinelles qui suivent la Voie de la Sorcellerie utilisent cette connexion pour invoquer l'aide de la nature, à la fois les esprits et les éléments, les adaptant à leur volonté.</p>",
+      "name": "Voie de la Sorcellerie",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of the Corsair": {
+      "description": "<h1>Voie du Corsaire</h1>\n<p>Il peut arriver qu'une sentinelle se retrouve perdue, traquée, ou dans toute situation où elle doit cacher sa nature d'utilisateur de la Force. Les sentinelles qui suivent la Voie du Corsaire utilisent des armements alternatifs non couramment associés aux utilisateurs de la Force avec un grand effet.</p>",
+      "name": "Voie du Corsaire",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Heavy Weapons Specialist": {
+      "description": "<h1>Spécialiste des Armes Lourdes</h1>\n<p>Certains instruments de guerre nécessitent de leur utilisateur une prouesse physique supérieure pour surmonter leur poids et leur encombrement. Les combattants qui choisissent de devenir Spécialistes des Armes Lourdes utilisent leur corps puissant et leurs armements puissants pour submerger leurs adversaires.</p>",
+      "name": "Spécialiste des Armes Lourdes",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Ataru Form": {
+      "description": "<h1>Forme Ataru</h1>\n<p>La Forme Ataru, également connue sous le nom de Forme de l'Agressivité, est une forme cinétiquement active qui repose sur la vitesse, l'acrobatie et la puissance. Les gardiens qui se concentrent sur la Forme Ataru utilisent des tactiques de haute énergie pour confondre et distraire leurs adversaires, se déplaçant rapidement sur le champ de bataille.</p>",
+      "name": "Forme Ataru",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Artillerist Technique (Companion)": {
+      "description": "<h1>Technique de l'Artilleur (Compagnon)</h1>\n<p>Alors que certains éclaireurs choisissent de s'aventurer seuls, d'autres préfèrent avoir du soutien. Les adeptes de la Technique de l'Artilleur maîtrisent le contrôle de constructions militaires, ravageant le champ de bataille avec leur expertise.</p>",
+      "name": "Technique de l'Artilleur (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Armstech Engineering": {
+      "description": "<h1>Ingénierie Armstech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Armstech se concentrent sur la compétence de construction et de modification de blasters et de vibro-armes.</p>",
+      "name": "Ingénierie Armstech",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "Armstech Modifications": "Modifications Armstech"
+      }
+    },
+    "Industrial Approach": {
+      "description": "<h1>Approche Industrielle</h1>\n<p>Alors que certains berserkers se contentent de s'abandonner à leur rage, d'autres préfèrent une approche plus tactique. Les berserkers de l'Approche Industrielle augmentent leur rage par la polyvalence de la technologie, ajoutant des explosions élémentaires à leur arsenal déjà redoutable.</p>",
+      "name": "Approche Industrielle",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of the Forceblade": {
+      "description": "<h1>Voie de la Lame de Force</h1>\n<p>Quelques rares maîtrisent leur arme d'une manière différente de leurs pairs. Les sentinelles qui suivent la Voie de la Lame de Force canalisent la Force dans leur arme, formant une connexion unique qui vous confère un plus grand contrôle sur l'arme ; elle devient une extension de leur volonté.</p>",
+      "name": "Voie de la Lame de Force",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Ruffian Practice": {
+      "description": "<h1>Pratique du Ruffian</h1>\n<p>Les opératifs qui choisissent la Pratique du Ruffian utilisent des tactiques rudimentaires pour gérer n'importe quel combat, petit ou grand. Ils provoquent le chaos et font des mouvements retors qui maintiennent leurs ennemis en déséquilibre.</p>",
+      "name": "Pratique du Ruffian",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Beastmaster Approach": {
+      "description": "<h1>Approche du Maître des Bêtes</h1>\n<p>De nombreux berserkers ressentent un accord primal avec la nature. Pour les berserkers de l'Approche du Maître des Bêtes, cet accord se manifeste par des marques et manifestations bestiales qui confèrent au berserker de nouvelles capacités.</p>",
+      "name": "Approche du Maître des Bêtes",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Gunslinger Practice": {
+      "description": "<h1>Pratique du Pistolero</h1>\n<p>Les opératifs qui choisissent la Pratique du Pistolero sont les maîtres du tir de précision. Le Pistolero et son blaster forment l'équipe parfaite, utilisant la connaissance des vulnérabilités de leurs ennemis pour tirer parti de chaque opportunité.</p>",
+      "name": "Pratique du Pistolero",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Lightning": {
+      "description": "<h1>Voie de la Foudre</h1>\n<p>De tous les arts obscurs de la Force, peu égalent le spectacle et la dévastation de l'éclair de Force. Les consulaires qui suivent la Voie de la Foudre invoquent d'intenses décharges d'énergie pure de la Force, submergeant les ennemis avec des dégâts punitifs à distance, les laissant ébranlés et vulnérables—si ce n'est morts.</p>",
+      "name": "Voie de la Foudre",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Lethality Practice": {
+      "description": "<h1>Pratique de la Létalité</h1>\n<p>Les opératifs qui choisissent la Pratique de la Létalité perfectionnent leurs compétences dans l'art de la mort. Ils utilisent des attaques précises et surprenantes pour éliminer leurs adversaires avec une efficacité fatale.</p>",
+      "name": "Pratique de la Létalité",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Aing-Tii Order": {
+      "description": "<h1>Ordre Aing-Tii</h1>\n<p>Les moines de l'Ordre Aing-Tii mêlent un accord avec la Force à leur concentration suprême pour devenir un tourbillon de mouvement dans la chaleur de la bataille.</p>",
+      "name": "Ordre Aing-Tii",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Mounted Specialist": {
+      "description": "<h1>Spécialiste Monté</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes Montés excellent dans le combat monté. Les Spécialistes Montés sont plus dangereux depuis le siège d'un speeder ou la selle d'un varactyl, bien qu'ils puissent se défendre au sol. Leur polyvalence les amène souvent à mener la charge ou à protéger l'équipe.</p>",
+      "name": "Spécialiste Monté",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Synthesis": {
+      "description": "<h1>Voie de la Synthèse</h1>\n<p>Il y a un pouvoir dans la diversité inconnu de ceux qui ont l'esprit étroit. Les sentinelles qui suivent la Voie de la Synthèse mêlent leur maîtrise complexe de la Force à leur compréhension de la technologie, créant des effets uniques pour surmonter leurs obstacles.</p>",
+      "name": "Voie de la Synthèse",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Kage Order": {
+      "description": "<h1>Ordre Kage</h1>\n<p>Les moines de l'Ordre Kage, connus sous le nom de guerriers Kage, ont maîtrisé le combat dans l'obscurité, utilisant ce que les autres craignent comme une arme contre eux. Les guerriers Kage apprennent des astuces pour créer l'obscurité là où elle n'existe pas, combattant en utilisant leur intuition plutôt que la vue.</p>",
+      "name": "Ordre Kage",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Endurance": {
+      "description": "<h1>Voie de l'Endurance</h1>\n<p>La Force se manifeste d'innombrables façons ; tandis que certains utilisent la Force pour manipuler le monde qui les entoure, d'autres l'utilisent pour s'améliorer eux-mêmes. Les consulaires qui suivent la Voie de l'Endurance canalisent la Force pour leur permettre de surmonter et de refléter les blessures les plus graves.</p>\n<p></p>",
+      "name": "Voie de l'Endurance",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Construction Engineering": {
+      "description": "<h1>Ingénierie de Construction</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie de Construction créent des fortifications portatives préfabriquées qui leur permettent de commander le champ de bataille.</p>",
+      "name": "Ingénierie de Construction",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Negation": {
+      "description": "<h1>Voie de la Négation</h1>\n<p>Certains utilisateurs de la Force cherchent la maîtrise des fondamentaux de la manipulation de l'énergie, connue sous le nom de tutaminis. Les consulaires qui suivent la Voie de la Négation exploitent ce pouvoir pour limiter les ravages que d'autres utilisateurs de la Force pourraient causer.</p>",
+      "name": "Voie de la Négation",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Shadows": {
+      "description": "<h1>Voie des Ombres</h1>\n<p>Dans l'obscurité, il y a la protection. Les sentinelles qui suivent la Voie des Ombres utilisent un plan calculé, devenant des maîtres de la furtivité et de l'embuscade qui délaissent l'attaque frontale pour le flanc vulnérable.</p>",
+      "name": "Voie des Ombres",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Biotech Engineering": {
+      "description": "<h1>Ingénierie Biotech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Biotech se concentrent sur la compétence de modification et d'amélioration du corps par l'utilisation de membres cybernétiques et d'implants.</p>",
+      "name": "Ingénierie Biotech",
+      "advancements": {
+        "Biotech Modifications": "Modifications Biotech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Chef Pursuit": {
+      "description": "<h1>Voie du Chef</h1>\n<p>Sans lui, les empires tombent, les armées se dissolvent dans le néant, et les espèces sont oubliées avec le passage du temps. Un outil favori des assassins, des seigneurs du crime et des magnats : la nourriture. Les érudits qui choisissent la Voie du Chef connaissent l'importance et le pouvoir que porte la nourriture.</p>",
+      "name": "Voie du Chef",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Chef"
+        }
+      }
+    },
+    "Explorer Pursuit": {
+      "description": "<h1>Voie de l'Explorateur</h1>\n<p>L'explorateur s'efforce de naviguer au-delà du connu pour découvrir de nouvelles planètes, des ruines oubliées ou des lieux interdits. Les érudits qui choisissent la Voie de l'Explorateur passent leur temps à étudier des cartes, des points de repère, des plans d'architecture ou même des livres d'histoire, les utilisant pour guider efficacement leurs compagnons.</p>",
+      "name": "Voie de l'Explorateur",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes de l'Explorateur"
+        }
+      }
+    },
+    "Kro Var Order": {
+      "description": "<h1>Ordre Kro Var</h1>\n<p>Les moines de l'Ordre Kro Var—connus sous le nom de façonneurs—utilisent un pouvoir unique pour plier les quatre éléments à leur volonté, créant des effets aussi petits qu'une flamme flottante ou des séismes qui brisent la terre.</p>",
+      "name": "Ordre Kro Var",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Artificer Engineering": {
+      "description": "<h1>Ingénierie d'Artificier</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie d'Artificier se concentrent sur la construction et la modification de sabres laser, tout en exploitant la présence latente de la Force dans ces cristaux de sabre laser.</p>",
+      "name": "Ingénierie d'Artificier",
+      "advancements": {
+        "Artificer Modifications": "Modifications d'Artificier",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Aqinos Form": {
+      "description": "<h1>Forme Aqinos</h1>\n<p>La Forme Aqinos, également connue sous le nom de Forme de l'Adaptation, est nommée d'après un Maître Jedi qui cherchait à fusionner la technologie avec l'utilisation de la Force. Les gardiens qui se concentrent sur la Forme Aqinos adoptent ces préceptes pour employer des exploits intelligents utilisant la technologie et l'aide d'un compagnon droïde.</p>",
+      "name": "Forme Aqinos",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Exhibition Specialist": {
+      "description": "<h1>Spécialiste de l'Exhibition</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes de l'Exhibition ne peuvent s'empêcher de faire les fanfarons. Même là où il n'y a pas de public, ces guerriers prennent le commandement du champ de bataille comme s'il s'agissait d'une scène.</p>",
+      "name": "Spécialiste de l'Exhibition",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Enhancement Specialist": {
+      "description": "<h1>Spécialiste de l'Amélioration</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes de l'Amélioration apprennent à appliquer leur prouesse technologique à leurs blasters. Grâce à leur compréhension approfondie de leur arme et de la manipulation de ses munitions à la volée, ils peuvent souvent renverser le cours d'une bataille avec un seul tir.</p>",
+      "name": "Spécialiste de l'Amélioration",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Tutelage": {
+      "description": "<h1>Voie du Mentorat</h1>\n<p>Avec la Force, la connaissance est le plus souvent transmise d'un maître à un apprenti. Les consulaires qui suivent la Voie du Mentorat savent que la force du travail d'équipe dépasse celle du travail solitaire.</p>",
+      "name": "Voie du Mentorat",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Beguiler Practice": {
+      "description": "<h1>Pratique du Suborneur</h1>\n<p>Les opératifs qui choisissent la Pratique du Suborneur augmentent leurs ruses naturelles et leur charme par une utilisation subtile de la Force. Ils puisent dans ces pouvoirs pour obscurcir l'esprit de leurs adversaires, les distrayant et les déroutant avant de les éliminer brusquement.</p>",
+      "name": "Pratique du Suborneur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Teras Kasi Order": {
+      "description": "<h1>Ordre Teras Kasi</h1>\n<p>Les moines de l'Ordre Teras Kasi sont les maîtres ultimes des arts martiaux à mains nues. Ils apprennent des techniques pour tirer de la concentration de la défaite de leurs ennemis, résister aux assauts mentaux de la Force, et libérer de puissantes rafales de frappes pour soumettre leurs adversaires.</p>",
+      "name": "Ordre Teras Kasi",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Bolstering Practice": {
+      "description": "<h1>Pratique du Soutien</h1>\n<p>Les opératifs qui choisissent la Pratique du Soutien utilisent des frappes précises et une utilisation brillante des tactiques de petite unité pour submerger les ennemis grâce à un travail d'équipe supérieur.</p>",
+      "name": "Pratique du Soutien",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Teleportation Technique": {
+      "description": "<h1>Technique de Téléportation</h1>\n<p>Que ce soit par l'expérimentation ou la découverte d'une technologie ancienne, les adeptes de la Technique de Téléportation ont appris à créer de brefs portails de téléportation, leur permettant de manœuvrer et d'attaquer rapidement et de manière imprévisible sur le champ de bataille.</p>",
+      "name": "Technique de Téléportation",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Biochem Engineering": {
+      "description": "<h1>Ingénierie Biochem</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Biochem se concentrent sur l'utilisation de leur vaste connaissance de la médecine et de la chimie pour fournir à leurs alliés des soins puissants et à leurs ennemis des poisons et acides débilitants.</p>",
+      "name": "Ingénierie Biochem",
+      "advancements": {
+        "Biochem Modifications": "Modifications Biochem",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Tactician Pursuit": {
+      "description": "<h1>Voie du Tactician</h1>\n<p>Les tacticiens étudient la stratégie et les voies de la guerre. Les érudits qui choisissent la Voie du Tactician s'entraînent eux-mêmes et leurs alliés dans des manœuvres de combat pour éliminer habilement leurs adversaires grâce à un positionnement intelligent et des attaques féroces et opportunes.</p>",
+      "name": "Voie du Tactician",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Tactician"
+        }
+      }
+    },
+    "Illusionist Technique": {
+      "description": "<h1>Technique de l'Illusionniste</h1>\n<p>Dans la galaxie, vous pouvez trouver divers infiltrateurs et agents qui font ample usage de la technologie holographique pour se sortir du danger. Les adeptes de la Technique de l'Illusionniste utilisent cette technologie holographique pour se donner un avantage illusoire au combat.</p>",
+      "name": "Technique de l'Illusionniste",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Cybertech Engineering": {
+      "description": "<h1>Ingénierie Cybertech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Cybertech se concentrent sur la capacité d'améliorer leur poignet numérique principal afin d'augmenter et de renforcer leurs capacités techniques.</p>",
+      "name": "Ingénierie Cybertech",
+      "advancements": {
+        "Cybertech Modifications": "Modifications Cybertech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Cybertech Engineering (Old)": {
+      "description": "<h1>Ingénierie Cybertech (Ancienne)</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Cybertech se concentrent sur la capacité de fabriquer des consommables et objets réutilisables qui augmentent et complètent leurs capacités techniques.</p>",
+      "name": "Ingénierie Cybertech (Ancienne)",
+      "advancements": {
+        "Cybertech Modifications": "Modifications Cybertech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Tactical Specialist": {
+      "description": "<h1>Spécialiste Tactique</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes Tactiques emploient des techniques martiales transmises à travers les générations. Pour un Spécialiste Tactique, le combat est un domaine académique, incluant parfois des sujets au-delà du combat tels que l'armstech ou l'armormech. Tous les combattants n'assimilent pas les leçons de l'histoire, de la théorie et de l'art qui se reflètent dans la Spécialité Tactique, mais ceux qui le font sont des combattants complets d'une grande compétence et connaissance.</p>",
+      "name": "Spécialiste Tactique",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Slayer Technique": {
+      "description": "<h1>Technique du Tueur</h1>\n<p>Certains éclaireurs cherchent à en apprendre le plus possible sur leurs adversaires et à capitaliser sur ces connaissances. Les adeptes de la Technique du Tueur se concentrent sur l'identification des forces et faiblesses de leur proie, tirant parti de ces connaissances pour vaincre leurs adversaires.</p>",
+      "name": "Technique du Tueur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Echani Order": {
+      "description": "<h1>Ordre Echani</h1>\n<p>Les moines de l'Ordre Echani s'entraînent sans relâche avec et sans leurs armes, au point que l'arme devient une extension du corps. Fondée sur la maîtrise du combat à l'épée, la tradition s'est étendue pour inclure de nombreuses armes différentes.</p>",
+      "name": "Ordre Echani",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Blademaster Specialist": {
+      "description": "<h1>Spécialiste Maître d'Armes</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes Maître d'Armes affinent leur concentration jusqu'au tranchant de la lame, devenant si en phase avec leur arsenal qu'il devient à la fois leur arme et leur armure.</p>",
+      "name": "Spécialiste Maître d'Armes",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Vonil/Ishu Form (Companion)": {
+      "description": "<h1>Forme Vonil/Ishu (Compagnon)</h1>\n<p>La Forme Vonil/Ishu, également connue sous le nom de Forme de l'Unité, se concentre sur le combat en tandem avec un partenaire en tant que paire de guerre. Les gardiens qui se concentrent sur la Forme Vonil/Ishu utilisent le travail d'équipe pour se déplacer rapidement, frapper vite et se protéger mutuellement.</p>",
+      "name": "Forme Vonil/Ishu (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Politician Pursuit": {
+      "description": "<h1>Voie du Politicien</h1>\n<p>Les politiciens étudient les sciences sociales et politiques. Les érudits qui choisissent la Voie du Politicien savent comment se présenter au mieux pour manipuler les masses afin qu'elles fassent leurs volontés ou pour permettre à eux-mêmes et à leurs alliés de mener leurs affaires sans entrave. Ils comprennent également l'importance de l'auto-préservation pour une figure politique.</p>",
+      "name": "Voie du Politicien",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "4ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Politicien"
+        }
+      }
+    },
+    "Champion Approach": {
+      "description": "<h1>Approche du Champion</h1>\n<p>Certains berserkers se délectent du combat pour le combat lui-même. Pour les berserkers de l'Approche du Champion, cette jubilation est le but vers lequel ils tendent constamment.</p>",
+      "name": "Approche du Champion",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Makashi Form": {
+      "description": "<h1>Forme Makashi</h1>\n<p>La Forme Makashi, également connue sous le nom de Forme de la Contention, encourage la précision et l'efficacité plutôt que la puissance, utilisant des coups, des parades et des entailles légères plutôt que des taillades, des blocages et des coups tranchants. Les gardiens qui se concentrent sur la Forme Makashi utilisent une manipulation calculée de la lame, une concentration intense et un timing expert pour confondre et piéger leurs adversaires.</p>",
+      "name": "Forme Makashi",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Witchcraft (Companion)": {
+      "description": "<h1>Voie de la Sorcellerie (Compagnon)</h1>\n<p>La Force connecte tous les êtres vivants. Les sentinelles qui suivent la Voie de la Sorcellerie utilisent cette connexion pour invoquer l'aide de la nature, à la fois les bêtes et les éléments, les adaptant à leur volonté.</p>",
+      "name": "Voie de la Sorcellerie (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Slicer Pursuit": {
+      "description": "<h1>Voie du Pirateur</h1>\n<p>À travers la galaxie, on trouve de nombreux pseudonymes et fausses identités appartenant aux pirates et cyber-infiltrateurs qui habitent le monde de l'électronique. Les érudits qui choisissent la Voie du Pirateur mettent leur impressionnante prouesse intellectuelle au service de la technologie, à des fins à la fois bienveillantes et malveillantes.</p>",
+      "name": "Voie du Pirateur",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Pirateur"
+        }
+      }
+    },
+    "Rakatan Order": {
+      "description": "<h1>Ordre Rakatan</h1>\n<p>Les moines de l'Ordre Rakatan croient en l'harmonie de soi avec la technologie. Ils utilisent la technologie pour se pousser au-delà des limites naturelles de leur corps.</p>",
+      "name": "Ordre Rakatan",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Cybertech Engineering (Depreciated)": {
+      "description": "<h1>Ingénierie Cybertech (Obsolète)</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Cybertech se concentrent sur la capacité de fabriquer des consommables et objets réutilisables qui augmentent et complètent leurs capacités techniques.</p>",
+      "name": "Ingénierie Cybertech (Obsolète)",
+      "advancements": {
+        "Cybertech Modifications": "Modifications Cybertech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Juyo/Vaapad Form": {
+      "description": "<h1>Forme Juyo/Vaapad</h1>\n<p>La Forme Juyo/Vaapad, également connue sous le nom de Forme de la Férocité, se délecte de la satisfaction du combat et de la victoire. Les gardiens qui se concentrent sur la Forme Juyo/Vaapad canalisent leurs émotions dans leur combat, effectuant des frappes lourdes et amples.</p>",
+      "name": "Forme Juyo/Vaapad",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Armormech Engineering": {
+      "description": "<h1>Ingénierie Armormech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Armormech se concentrent sur la capacité de travailler avec des métaux durs et des blindages électroniques pour construire et améliorer tous les types d'armures personnelles.</p>",
+      "name": "Ingénierie Armormech",
+      "advancements": {
+        "Armormech Modifications": "Modifications Armormech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Iron": {
+      "description": "<h1>Voie du Fer</h1>\n<p>De nombreuses sentinelles choisissent de se concentrer sur une discipline qui exige force physique, réflexes et vigueur. Les sentinelles qui suivent la Voie du Fer entraînent leur corps à leur pic physique, capables de supporter des punitions presque intolérables et de renforcer leurs capacités de combat physiques.</p>",
+      "name": "Voie du Fer",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Jar'Kai Form": {
+      "description": "<h1>Forme Jar'Kai</h1>\n<p>La Forme Jar'Kai, également connue sous le nom de Forme de la Domination, utilise deux armes pour submerger ses adversaires. Les gardiens qui se concentrent sur la Forme Jar'Kai savent que deux armes offrent une plus grande polyvalence qu'une seule, et capitalisent sur les angles jumeaux sous lesquels ils attaquent pour soumettre leurs ennemis.</p>",
+      "name": "Forme Jar'Kai",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Focus": {
+      "description": "<h1>Voie de la Concentration</h1>\n<p>Les voies de la Force peuvent se révéler à une sentinelle par une concentration intense et, surtout, la focalisation. Les sentinelles qui suivent la Voie de la Concentration utilisent des rafales débilitantes de frappes de sabre laser et de pouvoirs de la Force pour épuiser leurs adversaires, anéantissant tout espoir qu'ils avaient de monter une défense efficace.</p>",
+      "name": "Voie de la Concentration",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Occultist Pursuit": {
+      "description": "<h1>Voie de l'Occultiste</h1>\n<p>Les occultistes recherchent les praticiens obscurs des arts mystiques, des sorcières aux chamans en passant par les sorciers. Les érudits qui choisissent la Voie de l'Occultiste apprennent à exploiter ces magies pour envoûter et confondre leurs ennemis.</p>",
+      "name": "Voie de l'Occultiste",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes de l'Occultiste"
+        }
+      }
+    },
+    "Inquisitor Technique": {
+      "description": "<h1>Technique de l'Inquisiteur</h1>\n<p>À travers l'histoire, il y a eu ceux qui vivent pour chasser ceux qui manient la Force, qu'ils soient Jedi ou Sith. Les adeptes de la Technique de l'Inquisiteur combinent la technologie avec des techniques de Force pour traquer et éliminer les utilisateurs de la Force. Pour ces praticiens de la Force, ils sont le plus grand adversaire.</p>",
+      "name": "Technique de l'Inquisiteur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Zoologist Pursuit": {
+      "description": "<h1>Voie du Zoologiste</h1>\n<p>De nombreux académiciens développent une affinité pour la nature, étudiant la vaste faune qui habite les différentes planètes de la galaxie. Les érudits qui choisissent la Voie du Zoologiste capitalisent sur leur connaissance des animaux, développant un lien fort avec un compagnon avec lequel ils gagnent un avantage sur le champ de bataille.</p>",
+      "name": "Voie du Zoologiste",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Zoologiste"
+        }
+      }
+    },
+    "Way of Manipulation": {
+      "description": "<h1>Voie de la Manipulation</h1>\n<p>Le pouvoir de la Force est à la fois vaste et diversifié, avec des utilisations variant radicalement selon celui qui la manie. Les consulaires qui suivent la Voie de la Manipulation apprennent à contrôler leurs armes avec la Force, les manœuvrant sur le champ de bataille.</p>",
+      "name": "Voie de la Manipulation",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Ysannanite Form": {
+      "description": "<h1>Forme Ysannanite</h1>\n<p>La Forme Ysannanite, également connue sous le nom de Forme Non-Orthodoxe, associe l'utilisation du sabre laser avec des blasters, fusionnant de manière transparente les deux armes pour accomplir des exploits impressionnants. Les gardiens qui se concentrent sur la Forme Ysannanite sont capables d'abattre leurs ennemis aussi efficacement avec un blaster qu'avec une lame.</p>",
+      "name": "Forme Ysannanite",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Shien/Djem So Form": {
+      "description": "<h1>Forme Shien/Djem So</h1>\n<p>La Forme Shien/Djem So, également connue sous le nom de Forme de la Persévérance, utilise une force renforcée par la Force pour submerger les adversaires. Les gardiens qui se concentrent sur la Forme Shien/Djem So tentent activement de créer une ouverture plutôt que d'attendre que l'opportunité se présente.</p>",
+      "name": "Forme Shien/Djem So",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Assault Specialist": {
+      "description": "<h1>Spécialiste d'Assaut</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes d'Assaut se concentrent sur le développement de la puissance physique brute perfectionnée à la mort. Les Spécialistes d'Assaut combinent un entraînement rigoureux avec l'excellence physique pour porter des coups dévastateurs.</p>",
+      "name": "Spécialiste d'Assaut",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Shadow Killer Practice": {
+      "description": "<h1>Pratique du Tueur d'Ombre</h1>\n<p>Les opératifs qui choisissent la Pratique du Tueur d'Ombre sont des assassins de maître, les praticiens spirituels qui combinent leurs compétences finement aiguisées avec une aide mystique pour disparaître de la vue et neutraliser leurs cibles avec des armes enduites de poison.</p>",
+      "name": "Pratique du Tueur d'Ombre",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of the Sage": {
+      "description": "<h1>Voie du Sage</h1>\n<p>Le pouvoir rajeunissant de la Force est incroyable, et le consulaire est le maître de cette utilisation. Les consulaires qui suivent la Voie du Sage aident avec un éventail de pouvoirs de guérison qui donnent aux alliés la force de continuer à travers même les rencontres les plus rudes. Séparé du cœur de la mêlée, le sage peut être un gardien infaillible pour ceux qui en ont besoin.</p>",
+      "name": "Voie du Sage",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Meditation": {
+      "description": "<h1>Voie de la Méditation</h1>\n<p>À travers la Force, il y a à la fois une harmonie symphonique et un chaos discordant. Les sentinelles qui suivent la Voie de la Méditation incarnent ces concepts, renforçant leurs alliés et entravant leurs ennemis par l'utilisation de l'ancienne technique de Force de la méditation de combat.</p>",
+      "name": "Voie de la Méditation",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Gadgeteer Engineering": {
+      "description": "<h1>Ingénierie Gadgeteer</h1>\n<p>Les ingénieurs qui choisissent la discipline Gadgeteer se concentrent sur la capacité de fabriquer des consommables et objets réutilisables qui augmentent et complètent leurs capacités techniques.</p>",
+      "name": "Ingénierie Gadgeteer",
+      "advancements": {
+        "Gadgeteer Modifications": "Modifications Gadgeteer",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Maverick Practice": {
+      "description": "<h1>Pratique du Non-Conformiste</h1>\n<p>Il y a ceux qui, lorsqu'ils sont plongés dans le danger, utilisent des méthodes inattendues pour remporter la victoire. Les opératifs qui choisissent la Pratique du Non-Conformiste s'appuient sur un large éventail de compétences, apprenant de nouvelles façons de les appliquer, comme leur plus grand atout.</p>",
+      "name": "Pratique du Non-Conformiste",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Audiotech Engineering": {
+      "description": "<h1>Ingénierie Audiotech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Audiotech se concentrent sur l'utilisation d'un instrument spécialement modifié pour utiliser la musique afin d'assister leurs alliés et de perturber leurs ennemis.</p>",
+      "name": "Ingénierie Audiotech",
+      "advancements": {
+        "Audiotech Modifications": "Modifications Audiotech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Kyuzo Order": {
+      "description": "<h1>Ordre Kyuzo</h1>\n<p>Les moines de l'Ordre Kyuzo transforment le lancer d'armes en un véritable art. Inspirés par l'habileté des Kyuzo natifs maniant leurs casques de guerre à la fois comme bouclier et comme arme, ces moines utilisent tout objet lancé qu'ils peuvent trouver pour se défendre et défendre les autres tout en attaquant les ennemis sous des angles à la fois surprenants et dévastateurs.</p>",
+      "name": "Ordre Kyuzo",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Matukai Order": {
+      "description": "<h1>Ordre Matukai</h1>\n<p>Les moines de l'Ordre Matukai centrent leur philosophie autour d'un équilibre et d'une harmonie entre la Force spirituelle et le corps physique, utilisant l'exercice comme forme de méditation. Ils canalisent la Force à travers leur corps, se transformant en guerriers exceptionnels.</p>",
+      "name": "Ordre Matukai",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Precision Approach": {
+      "description": "<h1>Approche de la Précision</h1>\n<p>Certains berserkers ont appris à canaliser leur rage en une méthode d'augmentation de leur concentration et de leur précision à des niveaux surnaturels. Les berserkers qui choisissent l'Approche de la Précision affinent leur rage jusqu'à un point précis, devenant des guerriers agiles qui éliminent impitoyablement leurs adversaires.</p>",
+      "name": "Approche de la Précision",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Technology": {
+      "description": "<h1>Voie de la Technologie</h1>\n<p>Alors que de nombreux utilisateurs de la Force rejettent l'utilisation de la technologie, d'autres choisissent de l'adopter. Les consulaires qui suivent la Voie de la Technologie associent leur maîtrise de la Force à la polyvalence de la technologie, appliquant les connaissances en tandem pour accomplir des exploits inédits.</p>\n<p></p>",
+      "name": "Voie de la Technologie",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Mechanist Technique (Companion)": {
+      "description": "<h1>Technique du Mécaniste (Compagnon)</h1>\n<p>Certains éclaireurs sont des inventeurs inégalés, habiles à travailler avec des droïdes et d'autres formes de technologie. Les adeptes de la Technique du Mécaniste utilisent l'assistance d'un compagnon droïde traqueur pour compenser la faiblesse des organiques par la force et la pureté de leurs créations.</p>",
+      "name": "Technique du Mécaniste (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Adept Specialist": {
+      "description": "<h1>Spécialiste Adepte</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes Adeptes exploitent une sensibilité latente à la Force pour augmenter leur prouesse martiale, fusionnant les deux pour accélérer leur corps et leurs coups. Un adepte file sur le champ de bataille, attaquant ses ennemis dans un tourbillon de coups avant de s'éloigner à nouveau.</p>",
+      "name": "Spécialiste Adepte",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Armored Approach": {
+      "description": "<h1>Approche Blindée</h1>\n<p>De nombreux berserkers renoncent à l'armure et comptent sur leur propre vigueur. Les berserkers de l'Approche Blindée, cependant, embrassent l'utilisation de l'armure. Chacun personnalise sa propre armure pour l'utiliser à la fois défensivement et offensivement, de sorte que l'armure devienne une extension de la puissance et de la fureur du berserker.</p>",
+      "name": "Approche Blindée",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Whills Order": {
+      "description": "<h1>Ordre Whills</h1>\n<p>Les moines de l'Ordre Whills considèrent les secrets de la Force comme sacrés, et dédient leur vie à défendre la connaissance ancienne de la Force et ses artefacts. Ils maîtrisent l'utilisation des armes à distance, fabriquant souvent leurs propres armes dans une admiration respectueuse de la tradition Jedi de fabrication d'armes légères.</p>",
+      "name": "Ordre Whills",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Pugnacity Practice": {
+      "description": "<h1>Pratique du Batailleur</h1>\n<p>Les opératifs qui choisissent la Pratique du Batailleur appliquent une polyvalence atypique à leurs actions, éliminant confortablement leurs adversaires de loin ou face à face.</p>",
+      "name": "Pratique du Batailleur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Fireteam Specialist": {
+      "description": "<h1>Spécialiste d'Équipe de Feu</h1>\n<p>Lorsqu'on charge sur les lignes de front des conflits les plus rudes de la galaxie, il est utile d'avoir des personnes de confiance à ses côtés. Les combattants qui choisissent de devenir Spécialistes d'Équipe de Feu commandent le respect et la loyauté de ceux qui les entourent en guidant leur escouade à travers les pires épreuves.</p>",
+      "name": "Spécialiste d'Équipe de Feu",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Deadeye Technique": {
+      "description": "<h1>Technique du Tireur d'Élite</h1>\n<p>Certains éclaireurs deviennent des légendes écrites en brûlures de blaster. Les adeptes de la Technique du Tireur d'Élite perfectionnent l'art du tir au blaster et utilisent leur concentration incroyable pour faire des tirs que la plupart jugeraient impossibles. Quand tout dépend d'un seul tir, vous voulez un Tireur d'Élite pour presser la détente.</p>\n<p>Grâce à leur concentration surnaturelle, les Tireurs d'Élite peuvent faire des tirs que d'autres tireurs d'élite n'oseraient jamais tenter. Les Tireurs d'Élite savent comment tirer le meilleur parti des armes à distance et peuvent les utiliser plus efficacement que les autres Éclaireurs.</p>",
+      "name": "Technique du Tireur d'Élite",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Shield Specialist": {
+      "description": "<h1>Spécialiste du Bouclier</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes du Bouclier s'entraînent à soutenir ceux qui les entourent. Ils peuvent inspirer à leurs alliés une vigueur renouvelée tout en les protégeant du danger.</p>",
+      "name": "Spécialiste du Bouclier",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Cyclone Approach": {
+      "description": "<h1>Approche du Cyclone</h1>\n<p>L'Approche du Cyclone renforce la capacité du berserker à combattre avec une arme dans chaque main. Les adeptes de cette approche apprennent à se déplacer rapidement pour éviter les attaques et peuvent devenir un tourbillon de fureur et d'acier, taillant à travers des hordes d'ennemis.</p>",
+      "name": "Approche du Cyclone",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Jal Shey Order": {
+      "description": "<h1>Ordre Jal Shey</h1>\n<p>Les moines de l'ordre Jal Shey, animés par la quête de connaissance, maintiennent l'un des dépôts d'histoire et de savoir les plus respectés et les plus lourdement gardés de la galaxie : les Archives des Jal Shey. Ici, les jeunes de toutes les espèces cherchant la clarté de la vérité et la force de la connaissance s'engagent à apprendre les arts de la recherche de l'illumination en comprenant le monde qui les entoure, et en maîtrisant les techniques pour le défendre. Devenir un moine Jal Shey, c'est se donner à la quête de dévoilement des mystères les plus profonds de la galaxie, apporter la lumière aux secrets de l'obscurité et garder les vérités les plus puissantes et dangereuses.</p>\n<p></p>",
+      "name": "Ordre Jal Shey",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Trakata Form": {
+      "description": "<h1>Forme Trakata</h1>\n<p>La Forme Trakata, également connue sous le nom de Forme de la Tromperie, capitalise sur la capacité d'une arme légère à être rapidement activée et désactivée. Les gardiens qui se concentrent sur la Forme Trakata exécutent des tours éblouissants avec leur arme légère, confondant leurs adversaires avant de les éliminer.</p>",
+      "name": "Forme Trakata",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Beastmaster Approach (Companion)": {
+      "description": "<h1>Approche du Maître des Bêtes (Compagnon)</h1>\n<p>De nombreux berserkers ressentent un accord primal avec la nature. Pour les berserkers de l'Approche du Maître des Bêtes, cet accord se manifeste par un lien avec un compagnon animal qui accompagne le berserker dans son voyage.</p>",
+      "name": "Approche du Maître des Bêtes (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Stalker Technique": {
+      "description": "<h1>Technique du Traqueur</h1>\n<p>Certains Éclaireurs deviennent consumés par le frisson de la chasse. On ne les entend jamais, on ne les voit jamais, ils se délectent de la violence de la bataille. Les adeptes de la Technique du Traqueur perfectionnent leurs capacités à traquer les autres en utilisant une variété de techniques : camouflage, infiltration, surveillance et acquisition de cible.</p>",
+      "name": "Technique du Traqueur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Communion": {
+      "description": "<h1>Voie de la Communion</h1>\n<p>Ceux qui maîtrisent la Force peuvent transcender la mort, persistant au-delà de leur expiration naturelle. Les sentinelles qui suivent la Voie de la Communion se lient à un fantôme de Force, développant une relation symbiotique qui modifie leur perception de leur environnement.</p>",
+      "name": "Voie de la Communion",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Confluence": {
+      "description": "<h1>Voie de la Confluence</h1>\n<p>La Force nous lie, créant un pont intangible connectant tous les êtres vivants. Les consulaires qui suivent la Voie de la Confluence maîtrisent ce pouvoir, manipulant ces connexions pour à la fois sustenter et tourmenter.</p>\n<p></p>",
+      "name": "Voie de la Confluence",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Soresu Form": {
+      "description": "<h1>Forme Soresu</h1>\n<p>La Forme Soresu, également connue sous le nom de Forme de la Résilience, repose sur un travail de lame serré et des esquives subtiles pour fournir une couverture défensive maximale, minimisant l'exposition aux armes à distance. Les gardiens qui se concentrent sur la Forme Soresu utilisent un jeu de jambes large pour se déplacer sur le terrain, faisant de larges mouvements de balayage courts qui protègent le corps.</p>",
+      "name": "Forme Soresu",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Astrotech Engineering (Companion)": {
+      "description": "<h1>Ingénierie Astrotech (Compagnon)</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Astrotech se concentrent sur la fabrication et l'amélioration de leurs compagnons droïdes.</p>",
+      "name": "Ingénierie Astrotech (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Fireteam Specialist (Companion)": {
+      "description": "<h1>Spécialiste d'Équipe de Feu (Compagnon)</h1>\n<p>Lorsqu'on charge sur les lignes de front des conflits les plus rudes de la galaxie, il est utile d'avoir des personnes de confiance à ses côtés. Les combattants qui choisissent de devenir Spécialistes d'Équipe de Feu travaillent en tandem avec un compagnon, devenant plus que ce que chacun pourrait être seul.</p>",
+      "name": "Spécialiste d'Équipe de Feu (Compagnon)",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Astrotech Engineering": {
+      "description": "<h1>Ingénierie Astrotech</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Astrotech se concentrent sur l'utilisation de leur vaste connaissance de la technologie des droïdes pour confondre, dérouter et détruire la technologie ennemie, les droïdes et les constructions.</p>",
+      "name": "Ingénierie Astrotech",
+      "advancements": {
+        "Astrotech Modifications": "Modifications Astrotech",
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Gambler Pursuit": {
+      "description": "<h1>Voie du Joueur</h1>\n<p>Tous les hommes et femmes d'étude n'utilisent pas leur intelligence et leur compétence pour la poursuite du savoir, mais se tournent plutôt vers les divers casinos et salles de pari de la galaxie. Les érudits qui choisissent la Voie du Joueur utilisent leur connaissance des probabilités et des risques pour tenter de maîtriser les jeux de hasard et bâtir leur fortune, ou tout perdre en cours de route.</p>",
+      "name": "Voie du Joueur",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Joueur"
+        }
+      }
+    },
+    "Performance Practice": {
+      "description": "<h1>Pratique de la Performance</h1>\n<p>Certains opératifs choisissent de maîtriser la finesse et le timing par l'art de la performance. Les opératifs qui choisissent la Pratique de la Performance deviennent des artistes accomplis qui se révèlent particulièrement mortels au corps à corps, capables de trouver le rythme des frappes d'un attaquant aussi facilement que n'importe quelle chanson.</p>",
+      "name": "Pratique de la Performance",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Telekinetics": {
+      "description": "<h1>Voie de la Télékinésie</h1>\n<p>Le consulaire sait comment manipuler l'essence des éléments environnants avec le pouvoir de la Force. Les consulaires qui suivent la Voie de la Télékinésie créent des rafales torrentielles d'énergie télékinétique, formant une combinaison puissante qui peut matraquer même les adversaires les plus coriaces jusqu'à la soumission.</p>",
+      "name": "Voie de la Télékinésie",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Praetorian Specialist": {
+      "description": "<h1>Spécialiste Prétorien</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes Prétoriens recherchent la perfection du corps et de l'esprit. Ces guerriers maîtrisent l'art de la guerre, et sont souvent recherchés comme gardes du corps par l'élite de la galaxie. Ce sont des moteurs de destruction et de résilience, capables de combattre jusqu'à leur dernier souffle.</p>",
+      "name": "Spécialiste Prétorien",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Marauder Approach": {
+      "description": "<h1>Approche du Maraudeur</h1>\n<p>Peu de choses sont plus terrifiantes que de se trouver sur le chemin d'un Berserker qui a appris les voies de la Force. Ceux qui suivent cette voie déverrouillent quelque chose de profond en eux, un puits de pouvoir sauvage des profondeurs de leur fureur. Lorsqu'un maraudeur libère sa rage, il canalise sa force brute en puissance primale, et l'utilise pour dévaster ses adversaires dans une grêle de feu, de lames et de sang. En raison de la nature incontrôlée de leurs pouvoirs, les maraudeurs ont une prédilection dangereuse pour la force et la puissance brute offertes par le côté obscur, et beaucoup tombent dans ses griffes. Même ceux qui ne le font pas sont toujours tentés par les voix de fureur à peine contenues en eux.</p>",
+      "name": "Approche du Maraudeur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Aggression": {
+      "description": "<h1>Voie de l'Agressivité</h1>\n<p>Des profondeurs obscures du côté obscur vient une fureur brûlante. Les sentinelles qui suivent la Voie de l'Agressivité chargent leur arme d'éclairs, culminant en une décharge massive qui peut ravager leurs adversaires.</p>",
+      "name": "Voie de l'Agressivité",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Bloodstorm Approach": {
+      "description": "<h1>Approche de la Tempête de Sang</h1>\n<p>L'Approche de la Tempête de Sang serait originaire de l'ancien clan wookiee Hroufrasnooohn (qui se traduit approximativement par Tempête de Sang en Basic Galactique), dont les guerriers accomplissaient des exploits défiant la gravité avec leurs vibro-haches volantes grâce à une combinaison de techniques non orthodoxes et d'une croyance mystique en leurs propres capacités. Un berserker qui suit cette approche peut lancer ses armes dévastatrices sur ses ennemis avec une telle puissance et une telle habileté que cela brouille complètement la frontière entre le combat de mêlée et le combat à distance.</p>",
+      "name": "Approche de la Tempête de Sang",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Saboteur Practice": {
+      "description": "<h1>Pratique du Saboteur</h1>\n<p>Les opératifs qui choisissent la Pratique du Saboteur améliorent leurs compétences finement aiguisées de furtivité et d'agilité avec la technologie, utilisant une technologie avancée avec l'aide d'un droïde traqueur pour soutenir un assaut plus long.</p>",
+      "name": "Pratique du Saboteur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Scrapper Practice": {
+      "description": "<h1>Pratique du Bagarreur</h1>\n<p>Les opératifs qui choisissent la Pratique du Bagarreur n'ont pas le temps ni la patience pour le combat loyal. Ils utilisent un combat de blaster à courte portée combiné à des tactiques sournoises pour surprendre et neutraliser leurs adversaires.</p>",
+      "name": "Pratique du Bagarreur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Archaeologist Pursuit": {
+      "description": "<h1>Voie de l'Archéologue</h1>\n<p>Les archéologues sont ceux qui étudient les vestiges des civilisations historiques. Les érudits qui choisissent la Voie de l'Archéologue sont animés par le désir de découvrir le passé, formant une connexion avec la vie de ceux qui les ont précédés, et déverrouillant en eux-mêmes une connexion non seulement à l'histoire, mais à la Force elle-même.</p>",
+      "name": "Voie de l'Archéologue",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes de l'Archéologue"
+        }
+      }
+    },
+    "Totem Specialist": {
+      "description": "<h1>Spécialiste du Totem</h1>\n<p>Les combattants qui deviennent Spécialistes du Totem exploitent un accord primal avec la Force, appliquant des cérémonies tribales pour créer des talismans puissants qui améliorent leurs capacités.</p>",
+      "name": "Spécialiste du Totem",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Nightsister Order": {
+      "description": "<h1>Ordre des Sœurs de la Nuit</h1>\n<p>Les moines de l'Ordre des Sœurs de la Nuit utilisent une sensibilité innée à la Force pour communier avec la mort. Ils apprennent à canaliser ce pouvoir pour drainer la vie de leurs adversaires afin de prolonger leur propre existence. Les hommes qui rejoignent cet ordre sont appelés Frères de la Nuit.</p>",
+      "name": "Ordre des Sœurs de la Nuit",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Geneticist Pursuit": {
+      "description": "<h1>Voie du Géneticien</h1>\n<p>À travers la galaxie, il existe des scientifiques qui se concentrent sur la résolution des mystères contenus dans les corps des divers sentients de la galaxie. Les érudits qui choisissent la Voie du Géneticien mettent leurs connaissances en pratique, épissant leur propre matériel génétique pour devenir des êtres supérieurs... ou des monstres.</p>",
+      "name": "Voie du Géneticien",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "sw5e7ic000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Géneticien"
+        }
+      }
+    },
+    "Crimson Order": {
+      "description": "<h1>Ordre Pourpre</h1>\n<p>Les moines de l'Ordre Pourpre sont inébranlables dans leur détermination. Ils se vouent à une entité ou croyance unique, et maintiennent leur service avec solennité et diligence.</p>",
+      "name": "Ordre Pourpre",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Frenzied Approach": {
+      "description": "<h1>Approche Frénétique</h1>\n<p>Pour certains berserkers, la rage est un moyen pour parvenir à une fin—cette fin étant la violence. L'Approche Frénétique est celle d'une fureur débridée, gluante de sang. Lorsque vous entrez dans la rage du berserker, vous vous réjouissez du chaos de la bataille, insouciant de votre propre santé ou bien-être.</p>",
+      "name": "Approche Frénétique",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Warchief Approach": {
+      "description": "<h1>Approche du Chef de Guerre</h1>\n<p>Pour certains berserkers, c'est leur devoir ou leur droit de naissance de mener leur tribu et leurs parents au combat et à la victoire. L'Approche du Chef de Guerre est forgée à partir d'alliances, de liens et de stratégie. Au combat, vos rages sont moins aveugles, et plus concentrées. Ignorant les distractions des événements sans importance, votre attention se concentre sur le champ de bataille et sur la meilleure façon de le diriger et de le contrôler. Vous guidez les frappes de vos alliés, et votre présence suffit à effacer leur fatigue.</p>",
+      "name": "Approche du Chef de Guerre",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Predator Technique": {
+      "description": "<h1>Technique du Prédateur</h1>\n<p>Certains éclaireurs travaillent en solitaire, tandis que d'autres préfèrent la force d'un groupe. Les adeptes de la Technique du Prédateur trouvent la puissance dans la meute ; ils distraient leur proie, tandis que leurs alliés portent le coup fatal.</p>",
+      "name": "Technique du Prédateur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Sharpshooter Practice": {
+      "description": "<h1>Pratique du Tireur de Précision</h1>\n<p>Les opératifs qui choisissent la Pratique du Tireur de Précision sont des faiseurs de mort. Frappant depuis une distance sûre, le Tireur de Précision utilise des tirs de précision pour contrôler le champ de bataille et abattre rapidement ses cibles.</p>",
+      "name": "Pratique du Tireur de Précision",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Acquisitions Practice": {
+      "description": "<h1>Pratique des Acquisitions</h1>\n<p>De nombreux opératifs sont engagés pour l'acquisition d'artefacts précieux, mais seuls les vrais maîtres de l'art peuvent se faufiler à travers la sécurité la plus stricte et repartir avec des richesses incalculables, qu'ils le fassent pour le profit ou pour le sport. Les opératifs qui choisissent la Pratique des Acquisitions appliquent un mélange de furtivité et d'acrobaties impressionnantes pour dépasser tout type de défense qu'ils rencontrent.</p>",
+      "name": "Pratique des Acquisitions",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Juggernaut Approach": {
+      "description": "<h1>Approche du Juggernaut</h1>\n<p>Certains berserkers estiment que la meilleure offense est une bonne défense. Les berserkers de l'Approche du Juggernaut portent les armures les plus lourdes non pas parce qu'ils craignent les blessures, mais pour frapper de peur leurs attaquants sans défense.</p>",
+      "name": "Approche du Juggernaut",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Sokan Form": {
+      "description": "<h1>Forme Sokan</h1>\n<p>La Forme Sokan, également connue sous le nom de Forme de la Persistance, utilise des mouvements déterminés suivis de coups rapides pour maintenir l'équilibre instable de leurs adversaires. Les gardiens qui se concentrent sur la Forme de la Persistance utilisent le terrain, essayant de manœuvrer leurs adversaires dans des zones vulnérables avant de les éliminer.</p>",
+      "name": "Forme Sokan",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Ethereality": {
+      "description": "<h1>Voie de l'Éthéréité</h1>\n<p>Dans les confins éloignés de la galaxie, des connaissances obscures et des secrets oubliés de la Force peuvent parfois être trouvés. Alors que d'autres sensibles à la Force peuvent être touchés par ce savoir secret de la Force, les sentinelles qui suivent la Voie de l'Éthéréité se retrouvent plutôt saisies. Tenues par des aspects mystérieux de la Force qui refusent de lâcher prise, ces sentinelles se retrouvent capables de manipuler l'univers qui les entoure.</p>",
+      "name": "Voie de l'Éthéréité",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Brawling Approach": {
+      "description": "<h1>Approche de la Baston</h1>\n<p>La plupart des berserkers ont besoin d'armes. Pour les berserkers de l'Approche de la Baston, cependant, tout est leur arme.</p>",
+      "name": "Approche de la Baston",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Addicted Approach": {
+      "description": "<h1>Approche de l'Accoutumance</h1>\n<p>Pour certains, la consommation de substances est le tout de leur vie. Pour les berserkers de l'Approche de l'Accoutumance, les substances font brûler leur fureur plus fort et plus profondément, accordant des bénéfices significatifs.</p>",
+      "name": "Approche de l'Accoutumance",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Niman Form": {
+      "description": "<h1>Forme Niman</h1>\n<p>La Forme Niman, également connue sous le nom de Forme de la Modération, trouve un équilibre entre le travail de lame et les pouvoirs de la Force. Les gardiens qui se concentrent sur la Forme Niman entrelacent la manipulation de la Force avec leurs frappes d'arme de mêlée, poussant leurs adversaires en déséquilibre pour créer une ouverture.</p>",
+      "name": "Forme Niman",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Unstable Engineering": {
+      "description": "<h1>Ingénierie Instable</h1>\n<p>Les ingénieurs qui choisissent la discipline d'Ingénierie Instable créent et utilisent des combinaisons non testées, résultant en des effets puissants—et souvent imprévisibles.</p>",
+      "name": "Ingénierie Instable",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Vonil/Ishu Form": {
+      "description": "<h1>Forme Vonil/Ishu</h1>\n<p>La Forme Vonil/Ishu, également connue sous le nom de Forme de l'Unité, se concentre sur le combat en tandem avec vos alliés. Les gardiens qui se concentrent sur la Forme Vonil/Ishu utilisent le travail d'équipe pour se déplacer rapidement, frapper vite et se protéger mutuellement du danger.</p>",
+      "name": "Forme Vonil/Ishu",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Hunter Technique": {
+      "description": "<h1>Technique du Chasseur</h1>\n<p>Certains éclaireurs cherchent à maîtriser les armes pour mieux protéger la civilisation des terreurs de leurs ennemis. Les adeptes de la Technique du Chasseur apprennent des techniques de combat spécialisées pour une utilisation contre les menaces les plus graves, d'un assaut de soldats à des marcheurs imposants.</p>",
+      "name": "Technique du Chasseur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Mastermind Technique": {
+      "description": "<h1>Technique du Cerveau</h1>\n<p>Préparation, préparation, préparation. Certains éclaireurs sont de sérieux étudiants du combat et de toutes les créatures qu'ils pourraient rencontrer. Les adeptes de la Technique du Cerveau se concentrent sur la préparation à toute éventualité, et utilisent l'étendue de leurs connaissances pour obtenir des informations sur leurs ennemis.</p>",
+      "name": "Technique du Cerveau",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Path of Tenacity": {
+      "description": "<h1>Voie de la Ténacité</h1>\n<p>Les tenaces ont toujours à l'esprit que la Force fluctue et utilise cette connaissance à leur avantage. Les sentinelles qui suivent la Voie de la Ténacité utilisent leur connexion à la Force pour attirer l'attention de l'opposition tout en repoussant leurs attaques, servant de rempart efficace contre même les adversaires les plus implacables.</p>",
+      "name": "Voie de la Ténacité",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Ballistic Approach": {
+      "description": "<h1>Approche Balistique</h1>\n<p>Pour beaucoup, foncer sur un adversaire toutes griffes dehors est un dernier recours. Pour les Berserkers de l'Approche Balistique, ce n'est pas un dernier recours ; c'est le plan principal. Menant avec un blaster et une rage pure et débridée, le berserker ne laisse jamais un fusil vide diminuer sa fureur.</p>",
+      "name": "Approche Balistique",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Demolitions Specialist": {
+      "description": "<h1>Spécialiste en Démolition</h1>\n<p>Les combattants qui choisissent de devenir Spécialistes en Démolition sont des experts dans l'utilisation d'explosifs au combat. Ils ont un explosif pour chaque situation, que ce soit pour percer un bunker fortifié, abattre un marcheur, ou simplement démontrer qu'au combat, se tenir trop près de ses coéquipiers peut être fatal.</p>",
+      "name": "Spécialiste en Démolition",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Bulwark Technique": {
+      "description": "<h1>Technique du Rempart</h1>\n<p>Certains éclaireurs se retrouvent loin de la civilisation non pas pour chasser, recueillir des renseignements ou fuir le danger, mais pour s'aventurer simplement afin de défendre ceux qui ne peuvent pas se défendre. Les adeptes de la Technique du Rempart utilisent une technologie avancée pour contenir ceux qui menacent les personnes sans défense.</p>",
+      "name": "Technique du Rempart",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Trickster Order": {
+      "description": "<h1>Ordre du Farceur</h1>\n<p>Les moines de l'Ordre du Farceur incarnent le rôle archétypal du \"farceur\" — celui qui semble maladroitement tomber sur la bonne fortune. Ils emploient un style de combat unique composé de glissades, de trébuchements et de chutes pour confondre et frustrer leurs ennemis sans fin. Que vos mouvements soient de véritables maladresses de votre part ou des coups calculés, ils laisseront sûrement les autres deviner longtemps après votre passage.</p>",
+      "name": "Ordre du Farceur",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Detective Pursuit": {
+      "description": "<h1>Voie du Détective</h1>\n<p>Certains individus apprennent à affiner leurs instincts pour enquêter et découvrir ce que les autres ne voient pas. Les érudits qui choisissent la Voie du Détective s'entraînent à voir les choses que les autres manquent, gagnant une perspective unique—et puissante.</p>",
+      "name": "Voie du Détective",
+      "advancements": {
+        "Features": "Fonctionnalités",
+        "5ic0000000000000": {
+          "hint": "Au cours de vos aventures, vos études vous ont aidé à découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description de la classe. Lorsque vous gagnez certains niveaux d'érudit, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes de la table de l'érudit.\nDe plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir l'une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.",
+          "title": "Découvertes du Détective"
+        }
+      }
+    },
+    "Way of Suggestion": {
+      "description": "<h1>Voie de la Suggestion</h1>\n<p>Il y a du pouvoir dans une touche légère, et personne ne le sait mieux que le consulaire. Les consulaires qui suivent la Voie de la Suggestion ont affiné leur accord avec la Force, leur permettant de disparaître, malgré le fait d'être en pleine vue.</p>",
+      "name": "Voie de la Suggestion",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Disabling Practice": {
+      "description": "<h1>Pratique du Neutralisant</h1>\n<p>Les opératifs qui choisissent la Pratique du Neutralisant utilisent une variété de poussées, de tirages, de changements de poids et de clés articulaires pour immobiliser leur adversaire. Ils utilisent ces techniques pour manipuler leur adversaire, le déplaçant sur le champ de bataille avant de l'incapaciter.</p>",
+      "name": "Pratique du Neutralisant",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Mechanist Technique": {
+      "description": "<h1>Technique du Mécaniste</h1>\n<p>Certains éclaireurs sont des inventeurs inégalés, habiles à travailler avec des droïdes et d'autres formes de technologie. Les adeptes de la Technique du Mécaniste compensent la faiblesse des organiques par la force et la pureté de leurs créations.</p>",
+      "name": "Technique du Mécaniste",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Way of Balance": {
+      "description": "<h1>Voie de l'Équilibre</h1>\n<p>Il y a de la sérénité dans l'équilibre, et personne ne le sait mieux que le consulaire. Les consulaires qui suivent la Voie de l'Équilibre se concentrent sur l'utilisation de la Force pour égaliser le champ de bataille. Ils plient la Force pour protéger leurs alliés et exposer leurs adversaires.</p>",
+      "name": "Voie de l'Équilibre",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    },
+    "Triage Technique": {
+      "description": "<h1>Technique du Triage</h1>\n<p>Avec chaque conflit vient la mort et la destruction. Les adeptes de la Technique du Triage excellent à garder leurs camarades dans le combat avec une réflexion rapide et une médecine à action rapide.</p>",
+      "name": "Technique du Triage",
+      "advancements": {
+        "Features": "Fonctionnalités"
+      }
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

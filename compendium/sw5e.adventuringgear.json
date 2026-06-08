@@ -1,0 +1,447 @@
+{
+  "label": "Équipement d'aventure",
+  "entries": {
+    "Friction-grip gear": {
+      "name": "Équipement à prise par friction",
+      "description": "<p>Un ensemble spécial de gants et de bottes qui permet au porteur d'adhérer aux surfaces et de grimper. Lorsque vous portez ces objets, vous obtenez la capacité de vous déplacer sur les surfaces verticales et les plafonds tout en gardant les mains libres. Vous obtenez également une vitesse d'escalade égale à votre vitesse de déplacement.</p>"
+    },
+    "Datapad": {
+      "name": "Datapad",
+      "description": "<p>Un datapad est un petit appareil électronique utilisé pour la saisie, le stockage et l'affichage d'informations. Il dispose d'une surface holoprojective pour une visualisation en 3D.</p>"
+    },
+    "Hydrospanner": {
+      "name": "Hydroclé"
+    },
+    "Gravity generator": {
+      "name": "Générateur de gravité",
+      "description": "<p>Les générateurs de gravité sont des dispositifs spéciaux généralement portés à la ceinture qui fonctionnent comme une source de gravité artificielle personnelle et portative. Activer ou désactiver la ceinture nécessite une action bonus et, tant qu'elle est active, vous pouvez vous déplacer comme sous une attraction gravitationnelle standard. Le générateur dure 10 minutes et peut être rechargé par une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
+    },
+    "Pitcher": {
+      "name": "Pichet",
+      "description": "<p>Un pichet contient 4 litres de liquide.</p>"
+    },
+    "Chemical suit": {
+      "name": "Combinaison chimique"
+    },
+    "Chest": {
+      "name": "Coffre",
+      "description": "<p>Un coffre peut contenir 150 kg, sans dépasser 0,34 m³.</p>"
+    },
+    "Computer spike": {
+      "name": "Pic informatique",
+      "description": "<p>Lorsque vous effectuez un test d'Intelligence (kit de piratage), vous pouvez utiliser le pic (aucune action requise) pour relancer le test. Vous devez utiliser le nouveau résultat. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de décider d'utiliser le pic, mais vous devez décider avant que le MJ ne dise si le test réussit ou échoue.</p>"
+    },
+    "Holster": {
+      "name": "Étui",
+      "description": "<p>Un étui peut être porté à la jambe, à la hanche ou dans le dos, et peut être utilisé pour ranger une seule arme. Vous pouvez dégainer une arme rangée dans un étui sans utiliser d'action. Une fois que vous avez fait cela, vous ne pouvez pas le refaire avant d'avoir rangé une arme dans l'étui par une action.</p>"
+    },
+    "Tankard": {
+      "name": "Chope",
+      "description": "<p>Une chope contient 0,5 litre de liquide.</p>"
+    },
+    "Medpac": {
+      "name": "Medpac",
+      "description": "<p>Un medpac est une seringue à action rapide remplie d'une dose concentrée de kolto. Par une action, vous pouvez utiliser ce medpac pour rendre des points de vie à une bête ou un humanoïde dans un rayon de 1,50 m. La créature lance un dé égal à la taille de son Dé de Vie et récupère un nombre de points de vie égal au résultat du jet + son modificateur de Constitution (minimum d'un point de vie). Si la créature a des Dés de Vie de différentes tailles, utilisez la taille de Dé de Vie dont elle a le plus grand nombre.</p>"
+    },
+    "Security spike": {
+      "name": "Pic de sécurité",
+      "description": "<p>Lorsque vous effectuez un test d'Intelligence (kit de sécurité), vous pouvez utiliser le pic (aucune action requise) pour relancer le test. Vous devez utiliser le nouveau résultat. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de décider d'utiliser le pic, mais vous devez décider avant que le MJ ne dise si le test réussit ou échoue.</p>"
+    },
+    "Backpack": {
+      "name": "Sac à dos",
+      "description": "<p>Un sac à dos peut contenir 15 kg, sans dépasser 0,028 m³.</p>"
+    },
+    "Emergency shelter": {
+      "name": "Abri de secours",
+      "description": "<p>Cet abri est livré dans un tube de 60 cm de long. Lorsqu'il est activé, l'abri se déploie, s'étendant à sa taille normale en 1 minute. L'abri mesure 2,40 m de long, 2,40 m de large et 1,80 m de haut, et peut accueillir jusqu'à six créatures de taille Moyenne. L'abri comprend des piques qui se fixent automatiquement au sol, à condition qu'elles puissent trouver une prise. L'abri est équipé d'un générateur d'alimentation intégré, de faibles lumières lumineuses à l'intérieur qui fournissent une lumière faible, et les créatures dans l'abri sont protégées des éléments, y compris les climats chauds et froids, comme décrit au chapitre 5 du Guide du Maître. Le générateur d'alimentation de l'abri dure sept jours, après quoi il cesse de fournir de la lumière. L'abri peut être replié et remis en état en 10 minutes.</p>"
+    },
+    "Space suit": {
+      "name": "Combinaison spatiale"
+    },
+    "Commlink, hands-free": {
+      "name": "Commlink mains-libres",
+      "description": "<p>Un commlink mains-libres fonctionne comme un commlink, mais peut être installé dans un casque ou porté indépendamment, par exemple sur la tête ou l'oreille.</p>"
+    },
+    "Restraining bolt": {
+      "name": "Boulon de contrainte",
+      "description": "<p>Les boulons de contrainte sont de petits dispositifs cylindriques qui peuvent être fixés à un droïde afin de limiter ses fonctions et d'assurer son obéissance. Lorsqu'il est inséré, un boulon de contrainte empêche le droïde de tout mouvement que son maître ne souhaite pas, et le force également à répondre aux signaux produits par une unité de contrôle portable.</p>\n<p>L'installation d'un boulon de contrainte prend 1 minute. Le droïde doit effectuer un jet de sauvegarde de Constitution DD 14. Un droïde hostile effectue ce jet avec un avantage. En cas de succès, le boulon de contrainte surchauffe et devient inutilisable. En cas d'échec, le boulon de contrainte est correctement installé et l'unité de contrôle peut être utilisée pour contrôler activement le droïde. Lorsque l'unité de contrôle est inactive, le droïde peut agir librement mais ne peut pas tenter de retirer le boulon de contrainte.</p>"
+    },
+    "Comm jammer": {
+      "name": "Brouilleur de com",
+      "description": "<p>Un appareil utilisé pour brouiller et bloquer les transmissions des appareils de communication dans un rayon de 90 mètres. L'appareil peut être activé ou désactivé par une action. Toute créature envoyant ou recevant des communications à portée doit réussir un test d'Intelligence (Technologie) DD 15. En cas d'échec, ses communications sont brouillées jusqu'à ce que le brouilleur de com soit désactivé ou qu'elle sorte de sa portée. Le brouilleur de com dure 1 heure et peut être rechargé en le connectant à une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
+    },
+    "Ram, portable": {
+      "name": "Bélier portatif",
+      "description": "<p>Vous pouvez utiliser un bélier portatif pour enfoncer des portes. Lorsque vous le faites, vous obtenez un bonus de +4 au test de Force. Un autre personnage peut vous aider à utiliser le bélier, ce qui vous donne un avantage sur ce test.</p>"
+    },
+    "Fusion cutter": {
+      "name": "Découpeur à fusion",
+      "description": "<p>Un découpeur à fusion est un outil de coupe portable populaire parmi les techniciens. Il peut couper presque tout matériau renforcé, avec suffisamment de temps. La cellule d'alimentation interne fournit une heure de fonctionnement continu.</p>"
+    },
+    "Water suit": {
+      "name": "Combinaison aquatique",
+      "description": "<p>Les combinaisons aquatiques sont des combinaisons étanches qui empêchent l'eau d'entrer ou de sortir. De plus, lorsque vous portez une combinaison aquatique, vous pouvez respirer sous l'eau, car la combinaison filtre l'eau pour créer de l'oxygène respirable.</p>"
+    },
+    "Power belt": {
+      "name": "Ceinture d'alimentation",
+      "description": "<p>Cette ceinture dispose d'emplacements pour contenir six cellules d'alimentation, et peut être connectée pour alimenter directement une seule arme blaster qui utilise des cellules d'alimentation. Une fois par tour, si l'arme alimentée doit être rechargée, cela peut être fait sans utiliser d'action en utilisant n'importe quelle munition dans la ceinture. Connecter ou déconnecter une arme prend une action. Remplacer une cellule d'alimentation usagée prend une action.</p>"
+    },
+    "Arm prosthesis": {
+      "name": "Prothèse de bras"
+    },
+    "Facial prosthesis": {
+      "name": "Prothèse faciale"
+    },
+    "Clothes, dress uniform": {
+      "name": "Vêtements, uniforme de cérémonie"
+    },
+    "Personal translator": {
+      "name": "Traducteur personnel",
+      "description": "<p>Un traducteur personnel est un appareil portable qui peut traduire les communications verbales entre jusqu'à cinq langues. Les langues peuvent être changées en interface avec un droïde de protocole ou un ordinateur approprié.</p>"
+    },
+    "Throat prosthesis": {
+      "name": "Prothèse de gorge"
+    },
+    "Canteen": {
+      "name": "Gourde",
+      "description": "<p>Une gourde contient 2 litres de liquide.</p>"
+    },
+    "Emergency raft": {
+      "name": "Radeau de secours",
+      "description": "<p>Ce radeau est livré dans un tube de 60 cm de long. Lorsqu'il est activé, le radeau se déploie rapidement, s'agrandissant à sa taille normale en six secondes. Le radeau mesure 1,80 m de long et 90 cm de large, et peut contenir jusqu'à quatre créatures de taille Moyenne ne dépassant pas 350 kg. Il est livré avec deux avirons pliables pour ramer. Le radeau peut être replié et remis en état en 1 minute.</p>"
+    },
+    "Vocoder mask": {
+      "name": "Masque vocodeur",
+      "description": "<p>Un masque vocodeur se porte sur le nez et la bouche d'une créature, et peut traduire les communications verbales entre jusqu'à 15 langues. Les langues peuvent être changées en interface avec un droïde de protocole ou un ordinateur approprié.</p>"
+    },
+    "Rocketpack": {
+      "name": "Rocketpack",
+      "description": "<p>Les rocketpack combinent le transport aérien d'un jetpack avec la puissance de feu d'un lance-roquettes. Activer ou désactiver les capacités de vol du rocketpack nécessite une action bonus et, tant qu'elles sont actives, vous avez une vitesse de vol de 7,50 m. Le jetpack dure 1 minute par cellule d'alimentation (jusqu'à un maximum de 5 minutes) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>\n<p>De plus, votre rocketpack est équipé d'un lance-roquettes intégré avec les propriétés Munitions (portée 30/120) et rechargement 1. Plutôt que des cellules d'alimentation traditionnelles, ce lance-roquettes tire des projectiles spécialisés sous forme de roquettes. Lorsque vous effectuez une attaque d'arme à distance, vous pouvez plutôt tirer ce lance-roquettes. Lorsque vous tirez une roquette à longue portée, les créatures dans le rayon de l'explosion de la roquette ont un avantage sur le jet de sauvegarde. Recharger ce lance-roquettes prend 1 minute.</p>"
+    },
+    "Fibercord cable, 50 ft (rolled)": {
+      "name": "Câble en fibre, 15 m (enroulé)"
+    },
+    "Ear prosthesis": {
+      "name": "Prothèse auditive"
+    },
+    "Clothes, fine": {
+      "name": "Vêtements, fins"
+    },
+    "Sack": {
+      "name": "Sac",
+      "description": "<p>Un sac peut contenir 850 g, sans dépasser 0,028 m³.</p>"
+    },
+    "Holotrace device": {
+      "name": "Dispositif d'holotrace",
+      "description": "<p>Un dispositif d'holotrace est un gadget porté au poignet qui peut être utilisé pour tracer une transmission holographique jusqu'à sa source.</p>"
+    },
+    "Conductive suit": {
+      "name": "Combinaison conductrice"
+    },
+    "Jetpack": {
+      "name": "Jetpack",
+      "description": "<p>Les jetpacks sont des dispositifs de transport aérien personnels qui permettent à l'opérateur de voler dans les airs avec une grande mobilité. Activer ou désactiver le jetpack nécessite une action bonus et, tant qu'il est actif, vous avez une vitesse de vol de 9 m. Le jetpack dure 1 minute par cellule d'alimentation (jusqu'à un maximum de 10 minutes) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
+    },
+    "Dampening suit": {
+      "name": "Combinaison d'atténuation"
+    },
+    "Bipod": {
+      "name": "Bipied",
+      "description": "<p>Un bipied est un dispositif monté sur un blaster à deux mains qui ne possède pas la propriété fixe pour offrir une stabilité accrue lorsqu'on est à plat ventre. Par une action, vous pouvez déployer ou replier le bipied. Lorsqu'il est déployé, vous ignorez l'exigence de Force sur le blaster fixé avec la propriété force tandis que vous êtes à plat ventre, et votre vitesse est réduite à 0. De plus, lorsqu'il est déployé et que vous êtes à plat ventre, vous avez un bonus de +10 aux tests de caractéristique et aux jets de sauvegarde pour éviter d'être désarmé de l'arme.</p>"
+    },
+    "Macrobinoculars": {
+      "name": "Macrojumelles",
+      "description": "<p>Les macrojumelles sont des appareils d'observation portatifs qui permettent aux utilisateurs d'observer des objets distants. Certains modèles sont capables de voir dans l'espace depuis la surface d'une planète.</p>"
+    },
+    "Fire extinguisher": {
+      "name": "Extincteur",
+      "description": "<p>Par une action, vous pouvez dépenser une utilisation de l'extincteur pour créer un cône d'air brumeux de 4,50 m qui dure 6 secondes, éteignant tous les feux non magiques à portée. De plus, chaque créature à portée doit effectuer un jet de sauvegarde de Constitution DD 14. En cas d'échec, une créature est aveuglée jusqu'au début de son prochain tour. En cas de réussite, une créature devient immunisée contre cet effet. Un extincteur peut être utilisé 5 fois avant de devoir être rechargé à son coût initial.</p>"
+    },
+    "Pouch": {
+      "name": "Bourse",
+      "description": "<p>Une bourse peut contenir 2,70 kg, sans dépasser 0,006 m³.</p>"
+    },
+    "Ammo-feed belt": {
+      "name": "Ceinture d'alimentation en munitions",
+      "description": "<p>Cette ceinture dispose d'emplacements pour contenir 60 cartouches à projectile, et peut être connectée pour alimenter directement une seule arme blaster qui utilise des cartouches à projectile. Une fois par tour, si l'arme alimentée doit être rechargée, cela peut être fait sans utiliser d'action en utilisant n'importe quelle munition dans la ceinture. Connecter ou déconnecter une arme prend une action. Remplacer 10 cartouches à projectile prend une action.</p>"
+    },
+    "Diving suit": {
+      "name": "Combinaison de plongée"
+    },
+    "Quiver": {
+      "name": "Carquois",
+      "description": "<p>Un carquois peut contenir jusqu'à 20 flèches, 10 carreaux ou 10 dards. Retirer un objet du carquois ne nécessite pas d'interaction d'objet.</p>"
+    },
+    "Shock gloves": {
+      "name": "Gants électriques",
+      "description": "<p>Un gant électrique est un type de gant blindé recouvert d'un laçage maillé. Lorsqu'il est utilisé pour une attaque, ce maillage transporte une charge qui inflige [[/r 1d4]] dégâts de foudre à tous les objets que le gant touche. Si vous êtes engagé dans un combat avec la cible de l'attaque, vous devez effectuer un test de lutte au lieu d'un jet d'attaque, en utilisant un test de Force (Athlétisme) opposé au test de Force (Athlétisme) ou de Dextérité (Acrobaties) de la cible (la cible choisit la caractéristique à utiliser).</p>"
+    },
+    "Smugglepack": {
+      "name": "Sac à dos de contrebande",
+      "description": "<p>Ce sac à dos est livré avec un compartiment principal pouvant contenir 6,80 kg, sans dépasser 0,014 m³. De plus, il dispose d'un compartiment de stockage caché pouvant contenir 2,30 kg, sans dépasser 0,007 m³. Trouver le compartiment caché nécessite un test d'Investigation DD 15.</p>"
+    },
+    "Homing beacon": {
+      "name": "Balise de repérage",
+      "description": "<p>Une balise de repérage est un dispositif utilisé pour suivre les vaisseaux spatiaux ou toute autre entité transportée. Les balises de repérage transmettent via des émetteurs-récepteurs HoloNet non massifs capables d'être suivis à travers l'hyperespace. Les balises de repérage sont suffisamment petites pour être facilement cachées à l'intérieur d'un vaisseau, ou glissées dans une crevasse de son extérieur.</p>"
+    },
+    "Code cylinder": {
+      "name": "Cylindre de code",
+      "description": "<p>Les cylindres de code sont des dispositifs de sécurité en forme de courts cylindres qui contiennent des informations codées sur leurs porteurs et leur accordent l'accès à des zones sécurisées.</p>"
+    },
+    "Ammo Pouch": {
+      "name": "Poche à munitions",
+      "description": "<p>Une poche à munitions est une petite poche, généralement portée autour de la taille ou de la poitrine, qui contient 20 cartouches à projectile. Lorsque vous rechargez une arme, vous pouvez prélever les munitions nécessaires de cette poche sans utiliser d'interaction d'objet. Au lieu de cartouches à projectile, vous pouvez stocker une cellule d'alimentation qui prend la place de 10 cartouches.</p>"
+    },
+    "Chronometer": {
+      "name": "Chronomètre",
+      "description": "<p>Un chronomètre est un dispositif qui mesure et conserve le temps linéaire.</p>"
+    },
+    "Mess kit": {
+      "name": "Kit de repas",
+      "description": "<p>Cette boîte contient une tasse et des couverts simples. La boîte se ferme par serrage, et un côté peut être utilisé comme poêle de cuisson et l'autre comme assiette ou bol peu profond.</p>"
+    },
+    "Credit chip": {
+      "name": "Puce de crédit",
+      "description": "<p>La puce de crédit est une petite carte plate qui comporte un code de sécurité et des bandes mémoire algorithmiques. La puce peut être préchargée avec un nombre spécifié de crédits, ou elle peut tirer directement d'un compte spécifique détenu par l'utilisateur. La puce de crédit peut être accédée avec un code PIN, ou par un test de kit de piratage DD 15.</p>"
+    },
+    "Propulsion pack": {
+      "name": "Pack de propulsion",
+      "description": "<p>Les packs de propulsion améliorent les déplacements sous-marins. Activer ou désactiver le pack de propulsion nécessite une action bonus et, tant qu'il est actif, vous avez une vitesse de nage de 9 m. Le pack de propulsion dure 1 minute par cellule d'alimentation (jusqu'à un maximum de 10 minutes) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
+    },
+    "Remote detonator": {
+      "name": "Détonateur à distance",
+      "description": "<p>Un petit appareil portable avec un seul bouton, utilisé pour activer des explosifs. En 1 minute, vous pouvez appairer le détonateur avec jusqu'à deux mines dans un rayon de 3 m. Par une action, vous pouvez faire détoner à distance toutes les mines appairées. Vous devez être dans un rayon de 9 m des mines pour les faire détoner.</p>"
+    },
+    "Vial": {
+      "name": "Fiole",
+      "description": "<p>Une fiole contient 12 cl de liquide.</p>"
+    },
+    "Torso prosthesis": {
+      "name": "Prothèse de torse"
+    },
+    "Datacard": {
+      "name": "Datacarte",
+      "description": "<p>Une datacarte ou disque de données est un appareil plat et portable utilisé en conjonction avec un datapad pour stocker des informations.</p>"
+    },
+    "Hovercart": {
+      "name": "Hoverchariot",
+      "description": "<p>Ce répulseur est conçu pour déplacer efficacement de grandes quantités de marchandises. Il a une vitesse de 9 m et peut contenir 900 kg, sans dépasser 3,40 m³.</p>"
+    },
+    "Repelling wristpad": {
+      "name": "Poignet de répulsion",
+      "description": "<p>Ce poignet possède les propriétés répulsion et constitution 11.</p>"
+    },
+    "Clothes, clandestine": {
+      "name": "Vêtements, discrets",
+      "description": "<p>Ces vêtements sont dotés de deux poches cachées, chacune pouvant contenir jusqu'à 450 g. Trouver ces poches cachées nécessite un test d'Investigation DD 15.</p>"
+    },
+    "Jug": {
+      "name": "Cruche",
+      "description": "<p>Une cruche contient 4 litres de liquide.</p>"
+    },
+    "Rocket boots": {
+      "name": "Bottes-fusées",
+      "description": "<p>Les bottes-fusées sont une forme de système de propulsion fixé à une paire de bottes au lieu d'être porté dans le dos comme un jetpack standard. Activer ou désactiver les bottes nécessite une action bonus et, tant qu'elles sont actives, vous avez une vitesse de vol de 7,50 m. Les bottes-fusées durent 1 minute et peuvent être rechargées par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
+    },
+    "Emergency battery": {
+      "name": "Batterie de secours",
+      "description": "<p>Tous les droïdes non consommables ont besoin d'être rechargés au fur et à mesure de leur utilisation. La batterie a dix utilisations. Par une action, vous pouvez dépenser une utilisation de la batterie pour stabiliser un droïde qui a 0 point de vie, sans avoir à effectuer un test d'Intelligence (Technologie).</p>"
+    },
+    "Bandolier": {
+      "name": "Baudrier",
+      "description": "<p>Un baudrier se porte en travers de la poitrine. Il dispose de 12 poches pouvant chacune contenir un seul objet pesant moins de 900 g, comme une vibrodague, une grenade à fragmentation ou une cellule d'alimentation. Une fois par tour, retirer un objet d'un baudrier ne nécessite pas votre interaction d'objet.</p>"
+    },
+    "Poison": {
+      "name": "Poison",
+      "description": "<p>Par une action, vous pouvez utiliser le poison de cette fiole pour enduire une vibro-arme, une cartouche à projectile ou un dard de lanceur de poignet. Une créature touchée par l'arme empoisonnée doit effectuer un jet de sauvegarde de Constitution DD 14, subissant [[/r 2d4]] dégâts de poison en cas d'échec ou la moitié en cas de réussite. Une fois appliqué, le poison conserve sa puissance pendant 1 minute avant de sécher.</p>"
+    },
+    "Binders": {
+      "name": "Menottes",
+      "description": "<p>Les menottes peuvent être utilisées pour entraver une créature de taille Petite ou Moyenne avec des appendices appropriés. Appliquer les menottes prend une action, et la cible doit effectuer un jet de sauvegarde de Force ou de Dextérité DD 14 (la cible choisit la caractéristique à utiliser). Une créature hostile effectue ce jet avec un avantage. Briser les menottes nécessite un test de Force DD 20. S'en échapper nécessite un test de Dextérité DD 20. Un ensemble de menottes est livré avec une clé. Sans la clé, déverrouiller les menottes nécessite un kit de sécurité DD 15 pour les forcer. Les menottes ont une CA de 10 et 15 points de vie. Détruire les menottes libère la créature sans lui faire de mal.</p>"
+    },
+    "Pot": {
+      "name": "Marmite",
+      "description": "<p>Une marmite contient 4 litres de liquide.</p>"
+    },
+    "Grappling hook": {
+      "name": "Grappin",
+      "description": "<p>Un grappin permet à un utilisateur de grimper ou de monter sur de grands objets. Il peut être monté sur un blaster, une ceinture ou ailleurs. Il a une longueur de 15 m.</p>"
+    },
+    "Repulsor pack": {
+      "name": "Pack de répulseur",
+      "description": "<p>Les packs de répulseur sont utilisés pour ralentir la descente depuis une haute altitude. Activer ou désactiver le pack de répulseur nécessite une action bonus et, tant qu'il est actif, votre taux de descente ralentit à 18 m par round, et vous ignorez les effets du vent de vitesse modérée (pas plus de 15 km/h). Le pack de répulseur dure 1 minute par cellule d'alimentation (jusqu'à un maximum de 10 minutes) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
+    },
+    "Hazard suit": {
+      "name": "Combinaison de protection"
+    },
+    "Blanket": {
+      "name": "Couverture"
+    },
+    "Pocket scrambler": {
+      "name": "Brouilleur de poche",
+      "description": "<p>Un brouilleur de poche est un simple ajout à n'importe quel commlink qui encode automatiquement les messages envoyés. Le message transmis ne peut être lu que par un appareil équipé d'un brouilleur correspondant.</p>"
+    },
+    "Stabilizer suit": {
+      "name": "Combinaison stabilisatrice"
+    },
+    "Glowrod": {
+      "name": "Bâton lumineux",
+      "description": "<p>Les bâtons lumineux créent un faisceau de lumière éclairant la zone autour de vous en lumière vive dans un rayon de 6 m et en lumière faible dans un rayon supplémentaire de 6 m. Le bâton lumineux dure 10 heures et peut être rechargé en le connectant à une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
+    },
+    "Wristpad": {
+      "name": "Poignet numérique",
+      "description": "<p>Un poignet numérique est un harnais avec un datapad intégré et une interface holoprojecteur qui s'adapte sur l'avant-bras et comprend des batteries à recharge automatique.</p>"
+    },
+    "Commlink": {
+      "name": "Commlink",
+      "description": "<p>Les commlinks sont des appareils de communication portables simples, équipés de microphones et de récepteurs. Les commlinks personnels de base ont une portée allant jusqu'à 50 km, mais sont réduits dans les zones urbaines denses ou les zones à forte interférence. Le commlink dure 10 heures et peut être rechargé en le connectant à une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
+    },
+    "Repair kit": {
+      "name": "Kit de réparation",
+      "description": "<p>Un kit de réparation comprend les outils de base nécessaires pour réparer un droïde ou une construction après avoir été endommagé au combat. Le kit a trois utilisations. Par une action, vous pouvez dépenser une utilisation du kit pour rendre des points de vie à un droïde ou une construction dans un rayon de 1,50 m. La créature lance un dé égal à la taille de son Dé de Vie et récupère un nombre de points de vie égal au résultat.</p>"
+    },
+    "Focus generator": {
+      "name": "Générateur de focalisation",
+      "description": "<p>Un générateur de focalisation est un objet portable utilisé pour aider les utilisateurs de la Force à apprendre à se concentrer sur leurs pouvoirs.</p>"
+    },
+    "Tent, two-person": {
+      "name": "Tente, deux personnes"
+    },
+    "Sunshades": {
+      "name": "Lunettes de soleil",
+      "description": "<p>Ces lunettes sont portées sur les yeux. Lorsqu'elles sont portées, vous ne pouvez plus subir de désavantage dû à la lumière directe du soleil sur les jets d'attaque et les tests de Sagesse (Perception) reposant sur la vue lorsque vous, la cible de votre attaque, ou ce que vous essayez de percevoir est en plein soleil. Cependant, lorsqu'elles sont portées, vous avez un désavantage sur les jets d'attaque et les tests de Sagesse (Perception) reposant sur la vue lorsque vous, la cible de votre attaque, ou ce que vous essayez de percevoir est en lumière faible.</p>"
+    },
+    "Stylus pen": {
+      "name": "Stylet",
+      "description": "<p>Un stylet est conçu pour écrire à la fois sur des surfaces solides et des interfaces tactiles.</p>"
+    },
+    "Clothes, costume": {
+      "name": "Vêtements, costume"
+    },
+    "Flask": {
+      "name": "Flacon",
+      "description": "<p>Un flacon contient 0,5 litre de liquide.</p>"
+    },
+    "Holocron": {
+      "name": "Holocron",
+      "description": "<p>Les holocrons sont des dispositifs de stockage d'informations utilisés par les utilisateurs de la Force qui contiennent des leçons anciennes ou des informations précieuses sous forme holographique. Ils apparaissent comme des polyèdres lumineux de la taille d'une paume, faits de matériau cristallin et de matériel, et ne peuvent être activés et utilisés que par le pouvoir de la Force.</p>"
+    },
+    "Antitoxkit": {
+      "name": "Antitoxkit",
+      "description": "<p>Un antitoxkit contient une variété d'injecteurs hypospray antidote à large spectre conçus pour neutraliser tous les poisons connus. Un kit a cinq charges. Par une action, vous pouvez administrer une charge du kit pour guérir une cible d'un poison l'affectant ou pour lui donner un avantage aux jets de sauvegarde contre le poison pendant 1 heure. Il ne confère aucun avantage aux droïdes ou aux constructions.</p>"
+    },
+    "Leg prosthesis": {
+      "name": "Prothèse de jambe"
+    },
+    "Emergency rations (one day's)": {
+      "name": "Rations de survie (un jour)"
+    },
+    "Holocomm": {
+      "name": "Holocomm",
+      "description": "<p>Un holocomm est une unité de communication qui utilise l'HoloNet. Il permet aux utilisateurs d'envoyer et de recevoir des messages via des réseaux de transmission holographiques.</p>"
+    },
+    "Shovel": {
+      "name": "Pelle"
+    },
+    "Heat generator": {
+      "name": "Générateur de chaleur",
+      "description": "<p>Les générateurs de chaleur sont des dispositifs spéciaux généralement portés à la ceinture qui fonctionnent comme une source de chaleur personnelle portative. Activer ou désactiver le générateur nécessite une action bonus et, tant qu'il est actif, vous êtes adapté aux climats froids, comme décrit au chapitre 5 du Guide du Maître. Le générateur dure 10 minutes et peut être rechargé par une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
+    },
+    "Oxygen tank": {
+      "name": "Réservoir d'oxygène"
+    },
+    "Respirator": {
+      "name": "Respirateur",
+      "description": "<p>Un respirateur, ou masque respiratoire, est un appareil portable qui comprend 1 heure d'oxygène. Le respirateur est conçu pour fonctionner dans tous les environnements.</p>"
+    },
+    "Tripod": {
+      "name": "Trépied",
+      "description": "<p>Un trépied est un dispositif monté sur un blaster à deux mains qui ne possède pas la propriété fixe pour offrir une stabilité accrue. En 1 minute, vous pouvez déployer ou replier le trépied. Lorsqu'il est déployé, vous ignorez l'exigence de Force sur le blaster fixé avec la propriété force, et votre vitesse est réduite à 0. De plus, lorsqu'il est déployé, vous avez un bonus de +10 aux tests de caractéristique et aux jets de sauvegarde pour éviter d'être désarmé de l'arme.</p>"
+    },
+    "Clothes, common": {
+      "name": "Vêtements, communs"
+    },
+    "Camtono": {
+      "name": "Camtono",
+      "description": "<p>Un camtono est un conteneur sécurisé avec poignée utilisé pour transporter des objets de valeur. Un camtono est livré avec une clé. Sans la clé, déverrouiller le camtono nécessite un kit de sécurité DD 15 pour le forcer. Il contient 2,30 kg, sans dépasser 0,007 m³, a une CA de 10 et 15 points de vie. Détruire le camtono risque d'endommager les marchandises stockées à l'intérieur.</p>"
+    },
+    "Clothes, traveler's": {
+      "name": "Vêtements, de voyage"
+    },
+    "Underwater respirator": {
+      "name": "Respirateur sous-marin",
+      "description": "<p>Les respirateurs sous-marins se portent sur la bouche et le bas du visage. Lorsqu'il est porté, vous pouvez respirer sous l'eau, car le respirateur filtre l'eau pour créer de l'oxygène respirable. Le respirateur fonctionne 1 heure par cellule d'alimentation (jusqu'à un maximum de 2 heures) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
+    },
+    "Holorecorder": {
+      "name": "Holorecordeur",
+      "description": "<p>Un holorecordeur est un appareil utilisé pour enregistrer et projeter des hologrammes. Certains modèles de droïdes sont équipés d'holorecordeurs internes.</p>"
+    },
+    "Flame-proof suit": {
+      "name": "Combinaison ignifugée"
+    },
+    "Bottle": {
+      "name": "Bouteille",
+      "description": "<p>Une bouteille contient 0,75 litre de liquide.</p>"
+    },
+    "Bedroll": {
+      "name": "Sac de couchage"
+    },
+    "Mirror": {
+      "name": "Miroir"
+    },
+    "Forearm prosthesis": {
+      "name": "Prothèse d'avant-bras"
+    },
+    "Bucket": {
+      "name": "Seau",
+      "description": "<p>Un seau contient 12 litres de liquide ou 0,014 m³ de solides.</p>"
+    },
+    "Foot prosthesis": {
+      "name": "Prothèse de pied"
+    },
+    "Crate": {
+      "name": "Caisse",
+      "description": "<p>Une caisse contient 160 litres de liquide ou 0,11 m³ de solide.</p>"
+    },
+    "Eye prosthesis": {
+      "name": "Prothèse oculaire"
+    },
+    "Tracker utility vest": {
+      "name": "Gilet utilitaire de traqueur",
+      "description": "<p>Un gilet utilitaire est un vêtement sans manches qui comprend plusieurs poches uniformément réparties, populaire parmi les chasseurs, les contrebandiers et les aventuriers. Le gilet est fait d'un matériau en cuir résistant aux déchirures, à la corrosion et à l'eau. Le porteur peut transporter jusqu'à 10 objets légers (jusqu'à 450 g chacun) sans augmenter son encombrement total.</p>"
+    },
+    "Mind-shielding suit": {
+      "name": "Combinaison de protection mentale"
+    },
+    "Datacron": {
+      "name": "Datacron",
+      "description": "<p>Un datacron est un type d'holocron accessible par les non-sensibles à la Force et est principalement utilisé pour stocker des données cryptées. Il est doté d'une projection interactive pour accéder aux informations.</p>"
+    },
+    "Traumakit": {
+      "name": "Traumakit",
+      "description": "<p>Un traumakit courant est approvisionné en produits essentiels pour le traitement des blessures. Un traumakit a cinq utilisations. Par une action, vous pouvez dépenser une utilisation du kit pour stabiliser une créature qui a 0 point de vie, sans avoir à effectuer un test de Sagesse (Médecine).</p>"
+    },
+    "Field rations (one day's)": {
+      "name": "Rations de campagne (un jour)"
+    },
+    "Stealth field generator": {
+      "name": "Générateur de champ d'invisibilité",
+      "description": "<p>Les générateurs de champ d'invisibilité sont des dispositifs spéciaux généralement portés à la ceinture qui fonctionnent comme un dispositif de camouflage portable et personnel. Activer ou désactiver le générateur nécessite une action bonus et, tant qu'il est actif, vous avez un avantage aux tests de Dextérité (Discrétion) reposant sur la vue. Le générateur dure 1 minute et peut être rechargé par une source d'alimentation ou en remplaçant la cellule d'alimentation. Cet effet prend fin prématurément si vous effectuez une attaque ou lancez un pouvoir de la Force ou technique.</p>"
+    },
+    "Hand prosthesis": {
+      "name": "Prothèse de main"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

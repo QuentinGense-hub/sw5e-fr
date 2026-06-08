@@ -1,0 +1,481 @@
+{
+  "label": "Fonctionnalités de Classe",
+  "entries": {
+    "Adaptable Intellectual": {
+      "name": "Intellect Adaptable",
+      "description": "<p><em><strong>Érudit :</strong> niveau 18</em></p> <p>Vous êtes capable de vous préparer efficacement à n'importe quelle mission à portée de main. A la fin d'un repos long, vous pouvez choisir une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.</p>"
+    },
+    "Perfect Self": {
+      "name": "Soi Parfait",
+      "description": "<p><em><strong>Monk:</strong> niveau 20</em></p> <p>Vous avez acquis un contrôle parfait sur votre corps. Vos scores de Dextérité et Sagesse ou Charisme (au choix) augmentent de 2. Votre maximum pour ces scores augmente de 2. De plus, lorsque vous lancez un jet d'initiative et qu'il vous reste moins de 6 points de focus, vous récupérez jusqu'à 6 points de focus.</p>"
+    },
+    "Master of Combat": {
+      "name": "Maître du Combat",
+      "description": "<p><em><strong>Combattant:</strong> niveau 20</em></p> <p>Vous êtes le maître du combat. Votre score de Force ou de Dextérité augmente de 2 et votre score de Constitution augmente de 2. Votre maximum pour ces scores augmente de 2.</p> <p>De plus, vous pouvez attaquer quatre fois, au lieu de trois fois, chaque fois que vous effectuez l'action d'attaque à votre tour.</p>"
+    },
+    "Brutal Critical": {
+      "name": "Critique Brutal",
+      "description": "<p><em><strong>Berserker:</strong> 9th, 13th, and niveau 17</em></p>\n<p>You can roll one additional weapon dégâts die when determining the extra dégâts for a critical hit with a attaque au corps à corps. </p>\n<p>This increases to two additional dice at niveau 13 and three additional dice at niveau 17.</p>"
+    },
+    "Battle Readiness": {
+      "name": "Préparation au Combat",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 10</em></p> <p>Vous avez pleinement appris à fusionner votre personnel physique avec la Force. Lorsque vous effectuez les actions Esquiver ou Désengager, ou que vous utilisez votre action pour lancer un pouvoir de la Force, vous pouvez effectuer une attaque d'arme en bonus d'action.</p>"
+    },
+    "Expertise": {
+      "name": "Expertise",
+      "description": "<p><em><strong>Scout:</strong> niveaux 6 et 14</em></p> <p>Choisissez deux de vos compétences en compétences, ou une de vos compétences en compétences et une de vos compétences en outils, ou deux de vos compétences en outils. Vous acquérez une expertise dans ces compétences ou outils.</p> <p>Au niveau 14, vous pouvez choisir deux autres compétences (en compétences ou outils) pour bénéficier de cet avantage.</p>"
+    },
+    "Evasion": {
+      "name": "Esquive",
+      "description": "<p><em><strong>Operative:</strong> niveau 7</em></p>\n<p>When you are subjected to an effect that allows you to make a Dexterity jet de sauvegarde to take only half dégâts, you instead take no dégâts si vous réussissez on a jet de sauvegarde, and only half dégâts si vous échouez.</p>"
+    },
+    "Relentless Rage": {
+      "name": "Rage Implacable",
+      "description": "<p><em><strong>Berserker:</strong> niveau 11</em></p>\n<p>Your rage can keep you fighting despite grievous wounds. If you drop to 0 points de vie while you're raging and don't die outright, you can make a DD 10 Constitution jet de sauvegarde. Si vous réussissez, you drop to 1 point de vie instead. Each time you use this feature after the first, the DD increases by 5. When you finish a short or repos long, the DD resets to 10.</p>"
+    },
+    "Superiority Dice": {
+      "name": "Dés de Supériorité",
+      "description": "<p>You have three dés de supériorité, which are d4s, and you earn more at higher niveaus, as shown in the Superiority Dice Quantity column of the scholar table. This die changes as you gain scholar niveaus, as shown in the Superiority Dice Size column of the scholar table. A dé de supériorité is expended quand vous utilisez it. </p>\n<p>Vous regagnez tous of your expended dés de supériorité when you finish a short or repos long.</p>"
+    },
+    "Martial Arts": {
+      "name": "Arts Martiaux",
+      "description": "<p><em><strong>Monk:</strong> niveau 1</em> </p>\n<p>Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are vibroweapons with which you are proficient that lack the dexterity, heavy, special, and two-handed properties.</p>\n<p>You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a shield:</p>\n<ul>\n<li>Your unarmed strikes and monk weapons gain the finesse property.</li>\n<li>You can roll a [[/r d4]] in place of the normal dégâts of your unarmed strike or monk weapon. This die changes as you gain monk niveaus, as shown in the Martial Arts column of the monk table.</li>\n<li>You can use Dexterity instead of Strength whenever you would make a Strength (Athletics) check to grapple, shove, or trip a creature.</li>\n<li>Quand vous utilisez l'action Attaquer with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a action bonus. </li>\n<li>You can take the Dash or Disengage actions as a action bonus.</li>\n</ul>\n<p>&gt; ##### Variant: Monks with Lightweapons</p>\n<p>&gt; If monks gain lightweapon maîtrise, consider letting them use lightweapons as monk weapons, provided the weapon lacks the dexterity, heavy, special, and two-handed properties.</p>"
+    },
+    "Foe Slayer": {
+      "name": "Tueur d'Ennemis",
+      "description": "<p><em><strong>Scout:</strong> niveau 20</em></p>\n<p>You become an unparalleled hunter. Your Strength or Dexterity score increases by 2, and your Intelligence score increases by 2. Your maximum for those scores increases by 2.</p>\n<p>De plus, une fois par chacun de vos tours, you can add your Intelligence modificateur to the attack roll or the jet de dégâts of an attack you make. </p>"
+    },
+    "Indomitable Might": {
+      "name": "Puissance Indomptable",
+      "description": "<p><em><strong>Berserker:</strong> niveau 18</em></p> <p>Si votre total pour un test de Force est inférieur à votre score de Force, vous pouvez utiliser ce score à la place du total.</p>"
+    },
+    "Tool Expertise": {
+      "name": "Expertise des Outils",
+      "description": "<p><em><strong>Ingénieur :</strong> niveau 2</em></p> <p>Vous acquérez une expertise dans toutes les compétences en matière d'outils acquises grâce à ce cours.</p>"
+    },
+    "Stroke of Luck": {
+      "name": "Coup de Chance",
+      "description": "<p><em><strong>Operative:</strong> niveau 20</em></p>\n<p>You have an uncanny knack for succeeding when you need to. Your Dexterity and Intelligence scores increase by 2. Your maximum for those scores increases by 2. De plus, if your attack misses a target within range, you can turn the miss into a hit. Alternatively, si vous échouez an test de caractéristique, you can treat the [[/r d20]] roll as a 20.</p>\n<p>Once you've used this feature, you can't use it again until you finish a short or repos long.</p>"
+    },
+    "Guardian Aura": {
+      "name": "Aura du Gardien",
+      "description": "<p><em><strong>Guardian:</strong> 3rd, 9th, 10th, 17th, and niveau 18</em></p>\n<p>You gain an aura de votre choix, as detailed at the end of the class description. The range of your auras increases to 15 mètres at niveau 9 and 30 mètres at niveau 17, and you gain an additional aura at niveaux 10 et 18.</p>"
+    },
+    "Bendu": {
+      "name": "Bendu",
+      "description": "<p>Vous pouvez ajouter votre modificateur de Sagesse et de Charisme à votre nombre maximum de points de Forces, au lieu d'un seul.</p>"
+    },
+    "Bogan": {
+      "name": "Bogan",
+      "description": "<p>Your dark side power jet de dégâtss gain a minimum roll threshold, discussed in chapter 7.</p>"
+    },
+    "Scout Routine": {
+      "name": "Routine d'Éclaireur",
+      "description": "<p><em><strong>Scout:</strong> 3rd, 7th, 9th, 15th, and niveau 17</em></p>\n<p>You've developed one routine, as detailed at the end of the class description. You develop an additional routine at niveaux 7 et 15.</p>\n<p>At niveau 9, the range of your routines increases to 15 mètres, and at niveau 17, the range of these routines increases to 30 mètres</p>"
+    },
+    "Deflection": {
+      "name": "Déviation",
+      "description": "<p>Lorsque vous êtes la cible d'une attaque, vous pouvez lancer un dé de Combat Cinétique et l'ajouter à votre CA (aucune action requise). Vous pouvez le faire avant ou après l'attaque, mais vous devez choisir de le faire avant que le MJ ne détermine si l'attaque réussit.</p>"
+    },
+    "Infuse Item": {
+      "name": "Infuser un Objet",
+      "description": "<p><em><strong>Engineer:</strong> niveau 2</em></p>\n<p>You gain the ability to temporarily enhance a weapon or armor. At the end of a repos long, you can contact one unenhanced object that is a suit of armor, a shield, or a simple or martial weapon. Until the end of your next repos long or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a shield or a +1 bonus to attack and jet de dégâtss if it's a weapon. </p>\n<p>Once you've used this feature, you can't use it again until you finish a repos long.</p>\n<p>This bonus increases to +2 at niveau 10 and +3 at niveau 15.</p>"
+    },
+    "Center of the Force": {
+      "name": "Centre de la Force",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 20</em></p> <p>Vous êtes parfaitement centré avec la Force. Vos scores de Dextérité et de Sagesse ou de Charisme (au choix) augmentent de 2. Votre maximum pour ces scores augmente de 2.</p> <p>De plus, une fois par tour, lorsque vous lancez un dé de combat cinétique, vous pouvez choisir le maximum à la place.</p>"
+    },
+    "Slippery Mind": {
+      "name": "Esprit Glissant",
+      "description": "<p><em><strong>Operative:</strong> niveau 15</em></p>\n<p>You have acquired greater mental strength. You gain maîtrise in Wisdom jet de sauvegardes. </p>"
+    },
+    "Scout Technique": {
+      "name": "Technique d'Éclaireur",
+      "description": "<p><em><strong>Scout:</strong> 3e, 7e, 11e et niveau 15</em></p> <p>Vous choisissez de vous concentrer sur une technique de reconnaissance spécifique, détaillée à la fin de la description du cours.</p>"
+    },
+    "Monastic Vows": {
+      "name": "Voeux Monastiques",
+      "description": "<p><em><strong>Moine :</strong> 2e, 7e, 13e et niveau 17</em></p> <p>Vous avez prêté deux vœux, comme détaillé à la fin de la description du cours. Vous faites un vœu supplémentaire au 7ème, au 13ème et au niveau 17.</p>"
+    },
+    "Sentinel Calling": {
+      "name": "Appel de la Sentinelle",
+      "description": "<p><em><strong>Sentinelle:</strong> 3ème, 7ème, 13ème et niveau 18</em></p> <p>Vous choisissez un appel de sentinelle, qui est détaillé à la fin de la description du cours. </p>"
+    },
+    "Stunning Strike": {
+      "name": "Frappe Étourdissante",
+      "description": "<p><em><strong>Monk:</strong> niveau 5</em></p>\n<p>You can interfere with an opponent's body. When you hit another creature with a attaque d'arme au corps à corps, you can spend 1 focus point to attempt a stunning strike. La cible must succeed on a Constitution jet de sauvegarde or be étourdi jusqu'à la fin de votre prochain tour.</p>"
+    },
+    "Reckless Attack": {
+      "name": "Attaque Téméraire",
+      "description": "<p><em><strong>Berserker:</strong> niveau 2</em></p>\n<p>You can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you avantage on attaque d'arme au corps à corps rolls using Strength during this turn, but attack rolls against you have avantage until your next turn.</p>"
+    },
+    "Danger Sense": {
+      "name": "Sens du Danger",
+      "description": "<p><em><strong>Berserker:</strong> niveau 3</em></p>\n<p>You gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have avantage on Dexterity jet de sauvegardes against effects that you can see, such as traps and powers. To gain this benefit, you can't be aveuglé, assourdi, or incapacitated.</p>"
+    },
+    "Engineering Discipline": {
+      "name": "Discipline d'Ingénierie",
+      "description": "<p><em><strong>Ingénieur :</strong> 3e, 6e, 14e et niveau 18</em></p> <p>Vous commencez à vous concentrer sur une discipline d'ingénierie spécifique, qui est détaillée à la fin de la description du cours. </p>"
+    },
+    "Force-Empowered Strikes": {
+      "name": "Frappes Renforcées par la Force",
+      "description": "<p><em><strong>Guardian:</strong> niveau 2</em></p>\n<p>Quand vous contactez une créature with a attaque d'arme au corps à corps, you can expend point de Forces to deal additional dégâts to la cible, which is the same type as the weapon's dégâts. The additional dégâts is [[/r 1d8]] for each point spent in this way. You can't deal more additional dégâts than the amount shown in the Focused Strikes column of the guardian table. </p>"
+    },
+    "Fighting Style": {
+      "name": "Style de Combat",
+      "description": "<p><em><strong>Scout:</strong> niveau 2</em></p> <p>Vous adoptez un style de combat particulier comme spécialité. Choisissez l'une des options de style de combat détaillées au chapitre 6. </p>"
+    },
+    "Timeless Vessel": {
+      "name": "Réceptacle Intemporel",
+      "description": "<p><em><strong>Monk:</strong> niveau 15</em></p>\n<p>Your focus sustains you so that you suffer none of the frailty of old age, and you can't be aged abnormally. You can still die of old age, however. De plus, when you complete a repos court, you can expend a Hit Die to remove 1 niveau of épuisement or slowed.</p>"
+    },
+    "Multitasker": {
+      "name": "Multitâche",
+      "description": "<p><em><strong>Scholar:</strong> niveau 5</em></p>\n<p>You can take a second réaction each round. </p>\n<p>De plus, when a friendly creature you can see that can hear you is forced to make a jet de sauvegarde, you can use your réaction to target them with your Critical Analysis feature.</p>"
+    },
+    "Combat Tech": {
+      "name": "Technologie de Combat",
+      "description": "<p><em><strong>Scout:</strong> niveau 14</em></p> <p>Lorsque vous utilisez votre action pour lancer une technique de pouvoir, vous pouvez effectuer une attaque d'arme en bonus d'action.</p>"
+    },
+    "Channel the Force": {
+      "name": "Canaliser la Force",
+      "description": "<p><em><strong>Guardian:</strong> niveau 1</em></p>\n<p>You know how to channel the Force to create a unique effect. You start with your choice of one from two such effects: Cause Harm or Lend Aid. At niveau 3, your Guardian Focus grants you an additional effect. When you use your Channel the Force, you choose which effect to create.</p>\n<p>Some Channel the Force effects require jet de sauvegardes. When you use such an effect from this class, the DD equals your universal force sauvegarde DD.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and niveau 17. Vous regagnez tous expended uses when you finish a short or repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.mtj0QHmUrLJNrgCW]{Cause Harm}</h3>\n<p>As an action, you can expend a use of your Channel the Force to sap the life from a hostile creature you can see within 60 mètres. That creature must make a Constitution jet de sauvegarde. On a failed sauvegarde, la créature takes necrotic dégâts equal to your guardian niveau + your Charisma modificateur (minimum of +1), or half as much on a successful one.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.W5BTzqlndyiKfRyF]{Lend Aid}</h3>\n<p>As a action bonus, you can expend a use of your Channel the Force and contact a beast or humanoid within 5 mètres of you. That creature regains points de vie equal to your guardian niveau + your Wisdom modificateur (minimum of +1). Alternatively, if the beast or humanoid is empoisonné or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts la cible, you neutralize one poison or disease that you know is present, or you neutralize one at random.</p>"
+    },
+    "Critical Analysis": {
+      "name": "Analyse Critique",
+      "description": "<p><em><strong>Scholar:</strong> niveau 1</em></p>\n<p>You are able to analyze a creature, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a action bonus on your turn, you can analyze a creature you can see within 60 mètres of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>\n<ul>\n<li>When you analyze a hostile creature, your attack and jet de dégâtss made with weapons with the finesse property or blaster weapons against cette cible may use your Critical Analysis modificateur de caractéristique, which is Intelligence, instead of Strength or Dexterity. You must use the same modificateur for both rolls.</li>\n<li>When you analyze a friendly creature, la cible can end your Critical Analysis on them (no action required) to add your Critical Analysis modificateur de caractéristique, which is Intelligence, to one attack roll, test de caractéristique, or jet de sauvegarde. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or repos long.</li></ul>"
+    },
+    "Academic Superiority": {
+      "name": "Supériorité Académique",
+      "description": "<p><em><strong>Scholar:</strong> niveau 1</em></p>\n<p>You learn maneuvers that are fueled by special dice called dés de supériorité. See chapter 13 for the maneuvers list.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.nZqH8eKRNQBRsFg7]{Maneuvers Known}</h3>\n<p>You learn one maneuver de votre choix, and you earn more at higher niveaus, as shown in the Maneuvers Known column of the scholar table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver une fois par tour.</p>\n<p>Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.wqj1ZR3GEGSgLm7j]{Superiority Dice}</h3>\n<p>You have three dés de supériorité, which are d4s, and you earn more at higher niveaus, as shown in the Superiority Dice Quantity column of the scholar table. This die changes as you gain scholar niveaus, as shown in the Superiority Dice Size column of the scholar table. A dé de supériorité is expended quand vous utilisez it. </p>\n<p>Vous regagnez tous of your expended dés de supériorité when you finish a short or repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.jyUEVUBFkUcsHiTO]{Maneuver Ability}</h3>\n<p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability de votre choix for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a maneuver you use.</p>\n<p><em></em>_</p>\n<p><strong>Maneuver sauvegarde DD</strong> = 8 + your bonus de maîtrise + your maneuver modificateur de caractéristique</p>\n<p><em></em>_</p>"
+    },
+    "Force Points": {
+      "name": "Points de Force",
+      "description": "<p>Vous disposez d'un nombre de points de Forces égal à votre niveau de sentinelle x 3, comme indiqué dans la colonne Points de Force du tableau des sentinelles, + votre modificateur de Sagesse ou de Charisme (au choix). Vous utilisez ces points de Forces pour lancer pouvoir de la Forces. Vous regagnez tous les points de Forces dépensés lorsque vous terminez un repos long.</p>"
+    },
+    "Ashla": {
+      "name": "Ashla",
+      "description": "<p>Lorsque vous réussissez à lancer un pouvoir côté lumière, votre point de vie maximum ou celui de la cible (votre choix) et vos points de vie actuels augmentent d'un montant égal au niveau du pouvoir. Cet effet dure pendant 1 minute. Vous ne pouvez avoir qu’une seule instance de cet effet active à la fois.</p>"
+    },
+    "Techcasting Focus": {
+      "name": "Focalisateur Technique",
+      "description": "<p>Vous utilisez un poignet (trouvé au chapitre 5) comme objectif technique pour vos techniques de pouvoir.</p>"
+    },
+    "Tech Points": {
+      "name": "Points Techniques",
+      "description": "<p>Vous disposez d'un nombre de points technologiques égal à votre niveau de scout, comme indiqué dans la colonne Points Tech du tableau de scout, + votre modificateur d'Intelligence. Vous utilisez ces points technologiques pour lancer des techniques de pouvoir. Vous regagnez tous les points techniques dépensés lorsque vous terminez un short ou un repos long.</p>"
+    },
+    "Cause Harm": {
+      "name": "Causer du Tort",
+      "description": "<p>As an action, you can expend a use of your Channel the Force to sap the life from a hostile creature you can see within 60 mètres. That creature must make a Constitution jet de sauvegarde. On a failed sauvegarde, la créature takes necrotic dégâts equal to your guardian niveau + your Charisma modificateur (minimum of +1), or half as much on a successful one.</p>"
+    },
+    "Force-Empowered Self": {
+      "name": "Soi Renforcé par la Force",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 2</em></p>\n<p>Your training allows you to harness the mystical energy of the Force throughout your body. You learn three effects: Deflection, Double Strike, and Slow Time. Each effect costs 1 point de Force and uses a [[/r d4]], which changes as you gain sentinel niveaus, as shown in the Kinetic Combat column of the sentinel table. You can only use each effect once per round.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.DkeBmqxtDGB5IS25]{Deflection}</h3>\n<p>When you are la cible of an attack, you can roll a Kinetic Combat die and add it to your AC (no action required). You can do so before or after the attack is made, but you must choose to do so before the GM determines if the attack hits.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.xdVUUvvy1WQNS8HB]{Double Strike}</h3>\n<p>Quand vous contactez une créature with a attaque d'arme, you can roll a Kinetic Combat die and deal additional dégâts of the same type equal to the amount rolled.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.A87ImRq8O2Ftebxa]{Slow Time}</h3>\n<p>When you move on your turn, you can roll a Kinetic Combat die to increase your speed by 5 x the amount rolled jusqu'à la fin de votre tour.</p>"
+    },
+    "Operative Practice": {
+      "name": "Pratique d'Opératif",
+      "description": "<p><em><strong>Opératif:</strong> 3e, 9e, 13e et niveau 17</em></p> <p>Vous choisissez une pratique que vous imitez dans l'exercice de vos capacités opérationnelles, qui est détaillée à la fin de la description du cours. Votre choix de pratique vous accorde des fonctionnalités au niveau 3 puis à nouveau aux 9ème, 13ème et niveau 17.</p>"
+    },
+    "Force Affinity": {
+      "name": "Affinité avec la Force",
+      "description": "<p><em><strong>Consular:</strong> niveau 3</em></p>\n<p>You've developed an affinity for one of the three aspects of the Force: the Ashla, the Bendu, or the Bogan. Choose one from the following:</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.pWoK7SOUQAk3gc2r]{Ashla}</h3>\n<p>When you successfully cast a light side power, either your or la cible's (your choice) point de vie maximum and current points de vie increase by an amount equal to the power's niveau. Cet effet lasts pendant 1 minute. You can only have one instance of this effect active at a time.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.zK853p6wYJmwR8b4]{Bendu}</h3>\n<p>Vous pouvez ajouter both your Wisdom and Charisma modificateur to your maximum number of point de Forces, instead of just one.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.jdV3D1QdvpFG2s9I]{Bogan}</h3>\n<p>Your dark side power jet de dégâtss gain a minimum roll threshold, discussed in chapter 7.</p>"
+    },
+    "Sneak Attack": {
+      "name": "Attaque Sournoise",
+      "description": "<p><em><strong>Operative:</strong> niveau 1</em></p>\n<p>You know how to strike subtly and exploit a foe's distraction. Une fois par tour, you can deal an extra [[/r 1d6]] dégâts to une créature you hit with a attaque d'arme if you have avantage on the attack roll. This dégâts is the same as the weapon's dégâts, and the attack must use a finesse or a ranged weapon. </p>\n<p>You don't need avantage on the attack roll if another enemy of la cible is within 5 mètres of it, that enemy isn't incapacitated, and you don't have disavantage on the attack roll.</p>\n<p>The amount of the extra dégâts increases as you gain niveaus in this class, as shown in the Sneak Attack column of the operative table.</p>"
+    },
+    "Force Purity": {
+      "name": "Pureté de la Force",
+      "description": "<p><em><strong>Gardien:</strong> niveau 6</em></p> <p>La Force qui vous traverse vous rend immunisé contre le poison et la maladie.</p>"
+    },
+    "Enhanced Strikes": {
+      "name": "Frappes Améliorées",
+      "description": "<p><em><strong>Monk:</strong> niveau 6</em></p>\n<p>Your unarmed strikes count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and dégâts.</p>"
+    },
+    "Indomitable": {
+      "name": "Indomptable",
+      "description": "<p><em><strong>Fighter:</strong> niveau 9</em></p> <p>Vous pouvez relancer un jet de sauvegarde que vous échouez. Si vous le faites, vous devez utiliser le nouveau rouleau, et vous ne pouvez plus utiliser cette fonctionnalité tant que vous n'avez pas terminé un repos long.</p> <p>Vous pouvez utiliser cette fonctionnalité deux fois entre les repos longs à partir du niveau 13 et trois fois entre les repos longs à partir du niveau 17.</p>"
+    },
+    "Enlightened Evasion": {
+      "name": "Esquive Éclairée",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 15</em></p>\n<p>When you are subjected to an effect that forces you to make a jet de sauvegarde, you can spend 2 point de Forces to add your Wisdom or Charisma modificateur (your choice, minimum of one) to the jet de sauvegarde. If you do so, you instead take no dégâts si vous réussissez on the jet de sauvegarde, and only half dégâts si vous échouez. </p>"
+    },
+    "Rage": {
+      "name": "Rage",
+      "description": "<p><em><strong>Berserker:</strong> niveau 1</em></p>\n<p>In battle, you fight with primal ferocity. On your turn, you can enter a rage as a action bonus if you aren't wearing heavy armor.</p>\n<p>While raging, you gain the following benefits:</p>\n<ul>\n<li>You have avantage on test de Forces and Strength jet de sauvegardes.</li>\n<li>When you make a attaque d'arme au corps à corps using Strength, you gain a bonus to the jet de dégâts that increases as you gain niveaus as a berserker, as shown in the Rage Damage column of the berserker table.</li>\n<li>You have resistance to kinetic and energy dégâts.</li>\n</ul>\n<p>If you are able to cast powers, you can't cast them or concentrate on them while raging.</p>\n<p>Your rage lasts pendant 1 minute. It ends early if you are knocked inconscient, you don heavy armor, or if your turn ends and you haven't taken a hostile action or taken dégâts since your last turn. You can also end your rage on your turn as a action bonus.</p>\n<p>You can enter a rage a number of times as shown in the Rages column of the berserker table. Vous regagnez tous expended uses when you complete a repos long.</p>"
+    },
+    "Forcecasting Ability": {
+      "name": "Caractéristique d'Incantation de Force",
+      "description": "<p>Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever a power refers to your forcecasting ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a pouvoir de la Force you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Force sauvegarde DD</strong> = 8 + your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>\n<p><strong>Force attack modificateur</strong> = your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>"
+    },
+    "Step of the Wind": {
+      "name": "Pas du Vent",
+      "description": "<p>When you use your action bonus to Dash, you can spend 1 focus point to double your jump distance for the turn. At niveau 11, you can instead spend 2 focus points to gain a flying speed equal to your walking speed jusqu'à la fin de votre tour, though you fall if you end your speed in the air and nothing else is holding you aloft.</p>"
+    },
+    "Uncanny Dodge": {
+      "name": "Esquive Inouïe",
+      "description": "<p><em><strong>Operative:</strong> niveau 5</em></p>\n<p>When an attacker that you can see deals dégâts to you with an attack, you can use your réaction to halve the attack's dégâts against you.</p>"
+    },
+    "Fighter Specialty": {
+      "name": "Spécialité de Combattant",
+      "description": "<p><em><strong>Combattant :</strong> 3e, 7e, 10e, 15e et niveau 18</em></p> <p>Vous choisissez une spécialité que vous vous efforcez d'imiter dans vos styles et techniques de combat, qui est détaillée à la fin du cours. description.</p>"
+    },
+    "Action Surge": {
+      "name": "Sursaut d'action",
+      "description": "<p><em><strong>Fighter:</strong> niveau 2</em></p>\n<p>You can push yourpersonnelle beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action.</p>\n<p>Once you've used this feature, you must finish a short or repos long before you can use it again. À partir du niveau 17, you can use it twice before a rest, but only once on the same turn.</p>"
+    },
+    "Academic Pursuit": {
+      "name": "Poursuite Académique",
+      "description": "<p><em><strong>Érudit :</strong> 3e, 6e, 9e et niveau 17</em></p> <p>Vous consacrez vos études à une activité détaillée à la fin de la description du cours. </p>"
+    },
+    "One with the Force": {
+      "name": "Un avec la Force",
+      "description": "<p><em><strong>Consulaire:</strong> niveau 20</em></p> <p>Votre harmonisation avec la Force est absolue. Votre score de Sagesse ou de Charisme augmente de 4, et votre maximum pour ce score augmente de 4. De plus, vous gagnez la maîtrise d'un seul pouvoir de la Force, et pouvez le lancer avec peu d'effort. Choisissez un pouvoir de la Force de 3e niveau que vous connaissez comme votre pouvoir de signature. Vous pouvez le lancer une fois au niveau 3 sans dépenser de points de Forces. Lorsque vous faites cela, vous ne pouvez pas le refaire avant d'avoir terminé un court ou un repos long.</p> <p>Si vous souhaitez le lancer à un niveau supérieur, vous devez dépenser des points de Forces comme d'habitude.</p>"
+    },
+    "Discovery": {
+      "name": "Découverte",
+      "description": "<p><em><strong>Étudiant:</strong> niveau 2</em></p> <p>AAu fil de votre aventure, vos études vous ont fait découvrir de nouvelles pratiques que vous pouvez appliquer à vos compétences. Vous maîtrisez deux découvertes de votre choix. Vos options de découverte sont détaillées à la fin de la description du cours. Lorsque vous gagnez certains niveaux scolaires, vous gagnez des découvertes supplémentaires de votre choix, comme indiqué dans la colonne Découvertes du tableau scolaire.</p> <p>De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir une des découvertes que vous connaissez et la remplacer par une autre découverte que vous pourriez apprendre à ce niveau.</p>"
+    },
+    "Slow Fall": {
+      "name": "Chute Lente",
+      "description": "<p><em><strong>Monk:</strong> niveau 4</em></p>\n<p>You can use your réaction when you fall to reduce any falling dégâts you take by an amount equal to five times your monk niveau.</p>"
+    },
+    "Sage Advice": {
+      "name": "Conseil du Sage",
+      "description": "<p><em><strong>Scholar:</strong> niveaux 2 et 13</em></p>\n<p>Vous pouvez dépenser 1 minute spreading your knowledge and experience, advising those around you. When you do so, choose a skill or tool you are proficient with and a number of friendly creatures up to your Intelligence modificateur within 30 mètres of you who can hear you and who can understand you. Once within the next hour, the next time chaque créature would make an test de caractéristique with the chosen skill or tool, they may add their bonus de maîtrise to the roll if they are not already proficient. A creature may only benefit from this feature once. If a creature is targeted by this feature again before using it, they can choose to retain the first benefit or replace it with the new skill or tool instead.</p>\n<p>Once you've used this feature, you can't use it again until you finish a repos long. À partir du niveau 13, you regain the ability to use it after you complete a short or repos long.</p>"
+    },
+    "Patient Defense": {
+      "name": "Défense Patiente",
+      "description": "<p>When you use your action bonus to Disengage, you can spend 1 focus point to also Dodge (no action required). At niveau 11, you can instead spend 2 focus points to Dodge and gain an additional réaction jusqu'au début de votre prochain tour. You can only take one réaction per turn.</p>"
+    },
+    "Berserker Instincts": {
+      "name": "Instincts de Berserker",
+      "description": "<p><em><strong>Berserker:</strong> niveau 2</em></p> <p>Vous avez perfectionné deux instincts, comme détaillé à la fin de la description de la classe, et vous en perfectionnez davantage à des niveaux plus élevés, comme indiqué dans la colonne Instincts du Berserker du berserker. table.</p>"
+    },
+    "Maneuvers Known": {
+      "name": "Maneuvres Connus",
+      "description": "<p>Vous apprenez une manœuvre de votre choix, et vous en gagnez davantage aux niveaux supérieurs, comme indiqué dans la colonne Manœuvres connues du tableau des érudits. De nombreuses manœuvres améliorent une attaque d’une manière ou d’une autre. Vous ne pouvez utiliser qu'une seule manœuvre par attaque, et vous ne pouvez utiliser chaque manœuvre qu'une fois par tour.</p> <p>Chaque fois que vous apprenez de nouvelles manœuvres, vous pouvez également remplacer une manœuvre que vous connaissez par une autre.</p>"
+    },
+    "Reliable Talent": {
+      "name": "Talent Fiable",
+      "description": "<p><em><strong>Operative:</strong> niveau 11</em></p>\n<p>You have refined your chosen skills until they approach perfection. Ability checks you make that let you add your bonus de maîtrise gain a minimum roll threshold, discussed in chapter 7.</p>"
+    },
+    "Led by the Force": {
+      "name": "Guidé par la Force",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 1</em></p>\n<p>Vous pouvez ajouter half your bonus de maîtrise to any test de caractéristique you make that doesn't already include your bonus de maîtrise.</p>"
+    },
+    "Unarmored Defense": {
+      "name": "Défense Sans Armure",
+      "description": "<p><em><strong>Monk:</strong> niveau 1</em></p> <p> Tant que vous ne portez aucune armure et ne brandissez pas de bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse ou de Charisme (votre choix).</p>"
+    },
+    "Deflect Missiles": {
+      "name": "Déviation de Projectiles",
+      "description": "<p><em><strong>Monk:</strong> niveau 3</em></p>\n<p>You can use your réaction to deflect a projectile when you are dealt dégâts by a attaque d'arme à distance. When you do so, the dégâts you take from the attack is reduced by [[/r 1d10]] + your Dexterity modificateur + your monk niveau.</p>\n<p>If you reduce the dégâts to 0, and the dégâts is kinetic, energy, or ion, you can redirect it at another target if you have a weapon capable of doing so. Vous pouvez dépenser 1 focus point to make a attaque à distance with a range of 20/60 as you deflect the projectile, as part of the same réaction. You make this attack with maîtrise, regardless of your weapon proficiencies, and the projectile counts as a monk weapon for the attack.</p>"
+    },
+    "Greater Extra Attack": {
+      "name": "Attaque Supplémentaire Supérieure",
+      "description": "<p><em><strong>Fighter:</strong> niveau 11</em></p> <p>Vous pouvez attaquer trois fois, au lieu de deux, à chaque fois que vous effectuez l'action Attaque à votre tour.</p> <p>De plus, lorsque vous utilisez un bonus d'action pour vous engager dans Double- ou Combat à deux armes, vous pouvez effectuer deux attaques au lieu d'une.</p>"
+    },
+    "Stillness of Mind": {
+      "name": "Quiétude d'Esprit",
+      "description": "<p><em><strong>Monk:</strong> niveau 7</em></p>\n<p>You can use your action or action bonus to end one effect on yourpersonnelle that is causing you to be charmé or effrayé.</p>"
+    },
+    "Techcasting": {
+      "name": "Incantation Technique",
+      "description": "<p><em><strong>Scout:</strong> niveau 2</em></p>\n<p>You have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the pouvoir techniques list.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.WEd0fQVWnJa69R86]{Tech Powers Known}</h3>\n<p>You learn 4 pouvoir techniques de votre choix, and you learn more at higher niveaus, as shown in the Tech Powers Known column of the scout table. You may not learn a pouvoir technique of a niveau higher than your Max Power Niveau.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.IgFCulwV0ckZjbfC]{Tech Points}</h3>\n<p>You have a number of tech points equal to your scout niveau, as shown in the Tech Points column of the scout table, + your Intelligence modificateur. You use these tech points to cast pouvoir techniques. Vous regagnez tous expended tech points when you finish a short or repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.KruXHvFJMIjA4SfB]{Max Power Niveau}</h3>\n<p>Many pouvoir techniques can be overcharged, consuming </p>\n<p>more tech points to create a greater effect. You can overcharge these powers to a maximum niveau, which increases at higher niveaus, as shown in the Max Power Niveau column of the scout table.</p>\n<p>You may only cast pouvoir techniques at 4th and 5th-niveau once. You regain the ability to do so after a repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.wAlSP0R3X7TNF5Qp]{Techcasting Ability}</h3>\n<p>Intelligence is your techcasting ability for your pouvoir techniques. You use your Intelligence whenever a power refers to your techcasting ability. De plus, you use your Intelligence modificateur when setting the jet de sauvegarde DD for a pouvoir technique you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Tech sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<p><strong>Tech attack modificateur</strong> = your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.xK7ptD2pk8iqKQQh]{Techcasting Focus}</h3>\n<p>You use a wristpad (found in chapter 5) as a tech focus for your pouvoir techniques.</p>"
+    },
+    "Purity of Body": {
+      "name": "Pureté du Corps",
+      "description": "<p><em><strong>Monk:</strong> niveau 13</em></p>\n<p>You are immune to disease and poison and resistant to poison dégâts.</p>"
+    },
+    "Lend Aid": {
+      "name": "Prêter Main Forte",
+      "description": "<p>As a action bonus, you can expend a use of your Channel the Force and contact a beast or humanoid within 5 mètres of you. That creature regains points de vie equal to your guardian niveau + your Wisdom modificateur (minimum of +1). Alternatively, if the beast or humanoid is empoisonné or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts la cible, you neutralize one poison or disease that you know is present, or you neutralize one at random.</p>"
+    },
+    "Potent Aptitude": {
+      "name": "Aptitude Puissante",
+      "description": "<p><em><strong>Engineer:</strong> niveau 1</em></p>\n<p>Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a action bonus on your turn to choose une créature other than yourpersonnelle within 60 mètres of you who can hear you. That creature gains one Potent Aptitude die, a [[/r d4]]. This die changes as you gain engineer niveaus, as shown in the Potent Aptitude column of the engineer table.</p>\n<p>Once within the next 10 minutes, la créature can roll the die and add the number rolled to one test de caractéristique, attack roll, or jet de sauvegarde it makes. Once the Potent Aptitude die is rolled, it is lost.</p>\n<p>A creature can have only one Potent Aptitude die at a time.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and niveau 17. You regain any expended uses when you finish a short or repos long.</p>"
+    },
+    "Operative Exploits": {
+      "name": "Exploits d'Opératif",
+      "description": "<p><em><strong>Operative:</strong> 2ème, 7ème, 13ème et niveau 17</em></p> <p>Vous avez adopté deux exploits, comme détaillé à la fin de la description de la classe. Vous adoptez un exploit supplémentaire au 7ème, 13ème et au niveau 17.</p>"
+    },
+    "Force-Empowered Casting": {
+      "name": "Incantation Renforcée par la Force",
+      "description": "<p><em><strong>Consulaire :</strong> 2e, 9e et niveau 17</em></p> <p>Vous obtenez la possibilité de modifier vos pouvoirs en fonction de vos besoins. Lorsque vous lancez un pouvoir de la Force, vous pouvez dépenser des points de Forces supplémentaires pour modifier le pouvoir. Vous obtenez deux des options de lancement de sorts renforcées par la Force suivantes, situées à la fin de la description de la classe. Vous en gagnez un autre aux niveaux 9 et 17.</p> <p>Vous ne pouvez utiliser qu'une seule option de lancement avec pouvoir sur un pouvoir lorsque vous le lancez, sauf indication contraire.</p>"
+    },
+    "Primal Champion": {
+      "name": "Champion Primordial",
+      "description": "<p><em><strong>Berserker:</strong> niveau 20</em></p> <p>Vous incarnez le pouvoir de la nature. Votre score de Force ou de Dextérité augmente de 2, et votre score de Constitution augmente de 2. Votre maximum pour ces scores augmente de 2.</p> <p>De plus, vous pouvez entrer en rage un nombre illimité de fois, et entrer en rage ne nécessite plus votre bonus d'action à votre tour.</p>"
+    },
+    "Monastic Order": {
+      "name": "Ordre Monastique",
+      "description": "<p><em><strong>Moine:</strong> 3ème, 6ème, 11ème et niveau 17</em></p> <p>Vous engagez votre personnel dans un ordre monastique, qui est détaillé à la fin de la description du cours. </p>"
+    },
+    "Techcasting Ability": {
+      "name": "Caractéristique d'Incantation Technique",
+      "description": "<p>Intelligence is your techcasting ability for your pouvoir techniques. You use your Intelligence whenever a power refers to your techcasting ability. De plus, you use your Intelligence modificateur when setting the jet de sauvegarde DD for a pouvoir technique you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Tech sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<p><strong>Tech attack modificateur</strong> = your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>"
+    },
+    "Force Recovery": {
+      "name": "Récupération de Force",
+      "description": "<p><em><strong>Consulaire:</strong> niveau 1</em></p> <p>Vous avez appris à retrouver une partie de votre énergie en méditant brièvement. Lorsque vous terminez un repos court, vous pouvez regagner un nombre de points de Forces égal à la moitié de votre niveau consulaire + votre modificateur de Sagesse ou de Charisme (au choix, minimum un). Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un dépôt bien avant de pouvoir l'utiliser à nouveau.</p>"
+    },
+    "Tech Powers Known": {
+      "name": "Pouvoirs Techniques Connus",
+      "description": "<p>Vous apprenez 4 techniques de pouvoir de votre choix, et vous en apprenez davantage aux niveaux supérieurs, comme indiqué dans la colonne Tech Powers Known du tableau de reconnaissance. Vous ne pouvez pas apprendre une technique de pouvoir d'un niveau supérieur à votre niveau de puissance maximum.</p>"
+    },
+    "Ranger's Quarry": {
+      "name": "Proie du Ranger",
+      "description": "<p><em><strong>Scout:</strong> 1st, 5th, 9th, and niveau 17</em></p>\n<p>You learn how to effectively read and track your prey. Une fois par chacun de vos tours, vous pouvez choisir a creature you can see within 120 mètres and mark it as your quarry (no action required). For the next hour, you gain the following benefits:</p>\n<ul>\n<li>Une fois par tour, quand vous contactez la cible with a attaque d'arme, you can deal [[/r 1d4]] additional dégâts to it of the same type as the weapon's dégâts. This die changes as you gain scout niveaus, as shown in the Ranger's Quarry column of the scout table.</li>\n<li>You have avantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it while it's on the same planet as you.</li>\n</ul>\n<p>You can only have une créature marked in this way at a time. À partir du niveau 5, you can use your réaction to mark a creature when it enters your line of sight, provided it is within range of your Ranger's Quarry.</p>\n<p>The duration increases to 8 hours at niveau 9 and 24 hours at niveau 17.</p>"
+    },
+    "Commando": {
+      "name": "Commando",
+      "description": "<p><em><strong>Scout:</strong> niveau 10</em></p>\n<p>You can take the Dash or Hide actions as a action bonus on each of your turns. De plus, you can remain perfectly still for long periods of time to set up ambushes. </p>\n<p>When you attempt to hide on your turn, you can opt to not move on that turn. If you avoid moving, creatures that attempt to detect you take a -10 penalty to their Wisdom (Perception) checks jusqu'au début de votre prochain tour. You lose this benefit if you move or fall à terre, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden. </p>\n<p>If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</p>\n<p>Finally, you can no longer be tracked by unenhanced means, unless you choose to leave a trail.</p>"
+    },
+    "Blindsense": {
+      "name": "Perception Aveugle",
+      "description": "<p><em><strong>Operative:</strong> niveau 14</em></p>\n<p>If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 mètres of you.</p>"
+    },
+    "Forcecasting": {
+      "name": "Incantation de Force",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 1</em></p>\n<p>In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the pouvoir de la Forces list.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.kXLHsilHner7ICe5]{Force Powers Known}</h3>\n<p>You learn 7 pouvoir de la Forces de votre choix, and you learn more at higher niveaus, as shown in the Force Powers Known column of the sentinel table. You may not learn a pouvoir de la Force of a niveau higher than your Max Power Niveau, and you may learn a pouvoir de la Force at the same time you learn its prerequisite.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.7m2NPD7L2ApnPwNc]{Force Points}</h3>\n<p>You have a number of point de Forces equal to your sentinel niveau x 3, as shown in the Force Points column of the sentinel table, + your Wisdom or Charisma modificateur (your choice). You use these point de Forces to cast pouvoir de la Forces. Vous regagnez tous expended point de Forces when you finish a repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.eAo9knrjktPUvQZX]{Max Power Niveau}</h3>\n<p>Many pouvoir de la Forces can be overpowered, consuming more point de Forces to create a greater effect. You can overpower these abilities to a maximum niveau, which increases at higher niveaus, as shown in the Max Power Niveau column of the sentinel table.</p>\n<p>You may only cast pouvoir de la Forces at 5th, 6th, and 7th-niveau once. You regain the ability to do so after a repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.cLLG9rUkqhg4fVq8]{Forcecasting Ability}</h3>\n<p>Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever a power refers to your forcecasting ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a pouvoir de la Force you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Force sauvegarde DD</strong> = 8 + your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>\n<p><strong>Force attack modificateur</strong> = your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>"
+    },
+    "Extra Attack": {
+      "name": "Attaque Supplémentaire",
+      "description": "<p><em><strong>Sentinel:</strong> niveau 5</em></p> <p>Vous pouvez attaquer deux fois, au lieu d'une, chaque fois que vous effectuez l'action Attaque pendant votre tour.</p>"
+    },
+    "Improved Force-Empowered Strikes": {
+      "name": "Frappes Renforcées par la Force Améliorées",
+      "description": "<p><em><strong>Guardian:</strong> niveau 11</em></p>\n<p>You are so in tune with the Force that all your melee weapon strikes carry the power of the Force with them. Whenever you hit a creature with a attaque d'arme au corps à corps, la créature takes an extra [[/r 1d8]] dégâts. The dégâts is the same type as the weapon's dégâts.</p>"
+    },
+    "Tech Mastery": {
+      "name": "Maîtrise Technique",
+      "description": "<p><em><strong>Ingénieur :</strong> niveau 20</em></p> <p>Votre maîtrise de la technologie est inégalée. Vos scores de Constitution et d'Intelligence augmentent de 2. Votre maximum pour ces scores augmente de 2.</p> <p>De plus, lorsque vous lancez un jet d'initiative et n'avez plus aucune utilisation d'Aptitude puissante, vous récupérez une utilisation.</p>"
+    },
+    "Force Shield": {
+      "name": "Bouclier de Force",
+      "description": "<p><em><strong>Consular:</strong> niveau 2</em></p>\n<p>You learn how to defend yourpersonnelle purely through your strength with the Force. When you are hit by an attack, you can use your réaction to shroud yourpersonnelle in Force energy. Until the start of your next turn, you have a bonus to AC equal to your Wisdom or Charisma modificateur (your choice, minimum of +1). This includes the triggering attack.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and niveau 17. Vous regagnez tous expended uses when you finish a repos long.</p>"
+    },
+    "Second Wind": {
+      "name": "Second Souffle",
+      "description": "<p><em><strong>Fighter:</strong> niveau 1</em></p> <p>Vous disposez d'une réserve d'endurance limitée sur laquelle vous pouvez puiser pour protéger votre personnel du danger. A votre tour, vous pouvez utiliser un bonus d'action pour regagner des points de vie égaux à [[/r 1d10]] + votre niveau de combattant.</p> <p>Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un court ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
+    },
+    "Feral Impulse": {
+      "name": "Impulsion Sauvage",
+      "description": "<p><em><strong>Berserker:</strong> niveau 7</em></p> <p>Votre instinct est tellement aiguisé que vous avez l'avantage sur les tests d'initiative.</p> <p>De plus, si vous êtes surpris en début de combat et que vous ne l'êtes pas frappé d'incapacité, vous pouvez agir normalement lors de votre premier tour, mais seulement si vous entrez dans votre rage avant de faire quoi que ce soit d'autre lors de ce tour.</p>"
+    },
+    "Guardian Focus": {
+      "name": "Focalisation du Gardien",
+      "description": "<p><em><strong>Gardien:</strong> 3ème, 7ème, 15ème et niveau 20</em></p> <p>Vous commencez à concentrer vos études sur une forme spécifique de sabre laser, qui est détaillée à la fin de la description du cours. </p>"
+    },
+    "Sentinel Ideals": {
+      "name": "Idéaux de la Sentinelle",
+      "description": "<p><em><strong>Sentinel :</strong> 2e, 6e, 9e, 11e et niveau 17</em></p> <p>Vous adoptez des idéaux qui illustrent votre lien avec la Force. Vous adoptez deux idéaux de votre choix, comme détaillé à la fin de la description du cours, et vous en adoptez davantage à des niveaux supérieurs, comme indiqué dans la colonne Idéaux connus du tableau sentinelle.</p> <p>Vous pouvez manifester vos idéaux un total combiné de deux fois, et vous pouvez les manifester plus de fois à des niveaux supérieurs, comme indiqué dans la colonne Manifestations idéales du tableau sentinelle. Vous regagnez tous les usages dépensés lorsque vous terminez un repos long.</p>"
+    },
+    "Elusive": {
+      "name": "Insaisissable",
+      "description": "<p><em><strong>Operative:</strong> niveau 18</em></p> <p>Vous êtes si évasif que les attaquants prennent rarement le dessus sur vous. Aucun jet d'attaque n'a d'avantage contre vous tant que vous n'êtes pas incapable d'agir.</p>"
+    },
+    "Knowledge Unbound": {
+      "name": "Savoir Sans Limite",
+      "description": "<p><em><strong>Scholar:</strong> niveau 20</em></p>\n<p>You are the pinnacle of your pursuit. Your Intelligence score increases by 4. Your maximum for that score increases by 4. De plus, you can use any maneuver you know without expending a dé de supériorité, rolling a [[/r d4]] instead.</p>"
+    },
+    "Fighter Strategies": {
+      "name": "Stratégies de Combattant",
+      "description": "<p><em><strong>Combattant :</strong> niveau 3</em></p> <p>Vous avez adopté une stratégie de combattant, telle que détaillée à la fin de la description de la classe, et vous en adoptez d'autres à des niveaux supérieurs, comme indiqué dans la colonne Stratégies connues du tableau des combattants.</p>"
+    },
+    "Force Powers Known": {
+      "name": "Pouvoirs de Force Connus",
+      "description": "<p>Vous apprenez 7 pouvoirs de la Forces de votre choix, et vous en apprenez davantage aux niveaux supérieurs, comme indiqué dans la colonne Force Powers Known du tableau sentinelle. Vous ne pouvez pas apprendre un pouvoir de la Force d'un niveau supérieur à votre niveau de puissance maximum, et vous pouvez apprendre un pouvoir de la Force en même temps que vous apprenez son prérequis.</p>"
+    },
+    "Slow Time": {
+      "name": "Ralentir le Temps",
+      "description": "<p>When you move on your turn, you can roll a Kinetic Combat die to increase your speed by 5 x the amount rolled jusqu'à la fin de votre tour.</p>"
+    },
+    "Berserker Approach": {
+      "name": "Approche du Berserker",
+      "description": "<p><em><strong>Berserker:</strong> 3ème, 6ème, 10ème et niveau 14</em></p> <p>Vous choisissez une approche qui façonne la nature de votre rage qui est détaillée à la fin de la description du cours. </p>"
+    },
+    "Empty Body": {
+      "name": "Corps Vide",
+      "description": "<p><em><strong>Monk:</strong> niveau 18</em></p>\n<p>Vous pouvez utiliser votre action pour spend 4 focus points to become invisible pendant 1 minute. During that time, you also have resistance to all dégâts but force dégâts.</p>"
+    },
+    "Maneuver Ability": {
+      "name": "Capacité de Maneuvre",
+      "description": "<p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability de votre choix for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a maneuver you use.</p>\n<p><em></em>_</p>\n<p><strong>Maneuver sauvegarde DD</strong> = 8 + your bonus de maîtrise + your maneuver modificateur de caractéristique</p>\n<p><em></em>_</p>"
+    },
+    "Unarmored Movement": {
+      "name": "Mouvement Sans Armure",
+      "description": "<p><em><strong>Monk:</strong> niveaux 3 et 9</em></p>\n<p>Your speed increases by 10 mètres while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk niveaus, as shown in the Unarmored Movement column of the monk table.</p>\n<p>At niveau 9, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.</p>"
+    },
+    "Bad Feeling": {
+      "name": "Mauvais Pressentiment",
+      "description": "<p><em><strong>Operative:</strong> niveau 3</em></p> <p>Vous avez un œil méfiant, à la limite de la paranoïa. Lorsque vous lancez un jet d'initiative, vous pouvez avancer à votre vitesse. Ce mouvement se produit avant que l'ordre d'initiative ne soit déterminé. </p> <p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un dépôt long.</p>"
+    },
+    "Consular Tradition": {
+      "name": "Tradition Consulaire",
+      "description": "<p><em><strong>Consulaire :</strong> 3ème, 6ème, 10ème, 14ème et niveau 18</em></p> <p>Vous choisissez une tradition consulaire, qui est détaillée à la fin de la description du cours. </p>"
+    },
+    "Max Power Level": {
+      "name": "Niveau de Puissance Maximal",
+      "description": "<p>De nombreux pouvoirs de la Forces peuvent être maîtrisés, consommant plus de points de Forces pour créer un effet plus important. Vous pouvez maîtriser ces capacités jusqu'à un niveau maximum, qui augmente aux niveaux plus élevés, comme indiqué dans la colonne Niveau de puissance maximum du tableau des sentinelles.</p> <p>Vous ne pouvez lancer pouvoir de la Forces qu'une seule fois aux 5e, 6e et 7e niveaux. Vous retrouvez la possibilité de le faire après une longue période de repos.</p>"
+    },
+    "Calm and Collected": {
+      "name": "Calme et Posé",
+      "description": "<p><em><strong>Scholar:</strong> niveaux 14 et 17</em></p> <p>Lorsque vous effectuez un jet de sauvegarde provoqué par un effet visible, vous pouvez gagner un bonus au jet de sauvegarde égal à votre modificateur d'Intelligence. </p> <p>Vous pouvez utiliser cette fonctionnalité cinq fois. Vous gagnez un usage supplémentaire au niveau 17. Vous regagnez tous les usages dépensés lorsque vous complétez un repos long.</p>"
+    },
+    "Diamond Soul": {
+      "name": "Âme de Diamant",
+      "description": "<p><em><strong>Monk:</strong> niveau 14</em></p>\n<p>Your mastery of focus grants you maîtrise in all jet de sauvegardes, and quand vous échouez a jet de sauvegarde, you can spend 1 focus point to reroll it, taking the new roll.</p>"
+    },
+    "Double Strike": {
+      "name": "Frappe Double",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can roll a Kinetic Combat die and deal additional dégâts of the same type equal to the amount rolled.</p>"
+    },
+    "Supreme Awareness": {
+      "name": "Conscience Suprême",
+      "description": "<p><em><strong>Scout:</strong> niveau 18</em></p>\n<p>You gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disavantage on your attack rolls against it. </p>\n<p>You are also aware of the location of any invisible creature within 30 mètres of you, provided that la créature isn't hidden from you and you aren't aveuglé or assourdi.</p>"
+    },
+    "Cleansing Touch": {
+      "name": "Toucher Purificateur",
+      "description": "<p><em><strong>Gardien:</strong> niveau 14</em></p> <p>Vous pouvez utiliser votre action et dépenser une utilisation de votre capacité Canaliser la Force pour mettre fin à un pouvoir de la Force sur votre personnel ou sur une créature volontaire que vous contactez.</p>"
+    },
+    "Combat Superiority": {
+      "name": "Supériorité de Combat",
+      "description": "<p><em><strong>Fighter:</strong> niveau 2</em></p>\n<p>You learn maneuvers that are fueled by special dice called dés de supériorité. See chapter 13 for the maneuvers list.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.zIKGLAorzIopPDif]{Maneuvers Known}</h3>\n<p>You learn one maneuver de votre choix, and you earn more at higher niveaus, as shown in the Maneuvers Known column of the fighter table. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver une fois par tour.</p>\n<p>Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.ZWJ20cvnIV3y2smR]{Superiority Dice}</h3>\n<p>You have two dés de supériorité, which are d4s, and you earn more at higher niveaus, as shown in the Superiority Dice Quantity column of the fighter table. This die changes as you gain fighter niveaus, as shown in the Superiority Dice Size column of the fighter table. A dé de supériorité is expended quand vous utilisez it. </p>\n<p>Vous regagnez tous of your expended dés de supériorité when you finish a short or repos long.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.vtK7JLUfCwCGdSZU]{Maneuver Ability}</h3>\n<p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability de votre choix for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a maneuver you use.</p>\n<p><em></em>_</p>\n<p><strong>Maneuver sauvegarde DD</strong> = 8 + your bonus de maîtrise + your maneuver modificateur de caractéristique</p>\n<p><em></em>_</p>"
+    },
+    "Flurry of Blows": {
+      "name": "Rafale de Coups",
+      "description": "<p>Lorsque vous effectuez votre attaque bonus d'action d'arts martiaux, vous pouvez dépenser 1 point de focus pour effectuer une frappe à mains nues supplémentaire (aucune action requise). Au niveau 11, vous pouvez à la place dépenser 2 points de focus pour effectuer deux frappes à mains nues supplémentaires.</p>"
+    },
+    "Focus": {
+      "name": "Focalisation",
+      "description": "<p><em><strong>Monk:</strong> niveaux 2 et 11</em></p>\n<p>Your training allows you to harness the mystic energy of focus. Your access to this energy is represented by a number of focus points. Your monk niveau determines the number of points you have, as shown in the Focus Points column of the monk table.</p>\n<p>Vous pouvez dépenser these points to fuel various focus features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more focus features as you gain niveaus in this class.</p>\n<p>When you spend a focus point, it is unavailable until you finish a short or repos long, at the end of which you draw all of your expended focus back into yourpersonnelle. You must spend at least 30 minutes of the rest meditating to regain your focus points.</p>\n<p>You use your choice of Wisdom or Charisma for your focus ability. You use the chosen modificateur de caractéristique whenever a feature refers to your focus ability. De plus, you use the chosen modificateur de caractéristique when making an attack with a focus feature or setting the jet de sauvegarde DD for one.</p>\n<p><em></em>_</p>\n<p><strong>Focus sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Wisdom or Charisma modificateur (your choice)</p>\n<p><em></em>_</p>\n<p><strong>Focus attack modificateur</strong> = your bonus de maîtrise + your Wisdom or Charisma modificateur (your choice)</p>\n<p><em></em>_</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.S7Eyxu0liaaotA1M]{Flurry of Blows}</h3>\n<p>When you make your Martial Arts action bonus attack, you can spend 1 focus point to make an additional unarmed strike (no action required). At niveau 11, you can instead spend 2 focus points to make two additional unarmed strikes.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.ZkKSsPaCGZrjgocn]{Patient Defense}</h3>\n<p>When you use your action bonus to Disengage, you can spend 1 focus point to also Dodge (no action required). At niveau 11, you can instead spend 2 focus points to Dodge and gain an additional réaction jusqu'au début de votre prochain tour. You can only take one réaction per turn.</p>\n<h3>@UUID[Compendium.sw5e.classfeatures.Item.fnkBlUCThMSEt5KA]{Step of the Wind}</h3>\n<p>When you use your action bonus to Dash, you can spend 1 focus point to double your jump distance for the turn. At niveau 11, you can instead spend 2 focus points to gain a flying speed equal to your walking speed jusqu'à la fin de votre tour, though you fall if you end your speed in the air and nothing else is holding you aloft.</p>"
+    },
+    "Persistent Rage": {
+      "name": "Rage Persistante",
+      "description": "<p><em><strong>Berserker:</strong> niveau 15</em></p> <p>Votre rage est si féroce qu'elle ne se termine plus tôt que si vous devenez inconscient ou si vous choisissez d'y mettre fin.</p>"
+    },
+    "Cunning Action": {
+      "name": "Action Rusée",
+      "description": "<p><em><strong>Opératif:</strong> niveau 2</em></p> <p>Votre rapidité de réflexion et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer les actions Dash, Se désengager ou Masquer comme bonus d'action.</p>"
+    },
+    "Pathfinder": {
+      "name": "Traceur",
+      "description": "<p><em><strong>Scout:</strong> niveau 1</em></p> <p>Vous êtes doué pour naviguer dans la nature sauvage. Vous ignorez les terrains difficiles et lorsque vous voyagez pendant une heure ou plus, vous bénéficiez des avantages suivants :</p> <ul> <li>Les terrains difficiles ne ralentissent pas votre groupe, à condition qu'ils puissent vous voir et vous entendre.</li> <li>Vous ne pouvez pas vous perdre par des moyens non améliorés.</li> <li>Même lorsque vous l'êtes. engagé dans une autre activité pendant le voyage (comme la recherche de nourriture, la navigation ou le suivi), vous restez attentif au danger.</li> <li>Si vous voyagez seul, vous pouvez vous déplacer furtivement à un rythme normal.</li> <li>Lorsque vous recherchez de la nourriture, vous trouvez deux fois plus de nourriture.</li> <li>Vous avez un avantage sur la survie chèques.</li></ul>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

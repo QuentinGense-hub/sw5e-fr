@@ -1,0 +1,493 @@
+{
+  "label": "Maneuvers",
+  "entries": {
+    "Effective Flanking (Improved)": {
+      "name": "Effective Flanking (Improved)",
+      "description": "<p>When you use the Effective Flanking maneuver, you add the result of the dé de supériorité to both the attack and jet de dégâts for the first attack against la créature before the start of your next turn.</p>"
+    },
+    "Survive": {
+      "name": "Survive",
+      "description": "<p>When you make an Survival check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Shadow Puppetry": {
+      "name": "Shadow Puppetry",
+      "description": "<p>When a creature you can see within 30 mètres of you is reduced to 0 points de vie, you can use your réaction and expend a dé de supériorité to give cette créature a final act of aggression. That creature can immediately move a number of mètres equal to 5 times the result of the die and make a single attaque d'arme against a target de votre choix within its attack range, adding the die to the attack roll.</p>"
+    },
+    "Sweeping Attack": {
+      "name": "Attaque radicale",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme au corps à corps, you can expend one dé de supériorité to attempt to dégâts another creature with the same attack. Choose another creature within 5 mètres of the original target and within your reach. If the original attack roll would hit the second creature, it takes dégâts equal to the number you roll on your dé de supériorité. The dégâts is of the same type dealt by the original attack.</p>"
+    },
+    "Assist": {
+      "name": "Assist",
+      "description": "<p>When you make an Medicine check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Perform": {
+      "name": "Perform",
+      "description": "<p>When you make an Performance check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Automatic Startup Sequence": {
+      "name": "Automatic Startup Sequence",
+      "description": "<p>When a creature makes a jet de sauvegarde against a pouvoir technique you cast, you may expend a dé de supériorité, subtracting the number rolled from their total.</p>"
+    },
+    "Parry (Improved)": {
+      "name": "Parry (Improved)",
+      "description": "<p>Parry devient pour vous une manœuvre générale.</p>"
+    },
+    "Sweeping Attack (Improved)": {
+      "name": "Attaque balayante (améliorée)",
+      "description": "<p>When you use the Sweeping Attack maneuver, you add your maneuver modificateur de caractéristique to the jet de dégâts of the second creature.</p>"
+    },
+    "Administer Aid (Greater)": {
+      "name": "Administer Aid (Greater)",
+      "description": "<p>You can use your Administer Aid maneuver as an action, action bonus, or réaction on your turn.</p>"
+    },
+    "Remove Toxins": {
+      "name": "Remove Toxins",
+      "description": "<p>As an action, you can expend a dé de supériorité to purge the toxins from a creature you can contact. La cible regains points de vie equal to the number rolled and, if it is empoisonné or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts la cible, you neutralize one poison or disease that you know is present, or you neutralize one at random.</p>"
+    },
+    "Flex": {
+      "name": "Flex",
+      "description": "<p>When you make an Athletics check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Dark Transference": {
+      "name": "Dark Transference",
+      "description": "<p>Quand vous contactez une créature with an attack, you can expend a dé de supériorité and roll it to attempt to siphon life from it. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, add the result to the jet de dégâts, and you regain one expended Hit Die.</p>"
+    },
+    "Befogging Ichor": {
+      "name": "Befogging Ichor",
+      "description": "<p>You can use a action bonus to expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible can't take réactions until the start of its next turn and on its turn must use its movement to move half its speed in a random direction. Roll a [[/r d8]] and assign a direction to each face. If the direction rolled is blocked, la cible doesn't move.</p>"
+    },
+    "Effective Flanking (Greater)": {
+      "name": "Effective Flanking (Greater)",
+      "description": "<p>When you use the Effective Flanking maneuver, you add your maneuver modificateur de caractéristique to both the attack and jet de dégâts for the first attack against la créature before the start of your next turn.</p>"
+    },
+    "Reassure": {
+      "name": "Reassure",
+      "description": "<p>As an action, you can expend a dé de supériorité and call out to a creature within 60 mètres that can see or hear you that is charmé, effrayé, or étourdi. When you do so, cette créature immediately makes another jet de sauvegarde, adding the amount rolled to the sauvegarde.</p>"
+    },
+    "Pin Down": {
+      "name": "Pin Down",
+      "description": "<p>When your companion attempts to grapple or knock a creature à terre, you can expend a dé de supériorité to give it direction as long as it can see or hear you. Roll a dé de supériorité and add it to your companion's Strength (Athletics) check.</p>"
+    },
+    "Study": {
+      "name": "Study",
+      "description": "<p>When you make an Lore check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "World on Fire": {
+      "name": "World on Fire",
+      "description": "<p>On your turn, quand vous contactez with a attaque d'arme, you can use a action bonus to expend and roll one dé de supériorité to ignite phosphorescent powder on your target, dealing extra fire dégâts equal to the result of the roll. De plus, la cible sheds dim light in a rayon de 1,5 mètre and can't become invisible jusqu'à la fin de votre prochain tour, and becomes visible if it was already invisible.</p>"
+    },
+    "Penetrating Shot": {
+      "name": "Penetrating Shot",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme à distance, you can expend one dé de supériorité to attempt to dégâts another creature with the same attack. Choose up to two creatures within 15 mètres of and directly behind your initial target. If the original attack roll would hit the second creature(s), it takes dégâts equal to the number you roll on your dé de supériorité.</p>\n<p>The dégâts is of the same type dealt by the original attack.</p>"
+    },
+    "Charge": {
+      "name": "Charge",
+      "description": "<p>As a action bonus on your turn, you can expend one dé de supériorité to spur your allies to move. Until the start of your next turn, creatures you choose within 10 mètres of you who can see or hear you can move an additional distance equal to 5 times the dé de supériorité rolled on their turn and ignore unenhanced difficult terrain.</p>"
+    },
+    "Charming Presence": {
+      "name": "Charming Presence",
+      "description": "<p>As an action, you can make a Charisma (Persuasion) check and expend one dé de supériorité to attempt to charm a humanoid creature who can see or hear you within 60 mètres. Add the dé de supériorité to the roll. La cible makes a contested Wisdom (Insight) check. If your check succeeds, la cible is charmé by you jusqu'à la fin de votre prochain tour.</p>"
+    },
+    "Mind Over Matter": {
+      "name": "Mind Over Matter",
+      "description": "<p>When you are forced to make an Intelligence, Wisdom, or Charisma jet de sauvegarde, you can expend a dé de supériorité to change the jet de sauvegarde ability to your maneuver modificateur de caractéristique.</p>"
+    },
+    "Precision Attack": {
+      "name": "Attaque de précision",
+      "description": "<p>When you make a attaque d'arme roll against a creature, you can expend one dé de supériorité to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</p>"
+    },
+    "Go Get 'Em": {
+      "name": "Go Get 'Em",
+      "description": "<p>While your companion is moving, you can expend a dé de supériorité and add 5 times the number rolled to its vitesse de déplacement.</p>"
+    },
+    "Deathseek": {
+      "name": "Deathseek",
+      "description": "<p>When an attack made against a hostile creature that you can see would miss, you can use a réaction and expend a dé de supériorité and roll it to force la créature to instead take the hit. The creature must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible takes the minimum dégâts the attack could have dealt plus additional dégâts equal to the result of the dé de supériorité.</p>"
+    },
+    "Firewall": {
+      "name": "Firewall",
+      "description": "<p>When you or an ally you can see within 60 mètres make a jet de sauvegarde against a pouvoir technique, you can use your réaction to expend a dé de supériorité, adding the number rolled to the result of that jet de sauvegarde.</p>"
+    },
+    "Hacked Communications": {
+      "name": "Hacked Communications",
+      "description": "<p>As an action, you may expend a dé de supériorité, and choose any number of creatures that you can see within 60 mètres of you that have commlinks, headcomms, or other such communications devices. Each creature must succeed on a Constitution jet de sauvegarde or take sonic dégâts equal to the number rolled on the dice + your maneuver modificateur de caractéristique (minimum of one). De plus, on a failed sauvegarde, their communication devices are disabled until rebooted.</p>"
+    },
+    "You Call This Archaeology?": {
+      "name": "Vous appelez cela de l’archéologie ?",
+      "description": "<p>When you or a friendly creature that you can see reduces a hostile creature to 0 points de vie, you can use your réaction and expend a dé de supériorité to give yourpersonnelle or that friendly creature points de vie temporaires equal to the number rolled + your universal forcecasting modificateur.</p>"
+    },
+    "Primal Endurance": {
+      "name": "Primal Endurance",
+      "description": "<p>As an action, you can expend a dé de supériorité to improve your companion's defense. Roll the die and add it to your companion's AC until the beginning of your next turn.</p>"
+    },
+    "Investigate": {
+      "name": "Investigate",
+      "description": "<p>When you make an Investigation check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Overwhelming Wit": {
+      "name": "Overwhelming Wit",
+      "description": "<p>Once per round, when a creature succeeds on a pouvoir de la Force you cast or your class feature that requires a Wisdom or Charisma jet de sauvegarde, you can expend a dé de supériorité to make a universal forcecasting test de caractéristique with maîtrise, substituting the result of the roll for the sauvegarde DD for that power.</p>"
+    },
+    "Menacing Attack": {
+      "name": "Attaque menaçante",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to frighten la cible. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, it is effrayé of you jusqu'à la fin de votre prochain tour.</p>"
+    },
+    "Water of Life": {
+      "name": "Water of Life",
+      "description": "<p>When an allied creature within 30 mètres that you can see takes dégâts, you can use a réaction to expend a dé de supériorité and roll it. The ally regains a number of points de vie equal to the roll + your maneuver modificateur.</p>"
+    },
+    "Flourish": {
+      "name": "Flourish",
+      "description": "<p>When you make an Escamotage check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Wrestle and Drag": {
+      "name": "Lutte et traînée",
+      "description": "<p>When you make a Strength (Athletics) check to grapple or shove a creature, you can expend a dé de supériorité. Until the end of your turn, you can drag the agrippé creature with you without your speed being halved. De plus, if la créature is moved at least 5 mètres, you can roll the dé de supériorité, dealing kinetic dégâts to la créature equal to the result of the roll.</p>"
+    },
+    "Administer Aid": {
+      "name": "Administer Aid",
+      "description": "<p>As an action, you can expend a dé de supériorité to tend to a creature you can contact. The creature regains a number of points de vie equal to the number rolled + your maneuver modificateur de caractéristique.</p>"
+    },
+    "Pilot": {
+      "name": "Pilot",
+      "description": "<p>When you make an Piloting check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Calling Card": {
+      "name": "Calling Card",
+      "description": "<p>As a action bonus, you can expend a dé de supériorité to </p>\n<p>throw a sonic charge at a target you can see within 30 mètres. When you do so, la cible and chaque créature de votre choix within 5 mètres of it must make Dexterity jet de sauvegardes, taking sonic dégâts on a failure. The sonic dégâts equals the number rolled on the dé de supériorité. </p>"
+    },
+    "Riposte (Improved)": {
+      "name": "Riposte (Improved)",
+      "description": "<p>When a creature misses an ally within 30 mètres you can see with a attaque au corps à corps, and that ally can see or hear you, you can expend one dé de supériorité (no action required), and the chosen ally use their réaction to make a attaque d'arme au corps à corps against la créature. If the attack hits, the ally adds the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Lunging Attack": {
+      "name": "Attaque brusque",
+      "description": "<p>When you make a attaque d'arme au corps à corps on your turn, you can expend one dé de supériorité to increase your reach for that attack by 5 mètres. If you hit, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Tenacity": {
+      "name": "Tenacity",
+      "description": "<p>As a action bonus, you can expend and roll a dé de supériorité and move to an unoccupied space you can see up to a distance equal to 5 x the result of the roll. If you begin this movement hidden from a creature, and you end this movement in a space that could be hidden from la créature, this movement does not reveal your presence to cette créature.</p>"
+    },
+    "Agonizing Lethargy": {
+      "name": "Agonizing Lethargy",
+      "description": "<p>Vous pouvez utiliser une action pour expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, la cible takes [[/r 1d6]] necrotic dégâts for each attack it makes jusqu'au début de votre prochain tour. </p>"
+    },
+    "Vanity": {
+      "name": "Vanity",
+      "description": "<p>When you reduce a hostile creature to 0 points de vie, you can expend and roll a dé de supériorité (no action required), regaining a number of points de vie equal to the result of the roll + your maneuver modificateur de caractéristique.</p>"
+    },
+    "Intimidating Presence": {
+      "name": "Intimidating Presence",
+      "description": "<p>As an action, you can make a Charisma (Intimidation) check and expend one dé de supériorité to attempt to frighten a humanoid creature who can see or hear you within 60 mètres. Add the dé de supériorité to the roll. La cible makes a contested Wisdom (Insight) check. If your check succeeds, la cible is effrayé of you jusqu'à la fin de votre prochain tour.</p>"
+    },
+    "Chains of Transfixing": {
+      "name": "Chains of Transfixing",
+      "description": "<p>You can use a action bonus to expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you that is no more than one size larger than you. La cible must succeed on a Strength jet de sauvegarde or gain four slowed niveaus jusqu'au début de votre prochain tour.</p>"
+    },
+    "Rattle": {
+      "name": "Rattle",
+      "description": "<p>On your turn, quand vous contactez with a attaque d'arme, you can use a action bonus and expend and roll one dé de supériorité to menace your target, dealing extra psychic dégâts equal to the amount rolled and forcing it to succeed on a Wisdom jet de sauvegarde or be effrayé of you jusqu'à la fin de votre prochain tour. </p>"
+    },
+    "Short Round": {
+      "name": "Tour court",
+      "description": "<p>When you cast a pouvoir de la Force of 1st-niveau or higher that has a casting time of 1 action, you can expend a dé de supériorité to change the casting time to 1 action bonus for this casting.</p>"
+    },
+    "Evasive Footwork": {
+      "name": "Evasive Footwork",
+      "description": "<p>When you move, you can expend one dé de supériorité, rolling the die and adding the number rolled to your AC until you stop moving.</p>"
+    },
+    "Exploit Weakness": {
+      "name": "Exploit Weakness",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend a dé de supériorité and deal additional true dégâts equal to the number rolled. </p>"
+    },
+    "Fast Access Programs": {
+      "name": "Fast Access Programs",
+      "description": "<p>When you cast a pouvoir technique of 1st-niveau or higher that has a casting time of 1 action, you can expend a dé de supériorité to change the casting time to 1 action bonus for this casting.</p>"
+    },
+    "Persuade": {
+      "name": "Persuade",
+      "description": "<p>When you make an Persuasion check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Parry": {
+      "name": "Parry",
+      "description": "<p>When another creature dégâtss you with a attaque au corps à corps, you can use your réaction and expend one dé de supériorité to reduce the dégâts by the number you roll on your dé de supériorité + your maneuver modificateur de caractéristique.</p>"
+    },
+    "Encouraging Pace": {
+      "name": "Encouraging Pace",
+      "description": "<p>You can use a action bonus to expend and roll a dé de supériorité. When you do so, a number of friendly creatures equal to your maneuver modificateur de caractéristique can immediately use their réaction to move a number of mètres equal to 5 times the number rolled on the dé de supériorité.</p>"
+    },
+    "Loyal Bond": {
+      "name": "Loyal Bond",
+      "description": "<p>Whenever you are hit with an attack, you can expend one dé de supériorité to command your companion to immediately use its réaction and move up to its speed directly towards you. If it ends this movement within 5 mètres of you, roll the dé de supériorité. Your companion takes the dégâts instead of you, subtracting the amount you rolled from the total.</p>"
+    },
+    "Force Resonance": {
+      "name": "Force Resonance",
+      "description": "<p>Immediately after you deal dégâts to a target with a force attack, you can expend a dé de supériorité and target a second creature that you can see within 30 mètres of the first creature. Roll the die, and the second creature takes force dégâts equal to the roll + your forcecasting modificateur. </p>"
+    },
+    "Deliberate Movement": {
+      "name": "Deliberate Movement",
+      "description": "<p>You can expend one dé de supériorité to take the Dash action as a action bonus and ignore the effects of unenhanced difficult terrain jusqu'à la fin de votre tour.</p>"
+    },
+    "Crippling Blow": {
+      "name": "Crippling Blow",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to cripple la créature. You add the dé de supériorité to the attack's jet de dégâts and la créature's gains 1 slowed niveau until the end of their next turn.</p>"
+    },
+    "Threaten": {
+      "name": "Threaten",
+      "description": "<p>When you make an Intimidation check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Program": {
+      "name": "Program",
+      "description": "<p>When you make an Technology check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Charging Attack": {
+      "name": "Attaque de charge",
+      "description": "<p>If you move at least 10 mètres towards your target before successfully hitting them with a attaque au corps à corps, you may expend a dé de supériorité, causing la cible to take additional dégâts equal to the result, and forcing it to make a Strength jet de sauvegarde. On a failed sauvegarde la créature is knocked à terre.</p>"
+    },
+    "Trip Attack": {
+      "name": "Attaque de voyage",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to knock la cible down. You add the dé de supériorité to the attack's jet de dégâts, and if la cible is Large or smaller, it must make a Strength jet de sauvegarde. On a failed sauvegarde, you knock la cible à terre.</p>"
+    },
+    "Goading Attack": {
+      "name": "Attaque d'aiguillon",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to goad la cible into attacking you. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible has disavantage on all attack rolls against targets other than you jusqu'à la fin de votre prochain tour.</p>"
+    },
+    "Empathize": {
+      "name": "Empathize",
+      "description": "<p>When you make an Insight check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Return Fire": {
+      "name": "Return Fire",
+      "description": "<p>When a creature misses you with a attaque à distance, you can use your réaction and expend one dé de supériorité to make a attaque d'arme à distance against la créature. If you hit, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Encouraging Speech": {
+      "name": "Encouraging Speech",
+      "description": "<p>You can expend a dé de supériorité to give an encouraging speech, spending the next minute rallying your allies. You grant two allies points de vie temporaires equal to the amount rolled on the dé de supériorité + your maneuver modificateur de caractéristique.</p>\n<p>This increases to three allies at niveau 5, four allies at niveau 9, five allies at niveau 13, and six allies at niveau 17.</p>"
+    },
+    "Maneuvering Attack": {
+      "name": "Attaque de manœuvre",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to maneuver one of your comrades into a more avantageous position. You add the dé de supériorité to the attack's jet de dégâts, and you choose a friendly creature who can see or hear you. </p>\n<p>That creature can use its réaction to move up to half its speed without provoking attaque d'opportunités from la cible of your attack.</p>"
+    },
+    "Weak Point Strike": {
+      "name": "Frappe du point faible",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend a dé de supériorité to temporarily daze la créature. Add the number rolled to the dégâts of the attaque d'arme and la créature must succeed on a Constitution jet de sauvegarde or be étourdi until the end of its next turn.</p>"
+    },
+    "Unrelenting Grasp": {
+      "name": "Unrelenting Grasp",
+      "description": "<p>Quand vous contactez une créature within 5 mètres of you with an attaque d'opportunité, you may expend a dé de supériorité. The creature takes additional dégâts equal to your dé de supériorité, and you may attempt to grapple la cible as part of the same réaction.</p>"
+    },
+    "Targeted Strike": {
+      "name": "Targeted Strike",
+      "description": "<p>When an ally who can see or hear you makes an attack against a creature, you can use your réaction to expend a dé de supériorité. You add the dé de supériorité to the attack roll, and the jet de dégâts if it hits. You can use this maneuver before or after the attack roll, but before the GM determines whether or not the attack hits.</p>"
+    },
+    "Handle Animal": {
+      "name": "Handle Animal",
+      "description": "<p>When you make an Dressage check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Pure Sabacc": {
+      "name": "Pure Sabacc",
+      "description": "<p>When you score a critical hit with a attaque d'arme, you can expend a dé de supériorité and roll it. On a roll of 4 or higher, you deal maximum dégâts on the weapon's jet de dégâts, including the dé de supériorité. On a roll of 3 or lower, you instead deal the minimum.</p>"
+    },
+    "Call to Arms (Improved)": {
+      "name": "Call to Arms (Improved)",
+      "description": "<p>When you use your Call to Arms maneuver, you can roll the dé de supériorité and extend the benefits of the maneuver to a number of allies up to the result of the roll, provided those allies can see or hear you.</p>"
+    },
+    "Self-Preservation": {
+      "name": "Self-Preservation",
+      "description": "<p>As a réaction quand vous faites a jet de sauvegarde against an effect you can see, you can expend a dé de supériorité and add it to the result. You can use this maneuver before or after making the jet de sauvegarde, but before any effects of the jet de sauvegarde are determined.</p>"
+    },
+    "Commander's Strike": {
+      "name": "Commander's Strike",
+      "description": "<p>When you take the Attack action on your turn, you can forgo one of your attacks and use a action bonus to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one dé de supériorité. That creature can immediately use its réaction to make one attaque d'arme, adding the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Strikeforce": {
+      "name": "Strikeforce",
+      "description": "<p>When you make a attaque d'arme au corps à corps against a creature, you can expend one dé de supériorité and add the number rolled to the attack roll. En cas de contacter, la cible takes additional force dégâts equal to the number rolled. </p>"
+    },
+    "Spine-Chilling Howls": {
+      "name": "Spine-Chilling Howls",
+      "description": "<p>As an action, you can expend one dé de supériorité to command your companion to frighten another creature. La cible must then succeed on a Wisdom jet de sauvegarde against your Maneuver sauvegarde DD or become effrayé of both you and your companion pendant 1 minute. The effrayé target can repeat the jet de sauvegarde at the end of each of its turns, ending the effect on itpersonnelle on a success.</p>"
+    },
+    "Conceal": {
+      "name": "Conceal",
+      "description": "<p>When you make an Stealth check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Wild Senses": {
+      "name": "Wild Senses",
+      "description": "<p>Whenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can request the aid of your companion by expending a dé de supériorité, adding the number rolled to the check. You can use this maneuver before or after making the test de caractéristique, but before the results of the test de caractéristique are determined.</p>"
+    },
+    "Steady the Nerves": {
+      "name": "Stabiliser les nerfs",
+      "description": "<p>As an action, you can expend one dé de supériorité to strengthen your allies' defenses. Roll a dé de supériorité. Until the end of your next turn, you and all allies within 5 mètres of you quand vous utilisez this action has a bonus to any jet de sauvegardes they make equal to the amount rolled.</p>"
+    },
+    "Inner Strength": {
+      "name": "Inner Strength",
+      "description": "<p>As an action, you can expend and roll one dé de supériorité, gaining points de vie temporaires equal to the result of the roll + your maneuver modificateur de caractéristique.</p>"
+    },
+    "Neuroblock": {
+      "name": "Neuroblock",
+      "description": "<p>When you make an attack roll, you can expend a dé de supériorité and add it to the attack roll. En cas de contacter, la créature's next attack has disavantage and it cannot regain points de vie jusqu'au début de votre prochain tour.</p>"
+    },
+    "Deceive": {
+      "name": "Deceive",
+      "description": "<p>When you make an Deception check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Precise Movements": {
+      "name": "Precise Movements",
+      "description": "<p>When you or a friendly creature you can see that can see or hear you moves, you can expend a dé de supériorité to give them verbal guidance and encouragement. </p>\n<p>Roll a dé de supériorité. The creature's speed increases by 5 times the number rolled, and they can move through the space of hostile creatures as if it were difficult terrain.</p>"
+    },
+    "Riposte": {
+      "name": "Riposte",
+      "description": "<p>When a creature misses you with a attaque au corps à corps, you can use your réaction and expend one dé de supériorité to make a attaque d'arme au corps à corps against la créature. If the attack hits, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Perceive": {
+      "name": "Perceive",
+      "description": "<p>When you make an Perception check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Wracking Torment": {
+      "name": "Wracking Torment",
+      "description": "<p>When a hostile creature you can see within 30 mètres would take dégâts from an effect you or a friendly creature controls, you can use your réaction and expend a dé de supériorité to temporarily weaken their resilience against it. Until the end of the turn, la cible loses resistance to the type de dégâtss of the triggering attack or power.</p>"
+    },
+    "Tumble": {
+      "name": "Tumble",
+      "description": "<p>When you make an Acrobatics check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Administer Aid (Improved)": {
+      "name": "Administer Aid (Improved)",
+      "description": "<p>Vous pouvez utiliser votre manœuvre Administrer l'aide comme une action ou un bonus d'action.</p>"
+    },
+    "Subtle Execution": {
+      "name": "Subtle Execution",
+      "description": "<p>When you cast a pouvoir technique, you may expend a dé de supériorité to cast the power without any visual or auditory cues. Creatures have disavantage on any Intelligence (Investigation) or Wisdom (Perception) checks made to determine if you were the caster.</p>"
+    },
+    "Body Over Bother": {
+      "name": "Body Over Bother",
+      "description": "<p>When you are forced to make an Strength, Dexterity, or Constitution jet de sauvegarde, you can expend a dé de supériorité to change the jet de sauvegarde ability to your maneuver modificateur de caractéristique.</p>"
+    },
+    "Incite": {
+      "name": "Incite",
+      "description": "<p>On your turn, you can use an action and expend one dé de supériorité to bolster the resolve of one of an ally within 30 mètres who can see or hear you. The ally can add your maneuver modificateur de caractéristique to every jet de dégâts they make jusqu'au début de votre prochain tour. </p>"
+    },
+    "Disarming Blow": {
+      "name": "Disarming Blow",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to disarm la cible, forcing it to drop one item de votre choix that it's holding. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Strength jet de sauvegarde. On a failed sauvegarde, it drops the object you choose. If you have a free hand and are within 5 mètres of la créature, you can catch the item. Otherwise, the object lands at la créature's mètres.</p>"
+    },
+    "Call the Guards": {
+      "name": "Appelez les gardes",
+      "description": "<p>When a creature makes an attack roll against you, you can use your réaction and expend a dé de supériorité and command a willing ally within 5 mètres of cette créature to use their réaction to intercede. The creature is then forced to make an attack on the ally instead. If the attack misses, the ally can immediately make a attaque d'arme against cette créature as a part of that same réaction. Roll the dé de supériorité, and add the result to the ally's attack roll.</p>"
+    },
+    "Rampage": {
+      "name": "Rampage",
+      "description": "<p>When you reduce a creature to 0 points de vie, you can use your action bonus to expend a dé de supériorité and move up to half your speed. If you end this movement within 5 mètres of a creature, you can make a single attaque d'arme au corps à corps against cette créature, adding the dé de supériorité to the attack roll.</p>"
+    },
+    "Runtime Extension": {
+      "name": "Runtime Extension",
+      "description": "<p>When a pouvoir technique you cast with a duration of 1 minute or longer reaches the end of its duration, you may expend a dé de supériorité to extend the duration of the power by a number of rounds equal to the number rolled on your dé de supériorité.</p>"
+    },
+    "Pushing Attack": {
+      "name": "Attaque poussée",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to drive la cible back. You add the dé de supériorité to the attack's jet de dégâts, and if la cible is Large or smaller, it must make a Strength jet de sauvegarde. On a failed sauvegarde, you push la cible up to 15 mètres away from you.</p>"
+    },
+    "Effective Flanking": {
+      "name": "Effective Flanking",
+      "description": "<p>As a action bonus, you choose a target within 30 mètres that you can see to make a Wisdom jet de sauvegarde. On a failed sauvegarde, roll a dé de supériorité; the result is added to the first attack roll against la créature before the start of your next turn.</p>"
+    },
+    "Adrenaline Hit": {
+      "name": "Coup d'adrénaline",
+      "description": "<p>You can use an action and expend one dé de supériorité to inject a creature with regenerative medication that temporarily enhances their agility. When you do so, a creature you can contact regains points de vie equal to the dé de supériorité roll. De plus, jusqu'au début de votre prochain tour, when cette créature would take dégâts, the amount is reduced by an amount equal to your maneuver modificateur de caractéristique.</p>"
+    },
+    "Daring Escape": {
+      "name": "Daring Escape",
+      "description": "<p>You can expend one dé de supériorité to take the Disengage action as a action bonus on your turn. Until the end of this turn, you have avantage on test de caractéristiques and jet de sauvegardes to break effects that would grapple, restrain or slow you.</p>"
+    },
+    "Call to Arms": {
+      "name": "Call to Arms",
+      "description": "<p>If you are surprised at the start of combat and aren't incapacitated, you can expend one dé de supériorité to act normally.</p>"
+    },
+    "Heads Up": {
+      "name": "Heads Up",
+      "description": "<p>When a friendly creature who can see or hear you makes a jet de sauvegarde, you can use your réaction and expend a dé de supériorité, adding the number rolled to the result of the jet de sauvegarde.</p>"
+    },
+    "One With Shadows": {
+      "name": "Celui avec des ombres",
+      "description": "<p>When you are in an area of dim light or darkness, you can use your action and expend one dé de supériorité to become invisible until you move or take a hostile action.</p>"
+    },
+    "One with the Force": {
+      "name": "Un avec la Force",
+      "description": "<p>Une fois par tour, quand vous faites a Constitution jet de sauvegarde to maintain concentration on a pouvoir de la Force, you can expend a dé de supériorité and add the number rolled to the jet de sauvegarde.</p>"
+    },
+    "One Step Ahead": {
+      "name": "One Step Ahead",
+      "description": "<p>When you roll initiative and you are not surprised, you can expend a dé de supériorité and add the number rolled to your Initiative check.</p>"
+    },
+    "Sic 'Em": {
+      "name": "Sic 'Em",
+      "description": "<p>As an action, you can expend a dé de supériorité and command your companion to savage a nearby enemy. Your companion can use its réaction to immediately move up to 10 mètres and make one attack, adding the dés de supériorité to the jet de dégâts on a hit.</p>"
+    },
+    "Commander's Strike (Greater)": {
+      "name": "Commander's Strike (Greater)",
+      "description": "<p>Lorsque vous utilisez la manœuvre Commander's Strike, vous pouvez choisir de renoncer à une attaque ou d'utiliser votre bonus d'action, plutôt que les deux. Toutes les autres règles de Commander's Strike s'appliquent toujours à vous.</p>"
+    },
+    "Distracting Blow": {
+      "name": "Distracting Blow",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to distract la créature, giving your allies an opening. You add the dé de supériorité to the attack's jet de dégâts. The next attack roll against la cible by an attacker other than you has avantage if the attack is made before the start of your next turn.</p>"
+    },
+    "Tyrannical Strike": {
+      "name": "Tyrannical Strike",
+      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité and use your réaction to issue a one-word command to a creature who can see or hear you. You add the dé de supériorité to the attack's jet de dégâts, and la cible must succeed on a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible must follow the command on its next turn. </p>\n<p>La cible automatically succeeds if it is immune to charm, it doesn't understand your language, or if your command is directly harmful to it.</p>"
+    },
+    "Feinting Attack": {
+      "name": "Attaque de feinte",
+      "description": "<p>You can expend one dé de supériorité and use a action bonus on your turn to feint, choosing une créature within 5 mètres of you as your target. You have avantage on your next attack roll against cette créature this turn. If that attack hits, add the dé de supériorité to the attack's jet de dégâts.</p>"
+    },
+    "Reverse Curse": {
+      "name": "Reverse Curse",
+      "description": "<p>When another creature attempts to charm or frighten you or an ally you can see within 15 mètres of you, you can use your réaction and expend a dé de supériorité and roll it to attempt to turn the effect back on cette créature. The creature must succeed on a Wisdom jet de sauvegarde or be be charmé or effrayé by you, dependent on the triggering ability, for a number of rounds equal to the die roll or until la créature takes any dégâts.</p>"
+    },
+    "No Escape": {
+      "name": "No Escape",
+      "description": "<p>Whenever you or an ally you can see makes an attaque d'opportunité, you can expend a dé de supériorité. If the attack hits, roll the dé de supériorité and add the result to the jet de dégâts. De plus, the affected creature gains 4 slowed niveaus until the start of its next turn.</p>"
+    },
+    "Enhancement Injection": {
+      "name": "Enhancement Injection",
+      "description": "<p>As an action, you can expend one dé de supériorité to inject a creature you can contact with enhancements, granting them points de vie temporaires equal to the dé de supériorité roll + your maneuver modificateur de caractéristique, which last pendant 1 minute. De plus, when la cible makes a Strength or test de Constitution or jet de sauvegarde while it has these points de vie temporaires, it gains a bonus equal to your maneuver modificateur de caractéristique.</p>"
+    },
+    "Overcapacity Powers": {
+      "name": "Overcapacity Powers",
+      "description": "<p>When you cast a pouvoir technique of 1st-niveau or higher, you may expend a dé de supériorité to cast the power at a higher niveau, provided it does not exceed your Maximum Power Niveau. Roll the dé de supériorité, and add it to the niveau at which you are casting the power. Vous pouvez choisir to cast it at this new power niveau or lower.</p>"
+    },
+    "Naturalize": {
+      "name": "Naturalize",
+      "description": "<p>When you make an Nature check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+    },
+    "Fortune and Glory": {
+      "name": "Fortune et gloire",
+      "description": "<p>When you would make a attaque d'arme against a target within 30 mètres, you can instead manipulate the Force to expend a dé de supériorité and make a Escamotage check using your universal forcecasting ability to plant something on la cible, conceal an object on la cible, lift la cible's purse, or take something from its pocket. Roll the dé de supériorité, and add the result to the check.</p>"
+    },
+    "Commander's Strike (Improved)": {
+      "name": "Commander's Strike (Improved)",
+      "description": "<p>Lorsque vous utilisez la manœuvre Frappe du commandant, vous n'êtes plus obligé de renoncer à une attaque dans le cadre de cette manœuvre. Toutes les autres règles de Commander's Strike s'appliquent toujours à vous.</p>"
+    },
+    "Rally": {
+      "name": "Rally",
+      "description": "<p>On your turn, you can use a action bonus and expend one dé de supériorité to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains points de vie temporaires equal to the dé de supériorité roll + your maneuver modificateur de caractéristique.</p>"
+    },
+    "Assess the Situation": {
+      "name": "Évaluer la situation",
+      "description": "<p>You can expend one dé de supériorité to make a Wisdom (Perception) or Intelligence (Investigation) check as a action bonus, adding the dé de supériorité to the check.</p>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}
