@@ -147,7 +147,7 @@
     },
     "Role: Ambassador": {
       "name": "Role: Ambassador",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Ambassadeur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Charisme </span>et <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>attributes.</p>"
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Ambassadeur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Charisme </span>et <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>attributs.</p>"
     },
     "Broadside": {
       "name": "Broadside",
@@ -227,7 +227,7 @@
     },
     "Role: Warship": {
       "name": "Role: Warship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributes.</p>"
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Prime Doctrine": {
       "name": "Prime Doctrine",
@@ -235,7 +235,7 @@
     },
     "Role: Cruiser": {
       "name": "Role: Cruiser",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Cruiser</h3><p>Votre navire gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Cruiser</h3><p>Votre navire gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span> et <span style=\"font-family:'Open Sans', sans-serif\">attributs Force </span>.</p>"
     },
     "Role: Ship's Tender": {
       "name": "Role: Ship's Tender",
@@ -275,7 +275,7 @@
     },
     "Role: Battleship": {
       "name": "Role: Battleship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributes.</p>"
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Paragon Snubfighter: Bomber": {
       "name": "Paragon Snubfighter: Bomber",

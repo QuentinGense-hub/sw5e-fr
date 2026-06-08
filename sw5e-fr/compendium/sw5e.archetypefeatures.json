@@ -10,7 +10,7 @@
       "description": "<p><em><strong>Pratique des Acquisitions :</strong> niveau 17</em></p>\n<p>You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.</p>\n<p>De plus, you learn to utilize the momentum of your fall to make deadly vertical strikes. Whenever you fall at least 50 mètres and land within 5 mètres of an enemy creature you can use your réaction to make one attaque d'arme against cette créature. If the attack is a Sneak Attack, you can deal three additional weapon dice worth of dégâts and la créature must make a Dexterity jet de sauvegarde or be knocked à terre.</p>"
     },
     "deft-hands": {
-      "name": "Mains Agiles",
+      "name": "Principes Agiles",
       "description": "<p><em><strong>Pratique des Acquisitions :</strong> niveau 3</em></p>\n<p>You learn a number of techniques to distract and confuse your opponents. When you deal Sneak Attack dégâts, you may choose to forgo two of your Sneak Attack dice to perform a deft hand maneuver.</p>\n<p>Some of your deft hand maneuvers require your target to make a jet de sauvegarde to resist the deft hand maneuver's effects. The jet de sauvegarde DD is as follows:</p>\n<p><em></em>_</p>\n<p><strong>Deft Hands sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Dexterity modificateur</p>\n<p><em></em>_</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.5gesgqKFONRnpVBf]{Hinder}</h3>\n<p>You attempt to distract your target in order to hinder their movement. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, it gains 1 slowed niveau until the end of its next turn and it makes the first Dexterity jet de sauvegarde before the end of its next turn with disavantage.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.PWfpuwRQp3z4aMcu]{Pilfer}</h3>\n<p>You attempt to pick your target's pockets. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, you have avantage on the first Dexterity (Escamotage) check you make against la cible before the end of your next turn.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.w2C0cYCEY466rgc4]{Tumble}</h3>\n<p>You attempt to nimbly roll away. You immediately move 10 mètres in a direction de votre choix, and la cible must make a Dexterity jet de sauvegarde. On a failed sauvegarde, this movement does not provoke attaque d'opportunités from la créature.</p>"
     },
     "fast-and-agile": {
@@ -34,7 +34,7 @@
       "description": "<p><em><strong>Pratique des Acquisitions :</strong> niveau 9</em></p>\n<p>You have avantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn. De plus, as long as you aren't incapacitated, you no longer take dégâts from falling less than 100 mètres, and have resistance to falling dégâts.</p>"
     },
     "seeing-sound": {
-      "name": "Voir le Son",
+      "name": "Voir le Fils",
       "description": "<p><em><strong>Approche de l'Addiction :</strong> niveau 10</em></p>\n<p>While you are raging or experiencing the high of a substance, you have blindsight with a range of 10 mètres. If you are both raging and experiencing the high of a substance, you instead have blindsight with a range of 30 mètres. If you would already have blindsight, it instead increases by 5 mètres or 15 mètres, respectively.</p>"
     },
     "fuel-the-rampage": {
@@ -58,7 +58,7 @@
       "description": "<p><em><strong>Sp?cialiste Adepte :</strong> niveau 10</em></p> <p>Vous apprenez à récupérer rapidement une partie de votre énergie dépensée. Lorsque vous utilisez votre Second Souffle vous récupérez également un nombre de points de Forces égal à votre modificateur de Sagesse ou de Charisme (au choix, au minimum un). </p>"
     },
     "growing-momentum": {
-      "name": "Momentum Croissant",
+      "name": "L'élan des croissants",
       "description": "<p><em><strong>Sp?cialiste Adepte :</strong> 3rd, 5th, 9th, 13th, and niveau 17</em></p>\n<p>You can cast the <em>burst of speed</em> pouvoir de la Force targeting yourpersonnelle at 1st-niveau without expending point de Forces. At niveau 10, when you do so, your speed increases by an additional 10 mètres. At niveau 18, when you do so, your speed increases by an additional 10 mètres.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and niveau 17. You regain any expended uses when you finish a repos long.</p>"
     },
     "unstoppable-force": {
@@ -86,7 +86,7 @@
       "description": "<p><em><strong>Marauder Approach:</strong> niveau 3</em></p>\n<p>You have derived powers from your primal connection to the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the pouvoir de la Forces list.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.8qvvx8CyczbPIhuQ]{Force Powers Known}</h3>\n<p>You learn 4 pouvoir de la Forces de votre choix, and you learn more at higher niveaus, as shown in the Force Powers Known column of the Marauder Approach Forcecasting table. You may not learn a pouvoir de la Force of a niveau higher than your Max Power Niveau, and you may learn a pouvoir de la Force at the same time you learn its prerequisite.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.Z405AB5Z6fg0iaXX]{Force Points}</h3>\n<p>You have a number of point de Forces equal to your berserker niveau, as shown in the Force Points column of the Marauder Approach Forcecasting table, + your Wisdom or Charisma modificateur (your choice). You use these point de Forces to cast pouvoir de la Forces. Vous regagnez tous expended point de Forces when you finish a repos long.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.Nosp7x8efw2Qnepc]{Max Power Niveau}</h3>\n<p>Many pouvoir de la Forces can be overpowered, consuming more point de Forces to create a greater effect. You can overpower these abilities to a maximum niveau, which increases at higher niveaus, as shown in the Max Power Niveau column of the Marauder Approach Forcecasting table.</p>\n<p>You may only cast pouvoir de la Forces at 4th-niveau once. You regain the ability to do so after a repos long.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.sUKER5KFKJFsumlc]{Forcecasting Ability}</h3>\n<p>Your forcecasting ability varies based on the alignment of the powers you cast. You use Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability whenever a power refers to your forcecasting ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a pouvoir de la Force you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Force sauvegarde DD</strong> = 8 + your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>\n<p><strong>Force attack modificateur</strong> = your bonus de maîtrise + your forcecasting modificateur de caractéristique</p>\n<p><em></em>_</p>"
     },
     "max-power-level": {
-      "name": "Niveau de Puissance Maximal",
+      "name": "Niveau de Puissance Maximale",
       "description": "<p>De nombreuses techniques de pouvoir peuvent être surchargées, consommant plus de points technologiques pour créer un effet plus important. Vous pouvez surcharger ces pouvoirs jusqu'à un niveau maximum, qui augmente à des niveaux plus élevés, comme indiqué dans la colonne Niveau de puissance maximum du tableau Slicer Pursuit Techcasting.</p> <p>Vous ne pouvez lancer des techniques de pouvoir qu'une seule fois au 4ème niveau. Vous retrouvez la possibilité de le faire après une longue période de repos.</p>"
     },
     "whirling-weapons": {
@@ -98,7 +98,7 @@
       "description": "<p><em><strong>Aing-Tii Order:</strong> niveau 11</em></p>\n<p>When you take the Attack action, you can teleport up to 10 mètres before each attack to an unoccupied space you can see.</p>\n<p>If you attack at least two different creatures with the action, you can make one additional attack against a third creature (no action required).</p>"
     },
     "flow-walking": {
-      "name": "Marche du Flux",
+      "name": "Marché du Flux",
       "description": "<p><em><strong>Aing-Tii Order:</strong> 6th, 9th, 13th, and niveau 17</em></p>\n<p>You can cast the <em>phasestrike</em> pouvoir de la Force without expending point de Forces. When you reach niveau 11, the dégâts bonus of the special attack made during <em>phasestrike</em> increases to [[/r 2d8]], and at niveau 17 it increases to [[/r 3d8]].</p>\n<p>De plus, quand vous utilisez your action to cast an at-will pouvoir de la Force, you can use your Martial Arts or Focus features.</p>\n<p>You can use these features a combined three times. You gain an additional use at 9th, 13th, and niveau 17. You regain any expended uses when you finish a repos long.</p>"
     },
     "iridescent-strikes": {
@@ -126,7 +126,7 @@
       "description": "<p><em><strong>Forme Ysannanite :</strong> niveau 3</em></p> <p>Vous obtenez la forme de sabre laser Ysannanite, détaillée dans la section Formes de sabre laser du document Options de personnalisation pour le contenu étendu. Si vous connaissez déjà cette forme, vous pouvez choisir une autre forme de sabre laser.</p>"
     },
     "techcasting-secrets": {
-      "name": "Secrets Techniques",
+      "name": "Techniques secrètes",
       "description": "<p><em><strong>Voie de la Technologie :</strong> 6th, 7th, 13th, and niveau 17</em></p> <p>Vous avez appris à imiter les effets technologiques. Choisissez deux techniques de pouvoir de niveau 1. Les pouvoirs choisis comptent pour vous comme pouvoir universel de la Forces, mais ne sont pas compris dans le nombre de la colonne Pouvoirs connus du tableau consulaire.</p> <p>Au niveau 7, vous apprenez deux techniques de pouvoir supplémentaires de 1er ou de niveau 2. Au niveau 13, vous apprenez deux techniques de pouvoir de 1er-niveau 3, et au niveau 17, vous apprenez deux techniques de pouvoir de 1er-niveau 4. A chaque fois que vous gagnez un niveau dans cette classe, vous pouvez choisir un des pouvoirs techniques que vous connaissez et le remplacer par un autre pouvoir technique du même niveau.</p>"
     },
     "cause-harm": {
@@ -150,7 +150,7 @@
       "description": "<p><em><strong>Poursuite de l'Arch?ologue :</strong> niveau 3</em></p> <p>Lorsque vous analysez une créature hostile, vous pouvez utiliser des manœuvres qui nécessitent une attaque d'arme lorsque vous lancez un pouvoir de la Force qui nécessite une attaque de force et vous pouvez utiliser des manœuvres qui nécessitent un coup avec une attaque. d'arme lorsqu'une créature échoue à un jet de sauvegarde contre un pouvoir de la Force que vous lancez.</p>"
     },
     "studious-excavator": {
-      "name": "Excavateur Studie",
+      "name": "Étude d'excavatrice",
       "description": "<p><em><strong>Poursuite de l'Arch?ologue :</strong> niveau 3</em></p>\n<p>You gain maîtrise with archaeologist kits and in the Lore skill. De plus, you can't have disavantage on checks you make with them.</p>"
     },
     "force-carving": {
@@ -171,7 +171,7 @@
     },
     "deflective-layer": {
       "name": "Couche Réfléchissante",
-      "description": "<p>Your classe d'armure increases by 1.</p>"
+      "description": "<p>Votre classe d'armure augmente de 1.</p>"
     },
     "grappling-line": {
       "name": "Câble de Grappin",
@@ -182,7 +182,7 @@
       "description": "<p>Vous pouvez utiliser une action pour faire bénéficier votre personnel des bénéfices du <em>true Sight</em> pouvoir de la Force pendant 1 heure. Une fois que vous utilisez cette fonctionnalité, vous devez terminer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "neural-interface": {
-      "name": "Interface Neurale",
+      "name": "Interface neuronale",
       "description": "<p>You are immune to all effects that would cause you to be charmé or effrayé.</p>"
     },
     "spiked-retribution": {
@@ -270,7 +270,7 @@
       "description": "<p><em><strong>Technique de l'Artilleur :</strong> niveau 15</em></p>\n<p>You can now expend two uses of your Modular Munitions feature when you cast a pouvoir technique to apply two empowerment effects, instead of only one. De plus, you gain three additional empowerment effects:</p>\n<ul>\n<li><strong>Confusion</strong>: Each creature dégâtsd by this power must make a Charisma jet de sauvegarde. On a failure, on its next turn, a creature must use its action to make a attaque au corps à corps against a randomly determined creature within its reach. If there is no creature within its reach, la créature does nothing this turn.</li>\n<li><strong>Knockout</strong>: Each creature dégâtsd by this power must succeed on a Strength jet de sauvegarde or be knocked à terre.</li>\n<li><strong>Static</strong>: Each creature dégâtsd by this power must succeed on an Intelligence jet de sauvegarde or become shocked jusqu'au début de votre prochain tour.</li>\n</ul>\n<p>De plus, when you would spend 1 tech point to apply an empowerment effect, it no longer reduces your maximum tech points.</p>"
     },
     "modular-munitions": {
-      "name": "Munitions Modulaires",
+      "name": "Munitions modulaires",
       "description": "<p><em><strong>Technique de l'Artilleur :</strong> niveau 3</em></p>\n<p>When you cast a pouvoir technique, rather than having it take effect instantly, vous pouvez choisir to delay the effect to occur on initiative count 20 (losing all initiative ties). When you do so, any creature that leaves the affected area of your pouvoir technique is unaffected when the pouvoir technique occurs. If the power would only target une créature, and cette créature moves from the space it was in when you cast the power, the pouvoir technique automatically misses if it would call for an attack roll, as if you had rolled a 1 on the attack, and la créature automatically succeeds on the jet de sauvegarde against the power if it calls for a jet de sauvegarde, as if it had rolled a 20 on the sauvegarde.</p>\n<p>De plus, when you cast a pouvoir technique and choose to delay it in this way, and that pouvoir technique would deal dégâts, you can apply one of the following additional empowerment effects:</p>\n<ul>\n<li><strong>Flashbang</strong>: Each creature dégâtsd by this power must succeed on a Constitution jet de sauvegarde or be aveuglé and assourdi jusqu'au début de votre prochain tour.</li>\n<li><strong>Mire:</strong> Each creature dégâtsd by this power must succeed on a Dexterity jet de sauvegarde or gain one slowed niveau jusqu'au début de votre prochain tour.</li>\n<li><strong>Psyche:</strong> Each creature dégâtsd by this power must succeed on a Wisdom jet de sauvegarde or become effrayé jusqu'au début de votre prochain tour.</li>\n</ul>\n<p>If an empowerment effect calls for a jet de sauvegarde, the DD equals your tech sauvegarde DD.</p>\n<p>You can use these features a combined number of times equal to your bonus de maîtrise, as shown in the scout table. Vous regagnez tous expended uses when you complete a short or repos long.</p>\n<p>While you have no remaining uses of this feature, you can instead expend 1 tech point to use it. When you do so, your maximum tech points are reduced by 1 until you complete a repos long.</p>"
     },
     "sundered-defenses": {
@@ -278,7 +278,7 @@
       "description": "<p><em><strong>Technique de l'Artilleur :</strong> niveau 7</em></p> <p>Vos bombardements précis font s'effondrer même les défenses les plus endurcies. Lorsque vous lancez un pouvoir qui nécessite une attaque technologique ou un jet de sauvegarde de Dextérité, il réduit la couverture partielle d'un cran (de trois quarts à moitié ou de moitié à un quart) contre les créatures affectées. Si une créature affectée a un quart de couverture, votre pouvoir l'ignore entièrement.</p>"
     },
     "double-up": {
-      "name": "Doubler",
+      "name": "Doubleur",
       "description": "<p><em><strong>Technique de l'Artilleur :</strong> niveau 11</em></p>\n<p>When you deal dégâts to a creature with a weapon or pouvoir technique, your turret has avantage on the next attack roll it makes against la créature or it has disavantage on the first jet de sauvegarde it makes against an effect your turret controls before the start of your next turn. When your turret deals dégâts to a creature, you have avantage on your next attack roll against la créature or it has disavantage on the first jet de sauvegarde it makes against an effect you control before the start of your next turn.</p>"
     },
     "turret-companion": {
@@ -290,12 +290,12 @@
       "description": "<p><em><strong>Technique d'artillerie (compagnon):</strong> niveau 15</em></p> <p>Lorsque vous utilisez votre fonction Combat Tech, vous et votre tourelle pouvez chacun effectuer une attaque d'arme dans le cadre du même bonus d'action.</p>"
     },
     "crisis-management": {
-      "name": "Gestion de Crise",
+      "name": "Gestion de crise",
       "description": "<p><em><strong>Technique de l'Artilleur :</strong> niveau 7</em></p>\n<p>While you can see your turret, it can add half its bonus de maîtrise to any jet de sauvegardes it makes that doesn't already include it.</p>"
     },
     "additional-fighting-style": {
       "name": "Style de Combat Supplémentaire",
-      "description": "<p><em><strong>Sp?cialiste d'Assaut :</strong> niveau 10</em></p>\n<p>Vous pouvez choisir a second fighting style option.</p>"
+      "description": "<p><em><strong>Spécialiste d'Assaut :</strong> niveau 10</em></p>\n<p>Vous pouvez choisir une deuxième option de style de combat.</p>"
     },
     "brute-force": {
       "name": "Force Brute",
@@ -350,7 +350,7 @@
       "description": "<p><em><strong>Ing?nierie AstroTech :</strong> niveau 18</em></p>\n<p>As an action, you can end your field in a electromagnetic burst of power with an effect determined by the field you were generating.</p>\n<p>Once you've used this feature, you must complete a repos long before you can use it again.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.qHLiXj901pgIwyif]{Ionizing Burst}</h3>\n<p>Choose up to 10 creatures de votre choix that are within 60 mètres. Each must make a Constitution jet de sauvegarde. On a failed sauvegarde, a target takes [[/r 14d6]] ion dégâts and is étourdi jusqu'au début de votre prochain tour. On a success, it takes half dégâts and isn't étourdi.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.1pTRVqkZs6evDXMq]{Jamming Burst}</h3>\n<p>Choose up to 10 creatures de votre choix that are within 60 mètres. Once in the next minute, when a chosen creature fails a jet de sauvegarde caused by a pouvoir technique or is hit by an attack power, la créature can choose to succeed on the jet de sauvegarde or have the attack miss instead.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.gT09WHlMz3U5Vu4m]{Targeting Burst}</h3>\n<p>Choose up to 10 creatures de votre choix that are within 60 mètres. Each creature must succeed on a Constitution jet de sauvegarde against your tech sauvegarde DD or be aveuglé for [[/r 1d4+1]] turns. </p>"
     },
     "ionizing-burst": {
-      "name": "Salve Ionisante",
+      "name": "Baume Ionisante",
       "description": "<p>Choose up to 10 creatures de votre choix that are within 60 mètres. Each must make a Constitution jet de sauvegarde. On a failed sauvegarde, a target takes [[/r 14d6]] ion dégâts and is étourdi jusqu'au début de votre prochain tour. On a success, it takes half dégâts and isn't étourdi.</p>"
     },
     "jamming-burst": {
@@ -378,7 +378,7 @@
       "description": "<p><em><strong>Ing?nierie AstroTech :</strong> niveau 3</em></p>\n<p>When your droid makes an attack roll, you can use your réaction to expend one use of your Potent Aptitude to give it a boost. Roll the die and add it to both the attack and jet de dégâtss, if the attack hits.</p>"
     },
     "whirlwind-attack": {
-      "name": "Attaque Tourbillon",
+      "name": "Tourbillon d'Attaque",
       "description": "<p>Vous pouvez utiliser votre action pour make attaque au corps à corpss against any number of creatures within 5 mètres of you, with a separate attack roll for each target.</p>"
     },
     "master-of-aggression": {
@@ -406,7 +406,7 @@
       "description": "<p>Choose up to 10 creatures de votre choix that you can see and that can hear your song. Each must make a Constitution jet de sauvegarde. On a failed sauvegarde, a target takes [[/r 14d6]] sonic dégâts and is étourdi for [[/r 1d4+1]] turns. On a success, it takes half dégâts and isn't étourdi. If a creature is killed by this power, its head explodes.</p>"
     },
     "disruption-crescendo": {
-      "name": "Crescendo de Disruption",
+      "name": "Crescendo de perturbation",
       "description": "<p>Choose up to 10 creatures de votre choix that you can see and that can hear your song. Each creature must succeed on a Constitution jet de sauvegarde or be paralysé for [[/r 1d4+1]] turns. If a creature affected by this feature is dégâtsd in any way, the effect ends for cette créature.</p>"
     },
     "legendary-coda": {
@@ -430,15 +430,15 @@
       "description": "<p>When an ally within 60 mètres of you that can hear you deals dégâts to a creature, you can use your réaction to expend one use of your Potent Aptitude, adding the result of the die to the dégâts dealt.</p>"
     },
     "song-of-disruption": {
-      "name": "Chant de Disruption",
+      "name": "Chant de perturbation",
       "description": "<p>When an enemy within 60 mètres of you that can hear you makes a jet de sauvegarde, you can use your réaction to expend one use of your Potent Aptitude, subtracting the result of the die from their jet de sauvegarde.</p>"
     },
     "song-of-support": {
-      "name": "Chant de Soutien",
+      "name": "Chant de soutien",
       "description": "<p>When an ally within 60 mètres of you that can hear you makes a jet de sauvegarde against a harmful effect, you can use your réaction to expend one use of your Potent Aptitude, adding the result of the die to their jet de sauvegarde.</p>"
     },
     "concussive-blast": {
-      "name": "Explosion de Concussion",
+      "name": "Explosion de commotion cérébrale",
       "description": "<p><em><strong>Ing?nierie AudioTech :</strong> niveau 6</em></p>\n<p>You add your Intelligence modificateur (a minimum of +1) to any dégâts you deal with pouvoir techniques and class features that deal sonic dégâts.</p>"
     },
     "down-not-out": {
@@ -478,7 +478,7 @@
       "description": "<p><em><strong>Approche du Ma?tre des B?tes :</strong> niveau 3</em></p>\n<p>When you have avantage on an attack roll against a creature your companion has dealt dégâts since the start of your last turn, you can reroll one of the dice once. When your companion has avantage on an attack roll against a creature you've dealt dégâts since the start of your last turn, it can reroll one of the dice once.</p>"
     },
     "animalistic-momentum": {
-      "name": "Momentum Animal",
+      "name": "Animal d'élan",
       "description": "<p><em><strong>Approche du Ma?tre des B?tes :</strong> 6th, 11th, and niveau 17</em></p>\n<p>Your bond with your beast companion strengthens, granting the following benefits while your beast companion is within 10 mètres of you:</p>\n<ul>\n<li>If you or your beast have a climbing or swimming speed and the other doesn't, the other gains it with the same speed. If you both have the a climbing or swimming speed, you both use the larger speed of the two, which then increases by 5 mètres.</li>\n<li>Whenever your beast deals dégâts to a hostile creature you can see on your turn, it counts as you taking a hostile action for the purposes of maintaining your rage.</li>\n</ul>\n<p>This radius increases to 30 mètres at niveau 11 60 mètres at niveau 17.</p>"
     },
     "beast-companion": {
@@ -490,11 +490,11 @@
       "description": "<p><em><strong>Beguiler Practice:</strong> niveau 13</em></p> <p>Chaque fois qu'une créature échoue à un jet de sauvegarde de Sagesse ou de Charisme contre un pouvoir de la Force ou une fonctionnalité de classe que vous utilisez, vous pouvez gagner des points de vie temporaires égaux à la moitié de votre niveau opérationnel + votre Charisme. modificateur (minimum de +1).</p> <p>Vous pouvez utiliser cette fonctionnalité cinq fois. Vous gagnez un usage supplémentaire au niveau 17. Vous regagnez tous les usages dépensés lorsque vous terminez un short ou un repos long.</p>"
     },
     "distracting-countenance": {
-      "name": "Mine Distrayante",
+      "name": "Distrayante de mines",
       "description": "<p><em><strong>Beguiler Practice:</strong> niveau 17</em></p>\n<p>As a action bonus, you can mask yourpersonnelle with the Force pendant 1 minute or until you are incapacitated. For the duration, whenever any creature tries to attack you for the first time on a turn, the attacker must make a Charisma jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Charisma modificateur). On a failed sauvegarde, it can't attack you on this turn, and it must choose a new target for its attack or the attack is wasted. On a successful sauvegarde, it can attack you on this turn, but it has disavantage on any jet de sauvegarde it makes against your powers on your next turn.</p>\n<p>Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
     },
     "fascinating-display": {
-      "name": "Spectacle Fascinant",
+      "name": "Des lunettes fascinantes",
       "description": "<p><em><strong>Beguiler Practice:</strong> niveau 3</em></p>\n<p>Vous pouvez dépenser 1 minute attemping to distract and enthrall those around you. Choose a number of humanoids within 60 mètres of you who watched your display for the duration, up to a number equal to your Charisma modificateur (minimum of one). Each target must succeed on a Wisdom jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Charisma modificateur) or be charmé by you. While charmé in this way, la cible idolizes you, speaking glowingly of you to anyone who talks to it. De plus, it hinders anyone who opposes you, although it avoids violence unless it was already inclined to fight on your behalf. Cet effet ends on a target after 1 hour, if it takes any dégâts, if you attack it, or if it witnesses you attacking or damaging any of its allies. If a target succeeds on this jet de sauvegarde, la cible has no hint you tried to charm it.</p>\n<p>Once you've used this feature, you must complete a repos long before you can use it again.</p>"
     },
     "mesmerizing-presence": {
@@ -666,7 +666,7 @@
       "description": "<p>You gain points de vie temporaires equal to your rage dégâts bonus. If la cible is agrippé by you, you instead gain points de vie temporaires equal to twice your rage dégâts bonus.</p>"
     },
     "double-swing": {
-      "name": "Double Balayage",
+      "name": "Balayage double",
       "description": "<p><em><strong>Cyclone Approach:</strong> niveau 3</em></p>\n<p>Une fois par chacun de vos tours when you miss with an attack while raging, you can immediately make a attaque au corps à corps with the weapon in your other hand. </p>"
     },
     "dual-wielder": {
@@ -678,7 +678,7 @@
       "description": "<p><em><strong>Approche de la Baston :</strong> niveau 3</em></p>\n<p>You've learned to hone your rage through your fists. Your unarmed strike dégâts increases by one step (from 1 to [[/r d4]], [[/r d4]] to [[/r d6]], or [[/r d6]] to [[/r d8]]).</p>"
     },
     "punishing-strike": {
-      "name": "Frappe Punitive",
+      "name": "Frappe punitive",
       "description": "<p>Your target must make a Constitution jet de sauvegarde. On a failed sauvegarde, la créature is assourdi until the start of its next turn. If la cible is agrippé by you, it is instead incapacitated until the start of its next turn.</p>"
     },
     "reckless-strikes": {
@@ -694,7 +694,7 @@
       "description": "<p><em><strong>Approche de la Baston :</strong> niveau 6</em></p>\n<p>Your rage causes your strikes to overcome the hardest of materials. While raging, you gain the following benefits:</p>\n<ul>\n<li>Your unarmed strikes and improved weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and dégâts.</li>\n<li>Your unarmed strikes deal double dégâts against structures.</li></ul>"
     },
     "twisting-winds": {
-      "name": "Vents Tourbillonnants",
+      "name": "Évents Tourbillonnants",
       "description": "<p><em><strong>Cyclone Approach:</strong> niveau 6</em></p>\n<p>Your unpredictable movement makes you harder to hit and pin down. When you make a jet de sauvegarde or test de caractéristiques to avoid being knocked à terre, pushed, agrippé, or entravé, it gains a bonus equal to your Strength or Dexterity modificateur (your choice) as long as it doesn't already include that modificateur.</p>"
     },
     "projected-barrier": {
@@ -746,7 +746,7 @@
       "description": "<p>Your maneuver ability varies based on the type of the maneuver you use. You use Strength, Dexterity, or Constitution for physical maneuvers (your choice), Intelligence, Wisdom, or Charisma for mental maneuvers (your choice), and an ability de votre choix for general maneuvers. You use this ability whenever a maneuver refers to your maneuver ability. De plus, you use this modificateur de caractéristique when setting the jet de sauvegarde DD for a maneuver you use.</p>\n<p><em></em>_</p>\n<p><strong>Maneuver sauvegarde DD</strong> = 8 + your bonus de maîtrise + your maneuver modificateur de caractéristique</p>\n<p><em></em>_</p>"
     },
     "maneuvers-known": {
-      "name": "Maneuvres Connus",
+      "name": "Manœuvres Connus",
       "description": "<p>Vous apprenez deux manœuvres de votre choix et vous gagnez davantage aux niveaux supérieurs, comme indiqué dans la colonne Manœuvres connues du tableau de supériorité Maverick. De nombreuses manœuvres améliorent une attaque d’une manière ou d’une autre. Vous ne pouvez utiliser qu'une seule manœuvre par attaque, et vous ne pouvez utiliser chaque manœuvre qu'une fois par tour.</p> <p>Chaque fois que vous apprenez de nouvelles manœuvres, vous pouvez également remplacer une manœuvre que vous connaissez par une autre.</p>"
     },
     "reckless-maneuvers": {
@@ -790,7 +790,7 @@
       "description": "<p>You create a cage that surrounds a cube up to 10 mètres on each side centered on la cible location. The cube is surrounded on all sides except the ground by 2-foot-thick walls. The walls and roof are completely opaque, and you choose whether the structure has a light source when you deploy it that provides bright light within the cube. Otherwise, the space within the cube is in complete darkness. The cage is permeable, allowing air, water, and sound to pass through it. You can attempt to trap unwilling Medium or smaller creatures inside the cage. When you deploy this structure in an unwilling creature's space, it must make a Dexterity jet de sauvegarde against your tech sauvegarde DD. On a successful sauvegarde, it can immediately move to nearest unoccupied space outside of the cage. Otherwise, it is trapped within the structure when it is deployed. </p>\n<p>When you reach niveau 11, the cage can extend up to 15 mètres on each side, and it can trap creatures of Large size or smaller. When you reach niveau 17, the cage can extend up to 20 mètres on each side, and it can trap creatures of Huge size or smaller.</p>"
     },
     "portable-structure": {
-      "name": "Structure Portable",
+      "name": "Structure portative",
       "description": "<p><em><strong>Construction Engineering:</strong> 3rd, 11th, and niveau 17</em></p>\n<p>You have constructed a set of malleable, portable fortifications that can elevate you and your allies. Over the course of a repos long, you create a portable structure that travels with you. </p>\n<p>Your portable structure can only be directed by you, and you must have a tech focus in order to direct it remotely. If you lack a tech focus, you can instead direct it while it is within 5 mètres of you. Your portable structure has the following features:</p>\n<ul>\n<li>Its AC equals your tech sauvegarde DD.</li>\n<li>It has a number of points de vie equal to 5 x your engineer niveau. If your structure is reduced to 0 points de vie, it collapses and can't be used again until you spend 1 hour repairing it, which can be done during a short or repos long.</li>\n<li>You can restore missing points de vie to your structure by casting the <em>mending</em> pouvoir technique on it, or by completing a short or repos long. Casting the <em>mending</em> pouvoir technique restores a number of missing points de vie equal to your Intelligence modificateur (minimum of one), but it can't be repaired to more than half its point de vie maximum in this way. Completing a repos court restores your structure to half its point de vie maximum, and completing a repos repos longores it to its point de vie maximum.</li>\n<li>Your structure has two modes: dismantled and deployed. While dismantled, your structure's speed equals your own, it hovers 5 mètres off the ground, takes up the space of a 5-foot cube, and weighs 500 lbs. This increases to a 10-foot cube and 1,000 lbs. at niveau 11, and a 15-foot cube and 2,000 lbs. at niveau 17 as you upgrade it. While deployed, your structure's speed is 0 and it takes up space dictated by how its deployed.</li>\n</ul>\n<p>As an action, you can remotely deploy your structure at a space you can see on the ground within 30 mètres of you, provided there is sufficient space to support it. This range increases to 60 mètres at niveau 11 and 120 mètres at niveau 17. Automatic dismantling of your structure takes 1 minute, and can be initiated on your turn (no action required).</p>\n<p>You can deploy your choice from these structures a combined total of four times, and you gain more uses at higher niveaus, as shown in the Modification Slots column of the engineer table. Each time you use this feature in excess of your bonus de maîtrise, your tech point maximum is reduced by 1 until you complete a repos long. Vous regagnez tous expended uses when you complete a repos long.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.3lzwd2q1VO1B0l6E]{Bridge}</h3>\n<p>You deploy a bridge up to 30 mètres long, 10 mètres wide, and 3 mètres thick. The bridge starts from the point at which you deploy it, and extends in a direction de votre choix. When you dismantle your bridge, it retracts to the point at which you initially deployed it. Both ends of the bridge must be supported in some fashion; one end cannot be suspended in the air or on unstable terrain. The bridge can hold up to 1,000 lbs., any weight above which causes the bridge to instantly drop to 0 points de vie, destroying it. If a creature is on the bridge when it is destroyed or dismantled, it must make a Dexterity jet de sauvegarde against your tech sauvegarde DD. On a successful jet de sauvegarde, it reaches the closest part of the bridge that has stable support, or it maintains a grip on your bridge as it retracts, as appropriate. On a failed sauvegarde, it falls. </p>\n<p>When you reach niveau 11, the bridge can now extend up to 45 mètres long, 15 mètres wide, and it can support up to 2,000 lbs. When you reach niveau 17, the bridge can now extend up to 60 mètres long, 20 mètres wide, and it can support up to 4,000 lbs.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.vLz3RnxZXsAtMNIN]{Cage}</h3>\n<p>You create a cage that surrounds a cube up to 10 mètres on each side centered on la cible location. The cube is surrounded on all sides except the ground by 2-foot-thick walls. The walls and roof are completely opaque, and you choose whether the structure has a light source when you deploy it that provides bright light within the cube. Otherwise, the space within the cube is in complete darkness. The cage is permeable, allowing air, water, and sound to pass through it. You can attempt to trap unwilling Medium or smaller creatures inside the cage. When you deploy this structure in an unwilling creature's space, it must make a Dexterity jet de sauvegarde against your tech sauvegarde DD. On a successful sauvegarde, it can immediately move to nearest unoccupied space outside of the cage. Otherwise, it is trapped within the structure when it is deployed. </p>\n<p>When you reach niveau 11, the cage can extend up to 15 mètres on each side, and it can trap creatures of Large size or smaller. When you reach niveau 17, the cage can extend up to 20 mètres on each side, and it can trap creatures of Huge size or smaller. </p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.Lx4AdR12TurVTJ3D]{Shelter}</h3>\n<p>You erect a shelter up to 15 mètres long, 10 mètres wide, and 10 mètres tall, with one-foot-thick walls, a roof, and a floor. It has a single door along its walls in a location de votre choix. The building has temperature control and lighting systems, and can withstand harsh winds, heavy rain and snow. Any creature inside the shelter is protected from hazardous environmental effects outside the shelter such as extreme heat or cold. The structure does not provide additional breathing air for anyone inside if the environment it is placed in is not breathable. The shelter can comfortably support up to 5 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures.</p>\n<p>When you reach niveau 11, the shelter can extend up to 30 mètres long, 15 mètres wide, 15 mètres tall, and it can now comfortably support up to 10 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures. De plus, when a creature completes a repos long while within your shelter, they regain all spent Hit Dice, instead of only half. When you reach niveau 17, the shelter can extend up to 45 mètres long, 20 mètres wide, 20 mètres tall, and it can now comfortably support up to 10 Large creatures. For each Large creature, it can instead support 2 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures. De plus, when a creature completes a repos long while within your shelter, their épuisement niveau is reduced by 2, instead of only 1.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.CQAL3aR5lknSTWqI]{Tower}</h3>\n<p>You erect a tower from a case de 1,5 mètre platform centered on la cible location that rises up to 30 mètres. If the tower is created under a creature, cette créature must succeed on a Dexterity jet de sauvegarde or be lifted by the tower. A creature can choose to fail the sauvegarde. The tower comes equipped with a ladder that reaches from the ground to the platform. </p>\n<p>When you reach niveau 11, the tower's platform can extend 5 mètres by 10 mètres and rise up to 40 mètres. When you reach niveau 17, the tower's platform can cover a case de 3 mètres, and rise up to 50 mètres. De plus, any creature on the tower's platform has avantage on Wisdom (Perception) checks that rely on sight.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.U3jN3Yfm6bmLOTbk]{Wall}</h3>\n<p>You deploy a wall up to 30 mètres long, 10 mètres high, and 3 mètres thick, or a ringed wall up to 10 mètres in diameter, 10 mètres high, and 3 mètres thick. The wall features ramparts deep enough to support creatures of Medium size or smaller, and provides one-quarter cover to any creature on its ramparts. The wall includes a ladder on the side de votre choix. You choose whether the wall contains any openings otherwise. Any openings chosen in this way can be seen through on both sides. The wall can be climbed, but requires a Strength (Athletics) check against your tech sauvegarde DD for any creature without a climbing speed. A creature can only make this check une fois par tour. </p>\n<p>When you reach niveau 11, the wall can deploy up to 45 mètres long and 15 mètres high, or a ringed wall up to 15 mètres in diameter and 15 mètres high. De plus, the wall now provides half cover to any creature on its ramparts. When you reach niveau 17, the wall can deploy up to 60 mètres long and 20 mètres high, or a ringed wall up to 20 mètres in diameter and 20 mètres high. De plus, the wall now provides three-quarters cover to any creature on its ramparts.</p>"
     },
     "shelter": {
@@ -798,7 +798,7 @@
       "description": "<p>You erect a shelter up to 15 mètres long, 10 mètres wide, and 10 mètres tall, with one-foot-thick walls, a roof, and a floor. It has a single door along its walls in a location de votre choix. The building has temperature control and lighting systems, and can withstand harsh winds, heavy rain and snow. Any creature inside the shelter is protected from hazardous environmental effects outside the shelter such as extreme heat or cold. The structure does not provide additional breathing air for anyone inside if the environment it is placed in is not breathable. The shelter can comfortably support up to 5 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures.</p>\n<p>When you reach niveau 11, the shelter can extend up to 30 mètres long, 15 mètres wide, 15 mètres tall, and it can now comfortably support up to 10 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures. De plus, when a creature completes a repos long while within your shelter, they regain all spent Hit Dice, instead of only half. When you reach niveau 17, the shelter can extend up to 45 mètres long, 20 mètres wide, 20 mètres tall, and it can now comfortably support up to 10 Large creatures. For each Large creature, it can instead support 2 Medium creatures. For each Medium creature, it can instead support 2 Small creatures. For each Small creature, it can instead support 2 Tiny creatures. De plus, when a creature completes a repos long while within your shelter, their épuisement niveau is reduced by 2, instead of only 1.</p>"
     },
     "tower": {
-      "name": "Tour",
+      "name": "Tournée",
       "description": "<p>You erect a tower from a case de 1,5 mètre platform centered on la cible location that rises up to 30 mètres. If the tower is created under a creature, cette créature must succeed on a Dexterity jet de sauvegarde or be lifted by the tower. A creature can choose to fail the sauvegarde. The tower comes equipped with a ladder that reaches from the ground to the platform. </p>\n<p>When you reach niveau 11, the tower's platform can extend 5 mètres by 10 mètres and rise up to 40 mètres. When you reach niveau 17, the tower's platform can cover a case de 3 mètres, and rise up to 50 mètres. De plus, any creature on the tower's platform has avantage on Wisdom (Perception) checks that rely on sight.</p>"
     },
     "wall": {
@@ -826,7 +826,7 @@
       "description": "<p><em><strong>Crimson Order:</strong> 6th, 11th, and niveau 17</em></p>\n<p>You've learned to enhance your kata. As a action bonus while wielding a monk weapon, you can expend 1 focus point to cause the area within 5 mètres of you to become difficult terrain for hostile creatures pendant 1 minute. This area travels with you, and affected creatures within the area can not make attaque d'opportunités.</p>\n<p>At niveau 11, the range of this area increases to 15 mètres, and at niveau 17, the range of this area increases to 30 mètres.</p>"
     },
     "vigilant-sentinel": {
-      "name": "Sentinelle Vigilante",
+      "name": "Sentinelle justicier",
       "description": "<p><em><strong>Crimson Order:</strong> niveau 11</em></p>\n<p>When you attempt to perceive your surroundings on your turn, you can opt to not move on that turn. If you avoid moving, you gain a +10 bonus to your Wisdom (Perception) checks jusqu'au début de votre prochain tour. You lose this benefit if you move or fall à terre, either voluntarily or because of some external effect.</p>"
     },
     "sovereign-protector": {
@@ -834,11 +834,11 @@
       "description": "<p><em><strong>Ordre Crimson :</strong> niveau 17</em></p> <p>Votre maîtrise de la concentration vous a permis de libérer tout votre potentiel au combat. En bonus d'action, vous pouvez gagner les effets suivants pendant 1 minute.</p> <ul> <li>Votre vitesse est doublée.</li> <li>Votre CA augmente de 2.</li> <li>Vous bénéficiez d'un avantage sur les jets de sauvegardes de Dextérité.</li> <li>Vous gagnez une action supplémentaire à chacun de vos tours. Cette action ne peut être utilisée que pour effectuer l'action Attaque (une seule attaque d'arme), Se précipiter, Se désengager, Se cacher ou Utiliser un objet.</li> </ul> <p>Cet effet se termine plus tôt si vous êtes frappé d'incapacité ou si vous mourez. Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un dépôt long.</p>"
     },
     "crimson-armaments": {
-      "name": "Armements Cramoisis",
+      "name": "Armements Cramoïse",
       "description": "<p><em><strong>Crimson Order:</strong> niveau 3</em></p>\n<p>You gain maîtrise in light and medium armor. If you are already proficient in light and medium armor, you instead gain maîtrise in heavy armor. De plus, you can now gain the benefits of your Martial Arts and Unarmored Movement features while wearing armor as long as you are not wielding a shield.</p>\n<p>De plus, you've learned to adapt to new weaponry. Over the course of an hour, which can be performed during a repos court, you can perform a kata with a weapon de votre choix. You gain maîtrise in that weapon if you do not already have maîtrise, and it becomes a monk weapon for you. You can only adapt to one weapon at a time, and if you attempt to adapt to another weapon you immediately lose your maîtrise with the chosen weapon.</p>"
     },
     "adaptable-applications": {
-      "name": "Applications Adaptables",
+      "name": "Applications adaptables",
       "description": "<p><em><strong>Cybertech Engineering (Old):</strong> 6th, 9th, 13th, and niveau 17</em></p>\n<p>When you cast a pouvoir technique of niveau 1 or higher, vous pouvez choisir to deal additional dégâts or provide additional healing with that power. The additional dégâts or healing equals half your engineer niveau.</p>\n<p>You can use this feature three times. You gain an additional use at 9th, 13th, and niveau 17. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "combat-contrivances": {
@@ -850,7 +850,7 @@
       "description": "<p><strong><em>Ing?nierie CyberTech :</em></strong><em> niveau 14</em> </p>\n<p>Whenever a creature rolls a natural 1 on a jet de sauvegarde against one of your pouvoir techniques they take double dégâts from that power. If the power doesn't deal dégâts, instead they have disavantage on their next jet de sauvegarde against a pouvoir technique you cast.</p>"
     },
     "maximum-output": {
-      "name": "Rendement Maximum",
+      "name": "Rendu maximum",
       "description": "<p><em><strong>Heavy Weapons Specialist:</strong> niveau 7</em></p>\n<p>When you take the Attack action while wielding a weapon with the heavy or strength properties, you can forgo one or more attacks. If you do so, the first time you deal dégâts with the weapon before the start of your next turn, you deal additional dégâts of the same type as the weapon's dégâts. If this instance would deal dégâts to multiple creatures, you can only apply this additional dégâts to one of them. For each attack you forgo, you deal additional dégâts equal to [[/r 1d12]] + half your fighter niveau. If you miss with the first attack roll you make before the end of your next turn, or une cible succeeds on the jet de sauvegarde against your weapon's burst or rapid property, you instead deal normal weapon dégâts.</p>"
     },
     "perfected-purposing": {
@@ -918,7 +918,7 @@
       "description": "<p><em><strong>Spécialiste des démolitions:</strong> niveau 18</em></p> <p>Quand une créature rate son jet de sauvegarde contre une charge ou une grenade lancée par vous, elle est désavantagée lors du prochain jet de sauvegarde de Dextérité qu'elle effectue avant la fin de votre prochain tourner.</p>"
     },
     "cause-and-effect": {
-      "name": "Cause et Effet",
+      "name": "Causes et Effets",
       "description": "<p><em><strong>Demolitions Specialist:</strong> niveau 7</em></p>\n<p>You learn to throw grenades as a action bonus. De plus, when a creature fails a jet de sauvegarde against a charge or grenade, you can expend a dé de supériorité to apply one of your maneuvers. You can only use this feature once per grenade.</p>"
     },
     "discombobulate": {
@@ -926,7 +926,7 @@
       "description": "<p><em><strong>Detective Pursuit:</strong> niveau 17</em></p>\n<p>When you use a scholar maneuver on a hostile creature, you can force cette cible to make a Wisdom jet de sauvegarde against your maneuver sauvegarde DD. On a failed sauvegarde, la cible is étourdi pendant 1 minute. La cible can repeat the jet de sauvegarde at the end of each of its turns, ending the effect on itpersonnelle on a success.</p>\n<p>Once you use this feature, you can't do so again until you finish a short or repos long.</p>"
     },
     "intelligent-applications": {
-      "name": "Applications Intelligentes",
+      "name": "Applications intelligentes",
       "description": "<p><em><strong>Detective Pursuit:</strong> niveau 3</em></p> <p>Lorsque vous analysez une créature hostile avec votre Analyse Critique, vous pouvez utiliser votre modificateur de capacité Analyse Critique avec n'importe quelle arme, à condition qu'elle n'ait pas de propriétés lourdes ou spéciales.</p>"
     },
     "martial-training": {
@@ -978,11 +978,11 @@
       "description": "<p><em><strong>Echani Order:</strong> niveau 17</em></p> <p>Votre maîtrise des armes vous confère une précision extraordinaire. Si vous ratez un jet d'attaque utilisant une arme de moine à votre tour, vous pouvez le relancer. Vous ne pouvez utiliser cette fonctionnalité qu'une fois par chacun de vos circuits.</p>"
     },
     "agile-parry": {
-      "name": "Parade Agile",
+      "name": "Défilé Agile",
       "description": "<p>If you make an unarmed strike as part of the Attack action on your turn and are holding an Echani weapon, you can use it to defend yourpersonnelle if it is a melee weapon. You gain a +2 bonus to AC jusqu'au début de votre prochain tour, while the weapon is in your hand and you aren't incapacitated.</p>"
     },
     "echani-weapons": {
-      "name": "Armes Echani",
+      "name": "Armes Échani",
       "description": "<p><em><strong>Echani Order:</strong> niveau 3</em></p>\n<p>Your special martial arts training leads you to master the use of certain weapons. You gain the following benefits. Choose two types of weapons to be your Echani weapons: one vibroweapon and one blaster. Each of these weapons can be any simple or martial </p>\n<p>weapon that lacks the special property. You gain maîtrise with these weapons if you don't already have it. Weapons of the chosen types are monk weapons for you. Many of this order's features work only with your Echani weapons. When you reach 6th, 11th, and niveau 17 in this class, vous pouvez choisir another type of weapon to be an Echani weapon for you, following the criteria above.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.7HFu2KCPHDjXLMcn]{Agile Parry}</h3>\n<p>If you make an unarmed strike as part of the Attack action on your turn and are holding an Echani weapon, you can use it to defend yourpersonnelle if it is a melee weapon. You gain a +2 bonus to AC jusqu'au début de votre prochain tour, while the weapon is in your hand and you aren't incapacitated.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.wzl4vGyu4zr4yRCr]{Echani's Shot}</h3>\n<p>You can use a action bonus on your turn to make your attaque à distances with an Echani weapon more deadly. When you do so, any target you hit with a attaque à distance using an Echani weapon takes an extra [[/r 1d4]] dégâts of the weapon's type. You retain this benefit until the end of the current turn.</p>"
     },
     "echanis-shot": {
@@ -998,7 +998,7 @@
       "description": "<p>Your attacks with your Echani weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and dégâts.</p>"
     },
     "one-with-the-blade": {
-      "name": "Un Avec la Lame",
+      "name": "Un avec la lame",
       "description": "<p><em><strong>Echani Order:</strong> niveau 6</em></p>\n<p>You extend your focus into your Echani weapons, granting you the following benefits.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.aXwHRhJSxgZbHRbI]{Enhanced Echani Weapons}</h3>\n<p>Your attacks with your Echani weapons count as enhanced for the purpose of overcoming resistance and immunity to unenhanced attacks and dégâts.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.nAWdnGFRbyjdg6at]{Deft Strike}</h3>\n<p>When you hit a target with an Echani weapon, you can spend 1 focus point to cause the weapon to deal extra dégâts to la cible equal to your Martial Arts die. You can use this feature only une fois par chacun de vos tours.</p>"
     },
     "redirected-shot": {
@@ -1011,7 +1011,7 @@
     },
     "ammunition-upgrades": {
       "name": "Améliorations de Munitions",
-      "description": "<p><em><strong>Enhancement Specialist:</strong> 18th level</em></p>\n<p>Your ammunition enhancements improve.</p>"
+      "description": "<p><em><strong>Spécialiste de l'amélioration :</strong> niveau 18</em></p>\n<p>Vos améliorations de munitions s'améliorent.</p>"
     },
     "ammunition-enhancements": {
       "name": "Améliorations de Munitions",
@@ -1182,7 +1182,7 @@
       "description": "<p><em><strong>Gambler Pursuit:</strong> niveau 6</em></p>\n<p>Whenever you roll a 7 on an attack roll against la cible of your Critical Analysis feature, the attack automatically hits and you regain an expended dé de supériorité. </p>\n<p>When attacking with avantage or disavantage, this effect applies if either roll is a 7. If both rolls are a 7, the attack is a critical hit.</p>"
     },
     "aspect-of-the-rancor": {
-      "name": "Aspect du Rancor",
+      "name": "Aspect du Rancune",
       "description": "<p>You gain maîtrise in Strength and Constitution jet de sauvegardes. De plus, you gain immunity to the effrayé condition, </p>\n<p>and when you deal dégâts with a weapon or unarmed strike, you can deal an additional [[/r 1d8]] dégâts of the same type as the weapon's dégâts.</p>"
     },
     "aspect-of-the-terentatek": {
@@ -1250,11 +1250,11 @@
       "description": "<p><em><strong>Heavy Weapons Specialist:</strong> niveau 10</em></p>\n<p>When you score a critical hit on your turn while wielding a weapon with the heavy or strength properties, you can make one attaque d'arme against a creature within 5 mètres of la cible using your réaction.</p>"
     },
     "overwhelm": {
-      "name": "Submerger",
+      "name": "Submergé",
       "description": "<p><em><strong>Heavy Weapons Specialist:</strong> niveau 15</em></p>\n<p>When you use your Second Wind while wielding a weapon with the heavy or strength properties, if you hit with the first attack roll you make, or if une créatures fails the jet de sauvegarde against your weapon's burst or rapid property, before the end of your next turn, you treat the hit as a critical hit. If you miss with the first attack roll you make before the end of your next turn, or une cible succeeds on the jet de sauvegarde against your weapon's burst or rapid property, you instead deal normal weapon dégâts.</p>"
     },
     "pure-performance": {
-      "name": "Performance Pure",
+      "name": "Performance pure",
       "description": "<p><em><strong>Spécialiste des armes lourdes :</strong> niveau 18</em></p> <p>Au niveau 18, les jets d'attaque que vous effectuez en maniant une arme aux propriétés lourdes ou de force ne peuvent pas souffrir de désavantage.</p>"
     },
     "my-little-friend-says-hello-there": {
@@ -1262,7 +1262,7 @@
       "description": "<p><em><strong>Spécialiste des armes lourdes :</strong> niveau 3</em></p> <p>Vous savez utiliser la taille de votre arme pour semer la peur chez ceux qui vous entourent. Vous pouvez ajouter votre modificateur de Force à n'importe quel test de Charisme (Intimidation) que vous effectuez lorsque vous maniez une arme aux propriétés lourdes ou de force.</p>"
     },
     "rock-steady": {
-      "name": "Rocher Stable",
+      "name": "Écurie Rocher",
       "description": "<p><em><strong>Heavy Weapons Specialist:</strong> niveau 3</em></p>\n<p>You have learned to use the heft of your weapon to root yourpersonnelle in place. At the end of each of your turns, if you move less than half your speed while wielding a weapon with the heavy or strength properties, you have avantage on jet de sauvegardes to avoid being entravé, moved, or knocked à terre. This avantage lasts jusqu'à la fin de votre prochain tour.</p>"
     },
     "multiattack": {
@@ -1358,11 +1358,11 @@
       "description": "<p><em><strong>Industrial Approach:</strong> niveau 14</em></p>\n<p>When you are reduced to 0 points de vie but not killed outright, and you have at least one tech point remaining, you can expend all your remaining tech points and instead to drop to one point de vie (no action required). If you do so, chaque créature within 30 mètres of you must make a Dexterity jet de sauvegarde against your tech sauvegarde DD. On a failed sauvegarde, they take [[/r 1d12]] acid, cold, fire, ion, or lightning dégâts (your choice) dégâts for each tech point spent in this way, or half as much on a successful one.</p>"
     },
     "industrious-tech": {
-      "name": "Technologie Industrieuse",
+      "name": "Technologie Industrielle",
       "description": "<p><em><strong>Industrial Approach:</strong> niveau 3</em></p>\n<p>You can cast pouvoir techniques while raging as long as the power's casting time is no more than 1 action and the power does not require concentration. While raging, you add your rage dégâts to jet de dégâtss from pouvoir techniques you cast that require a tech attack or jet de sauvegarde. If a pouvoir technique dégâtss more than une cible, you may only apply your rage dégâts to one of them. </p>\n<p>Casting pouvoir techniques during rage counts as attacking for the purposes of maintaining rage, and you can use your Reckless Attack feature to gain avantage when casting a pouvoir technique that requires a tech attack.</p>"
     },
     "tech-points": {
-      "name": "Points Techniques",
+      "name": "Techniques de points",
       "description": "<p>Vous disposez d'un nombre de points techniques égal à la moitié de votre niveau d'érudit, comme indiqué dans la colonne Points Tech du tableau Techcasting Slicer Pursuit, + votre modificateur d'Intelligence. Vous utilisez ces points technologiques pour lancer des techniques de pouvoir. Vous regagnez tous les points techniques dépensés lorsque vous terminez un short ou un repos long.</p>"
     },
     "tech-powers-known": {
@@ -1374,11 +1374,11 @@
       "description": "<p>Intelligence is your techcasting ability for your pouvoir techniques. You use your Intelligence whenever a power refers to your techcasting ability. De plus, you use your Intelligence modificateur when setting the jet de sauvegarde DD for a pouvoir technique you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Tech sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<p><strong>Tech attack modificateur</strong> = your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>"
     },
     "techcasting-focus": {
-      "name": "Focalisateur Technique",
+      "name": "Technique de focalisation",
       "description": "<p>Vous utilisez un poignet (trouvé dans le chapitre 5 du manuel du joueur) comme objectif technique pour vos techniques de pouvoir.</p>"
     },
     "techcasting": {
-      "name": "Incantation Technique",
+      "name": "Technique d'incantation",
       "description": "<p><em><strong>Slicer Pursuit:</strong> niveau 3</em></p>\n<p>You have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the pouvoir techniques list.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.76KkOshy5q6wjzFW]{Tech Powers Known}</h3>\n<p>You learn 3 pouvoir techniques de votre choix, and you learn more at higher niveaus, as shown in the Tech Powers Known column of the Slicer Pursuit Techcasting table. You may not learn a pouvoir technique of a niveau higher than your Max Power Niveau.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.VfNVfqauLGg8FR6J]{Tech Points}</h3>\n<p>You have a number of tech points equal to half of your scholar niveau, as shown in the Tech Points column of the Slicer Pursuit Techcasting table, + your Intelligence modificateur. You use these tech points to cast pouvoir techniques. Vous regagnez tous expended tech points when you finish a short or repos long.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.KMT2teLbZiNEudMQ]{Max Power Niveau}</h3>\n<p>Many pouvoir techniques can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum niveau, which increases at higher niveaus, as shown in the Max Power Niveau column of the Slicer Pursuit Techcasting table.</p>\n<p>You may only cast pouvoir techniques at 4th-niveau once. You regain the ability to do so after a repos long.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.ClDiVntUZ55hvt99]{Techcasting Ability}</h3>\n<p>Intelligence is your techcasting ability for your pouvoir techniques. You use your Intelligence whenever a power refers to your techcasting ability. De plus, you use your Intelligence modificateur when setting the jet de sauvegarde DD for a pouvoir technique you cast and when making an attack roll with one.</p>\n<p><em></em>_</p>\n<p><strong>Tech sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<p><strong>Tech attack modificateur</strong> = your bonus de maîtrise + your Intelligence modificateur</p>\n<p><em></em>_</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.4tPJ0sZP0z7ch0FW]{Techcasting Focus}</h3>\n<p>You use a wristpad (found in chapter 5 of the Player's Handbook) as a tech focus for your pouvoir techniques.</p>"
     },
     "force-resistance": {
@@ -1438,7 +1438,7 @@
       "description": "<p><em><strong>Forme Jar'Kai :</strong> niveau 7</em></p>\n<p>When you score a critical hit with a attaque d'arme au corps à corps, you regain an expended use of your Channel the Force.</p>"
     },
     "overwhelming-cleave": {
-      "name": "Fente Accablante",
+      "name": "Fête Accablante",
       "description": "<p><em><strong>Approche du Juggernaut :</strong> niveau 10</em></p>\n<p>When you successfully push a creature into a surface or another creature while raging, the pushed creature takes kinetic dégâts equal to your Rage Damage. De plus, the first time you hit with a attaque d'arme au corps à corps using Strength each turn, you can attempt to dégâts another creature with the same attack. Choose another creature within 5 mètres of the original target and within your reach. If the original attack roll would hit the second creature, it takes dégâts equal to your Strength modificateur. The dégâts is of the same type dealt by the original attack.</p>"
     },
     "relentless-assault": {
@@ -1482,7 +1482,7 @@
       "description": "<p><em><strong>Juyo/Vaapad Form:</strong> niveau 7</em></p>\n<p>You gain one of the following features. Choose Relentless for Juyo or Punishing Charge for Vaapad.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.Xuhu5J6jGwdhwPdf]{Relentless }</h3>\n<p>You have avantage on initiative checks, and gain a 10 foot bonus to your speed on your first turn of combat.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.6L8CL3z3jPQkd742]{Punishing Charge }</h3>\n<p>When a hostile creature you can see or hear within 30 mètres of you casts a pouvoir de la Force, you can use your réaction to move up to half your speed. You must end this move closer to the enemy than you started. If you end this movement within 5 mètres of la créature, and the triggering pouvoir de la Force required a attaque à distance roll, they have disavantage on the roll.</p>"
     },
     "punishing-charge": {
-      "name": "Charge Punitive",
+      "name": "Accusation punitive",
       "description": "<p>When a hostile creature you can see or hear within 30 mètres of you casts a pouvoir de la Force, you can use your réaction to move up to half your speed. You must end this move closer to the enemy than you started. If you end this movement within 5 mètres of la créature, and the triggering pouvoir de la Force required a attaque à distance roll, they have disavantage on the roll.</p>"
     },
     "relentless": {
@@ -1630,7 +1630,7 @@
       "description": "<p><em><strong>Lethality Practice:</strong> niveau 17</em></p>\n<p>You've become a master of instant death. When you deal weapon dégâts to a creature that is surprised, it must make a Constitution jet de sauvegarde against your lethal strike sauvegarde DD. On a failed sauvegarde, double the dégâts of your attack against la créature.</p>"
     },
     "assassinate": {
-      "name": "Assassiner",
+      "name": "Assassin",
       "description": "<p><em><strong>Entraînement à la létalité :</strong> niveau 3</em></p> <p>Vous êtes à votre niveau le plus mortel lorsque vous obtenez l'avantage sur vos ennemis. Vous avez un avantage aux jets d'attaque contre toute créature qui n'a pas encore pris son tour dans le combat. De plus, tout coup que vous infligez contre une créature surprise est un coup critique.</p>"
     },
     "lethal-strikes": {
@@ -1650,7 +1650,7 @@
       "description": "<p>You attempt to stagger la cible. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, the next time you would make an attack roll against la cible before the end of your next turn, you can instead force la cible to make a jet de sauvegarde with the score de caractéristique de votre choix. On a failed sauvegarde, la créature takes normal weapon dégâts and you can apply your Sneak Attack dice to the roll.</p>"
     },
     "infiltrator": {
-      "name": "Infiltraeur",
+      "name": "Infiltrateur",
       "description": "<p><em><strong>Lethality Practice:</strong> niveau 9</em></p>\n<p>You have become a master at avoiding detection.</p>\n<p>When you or a creature within 5 mètres of you fails a Dexterity (Stealth) check, you can use your réaction to allow cette créature to reroll the check. It must use the new roll.</p>"
     },
     "poisoner": {
@@ -1706,7 +1706,7 @@
       "description": "<p><em><strong>Mastermind Technique:</strong> niveau 15</em></p> <p>Votre formation vous a appris à trouver et exploiter les faiblesses de vos proies. En bonus d'action, vous pouvez imposer un désavantage au prochain jet de sauvegarde la cible de votre Ranger's Quarry contre un effet que vous contrôlez avant la fin de votre prochain tour. Une fois que vous l'avez fait, vous devez terminer un short ou un repos bien avant de pouvoir le refaire.</p>"
     },
     "instinctive-combatant": {
-      "name": "Combattant Instinctif",
+      "name": "Instinctif du combattant",
       "description": "<p><em><strong>Mastermind Technique:</strong> niveau 3</em></p> <p>Vous avez appris à utiliser votre intelligence pour vous aider à survivre. Tant que vous portez une armure légère ou moyenne, vous pouvez utiliser votre modificateur d'Intelligence au lieu de votre modificateur de Dextérité pour déterminer votre CA. </p>"
     },
     "mark-of-the-meticulous": {
@@ -1754,7 +1754,7 @@
       "description": "<p><em><strong>Maverick Practice:</strong> niveau 9</em></p>\n<p>When a creature fails a jet de sauvegarde or test de caractéristique against you or an effect you control, you don't need avantage on your attack roll to use Sneak Attack, you can't have disavantage on attack rolls against cette créature, and cette créature can't have avantage on test de caractéristiques and jet de sauvegardes against effects you control. These effects last jusqu'à la fin de votre prochain tour.</p>"
     },
     "high-voltage": {
-      "name": "Haute Tension",
+      "name": "Haute tension",
       "description": "<p><em><strong>Mechanist Technique:</strong> niveau 11</em></p>\n<p>You are used to working with electronics and have learned to increase their potency, while becoming inured to their dangers. Vous gagnez la résistance to ion and lightning dégâts.</p>\n<p>De plus, whenever you deal ion dégâts to a creature, you can spend a tech point to force la créature to make a Constitution jet de sauvegarde. On a failed sauvegarde, it is étourdi jusqu'à la fin de votre prochain tour.</p>"
     },
     "potent-tech": {
@@ -1794,7 +1794,7 @@
       "description": "<p><em><strong>Mounted Specialist:</strong> niveau 10</em></p>\n<p>You become a master of locking down your enemies. Creatures provoke an attaque d'opportunité from you when they move 5 mètres or more while within your reach, and if you hit a creature with an attaque d'opportunité, la cible gains 4 slowed niveaus until the end of the current turn.</p>"
     },
     "warding-maneuver": {
-      "name": "Maneuver de Protection",
+      "name": "Manœuvre de protection",
       "description": "<p><em><strong>Mounted Specialist:</strong> 7th, 9th, 13th, and niveau 17</em></p>\n<p>You learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 mètres of you is dealt dégâts by an attack, you can roll [[/r 1d8]] as a réaction if you're wielding a melee weapon or a shield. Roll the die, and add the number rolled to la cible's AC against that attack. If the attack still hits, la cible has resistance against the attack's dégâts.</p>\n<p>You can use this feature three times. You gain an additional use at 9th, 13th, and niveau 17. Vous regagnez tous expended uses of it when you finish a repos long.</p>"
     },
     "ferocious-charger": {
@@ -1846,7 +1846,7 @@
       "description": "<p><em><strong>Forme Niman :</strong> niveau 3</em></p>\n<p>As a action bonus, you can enter a balanced stance for one minute. As a part of this action bonus, and as a action bonus on each of your turns, quand vous utilisez your action to cast a pouvoir de la Force, you can make one attaque d'arme au corps à corps. De plus, for the duration, you can use Wisdom or Charisma instead of Strength or Dexterity for the attack and jet de dégâtss of your attaque d'arme au corps à corpss. You must use the same modificateur for both rolls.</p>\n<p>Cet effet ends early if you are incapacitated or die. Once you've used this feature, you can't use it again until you finish a repos long.</p>"
     },
     "enlightenment": {
-      "name": "Illumination",
+      "name": "Éclairage",
       "description": "<p><em><strong>Forme Niman :</strong> niveau 7</em></p> <p>Lorsque vous réduisez une créature hostile à 0 point de vie avec un pouvoir de la Force, ou que vous redonnez des points de vie à une créature amie qui est à 0 point de vie avec un pouvoir de la Force, vous gagnez temporairement un point de Forces égal à votre modificateur de Sagesse ou de Charisme (votre choix, minimum un). Une fois que vous l'avez fait, vous ne pouvez plus le faire tant que vous n'avez pas terminé un short ou un repos long.</p>"
     },
     "curse-of-objurgation": {
@@ -1982,7 +1982,7 @@
       "description": "<p><em><strong>Path of Iron:</strong> niveau 7</em></p>\n<p>Through intense physical training, you've improved your body's ability to access and channel the force flowing within you. </p>\n<p>When you would use a Force-Empowered Self option, vous pouvez choisir to bolster the option, gaining an additional effect as listed below. You can only bolster a Force-Empowered Self option une fois par tour. </p>\n<p>You can use these features a combined three times. You gain an additional use at 9th, 13th, and niveau 17. You regain any expended uses when you finish a short or repos long.</p>\n<p>While you have no remaining uses of this feature, you can instead expend 1 point de Force to use it.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.4PAEl9iiT7bvd6Ri]{Aegis}</h3>\n<p>When you bolster Deflection, when an attack would hit you before the start of your next turn, you subtract the same value rolled for Deflection from the dégâts taken.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.lPUZkEctW4LFDcew]{Cleave}</h3>\n<p>When you bolster Double Strike, you choose another creature within 5 mètres of your target. They take dégâts of the same type equal to the result of the die rolled for Double Strike.</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.ZnbNH69k0Aoet3aG]{Momentum}</h3>\n<p>When you bolster Slow Time, jusqu'à la fin de votre tour you ignore difficult terrain, and can move along vertical surfaces and across liquids without falling during the move.</p>"
     },
     "momentum": {
-      "name": "Momentum",
+      "name": "Élan",
       "description": "<p>When you bolster Slow Time, jusqu'à la fin de votre tour you ignore difficult terrain, and can move along vertical surfaces and across liquids without falling during the move.</p>"
     },
     "turbulent-presence": {
@@ -2026,11 +2026,11 @@
       "description": "<p><em><strong>Chemin des Ombres:</strong> niveau 18</em></p> <p>Votre formation vous a appris des techniques avancées pendant que vous manœuvrez dans l'ombre. Tant que vous êtes caché de votre cible, le premier jet d'attaque que vous effectuez à chaque tour ne révèle pas automatiquement votre présence. Faites un test de Dextérité (Furtivité) contre le test de Sagesse (Perception) de votre cible. En cas de réussite, vous restez caché. Si vous êtes également invisible, vous restez invisible.</p>"
     },
     "cloak-of-shadows": {
-      "name": "Cape d'Ombres",
+      "name": "Cap d'Ombres",
       "description": "<p><em><strong>Path of Shadows:</strong> niveau 3</em></p>\n<p>You can take the Hide action as a action bonus on your turn. De plus, you can try to hide when you are lightly obscured from la créature from which you are hiding.</p>"
     },
     "dead-silence": {
-      "name": "Silence de Mort",
+      "name": "Silence de mort",
       "description": "<p><em><strong>Path of Shadows:</strong> niveau 3</em></p>\n<p>You learn the <em>psychic charge</em> pouvoir de la Force, which does not count against your total powers known. De plus, you can use Wisdom or Charisma as your forcecasting ability for it, and quand vous contactez a creature with the <em>psychic charge</em> pouvoir de la Force and la cible tries to speak, it takes additional dégâts equal to your Wisdom or Charisma modificateur (your choice, minimum of +1), and its voice does not produce sound jusqu'à la fin de votre prochain tour.</p>"
     },
     "shadow-strike": {
@@ -2126,7 +2126,7 @@
       "description": "<p><em><strong>Path of the Forceblade:</strong> niveau 13</em></p>\n<p>When you are la cible of a attaque à distance, and the source is within range of your <em>saber throw</em> pouvoir de la Force, you can use your réaction to throw your forceblade at the source of the attack. Make a ranged force attack. En cas de contacter, this attack deals dégâts using your Kinetic Combat die instead of the weapon's dégâts die and you impose disavantage on the triggering attack roll.</p>"
     },
     "twin-saber-throw": {
-      "name": "Lancer de Sabres Jumeaux",
+      "name": "Lancier de Sabres Jumeaux",
       "description": "<p><em><strong>Path of the Forceblade:</strong> 7th, 9th, 13th, and niveau 17</em></p>\n<p>When you cast <em>saber throw</em> while wielding your forceblade, you can attack the same target multiple times.</p>\n<p>De plus, when you deal dégâts to a creature within 30 mètres of you with your forceblade, you can use your action bonus to teleport to within 5 mètres of cette créature and make a attaque d'arme au corps à corps against cette créature. This attack uses your Kinetic Combat die instead of your weapon's dégâts die. You can use this feature three times. You gain an additional use at 9th, 13th, and niveau 17. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "forceblade-mastery": {
@@ -2134,7 +2134,7 @@
       "description": "<p><em><strong>Path of the Forceblade:</strong> niveau 18</em></p>\n<p>You've mastered controlling your forceblade with your mind, using it to keep your enemies at bay. As an action, you can telekinetically control your forceblade and have it strike any number of creatures within 10 mètres of you, spending 1 point de Force per target. Each target must make a Dexterity jet de sauvegarde (DD = 8 + your bonus to attaque d'arme rolls with that weapon). On a failed sauvegarde, it takes dégâts using your Kinetic Combat die + half your sentinel niveau (rounded down), is pushed back 10 mètres and knocked à terre.</p>"
     },
     "forceblade-bond": {
-      "name": "Lien de la Lame de Force",
+      "name": "Lien de la lame de force",
       "description": "<p><em><strong>Path of the Forceblade:</strong> niveau 3</em></p>\n<p>You learn how to bond with a light- or vibro-weapon through the Force, making it part of you.</p>\n<p>You perform the ritual over the course of 1 hour, which can be done during a repos court. The weapon must be within your reach throughout the ritual, at the conclusion of which you contact the weapon and forge the bond, gaining the following benefits:</p>\n<ul>\n<li>You can't be disarmed of that weapon while you are conscious. </li>\n<li>If the weapon is within 60 mètres of you and you can see it, you can summon that weapon as a action bonus on your turn, causing it to travel instantly to you. If you have a free hand, you catch the weapon. Otherwise, it lands at your mètres.</li>\n<li>You can use Wisdom or Charisma instead of Strength or Dexterity for the attack and jet de dégâtss.</li>\n</ul>\n<p>You can have two weapons bonded to you in this way at a time, and you can summon both of them to you with the same action bonus.</p>"
     },
     "phasethrow": {
@@ -2166,7 +2166,7 @@
       "description": "<p><em><strong>Path of Sorcellerie :</strong> niveaux 13 et 17</em></p>\n<p>Your bond with your beast companion strengthens, granting the following benefits while your beast companion is within 30 mètres of you:</p>\n<ul>\n<li>When you cast a pouvoir de la Force cette cibles only yourpersonnelle, and your beast companion is within range, you can also target your beast companion with that power. </li>\n<li>If you or your beast have darkvision and the other doesn't, the other gains it with the same radius. If you both have darkvision, you both use the larger radius of the two, which then increases by 30 mètres.</li>\n<li>If you or your beast have avantage on Perception checks and the other doesn't, the other gains avantage on Perception checks. If you both have avantage on Perception checks, when either of you makes a Perception check with avantage, you can reroll one of the dice once.</li>\n</ul>\n<p>This radius increases to 60 mètres at niveau 17.</p>"
     },
     "dance-of-death": {
-      "name": "Danse de la Mort",
+      "name": "Danse de la mort",
       "description": "<p><em><strong>Performance Practice:</strong> niveau 13</em></p>\n<p>Vous pouvez utiliser votre action pour make a attaque d'arme against any number of creatures within 5 mètres of you, with a separate attack roll for each target. Vous pouvez choisir to deal Sneak Attack dégâts to chaque créature you hit, but you can only roll half your number of Sneak Attack dice per creature.</p>\n<p>Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
     },
     "master-of-dance": {
@@ -2194,7 +2194,7 @@
       "description": "<p>Choose another creature that you can see within your reach. The creature must make a Dexterity jet de sauvegarde. On a failed sauvegarde, roll two Sneak Attack dice. The creature takes dégâts equal to the amount rolled. This dégâts is of the same as your weapon's dégâts.</p>"
     },
     "flexible-body": {
-      "name": "Corps Flexible",
+      "name": "Corps flexible",
       "description": "<p><em><strong>Pratique de performance :</strong> niveau 9</em></p> <p>Vous êtes capable d'utiliser votre talent acrobatique pour prendre le dessus au combat. Vous pouvez utiliser le bonus d'action accordé par votre action de ruse pour pousser ou faire trébucher une créature. Ce faisant, vous pouvez effectuer un test de Dextérité (Acrobatie) au lieu d'un test de Force (Athlétisme). </p> <p>De plus, vous ignorez désormais les terrains difficiles, vous pouvez vous déplacer dans les espaces occupés par des créatures hostiles et vous pouvez vous faufiler dans des espaces plus petits sans dépenser de mouvement supplémentaire.</p>"
     },
     "field-surgeon": {
@@ -2222,7 +2222,7 @@
       "description": "<p><em><strong>Poursuite du Politicien :</strong> niveau 17</em></p>\n<p>Humanoids within 60 mètres are particularly susceptible to your presence. Humanoids within range have disavantage on jet de sauvegardes against any charm or fear effects that originate from you. </p>"
     },
     "motivating-diplomat": {
-      "name": "Diplomate Motivant",
+      "name": "Motivation du diplomate",
       "description": "<p><em><strong>Poursuite du Politicien :</strong> niveau 3</em></p>\n<p>When you are la cible of your Critical Analysis feature, you and all allies within 10 mètres of you gain a bonus to their AC equal to half your Critical Analysis modificateur de caractéristique.</p>"
     },
     "silver-tongue": {
@@ -2318,7 +2318,7 @@
       "description": "<p>La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, it is effrayé of you jusqu'à la fin de votre prochain tour.</p>"
     },
     "diverting-attack": {
-      "name": "Attaque de Diversion",
+      "name": "Attaque de diversion",
       "description": "<p>Roll two of your Sneak Attack dice. The first time la cible would deal dégâts before the start of your next turn, that dégâts is reduced by an amount equal to the resulting roll.</p>"
     },
     "tools-of-the-trade": {
@@ -2390,7 +2390,7 @@
       "description": "<p><em><strong>Sawbones Practice:</strong> niveau 13</em></p>\n<p>Your knowledge of medicine allows you to partition and ration healing supplies very effectively, without impacting its potency. Over the course of 1 hour, which can be done during a rest, you can carefully measure and mark out dosages of a medpac within reach. The medpac can now be used twice before it is consumed.</p>\n<p>At your DM's discretion, you may be able to use this feature on other pacs, stims, or adrenals, most likely involving an test de caractéristique to succeed.</p>"
     },
     "self-sustain": {
-      "name": "Auto-Suffisance",
+      "name": "Autosuffisance",
       "description": "<p><em><strong>Sawbones Practice:</strong> niveau 17</em></p> <p>Vous avez un avantage sur le jet de sauvegardes death.</p> <p>De plus, lorsque vous êtes stabilisé, vous regagnez 1 point de vie. Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un short ou un repos long.</p>"
     },
     "bleeding-wound": {
@@ -2402,7 +2402,7 @@
       "description": "<p>You attempt to cause distracting pain in la cible. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, it has disavantage on attack rolls jusqu'à la fin de votre prochain tour.</p>"
     },
     "debilitating-strike": {
-      "name": "Frappe Affaiblissante",
+      "name": "Frappe affaiblissante",
       "description": "<p><em><strong>Sawbones Practice:</strong> niveau 3</em></p>\n<p>You learn to apply your anatomical knowledge in direct combat, in order to hinder your targets. When you deal Sneak Attack dégâts to a creature, you may choose to forgo two of your Sneak Attack Dice in order to hinder la créature, provided they have the appropiate physiology.</p>\n<p>Some of your debilitating strikes require your target to make a jet de sauvegarde to resist the debilitating strike's effects. The jet de sauvegarde DD is calculated as follows: </p>\n<p><em></em>_</p>\n<p><strong>Debilitating Strike sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Intelligence modificateur.</p>\n<p><em></em>_</p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.LXxXI9uoUX6pAssl]{Bleeding Wound}</h3>\n<p>You attempt to create a lingering wound in la cible for one minute. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, at the start of each of la cible's turns, it takes true dégâts equal to one Sneak Attack die and repeats this jet de sauvegarde, ending the effect on a success. </p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.Ori7PE7RvngSXv2m]{Crippling Pain}</h3>\n<p>You attempt to cause distracting pain in la cible. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, it has disavantage on attack rolls jusqu'à la fin de votre prochain tour. </p>\n<h3>@UUID[Compendium.sw5e.archetypefeatures.Item.JMbGNwqWllRVK0ZW]{Hampering Shot}</h3>\n<p>You attempt to hamper la cible's movement. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, it gains 1 slowed niveau and it makes Dexterity jet de sauvegardes with disavantage until the end of its next turn.</p>"
     },
     "general-practice": {
@@ -2422,11 +2422,11 @@
       "description": "<p><em><strong>Shadow Killer Practice:</strong> niveau 13</em></p>\n<p>You learn to partially enter the spirit realm. As an action, you can become invisible as an enhanced effect, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal dégâts to a creature or you force a creature to make a jet de sauvegarde.</p>\n<p>Once you use this feature, you can't do so again until you finish a repos long. While you have no remaining uses of this feature, you can expend one of your poison doses from your Venomous feature to use this feature again. When you do so, your maximum doses decreases by 1 until the end of your next repos long.</p>"
     },
     "venomous": {
-      "name": "Venimeux",
+      "name": "Vénimeux",
       "description": "<p><em><strong>Shadow Killer Practice:</strong> 3rd, 5th, 9th, 13th, and niveau 17</em></p>\n<p>You gain maîtrise with the poisoner's kit, and you can apply a poison as a action bonus.</p>\n<p>De plus, you learn to create a number of special poison vials. Over the course of a short or repos long, you can create two doses of poison. You must have a poisoner's kit in order to create these doses. Your doses can only be used by you, and they lose their potency at the end of your next short or repos long.</p>\n<p>As an action, you can use one of your doses to coat one vibroweapon, one slug cartridge, or one wrist launcher dart. A creature hit by the coated weapon must make a Constitution jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Intelligence modificateur), taking [[/r 1d4]] + your Intelligence modificateur poison dégâts on a failed sauvegarde or half as much on a successful one. Once applied, the poison retains potency pendant 1 minute before drying.</p>\n<p>The quantity and dégâts of your doses increases at higher niveaus, to three and [[/r 2d4]] at niveau 5, four and [[/r 3d4]] at niveau 9, five and [[/r 4d4]] at niveau 13, and six and [[/r 5d4]] at niveau 17.</p>"
     },
     "double-tap": {
-      "name": "Double Pression",
+      "name": "Double pression",
       "description": "<p><em><strong>Sharpshooter Practice:</strong> niveau 17</em></p>\n<p>You've learned to capitalize when you have the avantage. When you take the Attack action and make an attack with avantage, vous pouvez choisir to forgo the avantage. If you do, you can make an additional attack against la cible or another creature within 5 mètres of it (no action required). Both attacks can benefit from your Sneak Attack dégâts, instead of only one.</p>"
     },
     "back-blast": {
@@ -2434,7 +2434,7 @@
       "description": "<p><em><strong>Scrapper Practice:</strong> niveau 3</em></p>\n<p>You gain maîtrise in all blasters with the burst or rapid property that lack the two-handed property. De plus, when a creature fails a jet de sauvegarde against the burst or rapid property of a weapon you control and with which you are proficient, you can apply your Sneak Attack dégâts to une créature dealt dégâts in this way as long as cette créature didn't have avantage on the sauvegarde.</p>\n<p>When you reach niveau 9 in this class, when multiple creatures fail a jet de sauvegarde against the burst property of a weapon you control and with which you are proficient, you can divide your Sneak Attack dice amongst la cibles as you see fit.</p>"
     },
     "brutal-hit": {
-      "name": "Coup Brutal",
+      "name": "Coup d'État brutal",
       "description": "<p>You attempt to knock la cible à terre while within 15 mètres of it. La cible must make a Strength jet de sauvegarde or be knocked à terre.</p>"
     },
     "dark-arts": {
@@ -2474,11 +2474,11 @@
       "description": "<p><em><strong>Shadow Killer Practice:</strong> niveau 17</em></p>\n<p>Your familiarity with poisons and the spirit realm has opened up new paths of life and death for you. Your Evasion feature now applies to Constitution jet de sauvegardes as well as Dexterity jet de sauvegardes.</p>\n<p>De plus, whenever you create poison using your Venomous feature, you can change the type de dégâts to acid, cold, fire, lightning or necrotic. When you do so, and you deal Sneak Attack dégâts with a weapon coated with your poison, you can also change your Sneak Attack dégâts to the chosen type.</p>"
     },
     "distracting-shot": {
-      "name": "Tir de Distraction",
+      "name": "Tir de distraction",
       "description": "<p><em><strong>Sharpshooter Practice:</strong> niveau 13</em></p>\n<p>You are able to defend your compatriots from afar. When a friendly creature you can see within your weapon's normal range is la cible of a attaque à distance, or forced to make a jet de sauvegarde, and the source of the effect is within your weapon's normal range, you can use your réaction to make a attaque d'arme à distance against the source. En cas de contacter, instead of dealing dégâts, la cible of your attack has disavantage on the attack roll against your ally, or your ally has avantage on the jet de sauvegarde to resist the effect.</p>"
     },
     "assume-the-position": {
-      "name": "Prendre Position",
+      "name": "Prendre position",
       "description": "<p><em><strong>Sharpshooter Practice:</strong> niveau 3</em></p>\n<p>You don't need avantage on your attack roll to use your Sneak Attack if your target is greater than 30 mètres from you and no enemies are within 5 mètres of you. De plus, standing up from à terre now only costs 5 mètres of movement.</p>\n<p>De plus, you gain maîtrise with two martial blasters de votre choix.</p>"
     },
     "disarming-shot": {
@@ -2502,7 +2502,7 @@
       "description": "<p><em><strong>Sharpshooter Practice:</strong> niveau 9</em></p> <p>Vous êtes à votre niveau le plus mortel lorsque vos ennemis ignorent le danger dans lequel ils se trouvent. Vous avez un avantage aux jets d'attaque contre toute créature qui n'a pas encore pris de tour en combat. </p> <p>De plus, tout coup que vous infligez contre une créature surprise est un coup critique.</p>"
     },
     "inspiring-surge": {
-      "name": "Sursaut Inspirant",
+      "name": "Sursaut inspirant",
       "description": "<p><em><strong>Shield Specialist:</strong> niveau 10</em></p>\n<p>When you use your Action Surge feature, vous pouvez choisir une créature within 60 mètres of you that is allied with you. That creature can make one attaque d'arme au corps à corps ou à distance with its réaction, provided that it can see or hear you.</p>"
     },
     "bulwark": {
@@ -2614,7 +2614,7 @@
       "description": "<p><em><strong>Slicer Pursuit:</strong> niveau 6</em></p>\n<p>When a creature succeeds on a jet de sauvegarde against an at-will pouvoir technique you cast that deals dégâts, la créature takes half the power's dégâts, but suffers no additional effects of the power.</p>"
     },
     "redirect-error": {
-      "name": "Erreur de Redirection",
+      "name": "Erreur de redirection",
       "description": "<p><em><strong>Slicer Pursuit:</strong> niveau 9</em></p>\n<p>When la cible of your Critical Analysis feature casts a pouvoir technique that affects an area, you can use your réaction to cause that power to instead affect an area in a 10-foot-radius sphere centered on the caster. </p>\n<p>Once you've used this feature, you must complete a repos long before you can use it again.</p>"
     },
     "unhindered-charge": {
@@ -2666,7 +2666,7 @@
       "description": "<p><em><strong>Stalker Technique:</strong> niveau 15</em></p>\n<p>Whenever a creature attacks you and does not have avantage, you can use your réaction to impose disavantage on la créature's attack roll against you. You can use this feature before or after the attack roll is made, but it must be used before the outcome of the roll is determined.</p>"
     },
     "accomplished-ambusher": {
-      "name": "Embuscade Accomplie",
+      "name": "Embuscade Accompli",
       "description": "<p><em><strong>Stalker Technique:</strong> niveau 3</em></p>\n<p>When you take the Attack action against a creature that is surprised, you can make one additional attack against cette créature as a part of that action.</p>"
     },
     "mark-of-the-stalker": {
@@ -2675,10 +2675,10 @@
     },
     "greater-signature-maneuver": {
       "name": "Maneuver Signature Supérieur",
-      "description": "<p><em><strong>Tactical Specialist:</strong> niveau 10</em></p>\n<p>Vous pouvez choisir a second signature maneuver. </p>"
+      "description": "<p><em><strong>Spécialiste tactique :</strong> niveau 10</em></p>\n<p>Vous pouvez choisir une deuxième manœuvre de signature. </p>"
     },
     "maneuver-adept": {
-      "name": "Adepte des Maneuvres",
+      "name": "Adepte des Manœuvres",
       "description": "<p><em><strong>Tactical Specialist:</strong> niveau 10</em></p>\n<p>Une fois par tour, your dés de supériorité rolls gain a minimum roll threshold, discussed in chapter 7.</p>"
     },
     "maneuver-mastery": {
@@ -2686,11 +2686,11 @@
       "description": "<p><em><strong>Spécialiste tactique :</strong> niveau 18</em></p> <p>Une fois par tour, lorsque vous lancez un dé de supériorité, vous pouvez à la place choisir le maximum.</p>"
     },
     "maneuver-versatility": {
-      "name": "Polyvalence des Maneuvres",
+      "name": "Polyvalence des Manœuvres",
       "description": "<p><em><strong>Spécialiste tactique :</strong> niveau 3</em></p> <p>Vous pouvez utiliser chaque manœuvre deux fois par tour, au lieu d'une.</p> <p>De plus, choisissez deux manœuvres que vous connaissez. Les manœuvres choisies comptent pour vous comme des manœuvres générales. Vous pouvez choisir une autre manœuvre au 5ème, 9ème, 13ème et au niveau 17. À chaque fois que vous gagnez un niveau dans cette classe, vous pouvez remplacer une de ces manœuvres par une autre manœuvre que vous connaissez.</p>"
     },
     "signature-maneuver": {
-      "name": "Maneuver Signature",
+      "name": "Signature de la manœuvre",
       "description": "<p><em><strong>Spécialiste tactique :</strong> niveau 3</em></p> <p>Vous choisissez une manœuvre que vous connaissez dans cette classe comme manœuvre de signature. Chaque fois que vous utilisez cette manœuvre, vous pouvez l’utiliser sans dépenser de dé de supériorité. Vous ne pouvez utiliser cette fonctionnalité qu'une seule fois par tour.</p>"
     },
     "know-your-enemy": {
@@ -2802,7 +2802,7 @@
       "description": "<p><em><strong>Triage Technique:</strong> niveau 11</em></p>\n<p>When you target a creature with your Ranger's Quarry, you can grant one of the following additional effects de votre choix:</p>\n<ul>\n<li><strong><em>Adrenaline/Tranquilizer.</em></strong> The creature's vitesse de déplacement is doubled until the end of its next turn. Alternatively, it gains a niveau of slowed until the end of its next turn.</li>\n<li><strong><em>Focus/Dizziness.</em></strong> The creature has either avantage or disavantage (your choice) on the first test de caractéristique, attack roll, or jet de sauvegarde it makes within the next minute.</li>\n<li><strong><em>Toughen/Weaken.</em></strong> The creature gains points de vie temporaires equal to your scout niveau, which last pendant 1 minute. Alternatively, la créature must make a Constitution jet de sauvegarde against your tech sauvegarde DD. On a failure, it takes psychic dégâts equal to your scout niveau and it can't regain points de vie jusqu'au début de votre prochain tour.</li>\n</ul>\n<p>You can use each feature once. You regain any expended uses when you complete a short or repos long.</p>"
     },
     "double-dose": {
-      "name": "Double Dose",
+      "name": "Double dose",
       "description": "<p><em><strong>Technique de triage :</strong> 7e, 9e, 13e et niveau 17</em></p> <p>Votre application de médicaments n'interfère pas avec votre propre capacité à vous remettre d'une blessure. Lorsque vous restaurez des points de vie ou accordez des points de vie temporaires à une autre créature dotée d'un pouvoir technique ou d'une caractéristique de classe, vous récupérez le même nombre de points de vie ou gagnez le même nombre de points de vie temporaires. </p> <p>Vous pouvez utiliser cette fonctionnalité trois fois. Vous gagnez une utilisation supplémentaire au 9ème, 13ème et au niveau 17. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>"
     },
     "cure-all": {
@@ -2842,7 +2842,7 @@
       "description": "<p><em><strong>Unstable Engineering:</strong> 3rd, 9th, and niveau 17</em></p>\n<p>You learn to enhance your tinker's implements with unstable science, modifying them into a harness with a cannon. Over the course of a repos long, you can modify your tinker's implements to create a tinkercannon. You must have tinker's implements in order to perform this modification.</p>\n<p>Whenever you cast a pouvoir technique of niveau 1 or higher while wielding your tinkercannon, you risk unexpected complications. Your GM can have you roll a [[/r d20]]. If you roll a 1, roll on the Unstable Engineering Surge table to create a random effect. </p>\n<p>De plus, your tinkercannon come equipped with four overrides, and they gain more at higher niveaus, as shown in the Modification Slots column of the engineer table. Each time you trigger an Unstable Engineering Surge, you can use an override to reroll the percentile dice. You must use the new result, you can only do this once per surge, and each time you do so in excess of your bonus de maîtrise (resetting on a repos long) your maximum tech points is reduced by 1 until you complete a repos long. Vous regagnez tous expended overrides when you complete a repos long.</p>"
     },
     "unstable-volley": {
-      "name": "Salve Instable",
+      "name": "Baume instable",
       "description": "<p><em><strong>Unstable Engineering:</strong> 3rd, 9th, and niveau 17</em></p>\n<p>While wielding your tinkercannon, as a action bonus you can expend one use of your Potent Aptitude to launch a volley of unstable energy at a surface located within 30 mètres of you that you can see. This energy adheres to the surface pendant 1 minute, after which it erupts. As a part of this action bonus, or as a action bonus on a following turn, you can cause the energy to erupt early. Each creature within 5 mètres of it must make a Dexterity jet de sauvegarde against your tech sauvegarde DD. A creature takes [[/r 1d6]] lightning dégâts on a failed sauvegarde, or half as much on a successfu one. </p>\n<p>The range at which you can launch your volley increases to 60 mètres at niveau 9, and 120 mètres at niveau 17.</p>\n<p>This dégâts increases when you reach certain niveaus in this class, increasing to [[/r 2d6]] at niveau 5, [[/r 3d6]] at niveau 11, and [[/r 4d6]] at niveau 17.</p>"
     },
     "engineering-bombardment": {
@@ -2894,7 +2894,7 @@
       "description": "<p><em><strong>Warchief Approach:</strong> niveau 14</em></p>\n<p>You have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage on your turn, you can enter a commanding rage for one minute. When you do so, during this turn and at the start of each of your turns, you have a number of special réactions equal to your bonus de maîtrise you can only use for your Commanding Rage feature. When you use Commanding Rage with these special réactions, they do not count against your uses of that feature. You can only use one réaction per turn. De plus, during this rage, when an enemy within 10 mètres of you makes an attack roll against an ally, you can use your réaction to reduce the attack by an amount equal to your Charisma modificateur.</p>\n<p>Once you've used this feature, you must complete a repos long before you can use it again.</p>"
     },
     "commanding-rage": {
-      "name": "Rage Commandante",
+      "name": "Commandant en colère",
       "description": "<p><em><strong>Warchief Approach:</strong> niveau 3</em></p>\n<p>You become more aware of your allies, and their intent when fighting at your side. While you are raging, when an ally within 10 mètres of you makes an attack roll against an enemy, you can use your réaction to grant avantage to that attack and add your rage dégâts bonus to the jet de dégâts, if the attack hits.</p>\n<p>You can use this feature twice. You gain an additional use at 5th, 9th, 13th, and niveau 17. Vous regagnez tous expended uses when you complete a short or repos long.</p>"
     },
     "savage-diplomat": {
@@ -3026,7 +3026,7 @@
       "description": "<p><em><strong>Mode de suggestion :</strong> niveau 14</em></p> <p>Lorsque vous lancez un pouvoir de la Force, vous pouvez retarder les effets du pouvoir de la Force jusqu'à un nombre de rounds égal à la moitié de votre niveau consulaire. Si vous le faites, le pouvoir prend immédiatement effet au début de votre tour, une fois le nombre de tours spécifié écoulé.</p> <p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un repos long.</p>"
     },
     "cloak-of-fright": {
-      "name": "Cape d'Effroi",
+      "name": "Cap d'Effroi",
       "description": "<p>Each creature de votre choix that is within 60 mètres must succeed on a Wisdom jet de sauvegarde against your universal force sauvegarde DD or become effrayé pendant 1 minute. A creature can repeat the jet de sauvegarde at the end of each of its turns, ending the effect on itpersonnelle on a success.</p>"
     },
     "cloak-of-invisibility": {
@@ -3142,7 +3142,7 @@
       "description": "<p><em><strong>Way of Tutelage:</strong> niveau 6</em></p>\n<p>When you cast a power that affects only your companion, vous pouvez choisir to treat the power as if cast at your Max Power Niveau.</p>\n<p>You can use this feature un nombre de fois égal à your bonus de maîtrise, as shown in the consular table. Vous regagnez tous expended uses when you finish a repos long.</p>"
     },
     "one-with-the-force": {
-      "name": "Un Avec la Force",
+      "name": "Un avec la force",
       "description": "<p><em><strong>Whills Order:</strong> niveau 11</em></p>\n<p>You learn how to enter a trance, preparing to unleash yourpersonnelle upon your enemy. While in this trance, you can still talk and move. If you stay in the trance for at least one minute, when you roll initiative, you can make a attaque d'arme à distance on a number of creatures up to your focus modificateur de caractéristique (a minimum of one) within 30 mètres of you when you were in this trance.</p>\n<p>Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
     },
     "guided-strikes": {

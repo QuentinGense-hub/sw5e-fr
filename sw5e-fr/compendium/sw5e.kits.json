@@ -2,58 +2,58 @@
   "label": "Specialist's Kits",
   "entries": {
     "Forgery kit": {
-      "name": "Forgery kit"
+      "name": "Kit de contrefaçon"
     },
     "Demolitions kit": {
-      "name": "Demolitions kit"
+      "name": "Kit de démolition"
     },
     "Security kit": {
-      "name": "Security kit"
+      "name": "Kit de sécurité"
     },
     "Artillerist's kit": {
-      "name": "Artillerist's kit"
+      "name": "Kit d'artilleur"
     },
     "Biochemist's kit": {
-      "name": "Biochemist's kit"
+      "name": "Kit du biochimiste"
     },
     "Trapper's kit": {
-      "name": "Trapper's kit"
+      "name": "Kit du trappeur"
     },
     "Brewer's kit": {
-      "name": "Brewer's kit"
+      "name": "Kit du brasseur"
     },
     "Bioanalysis kit": {
-      "name": "Bioanalysis kit"
+      "name": "Kit de bioanalyse"
     },
     "Munitions kit": {
-      "name": "Munitions kit"
+      "name": "Kit de munitions"
     },
     "Chef's kit": {
-      "name": "Chef's kit"
+      "name": "Kit du chef"
     },
     "Disguise kit": {
-      "name": "Disguise kit"
+      "name": "Trousse de déguisement"
     },
     "Scavenging kit": {
-      "name": "Scavenging kit"
+      "name": "Kit de récupération"
     },
     "Spicer's kit": {
-      "name": "Spicer's kit"
+      "name": "Kit Spicer"
     },
     "Archaeologist kit": {
-      "name": "Archaeologist kit"
+      "name": "Trousse d'archéologue"
     },
     "Slicer's kit": {
-      "name": "Slicer's kit"
+      "name": "Kit trancheuse"
     },
     "Alchemist's kit": {
-      "name": "Alchemist's kit"
+      "name": "Kit d'alchimiste"
     },
     "Poisoner's kit": {
-      "name": "Poisoner's kit"
+      "name": "Kit d'empoisonneur"
     },
     "Mechanic's kit": {
-      "name": "Mechanic's kit"
+      "name": "Kit de mécanicien"
     }
   },
   "mapping": {

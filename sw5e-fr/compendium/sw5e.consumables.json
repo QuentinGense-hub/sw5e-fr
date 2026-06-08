@@ -10,7 +10,7 @@
       "description": "<p>This sandy-brown powder makes everything humorous while enhancing a creature's nimbleness. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Dexterity. At the end of the high, la créature must succeed on a DD 14 Wisdom jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Dexterity. At the end of the low, la créature must make a DD 14 Constitution jet de sauvegarde to resist addiction.</p>"
     },
     "Muon gold": {
-      "name": "Or de Muon",
+      "name": "Ou de Muon",
       "description": "<p>Muon gold is a lubricant-based spice that gives users intensified mental clarity and focus for a short time. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that increases their current and maximum tech points by [[/r 2d3]]. At the end of the high, la créature must succeed on a DD 14 Wisdom jet de sauvegarde or experience a low that lasts 10 minutes, their current and maximum tech points are reduced by [[/r 2d3]]. At the end of the low, la créature must make a DD 14 Constitution jet de sauvegarde to resist addiction.</p>"
     },
     "Novanian grog": {
@@ -26,7 +26,7 @@
       "description": "<p>This alcoholic beverage, favored amongst ruffians, features a terrible flavor and strong aftertaste. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Strength. At the end of the high, la créature must succeed on a DD 14 Constitution jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Strength. At the end of the low, la créature must make a DD 14 Wisdom jet de sauvegarde to resist addiction.</p>"
     },
     "Yarrock": {
-      "name": "Yarrock",
+      "name": "Iarrock",
       "description": "<p>Yarrock is a hallucinogen which is said to instill a creature with a clear vision of \"the meaning of life\", granting a boost to confidence. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Charisma. At the end of the high, la créature must succeed on a DD 14 Wisdom jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Charisma. At the end of the low, la créature must make a DD 14 Constitution jet de sauvegarde to resist addiction.</p>"
     },
     "Tihaar": {
@@ -46,7 +46,7 @@
       "description": "<p>Cilona, the active ingredient in deathsticks, is a hallucinogen that causes an ecstatic feeling that improves strength. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Strength. At the end of the high, la créature must succeed on a DD 14 Wisdom jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Strength. At the end of the low, la créature must make a DD 14 Constitution jet de sauvegarde to resist addiction.</p>"
     },
     "Mummergy": {
-      "name": "Mummergy",
+      "name": "Mamangie",
       "description": "<p>Mummergy is a strong-smelling liquor derived from a plant of the same name. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Intelligence. At the end of the high, la créature must succeed on a DD 14 Constitution jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Intelligence. At the end of the low, la créature must make a DD 14 Wisdom jet de sauvegarde to resist addiction.</p>"
     },
     "Vayerbok": {
@@ -54,7 +54,7 @@
       "description": "<p>Vayerbok is a thick, green, vegetable-based alcoholic beverage typically served hot. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that allows them to roll an additional [[/r d3]] when making an test de caractéristique, attack roll, or jet de sauvegarde using Wisdom. At the end of the high, la créature must succeed on a DD 14 Constitution jet de sauvegarde or experience a low that lasts 10 minutes, during which they must roll a [[/r d3]] and subtract the result when making an test de caractéristique, attack roll, or jet de sauvegarde using Wisdom. At the end of the low, la créature must make a DD 14 Wisdom jet de sauvegarde to resist addiction.</p>"
     },
     "Yaladai": {
-      "name": "Yaladai",
+      "name": "Yaladaï",
       "description": "<p>Yaladai is a powerful stimulant that grants extreme clarity, improving relaxation and focus. As an action, you can apply this substance to a creature within 5 mètres. For the next minute, la créature experiences a high that increases their current and maximum point de Forces by [[/r 2d3]]. At the end of the high, la créature must succeed on a DD 14 Wisdom jet de sauvegarde or experience a low that lasts 10 minutes, their current and maximum point de Forces are reduced by [[/r 2d3]]. At the end of the low, la créature must make a DD 14 Constitution jet de sauvegarde to resist addiction.</p>"
     },
     "Tsiraki": {

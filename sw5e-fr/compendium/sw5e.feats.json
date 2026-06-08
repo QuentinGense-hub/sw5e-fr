@@ -6,11 +6,11 @@
       "description": "<p>You have the strength that legends tell of, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Strength jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>You ignore the two-handed property of weapons with which you are proficient.</li>\n<li>When you miss with a attaque d'arme au corps à corps, la créature takes dégâts equal to your Strength modificateur. This dégâts is of the same type as the weapon's dégâts.</li></ul>"
     },
     "Fighting Master": {
-      "name": "Fighting Master",
+      "name": "Maître de combat",
       "description": "<p>Vous maîtrisez un style de combat particulier. Choisissez l'une des options de maîtrise du combat, détaillées plus loin dans ce chapitre. Vous pouvez réaliser cet exploit plusieurs fois. </p>"
     },
     "Investigator": {
-      "name": "Investigator",
+      "name": "Enquêteur",
       "description": "<p>You have an eye for detail and can pick out the smallest clues. You gain the following benefits: </p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Investigation skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>You can take the Search action as a action bonus. \t</li></ul>"
     },
     "Force Guidance": {
@@ -18,7 +18,7 @@
       "description": "<p>You've learned to utilize your gift with the Force in a specific, unique way. You gain the following benefits</p>\n<ul>\n<li>Increase your Wisdom or Charisma score by 1, to a maximum of 20. </li>\n<li>Choose a skill or tool in which you are proficient. When you make an test de caractéristique with the chosen skill or tool, you can add half your Wisdom or Charisma modificateur (your choice, minimum of one) to the check if it doesn't already include that modificateur. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</li>\n</ul>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different skill or tool.</p>"
     },
     "Sniping Caster": {
-      "name": "Sniping Caster",
+      "name": "Lanceur de tireur d'élite",
       "description": "<p>Vous avez pratiqué le lancement de pouvoirs avec plus de précision à longue distance, en apprenant des techniques qui vous offrent les avantages suivants :</p> <ul> <li>Lorsque vous lancez un pouvoir qui nécessite un jet d'attaque, la portée du pouvoir est doublée.</li> <li>Vos attaques de force et de technologie à distance ignorent un quart, la moitié et les trois quarts. cover.</li> <li>Vous apprenez un pouvoir à volonté qui nécessite un jet d'attaque. Votre capacité de lancement de ce pouvoir à volonté dépend de la liste de pouvoirs que vous avez choisie : Sagesse ou Charisme (selon l'alignement du pouvoir) pour le pouvoir de la Forces ou Intelligence pour les techniques de pouvoir.</li></ul>"
     },
     "Trip Weapon Supremacy": {
@@ -26,7 +26,7 @@
       "description": "<p>You've specialized your combat training with trip weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or it drops an object de votre choix. If you have a free hand, you catch the weapon. Otherwise, it lands at your mètres. </li>\n<li>You have avantage on Strength (Athletics) checks and attack rolls made to trip a creature.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>interrupt</strong>. For each attack you forgo, une créature within your reach gains no benefit to classe d'armure from its shield until the end of its next turn. If you could already interrupt, instead you can do so as your action bonus.</li></ul>"
     },
     "Mounted Caster": {
-      "name": "Mounted Caster",
+      "name": "Roulette montée",
       "description": "<p>You are trained in the use of powers while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:</p>\n<ul>\n<li>When you cast a power targeting yourpersonnelle, you can also affect your mount with the power.</li>\n<li>You have avantage on melee force or tech attack rolls against any unmounted creature that is smaller than your mount.</li>\n<li>If your mount is subjected to an effect that allows it to make a Dexterity jet de sauvegarde to take only half dégâts, it instead takes no dégâts if it succeeds on the jet de sauvegarde, and only half dégâts if it fails.</li></ul>"
     },
     "Class Improvement": {
@@ -34,35 +34,35 @@
       "description": "<p>You adopt a particular new application to your class, gaining the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>Choose one of the class improvement options, detailed later in this chapter. </li>\n</ul>\n<p>You can take this feat multiple times. </p>\n<ul>\n<li>@UUID[Compendium.sw5e.feats.Item.C8Iftmd1TNFrkZdZ]{Berserker}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.fejCvE78ZlWj1tYF]{Consular}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.yvcWtlTDvt7nr6CM]{Engineer}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.UPdDMnF0GhZrf0Lp]{Fighter}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.pFC02kZevXcVHwNO]{Guardian}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.FplL9LRkC6PxBl0y]{Monk}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.cJ3YivzMIYDNq10X]{Operative}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.6H3Njwe8rh2HfvcZ]{Scholar}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.NqFLpV9FLK9SQGhD]{Scout}</li>\n<li>@UUID[Compendium.sw5e.feats.Item.o0dvzY0pwLkZ0b1G]{Sentinel}</li></ul>"
     },
     "Greater Force-Sensitive": {
-      "name": "Greater Force-Sensitive",
+      "name": "Plus grande sensibilité à la force",
       "description": "<p>Vous connaissez un pouvoir de la Force à volonté. De plus, vous connaissez un pouvoir de la Force de 4e niveau, que vous pouvez lancer une fois par repos. Votre capacité de lancement de force est la Sagesse ou le Charisme (selon l'alignement du pouvoir).</p>"
     },
     "Techie": {
-      "name": "Techie",
+      "name": "Technicien",
       "description": "<p>You master the theory and practice of technology, gaining the following benefits: </p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Technology skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>You learn the <em>repair droid</em> pouvoir technique. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a repos long.</li></ul>"
     },
     "Observant": {
-      "name": "Observant",
+      "name": "Observateur",
       "description": "<p>En notant rapidement les détails de votre environnement, vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score d'Intelligence ou de Sagesse de 1, jusqu'à un maximum de 20.</li> <li>Si vous pouvez voir la bouche d'une créature pendant qu'elle parle une langue que vous comprenez, vous pouvez interpréter ce qu'elle dit en lisant ses lèvres.</li> <li>Vous êtes considéré comme ayant un avantage lors de la détermination de vos scores de Sagesse passive (Perception) et d'Intelligence passive (Enquête).</li></ul>"
     },
     "Versatile Withering": {
-      "name": "Versatile Withering",
+      "name": "Flétrissement polyvalent",
       "description": "<p>You have learned to easily overcome an adversary's will. You gain the following benefits:</p>\n<ul>\n<li>Increase your Wisdom or Charisma score by 1, to a maximum of 20.</li>\n<li>When you make an attack roll using your Wisdom, vous pouvez choisir to add half your Charisma modificateur to the attack roll. Alternatively, when you would make an attack roll using Charisma, you can add half your Wisdom modificateur to the attack roll. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li>\n<li>When an effect you control would call for a Wisdom jet de sauvegarde, you can instead have it call for a Charisma jet de sauvegarde. Alternatively, when an effect you control would call for a Charisma jet de sauvegarde, you can instead have it call for a Wisdom jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     },
     "Acrobat": {
-      "name": "Acrobat",
+      "name": "Acrobate",
       "description": "<p>You become more nimble, gaining the following benefits: </p>\n<ul>\n<li>Increase your Dexterity score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Acrobatics skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>As a action bonus, you can make a DD 15 Dexterity (Acrobatics) check. Si vous réussissez, difficult terrain doesn't cost you extra movement until the end of the current turn.</li></ul>"
     },
     "Dutifully Deployed": {
-      "name": "Dutifully Deployed",
+      "name": "Consciencieusement déployé",
       "description": "<p>You've developed an aptitude for a particular deployment on a starship. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain 1 rank in a deployment de votre choix. This rank does not count towards or affect your prestige.</li>\n<li>The maximum number of ranks you can gain in deployments increases by 1. You can still only gain 5 ranks in a deployment.</li></ul>"
     },
     "Perceptive": {
-      "name": "Perceptive",
+      "name": "Perspicacité",
       "description": "<p>You hone your senses until they become razor sharp. You gain the following benefits: </p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Perception skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>Being in a lightly obscured area doesn't impose disavantage on your Wisdom (Perception) checks if you can both see and hear.</li></ul>"
     },
     "Metabolic Tolerance": {
-      "name": "Metabolic Tolerance",
+      "name": "Tolérance métabolique",
       "description": "<p>You've developed resilience against many poisons, gaining the following benefits:</p>\n<ul>\n<li>Increase your Constitution, Intelligence, or Charisma score by 1, to a maximum of 20.</li>\n<li>As an action or action bonus, you can expend a Hit Die to end the empoisonné condition on yourpersonnelle.</li>\n<li>You have avantage on jet de sauvegardes made to avoid poison dégâts.</li></ul>"
     },
     "Exotic Weapon Training": {
@@ -70,15 +70,15 @@
       "description": "<p>Mastery of simple and martial weapons has unlocked new potential for you. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in three exotic weapons. You must have maîtrise in all simple and martial weapons in the exotic weapon's category to gain maîtrise in it. If the exotic has modes that would fall in two different weapon categories, you require maîtrise all simple and martial weapons in both categories in order to gain maîtrise in that exotic.</li></ul>"
     },
     "Mariner": {
-      "name": "Mariner",
+      "name": "Marin",
       "description": "<p>You've spent an exorbitant amount of time in water. You gain the following benefits:</p>\n<ul>\n<li>Increase your Constitution score by 1, to a maximum of 20.</li>\n<li>You gain a swimming speed equal to your vitesse de déplacement.</li>\n<li>You have avantage on a test de caractéristiques and jet de sauvegardes related to swimming.</li>\n<li>You can hold your breath for a number of minutes equal to 1 + twice your Constitution modificateur.</li></ul>"
     },
     "Quick Caster": {
-      "name": "Quick Caster",
+      "name": "Lanceur rapide",
       "description": "<p>You've practiced casting powers in quick succession, learning techniques that grant you the following benefits:</p>\n<ul>\n<li>When you cast a power with a casting time of a action bonus, you may use your action to cast a power with a power niveau no higher than half your bonus de maîtrise (rounded down).</li>\n<li>When you cast a power with a casting time of a action bonus, you can cast it without expending force or tech points as long as it is no higher niveau than your bonus de maîtrise. Once you've used this feature, you must complete a repos long before you can use it again.</li></ul>"
     },
     "Force-Sensitive": {
-      "name": "Force-Sensitive",
+      "name": "Sensible à la force",
       "description": "<p>Vous connaissez deux pouvoir de la Forces à volonté. Lorsque vous atteignez le niveau 3, vous apprenez un pouvoir de la Force de 1er niveau, que vous pouvez lancer une fois par repos long. Lorsque vous atteignez le niveau 5, vous apprenez un pouvoir de la Force de 2e niveau, que vous pouvez utiliser une fois par repos. Votre capacité de lancement de force est la Sagesse ou le Charisme (selon l'alignement du pouvoir). De plus, vous perdez le trait spécial Insensible à la Force si vous l'avez.</p>"
     },
     "Crushing Weapon Supremacy": {
@@ -86,119 +86,119 @@
       "description": "<p>You've specialized your combat training with crushing weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or it is pushed 5 mètres in a direction de votre choix.</li>\n<li>Once per round, quand vous utilisez your réaction to make a attaque d'arme au corps à corps, you have avantage on the attack roll.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>shatter</strong> the ground. For each attack you forgo, choose a separate case de 1,5 mètre within your weapon's reach to shatter. That square becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand. De plus, chaque créature other than you in an affected square must make a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon). On a failed sauvegarde, a creature takes dégâts equal to the attack's governing modificateur de caractéristique.  If you could already shatter, instead you can do so as your action bonus.</li></ul>"
     },
     "Improved Tech Dabbler": {
-      "name": "Improved Tech Dabbler",
+      "name": "Amateur de technologie amélioré",
       "description": "<p>Vous connaissez une technique de pouvoir à volonté. De plus, vous connaissez une technique de pouvoir de 3ème niveau, que vous pouvez lancer une fois par repos. Votre capacité de techcasting est l’Intelligence. Vous devez utiliser un bracelet pour ces pouvoirs. </p>"
     },
     "Polearm Supremacy": {
-      "name": "Polearm Supremacy",
+      "name": "Suprématie des armes d'hast",
       "description": "<p>You've specialized your combat training with polearm weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), you have avantage on the weapon's jet de dégâts.</li>\n<li>When you make an test de caractéristique or jet de sauvegarde against an effect that would shove or trip you, you can treat a [[/r d20]] roll of below half your niveau (rounded up) as half your niveau.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one of your attacks to <strong>choke up</strong>. If you do so, your reach increases by 5 mètres jusqu'au début de votre prochain tour. If you could already choke up, instead you can do so as your action bonus.</li></ul>"
     },
     "Formfighting Dabbler": {
-      "name": "Formfighting Dabbler",
+      "name": "Amateur de combat de formes",
       "description": "<p>You've dabbled in the basics of the known forms of lightsaber combat. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You learn one lightsaber form, detailed later in this chapter. If you already know at least one lightsaber form, you instead learn three lightsaber forms. If you already know at least three lightsaber forms, you instead learn seven lightsaber forms. If you already know at least ten lightsaber forms, you instead learn the remaining forms.</li></ul>"
     },
     "Master Force-Sensitive": {
-      "name": "Master Force-Sensitive",
+      "name": "Maître sensible à la force",
       "description": "<p>Vous connaissez un pouvoir de la Force à volonté. De plus, vous connaissez un pouvoir de la Force de 5e niveau, que vous pouvez lancer une fois par repos. Votre capacité de lancement de force est la Sagesse ou le Charisme (selon l'alignement du pouvoir).</p>"
     },
     "Ace Pilot": {
-      "name": "Ace Pilot",
+      "name": "En tant que pilote",
       "description": "<p>You're quite experienced both on land and in the air, be it from time in a navy, as a mercenary, or perhaps even piracy. You gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in the Piloting skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check related to vehicles or ships, you are considered to have expertise in the Investigation or Perception skill.</li></ul>"
     },
     "Alert": {
-      "name": "Alert",
+      "name": "Alerte",
       "description": "<p>Toujours à l'affût du danger, vous bénéficiez des avantages suivants :</p> <ul> <li>Vous maîtrisez les tests d'initiative..</li> <li>Vous ne pouvez pas être surpris tant que vous êtes conscient.</li> <li>Les autres créatures ne bénéficient pas d'avantage en cas d'attaque. roule contre vous parce que vous n'êtes pas vu.</li></ul>"
     },
     "Scholar": {
-      "name": "Scholar",
+      "name": "Savant",
       "description": "<p>You are able to analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a action bonus on your turn, you can analyze a target you can see within 60 mètres of you. For the next minute, or until you analyze another target, you gain the following benefits:</p>\n<ul>\n<li>When you analyze a hostile creature, your attack and jet de dégâtss made with weapons with the finesse property or blaster weapons against cette cible may use your Intelligence modificateur instead of Strength or Dexterity.</li>\n<li>When you analyze a friendly creature, la cible can end your Critical Analysis on them (no action required) to add your Intelligence modificateur to one attack roll, test de caractéristique, or jet de sauvegarde. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or repos long.</li>\n</ul>\n<p>You can use this feature un nombre de fois égal à half your bonus de maîtrise, rounded up. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "Heat Shielded": {
-      "name": "Heat Shielded",
+      "name": "Blindé thermiquement",
       "description": "<p>You can tolerate extremely hot temperatures. You gain the following benefits:</p>\n<ul>\n<li>Increase your Dexterity, Consitution, or Intelligence score by 1, to a maximum of 20.</li>\n<li>You have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme heat, and you can use your action bonus to end the ignited condition on yourpersonnelle, instead of your action.</li>\n<li>You have avantage on jet de sauvegardes made to avoid fire dégâts.</li></ul>"
     },
     "Electrical Grounding": {
-      "name": "Electrical Grounding",
+      "name": "Mise à la terre électrique",
       "description": "<p>You're able to avoid the brunt of electric shocks. You gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</li>\n<li>At the start of each of your turns while shocked, vous pouvez choisir to have a réaction, or vous pouvez choisir to be able to take both an action and a action bonus on your turn.</li>\n<li>You have avantage on jet de sauvegardes made to avoid lightning dégâts.</li></ul>"
     },
     "Flexible Rending": {
-      "name": "Flexible Rending",
+      "name": "Rendu flexible",
       "description": "<p>You are adept at overwhelming an opponent's reflexes. You gain the following benefits:</p>\n<ul>\n<li>Increase your Dexterity or Intelligence score by 1, to a maximum of 20.</li>\n<li>When you make an attack roll using your Dexterity, vous pouvez choisir to add half your Intelligence modificateur to the attack roll. Alternatively, when you would make an attack roll using Intelligence, you can add half your Dexterity modificateur to the attack roll. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li>\n<li>When an effect you control would call for a Dexterity jet de sauvegarde, you can instead have it call for a Intelligence jet de sauvegarde. Alternatively, when an effect you control would call for a Intelligence jet de sauvegarde, you can instead have it call for a Dexterity jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     },
     "Close Quarters Caster": {
-      "name": "Close Quarters Caster",
+      "name": "Lanceur de combat rapproché",
       "description": "<p>You've practiced utilizing powers in close quarters, learning techniques that grant you the following benefits:</p>\n<ul>\n<li>When making a ranged force or tech attack while you are within 5 mètres of a hostile creature, you do not have disavantage on the attack roll.  </li>\n<li>Your ranged force and tech attacks ignore half cover and three-quarters cover against targets within 30 mètres of you. </li>\n<li>You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for pouvoir de la Forces or Intelligence for pouvoir techniques.</li></ul>"
     },
     "Medic": {
-      "name": "Medic",
+      "name": "Médical",
       "description": "<p>You master the physician's arts, gaining the following benefits: </p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Medicine skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>During a repos court, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DD 15 Wisdom (Medicine) check for chaque créature. On a success, if a creature spends a Hit Die during this rest, cette créature can forgo the roll and instead regain the maximum number of points de vie the die can restore. A creature can do so only une fois par repos, regardless of how many Hit Dice it spends.</li></ul>"
     },
     "Quick-Witted": {
-      "name": "Quick-Witted",
+      "name": "Vif d'esprit",
       "description": "<p>Great ideas come to you naturally, often when your life depends on it. You always have a plan, or at least parts of it. You gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20.</li>\n<li>You can use your Intelligence modificateur instead of your Dexterity modificateur when making Initiative checks.</li>\n<li>When you would make a Dexterity jet de sauvegarde, you can instead make an Intelligence jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     },
     "Brawny": {
-      "name": "Brawny",
+      "name": "Musclé",
       "description": "<p>You become stronger, gaining the following benefits: </p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Athletics skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples.</li></ul>"
     },
     "Companion Keeper": {
-      "name": "Companion Keeper",
+      "name": "Gardien compagnon",
       "description": "<p>Vous bénéficiez des services d'un accompagnateur. Choisissez l'une des options de nature compagnon, détaillées plus loin dans ce chapitre.</p>"
     },
     "Forceful Vigor": {
-      "name": "Forceful Vigor",
+      "name": "Vigueur énergique",
       "description": "<p>Your strength and virility rarely go unnoticed, often to the point of distraction. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20.</li>\n<li>You can use your Strength modificateur instead of your Constitution modificateur when making test de Constitutions.</li>\n<li>When you would make a Constitution jet de sauvegarde, you can instead make a Strength jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     },
     "Crafter": {
-      "name": "Crafter",
+      "name": "Artisan",
       "description": "<p>You have a knack for crafting; you work with greater efficiency and produce goods of higher quality. Select one type of artisan's implements. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain maîtrise with the chosen tool. If you are already proficient with it, you instead gain expertise with it.</li>\n<li>When you craft something with the chosen tool, the total market value you can craft increases 50 cr per day. If you have expertise with it, the market value instead increases by 100 cr per day.</li>\n<li>If you use the tool you've selected to practice a profession during downtime, you can support a lifestyle one higher than you would normally be able to.</li>\n</ul>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different set of artisan's implements. </p>"
     },
     "Dual Focused Caster": {
-      "name": "Dual Focused Caster",
+      "name": "Roulette à double focalisation",
       "description": "<p>You have learned to bifurcate your attention while concentrating on powers, learning techniques that grant you the following benefits:</p>\n<ul>\n<li>If you attempt to cast a power that requires concentration while already concentrating on an existing power, you can maintain concentration on both powers simultaneously. You must spend your action each subsequent round on maintaining this concentration, or lose concentration for both powers.                              </li>\n<li>At the end of each of your turns where you have two powers you are concentrating on, you must make a Constitution jet de sauvegarde (DD equals 10 + the number of complete rounds you've been concentrating on two powers). On a failure, you lose concentration for both powers. You can drop concentration on one of your powers during your turn as a free action to avoid this jet de sauvegarde.</li>\n<li>Any time you would be forced to make a Constitution jet de sauvegarde to maintain concentration due to taking dégâts, the DD equals 10 + both powers' niveaus combined, or half the dégâts you take, whichever number is higher. On a failure, you lose concentration on both powers.</li></ul>"
     },
     "Blinding Agility": {
-      "name": "Blinding Agility",
+      "name": "Agilité aveuglante",
       "description": "<p>You have the reflexes one who can see things before they happen, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Dexterity jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>Weapons that lack the two-handed or special properties are considered to have the finesse property for you.</li>\n<li>Opportunity attacks made against you have disavantage.</li></ul>"
     },
     "Sentinel": {
-      "name": "Sentinel",
+      "name": "Sentinelle",
       "description": "<p>Quand vous contactez une créature with a attaque d'arme au corps à corps, you can spend 1 point de Force to use a Force-Empowered Self effect. You have three such effects: Deflection, Double Strike, and Slow Time. You can only use each effect une fois par tour, and you can only use one effect per hit.</p>\n<p><strong><em>Deflection.</em></strong> You can roll a [[/r d4]] and add it to your AC against one attack before the start of your next turn.</p>\n<p><strong><em>Double Strike.</em></strong> You can roll a [[/r d4]] and deal additional dégâts of the same type equal to the amount rolled.</p>\n<p><strong><em>Slow Time.</em></strong> You can roll a [[/r d4]] to increase your speed by 5 x the amount rolled jusqu'à la fin de votre tour.</p>\n<p>You can only spend a number of point de Forces in this way equal to your bonus de maîtrise. You regain the ability to do so when you complete a repos long.</p>"
     },
     "Polearm Focus": {
-      "name": "Polearm Focus",
+      "name": "Focus sur l'arme d'hast",
       "description": "<p>You've focused your combat training on polearm weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, you can roll one additional weapon dégâts die.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one of your attacks to <strong>choke up</strong>. If you do so, your reach increases by 5 mètres jusqu'au début de votre prochain tour.</li></ul>"
     },
     "Spiritual Techcaster": {
-      "name": "Spiritual Techcaster",
+      "name": "Techcaster spirituel",
       "description": "<p>You've developed a transcendent approach to your tech prowess. Choose one from Wisdom or Charisma. You gain the following benefits:</p>\n<ul>\n<li>Increase the chosen score de caractéristique by 1, to a maximum of 20.</li>\n<li>You can use the chosen ability instead of Intelligence as your techcasting ability.</li>\n<li>Vous pouvez ajouter the chosen ability instead of Intelligence when determining your maximum tech points.</li></ul>"
     },
     "Blade Supremacy": {
-      "name": "Blade Supremacy",
+      "name": "Suprématie de la lame",
       "description": "<p>You've specialized your combat training with blade weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or gain 1 slowed niveau jusqu'au début de votre prochain tour.</li>\n<li>Your critical hit range increases by 1.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>parry</strong>. For each attack you forgo, you gain a +1 bonus to AC jusqu'au début de votre prochain tour. If you could already parry, instead you can do so as your action bonus.</li></ul>"
     },
     "Investigative Attunement": {
-      "name": "Investigative Attunement",
+      "name": "Harmonisation d'enquête",
       "description": "<p>You've spent a significant amount of time appraising and testing enhanced items. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>Your maximum attunement increases by 1.</li>\n<li>You have avantage on test de caractéristiques made to identify items.</li>\n<li>Once per repos long, vous pouvez choisir one object that you must contact for 10 minutes. If it is an enhanced or modified item, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any powers are affecting the item and what they are. If the item was created by a power, you learn which power created it.</li></ul>"
     },
     "Mindful Meditator": {
-      "name": "Mindful Meditator",
+      "name": "Méditant conscient",
       "description": "<p>You've learned meditation techniques to calm your mind. You gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</li>\n<li>You only need 3 hours of sleep during a repos long to gain its benefits, instead of 6. De plus, if your repos long would be interrupted, you only need to complete the repos long instead of restarting it to gain its benefits.</li>\n<li>You have avantage on jet de sauvegardes made to avoid psychic dégâts.</li></ul>"
     },
     "Sidearm Supremacy": {
-      "name": "Sidearm Supremacy",
+      "name": "Suprématie des armes de poing",
       "description": "<p>You've specialized your combat training with sidearm weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or it drops an object de votre choix. If you have a free hand and the object is within your reach, you catch the object. Otherwise, it lands at your mètres.</li>\n<li>You can now reload these weapons using your réaction or object interaction, instead of just your action or action bonus. You must have one free hand to reload.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>daze</strong> a creature. For each attack you forgo, you expend 2 ammunition and choose a creature that is no more than one size larger than you (your size or smaller if your weapon has the light property), has a head, and is within your weapon's normal range. The creature must succeed on a Constitution jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become incapacitated until the end of its next turn or until it takes dégâts, whichever happens first.  If you could already daze, instead you can do so as your action bonus.</li></ul>"
     },
     "Vigorous Virility": {
-      "name": "Vigorous Virility",
+      "name": "Virilité vigoureuse",
       "description": "<p>Thanks to the strength of your vitality, you gain the following benefits:</p>\n<ul>\n<li>Increase your Constitution, Intelligence, or Charisma score by 1, to a maximum of 20.</li>\n<li>As an action, you can expend a Hit Die to end the weakened condition on yourpersonnelle.</li>\n<li>Once per repos long, when you complete a repos court, you can expend a Hit Die to remove 1 niveau of épuisement.</li>\n<li>You have avantage on jet de sauvegardes made to avoid necrotic dégâts.</li></ul>"
     },
     "Rifle Focus": {
-      "name": "Rifle Focus",
+      "name": "Mise au point du fusil",
       "description": "<p>You've focused your combat training on rifle weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, you can roll one additional weapon dégâts die.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to  <strong>scramble</strong>. For each attack you forgo, you can move up to 10 mètres without provoking attaque d'opportunités.</li></ul>"
     },
     "Galvanizing Presence": {
-      "name": "Galvanizing Presence",
+      "name": "Une présence galvanisante",
       "description": "<p>Your presence on the battlefield is a source of inspiration. You gain the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>As a action bonus, you let out a rallying war cry, ending the effrayé or charmé condition on yourpersonnelle and a number of allies that can hear you equal to your Charisma modificateur (minimum of one). Once you've used this ability, you must complete a short or repos long before you can use it again.</li></ul>"
     },
     "Heavy Weapon Supremacy": {
@@ -206,23 +206,23 @@
       "description": "<p>You've specialized your combat training with heavy weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or it is pushed 5 mètres in a direction de votre choix.</li>\n<li>When a creature rolls a 1 on the jet de sauvegarde against one of these weapons, they treat the effect's dégâts as if it had rolled the maximum. If a creature would already treat the effect's dégâts as if it had rolled the maximum when it rolls a 1 on this weapon's jet de sauvegarde, it instead does so on a roll of 1 or 2.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>suppress</strong>. For each attack you forgo, you expend ammunition equal to half your weapon's reload number (minimum of 2) and choose a 10-foot-cube area within your weapon's normal range. Each creature in the area that is no more than one size larger than you (your size or smaller if your weapon has the light property) must make a Wisdom jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become effrayé of you until the end of their next turn. If you could already suppress, instead you can do so as your action bonus.</li></ul>"
     },
     "Linguist": {
-      "name": "Linguist",
+      "name": "Linguiste",
       "description": "<p>You have studied languages and codes, gaining the following benefits:</p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20.</li>\n<li>You learn three languages de votre choix.</li>\n<li>You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an test d'Intelligence (DD = your Intelligence score + your bonus de maîtrise), or they use a power to decipher it.</li></ul>"
     },
     "Resilient": {
-      "name": "Resilient",
+      "name": "Résilient",
       "description": "<p>Choose one score de caractéristique. You gain the following benefits:</p>\n<ul>\n<li>Increase the chosen score de caractéristique by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in jet de sauvegardes using the chosen ability.</li></ul>"
     },
     "Battle Scarred": {
-      "name": "Battle Scarred",
+      "name": "Marqué par la bataille",
       "description": "<p>Vous avez passé toute votre vie à vous battre, les cicatrices le prouvent. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score de Constitution de 1, jusqu'à un maximum de 20.</li> <li>Lorsque vous obtenez un 19 ou un 20 sur le [[/r d20]] pour un jet de sauvegarde mortel, vous regagnez 1 point de vie. </li> <li>Lorsque vous êtes réduit à 0 point de vie mais que vous n'êtes pas carrément tué, vous pouvez passer à 1 point de vie à la place. Une fois que vous avez utilisé cette capacité, vous devez effectuer une mise en pension bien avant de pouvoir l'utiliser à nouveau.</li></ul>"
     },
     "Survivalist": {
-      "name": "Survivalist",
+      "name": "Survivaliste",
       "description": "<p>You master wilderness lore, gaining the following benefits: </p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Survival skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>You learn the <em>alarm</em> pouvoir technique. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a repos long. </li></ul>"
     },
     "Sidearm Focus": {
-      "name": "Sidearm Focus",
+      "name": "Mise au point sur les armes de poing",
       "description": "<p>You've focused your combat training on sidearm weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, the next attack roll made against la cible before the start of your next turn has avantage.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>daze</strong> a creature. For each attack you forgo, you expend 2 ammunition and choose a creature that is no more than one size larger than you (your size or smaller if your weapon has the light property), has a head, and is within your weapon's normal range. The creature must succeed on a Constitution jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become incapacitated until the end of its next turn or until it takes dégâts, whichever happens first.</li></ul>"
     },
     "Power Adept": {
@@ -230,7 +230,7 @@
       "description": "<p>When you gain this feat, choose one of the following type de dégâtss: acid, cold, fire, force, lightning, or necrotic. Powers you cast ignore resistance to dégâts of the chosen type. De plus, when you roll dégâts for a power you cast that deals dégâts of that type, you can treat any 1 on a dégâts die as a 2.</p>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different type de dégâts.</p>"
     },
     "Competitor": {
-      "name": "Competitor",
+      "name": "Concurrent",
       "description": "<p>You have a strong aptitude for competing. Select one gaming set. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in the chosen gaming set. If you are already proficient with it, you instead gain expertise with it.</li>\n<li>As long as you spend at least 1 minute using your gaming set, you can't have disavantage on test d'Intelligences you make to use the gaming set, Charisma (Deception) checks you make to bluff with the gaming set, or Wisdom (Insight) checks you make to read an opponent with whom you are competing with the gaming set.</li>\n</ul>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different gaming set.</p>"
     },
     "Heavy Weapon Focus": {
@@ -238,7 +238,7 @@
       "description": "<p>You've focused your combat training on heavy weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, you add the attack's governing modificateur de caractéristique twice, instead of once, to the attack's dégâts.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>suppress</strong>. For each attack you forgo, you expend ammunition equal to half your weapon's reload number (minimum of 2) and choose a 10-foot-cube area within your weapon's normal range. Each creature in the area that is no more than one size larger than you (your size or smaller if your weapon has the light property) must make a Wisdom jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become effrayé of you until the end of their next turn.</li></ul>"
     },
     "Exalted Awareness": {
-      "name": "Exalted Awareness",
+      "name": "Conscience Exaltée",
       "description": "<p>You have the wisdom associated with the most renowned masters of the Force, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Wisdom jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>Creatures within 60 mètres of you have disavantage on Dexterity (Stealth) checks made to hide from you.</li>\n<li>As an action, you can sense the presence of illusions and other effects designed to deceive the senses within 30 mètres of you, provided that you aren't aveuglé or assourdi. You sense that an effect is trying to trick you, but you gain no insight into what is hidden or its true nature. Once you've used this feature, you must complete a short or repos long before you can use it again.</li></ul>"
     },
     "Force of Personality": {
@@ -246,11 +246,11 @@
       "description": "<p>Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will. You gain the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>You can use your Charisma modificateur instead of your Wisdom modificateur when making Insight checks.</li>\n<li>When you would make a Wisdom jet de sauvegarde, you can instead make a Charisma jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     },
     "Lucky": {
-      "name": "Lucky",
+      "name": "Chanceux",
       "description": "<p>You have inexplicable luck that seems to kick in at just the right moment.</p>\n<p>You have 3 luck points. Whenever you make an attack roll, an test de caractéristique, or a jet de sauvegarde, you can spend one luck point to roll an additional [[/r d20]]. Vous pouvez choisir to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, test de caractéristique, or jet de sauvegarde.</p>\n<p>You can also spend one luck point when an attack roll is made against you. Roll a [[/r d20]], and then choose whether the attack uses the attacker's roll or yours. If more than une créature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.</p>\n<p>You regain your expended luck points when you finish a repos long.</p>"
     },
     "Healer": {
-      "name": "Healer",
+      "name": "Guérisseur",
       "description": "<p>You are an able medic, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence or Wisdom score by 1, to a maximum of 20.</li>\n<li>When you use a traumakit to stabilize a dying creature, cette créature also regains 1 point de vie.</li>\n<li>As an action, you can spend one use of a traumakit to tend to a creature and restore [[/r 1d6 + 4]] points de vie to it, plus additional points de vie equal to la créature's maximum number of Hit Dice. The creature can't regain points de vie again in this way until it finishes a short or repos long.</li></ul>"
     },
     "Weapon Focused": {
@@ -262,35 +262,35 @@
       "description": "<p>Choose one from force- or tech-casting. You've learned to cast powers of the chosen type with greater deliberation. Choose a number of powers you know of niveau 1 or higher equal to half your bonus de maîtrise. When you cast one of the chosen powers, vous pouvez choisir to spend an additional minute casting the power for each niveau of the power. If you do so, the cost of the power is reduced by half the number of points. Casting a power in this way requires concentration (explained in chapter 10). If your concentration is broken, the power dissipates without taking effect. </p>\n<p>Whenever you gain a niveau in a class with casting of the chosen type, you can replace one of the chosen powers with another power of niveau 1 or higher you know.</p>"
     },
     "Inspiring Leader": {
-      "name": "Inspiring Leader",
+      "name": "Leader inspirant",
       "description": "<p>Vous pouvez dépenser 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourpersonnelle) within 30 mètres of you who can see or hear you and who can understand you. Each creature can gain points de vie temporaires equal to your niveau + your Charisma modificateur. A creature can't gain points de vie temporaires from this feat again until it has finished a short or repos long.</p>"
     },
     "Charmer": {
-      "name": "Charmer",
+      "name": "Charmeuse",
       "description": "<p>You've master the art of charming those around you, gaining the following benefits: </p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Persuasion skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by la créature's Wisdom (Insight) check. If you or your companions are fighting la créature, your check automatically fails. If your check succeeds, la cible is charmé by you as long as it remains within 60 mètres of you and pendant 1 minute thereafter. </li></ul>"
     },
     "Blade Focus": {
-      "name": "Blade Focus",
+      "name": "Concentration de la lame",
       "description": "<p>You've focused your combat training on blade weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, the next attack roll la cible makes before the start of your next turn has disavantage.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>parry</strong>. For each attack you forgo, you gain a +1 bonus to AC jusqu'au début de votre prochain tour.</li></ul>"
     },
     "Well-Insulated": {
-      "name": "Well-Insulated",
+      "name": "Bien isolé",
       "description": "<p>You can tolerate extremely cold temperatures. You gain the following benefits:</p>\n<ul>\n<li>Increase your Dexterity, Constitution, or Intelligence score by 1, to a maximum of 20.</li>\n<li>You have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme cold, and each slowed niveau only reduces your speed by 5 mètres, unless it would reduce your speed to 0.</li>\n<li>You have avantage on jet de sauvegardes made to avoid cold dégâts.</li></ul>"
     },
     "Empathic": {
-      "name": "Empathic",
+      "name": "Empathique",
       "description": "<p>You possess keen insight into how other people think and feel. You gain the following benefits: </p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Insight skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>Vous pouvez utiliser votre action pour try to get uncanny insight about one humanoid you can see within 30 mètres of you. Make a Wisdom (Insight) check contested by la cible's Charisma (Deception) check. On a success, you have avantage on attack rolls and test de caractéristiques against la cible jusqu'à la fin de votre prochain tour.</li></ul>"
     },
     "Shard Modification": {
-      "name": "Shard Modification",
+      "name": "Modification du fragment",
       "description": "<p>You are specially modified droid used to house a shard. Shards are sentient crystals native to the planet Orax, roughly a foot in length, that communicate with each other through pulses of light. While inhabiting a specialized droid host, shards are able to overcome the droid's inability to wield the Force, granting the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You lose the Force-Insensitive special trait.</li>\n<li>You can cast the <em>sense force</em> pouvoir de la Force once per day. Wisdom or Charisma (your choice) is your forcecasting ability for this power.</li></ul>"
     },
     "Fighting Stylist": {
-      "name": "Fighting Stylist",
+      "name": "Styliste de combat",
       "description": "<p>Vous adoptez un style de combat particulier comme spécialité, bénéficiant des avantages suivants :</p> <ul> <li>Augmentez votre score de Force, de Dextérité ou de Constitution de 1, jusqu'à un maximum de 20.</li> <li>Choisissez l'une des options de style de combat, détaillées plus loin dans ce chapitre. </li> </ul> <p>Vous pouvez réaliser cet exploit plusieurs fois. </p>"
     },
     "Fighter": {
-      "name": "Fighter",
+      "name": "Combattant",
       "description": "<p>You learn maneuvers that are fueled by special dice called dés de supériorité.</p>\n<p><strong><em>Maneuvers.</em></strong> You learn one maneuver de votre choix from those available to the fighter class. Vous apprenez un supplémentaire maneuver at niveau 11. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack, and you may only use each maneuver une fois par tour.</p>\n<p><strong><em>Superiority Dice.</em></strong> You have a number of dés de supériorité equal to your bonus de maîtrise, which are d4s. A dé de supériorité is expended quand vous utilisez it. Vous regagnez tous of your expended dés de supériorité when you finish a repos long.</p>\n<p><strong><em>Saving Throws.</em></strong> Some of your maneuvers require your target to make a jet de sauvegarde to resist the maneuver's effects. The jet de sauvegarde DD is calculated as follows:</p>\n<p><em></em>_</p>\n<p><strong>Maneuver sauvegarde DD</strong> = 8 + your bonus de maîtrise + your Strength or Dexterity modificateur (your choice)</p>\n<p><em></em>_</p>"
     },
     "Two-Weapon Casting": {
@@ -302,51 +302,51 @@
       "description": "<p>You learn how to effectively read and track your prey. Une fois par chacun de vos tours, vous pouvez choisir a creature you can see within 120 mètres and mark it as your quarry (no action required). For the next hour, you gain the following benefits:</p>\n<ul>\n<li>Une fois par tour, quand vous contactez la cible with a attaque d'arme, you can deal [[/r 1d4]] additional dégâts to it of the same type as the weapon's dégâts. </li>\n<li>You have avantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it while it's on the same planet as you.</li>\n</ul>\n<p>You can only have une créature marked in this way at a time. You can mark creatures in this way un nombre de fois égal à half your bonus de maîtrise, rounded up. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "Splashclass Improvement": {
-      "name": "Splashclass Improvement",
+      "name": "Amélioration de la classe Splash",
       "description": "<p>Vous avez appris à mélanger les compétences de vos différentes classes. Choisissez l'une des options d'amélioration de splashclass, détaillées plus loin dans ce chapitre. Vous pouvez réaliser cet exploit plusieurs fois. </p> <ul> <li>@UUID[Compendium.sw5e.feats.Item.HfieYbEF4UepAqtL]{Berserker}</li> <li>@UUID[Compendium.sw5e.feats.Item.iQl7w58aNr6jWHTn]{Consulaire}</li> <li>@UUID[Compendium.sw5e.feats.Item.kh8b0UPaAtr4Xtah]{Ingénieur}</li> <li>@UUID[Compendium.sw5e.feats.Item.w6fdQRuHr8N15uW9]{Combattant}</li> <li>@UUID[Compendium.sw5e.feats.Item.CQdviCPoj07vSaKL]{Gardien}</li> <li>@UUID[Compendium.sw5e.feats.Item.B52ZLcL7kuPMFO42]{Moine}</li> <li>@UUID[Compendium.sw5e.feats.Item.KtmSbGZV26qLIAJX]{Opérateur}</li> <li>@UUID[Compendium.sw5e.feats.Item.3R9KiTTEupBtopMR]{Érudit}</li> <li>@UUID[Compendium.sw5e.feats.Item.JHyiEQrJHS9GHrO1]{Scout}</li> <li>@UUID[Compendium.sw5e.feats.Item.gEiEozguD5Kv8HsU]{Sentinelle}</li></ul>"
     },
     "Practiced": {
-      "name": "Practiced",
+      "name": "Exercé",
       "description": "<p>You have acquired skills over your career, gaining the following benefits: </p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in any combination of two skills or tools de votre choix.</li></ul>"
     },
     "Bountiful Luck": {
-      "name": "Bountiful Luck",
+      "name": "Chance abondante",
       "description": "<p>Your people have extraordinary luck, which you have learned to lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favor!</p>\n<p>When an ally you can see within 30 mètres of you rolls a 1 on the [[/r d20]] for an attack roll, an test de caractéristique, or a jet de sauvegarde, you can use your réaction and expend 1 luck point to let the ally reroll the die. The ally must use the new roll. When you use this ability, you can't use luck points before the end of your next turn. </p>"
     },
     "Feigned Confidence": {
-      "name": "Feigned Confidence",
+      "name": "Confiance feinte",
       "description": "<p>You've spent years pretending you know what you're doing, gaining the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>When you would make an test de caractéristique with a skill or tool that doesn't add your bonus de maîtrise, you can first make a DD 15 Charisma (Deception) check. On a success, you can add your bonus de maîtrise to the initial test de caractéristique. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you finish a short or repos long.</li></ul>"
     },
     "Tough": {
-      "name": "Tough",
+      "name": "Difficile",
       "description": "<p>Vous avez le sang des héros qui coule dans vos veines. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score de Constitution de 1, jusqu'à un maximum de 20.</li> <li>À chaque fois que vous effectuez l'action Esquiver en combat, vous pouvez dépenser un dé de vie pour soigner votre personnel. Lancez le dé, ajoutez votre modificateur de Constitution et récupérez un nombre de points de vie égal au total (un minimum). </li></ul>"
     },
     "Engineer": {
-      "name": "Engineer",
+      "name": "Ingénieur",
       "description": "<p>Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a action bonus on your turn to choose une créature other than yourpersonnelle within 60 mètres of you who can hear you. That creature gains one Potent Aptitude die, a [[/r d4]]. </p>\n<p>Once within the next 10 minutes, la créature can roll the die and add the number rolled to one test de caractéristique, attack roll, or jet de sauvegarde it makes. The creature can wait until after it rolls the [[/r d20]] before deciding to use the Potent Aptitude die, but must decide before the GM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost.</p>\n<p>A creature can have only one Potent Aptitude die at a time.</p>\n<p>You can use this feature un nombre de fois égal à your bonus de maîtrise. You regain any expended uses when you finish a repos long.</p>"
     },
     "Customized Droid": {
-      "name": "Customized Droid",
+      "name": "Droïde personnalisé",
       "description": "<p>You've been customized beyond other droids of the same model, granting the following benefits: </p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>Choose one droid customization of standard rarity from Appendix A. That customization is installed and doesn't count against the maximum droid customizations you can support, but it does count towards your maximum parts or protocols, as appropriate.</li></ul>"
     },
     "Auditory Dampening": {
-      "name": "Auditory Dampening",
+      "name": "Amortissement auditif",
       "description": "<p>You've developed resilience against debilitating noises, gaining the following benefits:</p>\n<ul>\n<li>Increase your Constitution, Intelligence, or Wisdom score by 1, to a maximum of 20.</li>\n<li>While you are assourdi, you can make test de caractéristiques that rely on hearing with disavantage, instead of automatically failing them.</li>\n<li>You have avantage on jet de sauvegardes made to avoid sonic dégâts.</li></ul>"
     },
     "Silver-Tongued": {
-      "name": "Silver-Tongued",
+      "name": "Langue d'argent",
       "description": "<p>You develop your conversational skill to better deceive others. You gain the following benefits: </p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Deception skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>When you take the Attack action, you can replace one attack with an attempt to deceive one humanoid you can see within 30 mètres of you that can see and hear you. Make a Charisma (Deception) check contested by la cible's Wisdom (Insight) check. If your check succeeds, your movement doesn't provoke attaque d'opportunités from la cible and your attack rolls against it have avantage; both benefits last jusqu'à la fin de votre prochain tour or until you use this ability on a different target. If your check fails, la cible can't be deceived by you in this way for 1 hour.</li></ul>"
     },
     "Loremaster": {
-      "name": "Loremaster",
+      "name": "Maître du savoir",
       "description": "<p>Your study of history rewards you with the following benefits: </p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Lore skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>When you take the Help action to aid another creature's test de caractéristique, you can make a DD 15 Intelligence (Lore) check. On a success, cette créature's check gains a bonus equal to your bonus de maîtrise, as you share pertinent advice and historical examples. To receive this bonus, la créature must be able to understand what you're saying.</li></ul>"
     },
     "Athlete": {
-      "name": "Athlete",
+      "name": "Athlète",
       "description": "<p>You have undergone extensive physical training to gain the following benefits:</p>\n<ul>\n<li>Increase your Strength or Dexterity score by 1, to a maximum of 20.</li>\n<li>When you are à terre, standing up uses only 5 mètres of your movement.</li>\n<li>Climbing doesn't cost you extra movement.</li>\n<li>Vous pouvez faire a running long jump or a running high jump after moving only 5 mètres on foot, rather than 10 mètres.</li></ul>"
     },
     "Supreme Accuracy": {
-      "name": "Supreme Accuracy",
+      "name": "Précision suprême",
       "description": "<p>Vous avez une visée étrange avec des attaques qui reposent sur la précision. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score de Dextérité, Intelligence, Sagesse ou Charisme de 1, jusqu'à un maximum de 20.</li> <li>Chaque fois que vous avez un avantage sur un jet d'attaque utilisant la Dextérité, l'Intelligence, la Sagesse ou le Charisme, vous pouvez relancer l'un des dés une fois. </li></ul>"
     },
     "Force Frustrater": {
@@ -354,7 +354,7 @@
       "description": "<p>You've practiced techniques to resist being manipulated by the Force. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength, Wisdom, or Charisma score by 1, to a maximum of 20.</li>\n<li>When a creature attempts to move you against your will using a pouvoir de la Force, the maximum distance it can move you is halved.</li>\n<li>You have avantage on jet de sauvegardes made to avoid force dégâts.</li></ul>"
     },
     "Stealthy": {
-      "name": "Stealthy",
+      "name": "Furtif",
       "description": "<p>You know how best to hide, gaining the following benefits: </p>\n<ul>\n<li>Increase your Dexterity score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Stealth skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>If you are hidden, you can move up to 10 mètres in the open without revealing yourpersonnelle if you end the move in a position where you're not clearly visible. </li></ul>"
     },
     "Durable": {
@@ -362,15 +362,15 @@
       "description": "<p> Robuste et résilient, vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score de Constitution de 1, jusqu'à un maximum de 20.</li> <li>Lorsque vous lancez un dé de vie pour regagner des points de vie, le nombre minimum de points de vie que vous pouvez récupérer grâce au jet est égal à deux fois votre modificateur de Constitution. (minimum de 2).</li> <li>Votre point de vie maximum augmente d'un montant égal à deux fois votre niveau lorsque vous obtenez ce don. Chaque fois que vous gagnez un niveau par la suite, votre maximum de points de vie augmente de 2 points de vie supplémentaires.</li></ul>"
     },
     "Performer": {
-      "name": "Performer",
+      "name": "Interprète",
       "description": "<p>You master performance so that you can command any stage. You gain the following benefits: </p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Performance skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disavantage until you stop performing.</li></ul>"
     },
     "Operative": {
-      "name": "Operative",
+      "name": "Opératoire",
       "description": "<p>You know how to strike subtly and exploit a foe's distraction. Une fois par tour, you can deal an extra [[/r 1d6]] dégâts to une créature you hit with a attaque d'arme if you have avantage on the attack roll. This dégâts is the same as the weapon's dégâts, and the attack must use a finesse or a ranged weapon.</p>\n<p>You don't need avantage on the attack roll if another enemy of la cible is within 5 mètres of it, that enemy isn't incapacitated, and you don't have disavantage on the attack roll.</p>\n<p>Vous pouvez infliger this additional dégâts un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "Consular": {
-      "name": "Consular",
+      "name": "Consulaire",
       "description": "<p>You gain the ability to twist your powers to suit your needs. When you cast a pouvoir de la Force, you can expend additional point de Forces to modify the power. You gain one of the Force-Empowered Casting options de votre choix from those available to the consular class. You gain an additional option at niveau 11.</p>\n<p>You can only spend a number of point de Forces in this way equal to your bonus de maîtrise. You regain the ability to do so when you complete a repos long.</p>"
     },
     "Armor Expert": {
@@ -382,19 +382,19 @@
       "description": "<p>You've focused your combat training on crushing weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, you add the attack's governing modificateur de caractéristique twice, instead of once, to the attack's dégâts.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>shatter</strong> the ground. For each attack you forgo, choose a separate case de 1,5 mètre within your weapon's reach to shatter. That square becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand. De plus, chaque créature other than you in an affected square must make a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon). On a failed sauvegarde, a creature takes dégâts equal to the attack's governing modificateur de caractéristique.</li></ul>"
     },
     "Supreme Aptitude": {
-      "name": "Supreme Aptitude",
+      "name": "Aptitude suprême",
       "description": "<p>You have uncanny skill with a preternatural focus. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength, Dexterity, Constitution, or Intelligence score by 1, to a maximum of 20.</li>\n<li>Whenever you have avantage on an test de caractéristique using Strength, Dexterity, Constitution, or Intelligence you can reroll one of the dice once. </li></ul>"
     },
     "Greater Tech Dabbler": {
-      "name": "Greater Tech Dabbler",
+      "name": "Grand amateur de technologie",
       "description": "<p>Vous connaissez une technique de pouvoir à volonté. De plus, vous connaissez une technique de pouvoir de 4e niveau, que vous pouvez lancer une fois par repos. Votre capacité de techcasting est l’Intelligence. Vous devez utiliser un bracelet pour ces pouvoirs. </p>"
     },
     "Tech Dabbler": {
-      "name": "Tech Dabbler",
+      "name": "Amateur de technologie",
       "description": "<p>Vous connaissez deux techniques de pouvoir à volonté. Lorsque vous atteignez le niveau 3, vous apprenez et pouvez lancer une technique de pouvoir de 1er niveau une fois par repos. Lorsque vous atteignez le niveau 5, vous apprenez et pouvez lancer une technique de pouvoir de 2e niveau une fois par repos. Votre capacité de techcasting est l’Intelligence. Vous devez utiliser un bracelet pour ces pouvoirs. De plus, vous perdez le trait spécial Tech-Impaired si vous l'avez.</p>"
     },
     "Naturalist": {
-      "name": "Naturalist",
+      "name": "Naturaliste",
       "description": "<p>Your extensive study of nature rewards you with the following benefits: </p>\n<ul>\n<li>Increase your Intelligence score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Nature skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>You learn the <em>toxin scan</em> pouvoir technique. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a repos long.</li></ul>"
     },
     "Commando": {
@@ -402,55 +402,55 @@
       "description": "<p>You've practiced fighting while à terre, gaining the following benefits:</p>\n<ul>\n<li>Increase your Dexterity score by 1, to a maximum of 20.</li>\n<li>You gain a crawling speed equal to your vitesse de déplacement.</li>\n<li>While à terre, you no longer have disavantage on attaque à distance rolls against targets within 30 mètres due to being à terre.</li>\n<li>When you attempt to hide on your turn while à terre, you can opt to not move on that turn. If you avoid moving, you are considered lightly obscured. You lose this benefit if you move or stand up, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden. If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.</li></ul>"
     },
     "Overwhelming Presence": {
-      "name": "Overwhelming Presence",
+      "name": "Présence écrasante",
       "description": "<p>You have the presence of the most affluent of leaders, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Charisma jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>While you are conscious, up to five friendly creatures within 30 mètres of you who can see or hear you and who can understand you can gain a bonus to one Intelligence, Wisdom, or Charisma jet de sauvegarde they make equal to your Charisma modificateur. Once they've done so, they can't do so again until they finish a short or repos long.</li>\n<li>As an action, you can attempt to distract up to five creatures you can see within 30 mètres of you. Each creature must make a Wisdom jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Charisma modificateur). Any creature immune to being charmé is unaffected. If you or your companions are fighting a creature, it has avantage on the jet de sauvegarde. On a failed sauvegarde, for the next minute, a creature has disavantage on Wisdom (Perception) checks made to perceive any creature other than you until the effect ends or until la cible can no longer see or hear you. This ends early if you are incapacitated or die.</li></ul>"
     },
     "Muscled Menace": {
-      "name": "Muscled Menace",
+      "name": "Menace musclée",
       "description": "<p>Despite being of otherwise average size, your might extends beyond that of your peers. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20.</li>\n<li>Your speed increases by 5 mètres.</li>\n<li>You can't add more than +3 when determining your bonus to AC from your Dexterity.</li>\n<li>You can't add more than +3 when determing your bonus to Dexterity jet de sauvegardes from Dexterity.</li>\n<li>You gain the Oversized special trait: <strong><em>Oversized.</em></strong> Light- and vibro-weapons that lack the dexterity or light property are considered to have the heavy property for you. The strength number for blasters is reduced by one step (from 19 to 17, 17 to 15, 15 to 13, or 13 to 11). If the strength number is 11, you ignore it entirely. </li></ul>"
     },
     "Threatening": {
-      "name": "Threatening",
+      "name": "Menaçant",
       "description": "<p>You become fearsome to others, gaining the following benefits: </p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Intimidation skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>When you take the Attack action, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 mètres of you that can see and hear you. Make a Charisma (Intimidation) check contested by la cible's Wisdom (Insight) check. If your check succeeds, la cible is effrayé jusqu'à la fin de votre prochain tour. If your check fails, la cible can't be effrayé by you in this way for 1 hour. </li></ul>"
     },
     "Double-Weapon Casting": {
-      "name": "Lancer d'armes doubles",
+      "name": "Lanceur d'armes double",
       "description": "<p>Vous avez appris à combiner vos prouesses avec les lames jumelles avec votre lancer. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score d'Intelligence, de Sagesse ou de Charisme de 1, jusqu'à un maximum de 20.</li> <li>Lorsque vous utilisez votre action pour lancer un pouvoir qui appelle une attaque d'arme et attaquer avec une arme légère et aux propriétés doubles tout en la maniant à deux mains, vous pouvez utiliser votre bonus d'action pour s'engager dans des combats à double arme. Toutes les règles du combat à double arme s'appliquent toujours à vous.</li></ul>"
     },
     "Promising Commander": {
-      "name": "Promising Commander",
+      "name": "Commandant prometteur",
       "description": "<p>You've trained relentless to lead your allies on the field of battle, gaining the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>As an action, you can gain tactical insight. For one minute, une fois par tour you can utter a special command or warning whenever an ally you can see within 30 mètres makes an attack roll or jet de sauvegarde. This creature can add a [[/r d4]] to the roll provided it can hear and understand you. A creature can only benefit from one such die at a time. Once you've used this feature, you must complete a short or repos long before you can use it again.</li></ul>"
     },
     "Cunning Intellect": {
-      "name": "Cunning Intellect",
+      "name": "Intelligence rusée",
       "description": "<p>You have the cunning of the most prolific scholars, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Intelligence jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>When you engage in the Training downtime activity, during resolution, you add your bonus de maîtrise to the check. If you would already add your bonus de maîtrise, you instead add twice your bonus de maîtrise. If you would already add twice your bonus de maîtrise, you instead have avantage on the check.</li>\n<li>Whenever you make an test de caractéristique that uses your Intelligence, you can add half your bonus de maîtrise (rounded down) if it doesn't already include your bonus de maîtrise. De plus, if you roll lower than half your niveau (rounded down) on an test d'Intelligence, you can instead use your niveau for the [[/r d20]] roll.</li></ul>"
     },
     "Fanatic": {
-      "name": "Fanatic",
+      "name": "Fanatique",
       "description": "<p>Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:</p>\n<ul>\n<li>When you score a critical hit with an attack roll or reduce a creature to 0 points de vie, you can make one attaque d'arme as a action bonus.</li>\n<li>Whenever a creature you can see within 30 mètres is reduced to 0 points de vie, you go into a fervor gaining points de vie temporaires equal to [[/r 1d4]] + your Constitution modificateur. </li></ul>"
     },
     "Monk": {
-      "name": "Monk",
+      "name": "Moiné",
       "description": "<p>Your practice of martial arts grants you the following benefits:</p>\n<ul>\n<li>Vous pouvez faire an unarmed strike as a action bonus. If you would already make an unarmed strike as a action bonus, you can instead make this strike in addition to that unarmed strike.</li>\n<li>You can take the Disengage action as a action bonus. If you would already Disengage as a action bonus, you can instead also Dodge.</li>\n<li>You can take the Dash action as a action bonus. If you would already Dash as a action bonus, you can instead double your jump distance for the turn.</li>\n</ul>\n<p>You can use these features a combined number of times equal to your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "Keen Mind": {
-      "name": "Keen Mind",
+      "name": "Esprit vif",
       "description": "<p>Vous avez un esprit capable de suivre le temps, la direction et les détails avec une précision étrange. Vous bénéficiez des avantages suivants.</p> <ul> <li>Augmentez votre score d'intelligence de 1, jusqu'à un maximum de 20.</li> <li>Vous savez toujours où se trouve le nord.</li> <li>Vous connaissez toujours le nombre d'heures restant avant le prochain lever ou coucher du soleil.</li> <li>Vous pouvez vous rappeler avec précision tout ce que vous avez vu ou entendu au cours du mois dernier.</li></ul>"
     },
     "Master Tech Dabbler": {
-      "name": "Master Tech Dabbler",
+      "name": "Maître amateur de technologie",
       "description": "<p>Vous connaissez une technique de pouvoir à volonté. De plus, vous connaissez une technique de pouvoir de 5e niveau, que vous pouvez lancer une fois par repos. Votre capacité de techcasting est l’Intelligence. Vous devez utiliser un bracelet pour ces pouvoirs. </p>"
     },
     "Specialist": {
-      "name": "Specialist",
+      "name": "Spécialiste",
       "description": "<p>You have focused training with a specific tool. Select one type of specialist's kit. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain maîtrise with the chosen kit. If you are already proficient with it, you instead gain expertise with it. </li>\n<li>You can attempt test de caractéristiques with the chosen kit without the kit present, but you have disavantage on the check when you do so.</li>\n<li>Whenever you make an test de caractéristique with the chosen kit and you don't have disavantage on the check, you can treat a [[/r d20]] roll of 9 or lower as a 10, as long as you spend at least 1 minute on the check.</li>\n</ul>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different specialist's kit.</p>"
     },
     "Climber": {
-      "name": "Climber",
+      "name": "Grimpeur",
       "description": "<p>You excel at scaling cliffsides, hills, trees, and general climbing. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20. </li>\n<li>You gain a climbing speed equal to your vitesse de déplacement.</li>\n<li>You have avantage on test de caractéristiques and jet de sauvegardes to avoid falling off or down while climbing. </li>\n<li>Vous pouvez dépenser 5 minutes instructing, pointing out handholds, and guiding other creatures before making a climb. When you do so, choose up to six friendly creatures (which can include yourpersonnelle) within 30 mètres of you. Each creature can add a [[/r 1d6]] to any test de caractéristique or jet de sauvegarde they make for that climb.</li></ul>"
     },
     "Dungeon Delver": {
-      "name": "Dungeon Delver",
+      "name": "Sondeur de donjon",
       "description": "<p>Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:</p>\n<ul>\n<li>Increase your Intelligence or Wisdom score by 1, to a maximum of 20.</li>\n<li>You have avantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.</li>\n<li>You have avantage on jet de sauvegardes made to avoid or resist traps.</li>\n<li>You have resistance to the dégâts dealt by traps. </li>\n<li>Traveling at a fast pace no longer imposes a -5 penalty to your passive Wisdom (Perception) score.</li></ul>"
     },
     "Weapon Expert": {
@@ -458,31 +458,31 @@
       "description": "<p>You have practiced extensively with a variety of weapons, gaining the following benefits:</p>\n<ul>\n<li>Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.</li>\n<li>You gain maîtrise with all blasters. If you are already proficient with all blasters, instead une fois par tour when you would roll weapon dégâts using a blaster, vous pouvez choisir to have avantage.</li>\n<li>You gain maîtrise with all lightweapons. If you are already proficient with all lightweapons, instead une fois par tour when you would roll weapon dégâts using a lightweapon, vous pouvez choisir to have avantage.</li>\n<li>You gain maîtrise with all vibroweapons. If you are already proficient with all vibroweapons, instead une fois par tour when you would roll weapon dégâts using a vibroweapon, vous pouvez choisir to have avantage.</li>\n</ul>\n<p>You can take this feat twice. </p>"
     },
     "Rifle Supremacy": {
-      "name": "Rifle Supremacy",
+      "name": "Suprématie du fusil",
       "description": "<p>You've specialized your combat training with rifle weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), you have avantage on the weapon's jet de dégâts.</li>\n<li>Your attaque d'arme à distances reduce partial cover by one step (from three-quarters to half or half to one-quarter) against targets within 30 mètres of you. If la cible has one-quarter cover, you ignore it entirely.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to  <strong>scramble</strong>. For each attack you forgo, you can move up to 10 mètres without provoking attaque d'opportunités. If you could already scramble, instead you can do so as your action bonus.</li></ul>"
     },
     "Guardian": {
-      "name": "Guardian",
+      "name": "Tuteur",
       "description": "<p>Quand vous contactez une créature with a attaque d'arme au corps à corps, you can expend point de Forces to deal additional dégâts to la cible, which is the same type as the weapon's dégâts. The additional dégâts is [[/r 1d8]] for each point spent in this way. You can't deal more than [[/r 2d8]] additional dégâts per hit in this way.</p>\n<p>You can only spend a number of point de Forces in this way equal to your bonus de maîtrise. You regain the ability to do so when you complete a repos long.</p>"
     },
     "Carbine Supremacy": {
-      "name": "Carbine Supremacy",
+      "name": "Suprématie de la carabine",
       "description": "<p>You've specialized your combat training with carbine weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's attack rolls.</li>\n<li>Whenever you have avantage on an attack roll and hit and the lower of the two [[/r d20]] rolls would also hit (or a creature has disavantage on a jet de sauvegarde and the higher of the two d20s would also fail), and la cible is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or gain 1 slowed niveau jusqu'au début de votre prochain tour.</li>\n<li>You can wield this weapon in one hand. When you do so, you treat the weapon as if it would have the strength 11 property. If the weapon already has the strength property, its strength number increases by one step (from 11 to 13, 13 to 15, 15 to 17, 17 to 19, or 19 to 21). While wielding the weapon in one hand, you can't attack a target beyond the weapon's normal range.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to  <strong>startle</strong>. For each attack you forgo, you expend 1 ammunition and choose a creature that is no more than one size larger than you (your size or smaller if your weapon has the light property)  and is within your weapon's normal range. The creature must succeed on a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become shocked jusqu'au début de votre prochain tour. If you could already startle, instead you can do so as your action bonus.</li></ul>"
     },
     "Improved Force-Sensitive": {
-      "name": "Improved Force-Sensitive",
+      "name": "Sensibilité à la force améliorée",
       "description": "<p>Vous connaissez un pouvoir de la Force à volonté. De plus, vous connaissez un pouvoir de la Force de 3e niveau, que vous pouvez lancer une fois par repos. Votre capacité de lancement de force est la Sagesse ou le Charisme (selon l'alignement du pouvoir).</p>"
     },
     "Quick-Fingered": {
-      "name": "Quick-Fingered",
+      "name": "Aux doigts rapides",
       "description": "<p>Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits: </p>\n<ul>\n<li>Increase your Dexterity score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Escamotage skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>As a action bonus, you can make a Dexterity (Escamotage) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket. </li></ul>"
     },
     "War Caster": {
-      "name": "War Caster",
+      "name": "Lanceur de guerre",
       "description": "<p>You've practiced casting powers in the midst of combat, learning techniques that grant you the following benefits:</p>\n<ul>\n<li>You have avantage on Constitution jet de sauvegardes that you make to maintain your concentration on a power when you take dégâts.</li>\n<li>Once per round, when a hostile creature provokes an attaque d'opportunité from you, you can use your réaction to cast a power at la créature, rather than making an attaque d'opportunité. The power must have a casting time of 1 action and must target only cette créature.</li></ul>"
     },
     "Cunning Forcecaster": {
-      "name": "Cunning Forcecaster",
+      "name": "Lanceur de force rusé",
       "description": "<p>Vous avez découvert une voie astucieuse pour votre étude de la Force. Choisissez-en un parmi la Sagesse ou le Charisme. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score d'Intelligence de 1, jusqu'à un maximum de 20.</li> <li>Vous pouvez utiliser l'Intelligence à la place de la capacité choisie comme capacité de lancement forcé.</li> <li>Vous pouvez ajouter de l'Intelligence à la place de la capacité choisie lors de la détermination de votre point maximum de Forces.</li></ul>"
     },
     "Mobile": {
@@ -490,23 +490,23 @@
       "description": "<p>You are exceptionally speedy and agile. You gain the following benefits:</p>\n<ul>\n<li>Your speed increases by 10 mètres.</li>\n<li>When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.</li>\n<li>When you make a attaque au corps à corps against a creature, you don't provoke attaque d'opportunités from cette créature for the rest of the turn, whether you hit or not.</li></ul>"
     },
     "Supreme Durability": {
-      "name": "Supreme Durability",
+      "name": "Durabilité suprême",
       "description": "<p>Vous faites preuve d’une étonnante résilience physique et mentale. Vous bénéficiez des avantages suivants :</p> <ul> <li>Augmentez votre score de Force, de Constitution, de Sagesse ou de Charisme de 1, jusqu'à un maximum de 20.</li> <li>Chaque fois que vous avez l'avantage sur un jet de sauvegarde en utilisant la Force, la Constitution, la Sagesse ou le Charisme, vous pouvez relancer un des dés une fois. </li></ul>"
     },
     "Carbine Focus": {
-      "name": "Carbine Focus",
+      "name": "Mise au point de la carabine",
       "description": "<p>You've focused your combat training on carbine weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, the next attack roll la cible makes before the start of your next turn has disavantage.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to  <strong>startle</strong>. For each attack you forgo, you expend 1 ammunition and choose a creature that is no more than one size larger than you (your size or smaller if your weapon has the light property)  and is within your weapon's normal range. The creature must succeed on a Dexterity jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon) or become shocked jusqu'au début de votre prochain tour.</li></ul>"
     },
     "Haggler": {
-      "name": "Haggler",
+      "name": "Marchandeur",
       "description": "<p>Vos compétences en troc vous ont accordé les avantages suivants :</p> <ul> <li>Augmentez votre score de Charisme de 1 jusqu'à un maximum de 20. </li> <li>Vous avez un avantage sur les tests de Charisme (Persuasion) et de Charisme (Tromperie) lorsque vous tentez de troquer ou commerce. </li> <li>Vous êtes toujours au courant de la valeur monétaire actuelle de tout objet non amélioré ou amélioré commun. Chaque fois que vous identifiez un objet, vous obtenez une estimation approximative de sa valeur monétaire actuelle.</li></ul>"
     },
     "Animal Handler": {
-      "name": "Animal Handler",
+      "name": "Manieur d'animaux",
       "description": "<p>You master the techniques needed to train and handle animals. You gain the following benefits:</p>\n<ul>\n<li>Increase your Wisdom score by 1, to a maximum of 20. </li>\n<li>You gain maîtrise in the Dressage skill. If you are already proficient in it, you instead gain expertise in it. </li>\n<li>You can use a action bonus on your turn to command one friendly beast within 60 mètres of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts pendant 1 minute, such as to guard a particular area.</li></ul>"
     },
     "Chemical Buffer": {
-      "name": "Chemical Buffer",
+      "name": "Tampon chimique",
       "description": "<p>You're able to neutralize caustic chemicals, mitigating their worst effects. You gain the following benefits:</p>\n<ul>\n<li>Increase your Dexterity, Constitution, or Intelligence score by 1, to a maximum of 20.</li>\n<li>You cannot be disintegrated, and you ignore the first corroded niveau you receive.</li>\n<li>You have avantage on jet de sauvegardes made to avoid acid dégâts.</li></ul>"
     },
     "Weapon Supremacist": {
@@ -514,23 +514,23 @@
       "description": "<p>Vous maîtrisez un type d'arme particulier. Choisissez l’une des options suprémacistes en matière d’armes, détaillées plus loin dans ce chapitre. Vous pouvez réaliser cet exploit plusieurs fois. </p> <ul> <li>@UUID[Compendium.sw5e.feats.Item.PRt3Mf8aQAJuSEW3]{Suprématie de la lame}</li> <li>@UUID[Compendium.sw5e.feats.Item.X815vrMWDsxTsTxg]{Suprématie de la carabine}</li> <li>@UUID[Compendium.sw5e.feats.Item.wQwmXEH6awoT3UCF]{Arme écrasante Suprématie}</li> <li>@UUID[Compendium.sw5e.feats.Item.ZuG4NATrxUyHedRG]{Suprématie des armes lourdes}</li> <li>@UUID[Compendium.sw5e.feats.Item.AS3WhoHvvlMYpSPe]{Suprématie des armes d'hast}</li> <li>@UUID[Compendium.sw5e.feats.Item.XPSqkn2DqgmJ3y7Q]{Suprématie des fusils}</li> <li>@UUID[Compendium.sw5e.feats.Item.xgei9ZI6JKZ47z3n]{Suprématie des armes de poing}</li> <li>@UUID[Compendium.sw5e.feats.Item.0OkP9P0yrGL86IkB]{Suprématie des armes de déclenchement}</li></ul>"
     },
     "Casting Specialist": {
-      "name": "Casting Specialist",
+      "name": "Spécialiste du casting",
       "description": "<p>Choose one from force- or tech-casting. You've mastered your chosen casting type, gaining the following benefits:</p>\n<ul>\n<li>You gain a +1 bonus to your force or tech sauvegarde DD and your force or tech attack modificateur.</li>\n<li>Une fois par tour, when you cast a power that requires an attack roll or jet de sauvegarde, you can have avantage on one attack roll, or you can force une créature affected by the power to have avantage or disavantage on the jet de sauvegarde (your choice). Once you've used this feature on a power, you can't affect that power again until you complete a short or repos long. Once you've used this feature on a creature, you can't do so again until you complete a short or repos long.</li>\n<li>Une fois par tour, when you cast a power that doesn't require an test de caractéristique, attack roll, or jet de sauvegarde, but requires a die roll, vous pouvez choisir the maximum or minimum on the die (your choice). If the power requires rolling multiple dice, you can only affect a number of them equal to half your bonus de maîtrise (rounded up) in this way. Once you've used this feature on a power, you can't affect that power again until you complete a short or repos long.</li>\n</ul>\n<p>You can select this feat twice. Each time you do so, you must choose a different casting type.</p>"
     },
     "Entertainer": {
-      "name": "Entertainer",
+      "name": "Artiste",
       "description": "<p>You have a natural gift for performing. Select one musical instrument. You gain the following benefits:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>You gain maîtrise in the chosen musical instrument. If you are already proficient with it, you instead gain expertise with it.</li>\n<li>While playing your chosen musical instrument, you can always readily read the emotions of those paying attention to you. During this time, and for up to one minute after completing, you have avantage on Wisdom (Insight) checks to read the emotions of those you performed for.</li>\n</ul>\n<p>You can take this feat multiple times. Each time you do so, you must choose a different musical instrument.</p>"
     },
     "Actor": {
-      "name": "Actor",
+      "name": "Acteur",
       "description": "<p>Skilled at mimicry and dramatics, you gain the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>You have avantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourpersonnelle off as a different person.</li>\n<li>You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard la créature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.</li></ul>"
     },
     "Combat Caster": {
-      "name": "Combat Caster",
+      "name": "Lanceur de combat",
       "description": "<p>You've practiced making your powers more difficult to avoid, learning techniques that grant you the following benefits:</p>\n<ul>\n<li>When a creature rolls a 1 on the [[/r d20]] roll of a jet de sauvegarde against a power you cast that deals dégâts, they instead take the highest number possible for the dégâts die.</li>\n<li>You learn one at-will power that requires a jet de sauvegarde. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for pouvoir de la Forces or Intelligence for pouvoir techniques.</li></ul>"
     },
     "Multiclass Improvement": {
-      "name": "Multiclass Improvement",
+      "name": "Amélioration multiclasse",
       "description": "<p>Vous avez appris à mélanger les compétences de vos différentes classes. Choisissez deux des options d'amélioration multiclasse, détaillées plus loin dans ce chapitre. Vous pouvez réaliser cet exploit plusieurs fois. </p> <ul> <li>@UUID[Compendium.sw5e.feats.Item.Om5SVvKKX5B3FsxW]{Berserker}</li> <li>@UUID[Compendium.sw5e.feats.Item.E7axPXfGddza0LLj]{Consulaire}</li> <li>@UUID[Compendium.sw5e.feats.Item.kqsPoFl9VAUUTLdF]{Ingénieur}</li> <li>@UUID[Compendium.sw5e.feats.Item.wEH9b6g6fWgFi8bj]{Combattant}</li> <li>@UUID[Compendium.sw5e.feats.Item.lEw8HbIRuY8LTXez]{Gardien}</li> <li>@UUID[Compendium.sw5e.feats.Item.KrUKsGFpmHi2D8Ok]{Moine}</li> <li>@UUID[Compendium.sw5e.feats.Item.pJWVWjFyukfU7BTF]{Opérateur}</li> <li>@UUID[Compendium.sw5e.feats.Item.vIs6bNzTpZeGF1ft]{Érudit}</li> <li>@UUID[Compendium.sw5e.feats.Item.rLjbZae3xpUq7leY]{Scout}</li> <li>@UUID[Compendium.sw5e.feats.Item.pvFCujcCXH41vWI4]{Sentinelle}</li></ul>"
     },
     "Trip Weapon Focus": {
@@ -538,11 +538,11 @@
       "description": "<p>You've focused your combat training on trip weapons. You gain the following benefits while wielding any of these weapons, if you are proficient with it:</p>\n<ul>\n<li>You gain a +1 bonus to the weapon's jet de dégâtss.</li>\n<li>When you score a critical hit with the weapon, the next attack roll made against la cible before the start of your next turn has avantage.</li>\n<li>When you take the Attack action, vous pouvez choisir to forgo one or more attacks to <strong>interrupt</strong>. For each attack you forgo, une créature within your reach gains no benefit to classe d'armure from its shield until the end of its next turn.</li></ul>"
     },
     "Augmented Cyborg": {
-      "name": "Augmented Cyborg",
+      "name": "Cyborg augmenté",
       "description": "<p>You've experimented with cybernetic augmentations, granting the following benefits: </p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>Choose one cybernetic augmentation of standard rarity from Appendix A. That augmentation is installed and doesn't count against the maximum cybernetic augmentations you can support, but it does count towards your total cybernetics augmentations as shown in the Cybernetic Augmentations Side Effects table in Chapter 7.</li></ul>"
     },
     "Tiny Terror": {
-      "name": "Tiny Terror",
+      "name": "Petite terreur",
       "description": "<p>Despite falling below knee height of other species, your size has less impact on your strength and virility. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20.</li>\n<li>Your speed increases by 5 mètres.</li>\n<li>You lose the Pintsized special trait, and you are no longer limited to +3 when determining your bonus to attack and jet de dégâtss for attaque d'armes using Strength due to the Puny special trait.</li>\n<li>You gain the Undersized special trait: <strong><em>Undersized.</em></strong> Your small stature makes it hard for you to wield bigger weapons. You can't use heavy shields or martial weapons with the two-handed property unless it has the light property, and if a martial weapon has the versatile property, you can only wield it in two-hands.</li></ul>"
     },
     "Berserker": {
@@ -550,23 +550,23 @@
       "description": "<p>On your turn, you can enter a rage as a action bonus if you aren't wearing heavy armor.</p>\n<p>While raging, you gain the following benefits:</p>\n<ul>\n<li>You have avantage on test de Forces and Strength jet de sauvegardes.</li>\n<li>When you make a attaque d'arme au corps à corps using Strength, you gain a +2 bonus to the jet de dégâts.</li>\n<li>You have resistance to kinetic and energy dégâts.</li>\n</ul>\n<p>If you are able to cast powers, you can't cast them or concentrate on them while raging.</p>\n<p>Your rage lasts pendant 1 minute. It ends early if you are knocked inconscient, you don heavy armor, or if your turn ends and you haven't taken a hostile action or taken dégâts since your last turn. You can also end your rage on your turn as a action bonus.</p>\n<p>You can use this feature once. You gain an additional use at niveau 11. Vous regagnez tous expended uses when you complete a repos long.</p>"
     },
     "Unnatural Resilience": {
-      "name": "Unnatural Resilience",
+      "name": "Résilience contre nature",
       "description": "<p>You have the fortitude often attributed to gods, granting the following benefits:</p>\n<ul>\n<li>You gain maîtrise in Constitution jet de sauvegardes. If you are already proficient in them, you instead gain expertise in them.</li>\n<li>Enhanced effects, such as powers or medpacs, that would restore points de vie to you can't restore an amount less than half your niveau + your Constitution modificateur. If this amount would exceed that maximum amount of points de vie that effect could restore, you instead take that effect's maximum.</li>\n<li>Vous pouvez ajouter your Constitution modificateur to death jet de sauvegardes you make.</li></ul>"
     },
     "Snappy Interjection": {
-      "name": "Snappy Interjection",
+      "name": "Interjection vive",
       "description": "<p>You've mastered a quick tongue to aid your allies. You gain the following benefits:</p>\n<ul>\n<li>Increase your Charisma score by 1, to a maximum of 20.</li>\n<li>Once per short or repos long, when an ally makes an attack roll, an test de caractéristique or a jet de sauvegarde, you can spend your réaction to give them avantage on the roll.</li></ul>"
     },
     "Savage Shorty": {
-      "name": "Savage Shorty",
+      "name": "Shorty sauvage",
       "description": "<p>Despite being short of stature, your size has no impact on your strength and virility. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength score by 1, to a maximum of 20.</li>\n<li>Your speed increases by 5 mètres.</li>\n<li>You lose the Undersized special trait.</li></ul>"
     },
     "Total Reconstruction": {
-      "name": "Total Reconstruction",
+      "name": "Reconstruction totale",
       "description": "<p>You are more machine than man. While repaired in a similar configuration as your own species, you are subject to the following changes:</p>\n<ul>\n<li>Increase an score de caractéristique de votre choix by 1, to a maximum of 20.</li>\n<li>Choose one class of droid (class I-V or tracker). You count as the chosen creature type in addition to your other type.</li>\n<li>You are resistant to necrotic and poison dégâts, and are immune to poison and disease.</li>\n<li>You do not need to eat or drink. De plus, you no longer require a tech focus to cast pouvoir techniques.</li>\n<li>You are vulnerable to ion dégâts. De plus, you have disavantage on jet de sauvegardes against effects that would deal ion or lightning dégâts.</li>\n<li>You can not sense the Force, use pouvoir de la Forces, or take niveaus in forcecasting classes.</li>\n<li>You are no longer a valid target for cybernetic augmentations or genetic mutations. However, you are now a valid target for droid customizations.</li></ul>"
     },
     "Adaptable Fading": {
-      "name": "Adaptable Fading",
+      "name": "Fondu adaptable",
       "description": "<p>You can easily overthrow an enemy's fortitude. You gain the following benefits:</p>\n<ul>\n<li>Increase your Strength or Constitution score by 1, to a maximum of 20.</li>\n<li>When you make an attack roll using your Strength, vous pouvez choisir to add half your Constitution modificateur to the attack roll. Alternatively, when you would make an attack roll using Constitution, you can add half your Strength modificateur to the attack roll. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li>\n<li>When an effect you control would call for a Strength jet de sauvegarde, you can instead have it call for a Constitution jet de sauvegarde. Alternatively, when an effect you control would call for a Constitution jet de sauvegarde, you can instead have it call for a Strength jet de sauvegarde. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses of this feature when you complete a repos long.</li></ul>"
     }
   },

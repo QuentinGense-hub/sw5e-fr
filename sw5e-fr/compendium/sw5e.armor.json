@@ -5,7 +5,7 @@
       "name": "Bouclier physique léger"
     },
     "Durafiber battle armor": {
-      "name": "Armure de combat durafibre",
+      "name": "Armure de combat en durafibre",
       "description": "<h3>Volumineux</h3>\n<p>Tant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.</p>\n<h3>Force 11</h3>\n<p>Tant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.</p>"
     },
     "Beskar weave armor": {
@@ -36,7 +36,7 @@
       "description": "<p>L'armure en tissu était construite à partir d'un maillage de plaques métalliques ou composites et d'une combinaison rembourrée. Des variantes de l'armure comprenaient moins de plaques et plus de rembourrage pour une armure plus légère, bien que moins protectrice, et un plaques plus lourdes avec des pièces moulées pour s'adapter au porteur. Bien que l'armure soit disponible non modifiée, la plupart des utilisateurs personnalisaient leur armure.</p>"
     },
     "Heavy exoskeleton": {
-      "name": "Exosquelette lourd",
+      "name": "Exosquelette lourde",
       "description": "<h3>Volumineux</h3>\n<p>Tant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.</p>\n<h3>Force 17</h3>\n<p>Tant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.</p>\n<hr />\n<p>Les exosquelettes lourds sont virtuellement les armures les plus lourdes acquérables pendant la Guerre Galactique. Ils sont idéaux pour les situations de combat extrême impliquant des dégâts directs et offrent également un très bon niveau de protection au sacrifice de la dextérité. Certains les considèrent claustrophobes, mais c'était le compromis pour la sécurité.</p>"
     },
     "Fiber armor": {
@@ -75,7 +75,7 @@
       "description": "<h3>Isolé 5</h3>\n<p>Lorsque vous effectuez un jet de sauvegarde contre un effet qui infligerait des dégâts ioniques ou de foudre alors que vous portez une armure ou maniez un bouclier doté de cette propriété, vous pouvez traiter un résultat de [[/r d20]] inférieur à la valeur isolée comme étant égal à cette valeur.</p>\n<h3>Force 11</h3>\n<p>Tant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.</p>"
     },
     "Durasteel exoskeleton": {
-      "name": "Exosquelette en durasteel",
+      "name": "Exosquelette en duracier",
       "description": "<h3>Volumineux</h3>\n<p>Tant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.</p>\n<h3>Imperméable 2</h3>\n<p>Une armure dotée de cette propriété comprend les fonctions limitées d'un nombre de combinaisons environnementales égal à la valeur imperméable dans la liste ci-dessous. Ces fonctions sont soit indiquées entre parenthèses avec la propriété, soit déterminées par le MJ. De plus, elle comprend une réserve d'oxygène de 4 heures, qui peut être renouvelée avec des réservoirs d'oxygène.</p>\n<ul>\n<li><strong>Combinaison chimique :</strong> Vous êtes immunisé contre l'état corrodé.</li>\n<li><strong>Combinaison conductrice :</strong> Vous êtes immunisé contre l'état électrisé.</li>\n<li><strong>Combinaison d'atténuation :</strong> Vous êtes immunisé contre l'état assourdi, et vous ne pouvez pas avoir le désavantage aux tests de Sagesse (Perception) et d'Intelligence (Investigation) qui reposent sur le son.</li>\n<li><strong>Combinaison de plongée :</strong> Vous êtes protégé contre les dangers associés aux environnements à haute pression.</li>\n<li><strong>Combinaison ignifugée :</strong> Vous êtes immunisé contre l'état enflammé.</li>\n<li><strong>Combinaison de protection :</strong> Vous êtes immunisé contre l'état empoisonné.</li>\n<li><strong>Combinaison de protection mentale :</strong> Vous avez l'avantage aux jets de sauvegarde pour éviter d'être effrayé, et vous avez l'avantage aux jets de sauvegarde pour éviter que votre esprit soit lu ou affecté.</li>\n<li><strong>Combinaison spatiale :</strong> Vous êtes protégé contre les dangers associés aux environnements à basse pression.</li>\n<li><strong>Combinaison stabilisatrice :</strong> Vous avez l'avantage aux tests de caractéristique et aux jets de sauvegarde pour éviter d'être déplacé.</li></ul>"
     },
     "Heavy physical shield": {

@@ -403,7 +403,7 @@
     },
     "Co-Pilot Seat": {
       "name": "Co-Pilot Seat",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">You integrate a co-pilot seat in your ship. Your ship's maximum crew capacity increases by 1.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">This modification cannot be installed in a ship that already has Astromech Socket installed.</span></p>"
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Vous intégrez un siège copilote dans votre vaisseau. La capacité maximale de l'équipage de votre vaisseau augmente de 1.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">Cette modification ne peut pas être installée sur un vaisseau sur lequel Astromech Socket est déjà installé.</span></p>"
     },
     "Escape Pods": {
       "name": "Escape Pods",

@@ -2,22 +2,22 @@
   "label": "Gaming Sets",
   "entries": {
     "Pazaak deck": {
-      "name": "Pazaak deck"
+      "name": "Pont Pazaak"
     },
     "Dejarik set": {
-      "name": "Dejarik set"
+      "name": "Ensemble Déjarik"
     },
     "Kirgatz set": {
-      "name": "Kirgatz set"
+      "name": "Ensemble Kirgatz"
     },
     "Chatta-ragul set": {
-      "name": "Chatta-ragul set"
+      "name": "Ensemble Chatta-ragul"
     },
     "Sabacc deck": {
-      "name": "Sabacc deck"
+      "name": "Jeu Sabacc"
     },
     "Chance cubes": {
-      "name": "Chance cubes"
+      "name": "Cubes de chance"
     }
   },
   "mapping": {

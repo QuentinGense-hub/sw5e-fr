@@ -62,11 +62,11 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Performance increases by four steps (to mastery, from trained to high mastery, or from proficient to grand mastery).</p>"
     },
     "Rendcasting Core (Mastery)": {
-      "name": "Rendcasting Core (Mastery)",
+      "name": "Noyau de renducasting (maîtrise)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Crystalizing Amplifier (Mastery)": {
-      "name": "Crystalizing Amplifier (Mastery)",
+      "name": "Amplificateur cristallisant (Maîtrise)",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +3 aux attaques de force en mêlée.</p>"
     },
     "Powered Armoring Mk V": {
@@ -158,7 +158,7 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme acquiert la propriété mordante 14. S'il possède déjà la propriété mordante, son nombre de morsures augmente de 2, jusqu'à un maximum de 18.</p>"
     },
     "Fadecasting Processor (Fighting)": {
-      "name": "Fadecasting Processor (Fighting)",
+      "name": "Processeur de fondu (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Twinned Subroutine": {
@@ -207,7 +207,7 @@
     },
     "Constitution Augment (Fine)": {
       "name": "Constitution Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Constitution score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score de Constitution augmente de 1.</p>"
     },
     "Inlay Rangefinder (Journeyman)": {
       "name": "Inlay Rangefinder (Journeyman)",
@@ -278,7 +278,7 @@
       "description": "<h4>Item Modification (Armor)</h4>\n <p><em>Prerequisite:  Shield generator</em></p>\n<hr />\n<p>You modify this shield generator to overload. As an action you can overload this shield. Each Large or smaller creature within 5 mètres of you must make a DD 13 Dexterity or Strength jet de sauvegarde (their choice). On a failed sauvegarde, they are pushed back 5 mètres and knocked à terre.</p>\n<p>You can use this feature twice. Vous regagnez tous expended uses when you complete a short or repos long.</p>"
     },
     "Dire Mastery Hilt": {
-      "name": "Dire Mastery Hilt",
+      "name": "Poignée de maîtrise désastreuse",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme gagne la propriété terrible 2. S'il possède déjà la propriété désastre, son nombre désastre augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Cortosis Weave (Exceptional)": {
@@ -370,7 +370,7 @@
       "description": "<h4>Modification d'objet (Armure)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +2 au DD de sauvegarde de force des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Withercasting Core (Mastery)": {
-      "name": "Withercasting Core (Mastery)",
+      "name": "Noyau de Withercasting (Maîtrise)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Ostrine Edge (Lethal)": {
@@ -470,7 +470,7 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p><em>Prérequis : Armure</em></p> <hr /> <p>Cette armure acquiert la propriété 17 alimentée. S'il possède déjà la propriété alimenté, son numéro alimenté augmente de quatre niveaux (de 11 à 19 ou de 13 à 21).</p>"
     },
     "Vicious Fighting Hilt": {
-      "name": "Vicious Fighting Hilt",
+      "name": "Poignée de combat vicieuse",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme acquiert la propriété vicieuse 1. S'il possède déjà la propriété vicieuse, son numéro vicieux augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Ballistic Polymer": {
@@ -490,11 +490,11 @@
       "description": "<h4>Item Modification (Blaster)</h4> <p>Une fois par chacun de vos tours, vous pouvez recharger cette arme une fois sans utiliser d'action. Vous pouvez utiliser cette fonctionnalité six fois. Vous regagnez tous les usages dépensés lorsque vous rechargez l'arme avec une action.</p>"
     },
     "Withercasting Processor (Fighting)": {
-      "name": "Withercasting Processor (Fighting)",
+      "name": "Processeur Withercasting (Combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de sagesse ou de charisme.</p>"
     },
     "Ranging Emitter (Fighting)": {
-      "name": "Ranging Emitter (Fighting)",
+      "name": "Émetteur télémétrique (combat)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété de portée 1. S'il possède déjà la propriété de télémétrie, son numéro de télémétrie augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Finesse Oscillator": {
@@ -558,7 +558,7 @@
       "description": "<h4>Personnalisation du droïde (partie)</h4> <p><em>Condition préalable : droïde de classe V</em></p> <hr /> <p>Votre capacité de charge et le poids que vous pouvez pousser, traîner ou soulever double. S'il devait déjà doubler, il triplerait.</p>"
     },
     "Rending Amplifier (Mastery)": {
-      "name": "Rending Amplifier (Mastery)",
+      "name": "Amplificateur de rendu (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété rendu 2. S'il possède déjà la propriété de rendu, son numéro de rendu augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Impermeable Overlay Mk VI": {
@@ -578,7 +578,7 @@
       "description": "<h4>Droid Customization (Part)</h4>\n <p>As an action, you can activate the medical kit, choosing one of the following options:</p>\n<ul>\n<li>You can stabilize a creature within 5 mètres of you that has 0 points de vie, without needing to make a Wisdom (Medicine) check.</li>\n<li>You can restore [[/r 1d4+1]] points de vie to a creature within 5 mètres.</li>\n<li>You can cure a target of one poison affecting them or to give them avantage on jet de sauvegardes against poison for 1 hour.</li>\n</ul>\n<p>This medical kit has no effect on droids or constructs. You can use each feature once. Vous regagnez tous expended uses when you complete a repos long.</p>\n<p><em>This part equips the droid with a compact medical kit.</em></p>"
     },
     "Vicious Fighting Core": {
-      "name": "Vicious Fighting Core",
+      "name": "Noyau de combat vicieux",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme acquiert la propriété vicieuse 1. S'il possède déjà la propriété vicieuse, son numéro vicieux augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Czerka Attenuating Pulsator": {
@@ -618,7 +618,7 @@
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété de montée en puissance 5. S'il possède déjà la propriété de surtension, son numéro de surtension augmente de 5, jusqu'à un maximum de 6.</p>"
     },
     "Withercasting Crystal (Mastery)": {
-      "name": "Withercasting Crystal (Mastery)",
+      "name": "Cristal flétrisseur (Maîtrise)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Empathic Pattern (Basic)": {
@@ -646,7 +646,7 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Vous bénéficiez d'un bonus de +2 aux jets d'attaque effectués avec cette arme.</p>"
     },
     "Vicious Fighting Guard": {
-      "name": "Vicious Fighting Guard",
+      "name": "Garde de combat vicieux",
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme acquiert la propriété vicieuse 1. S'il possède déjà la propriété vicieuse, son numéro vicieux augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Phobium Echoer (Improved)": {
@@ -666,7 +666,7 @@
       "description": "<h4>Cybernetic Augmentation (Enhancement)</h4>\n <p><em>Prerequisite:  Wisdom and Charisma 15</em></p>\n<hr />\n<p>When you are subjected to an effect that allows you to make a Wisdom or Charisma jet de sauvegarde to take only half dégâts, you instead take no dégâts si vous réussissez on a jet de sauvegarde, and only half dégâts si vous échouez.</p>\n<p><strong>Side Effect:</strong> Quand vous échouez a Wisdom or Charisma jet de sauvegarde, you treat the dégâts as if the source had rolled the maximum.</p>"
     },
     "Ossus Mastery Lens": {
-      "name": "Ossus Mastery Lens",
+      "name": "Objectif de maîtrise d'Ossus",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Vous bénéficiez d'un bonus de +3 aux jets d'attaque effectués avec cette arme.</p>"
     },
     "Shocking Oscillator Mk II": {
@@ -846,7 +846,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Vous gagnez une grande maîtrise en Perception.</p>"
     },
     "Amplifying Processor (Fighting)": {
-      "name": "Amplifying Processor (Fighting)",
+      "name": "Processeur amplificateur (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété d'amplification 1. S'il possède déjà la propriété amplificatrice, son numéro amplificateur augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Accuracy Focus Mk II": {
@@ -906,7 +906,7 @@
       "description": "<h4>Personnalisation Droid (Partie)</h4> <p>Vous apprenez la technique de pouvoir <em>alarm</em>. Vous pouvez le lancer une fois, sans utiliser de poignet et sans dépenser de points techniques, et vous récupérez la possibilité de le faire lorsque vous terminez un dépôt long. L'intelligence est votre capacité de diffusion technologique pour ce pouvoir.</p> <p><em>Cette pièce équipe un droïde avec un petit plat sensoriel rotatif.</em></p>"
     },
     "Dire Fighting Scope": {
-      "name": "Dire Fighting Scope",
+      "name": "Portée de combat terrible",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme gagne la propriété terrible 1. S'il possède déjà la propriété désastre, son numéro désastre augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Powered Armoring Mk I": {
@@ -930,7 +930,7 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Le numéro de dextérité de cette arme est réduit d'un niveau (de 21 à 19, 19 à 17, 17 à 15, 15 à 13 ou 13 à 11). Si le numéro de dextérité est 11, cette modification en supprime entièrement la propriété de dextérité.</p>"
     },
     "Withering Processor (Fighting)": {
-      "name": "Withering Processor (Fighting)",
+      "name": "Processeur flétrissant (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété flétrissement 1. S'il possède déjà la propriété de flétrissement, son numéro de flétrissement augmente de 1, jusqu'à un maximum de 3.</p>."
     },
     "Impermeable Inlay (Basic)": {
@@ -990,7 +990,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques technologiques à distance.</p>"
     },
     "Forged Ferricite Fighting Channel": {
-      "name": "Forged Ferricite Fighting Channel",
+      "name": "Canal de combat en ferrite forgée",
       "description": "<h4>Item Modification (Focus Generator)</h4>\n <p>When you cast a pouvoir de la Force of 1st-niveau or higher that deals dégâts, you can increase the dégâts by half (rounded down) the number of point de Forces spent. </p>"
     },
     "Fadecasting Underlay Mk III": {
@@ -1058,7 +1058,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Ce vêtement acquiert la propriété d'armure isolée 9. S'il possède déjà la propriété d'armure isolée, son nombre d'isolant augmente de 5, jusqu'à un maximum de 10. </p>"
     },
     "Withercasting Crystal (Fighting)": {
-      "name": "Withercasting Crystal (Fighting)",
+      "name": "Cristal flétrisseur (Combat)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Agile Armoring Mk IV": {
@@ -1082,7 +1082,7 @@
       "description": "<h4>Item Modification (Lightweapon)</h4>\n <p>You gain a +2 bonus to jet de dégâtss made with this weapon.</p>"
     },
     "Rendcasting Processor (Fighting)": {
-      "name": "Rendcasting Processor (Fighting)",
+      "name": "Processeur de rendu (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Shocking Oscillator Mk VI": {
@@ -1123,7 +1123,7 @@
     },
     "Dexterity Augment (Fine)": {
       "name": "Dexterity Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Dexterity score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score de Dextérité augmente de 1.</p>"
     },
     "Scout Offensive Augment": {
       "name": "Scout Offensive Augment",
@@ -1146,7 +1146,7 @@
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme gagne la propriété brutale 1. S'il possède déjà la propriété brutal, son nombre brutal augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Rendcasting Channel (Mastery)": {
-      "name": "Rendcasting Channel (Mastery)",
+      "name": "Canal de diffusion (maîtrise)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Charisma Augment (Exceptional)": {
@@ -1242,11 +1242,11 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Vous bénéficiez d'un bonus de +2 aux jets d'attaque effectués avec cette arme.</p>"
     },
     "Channeling Rangefinder (Mastery)": {
-      "name": "Channeling Rangefinder (Mastery)",
+      "name": "Télémètre de canalisation (maîtrise)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques de force à distance.</p>"
     },
     "Ranging Dataport (Fighting)": {
-      "name": "Ranging Dataport (Fighting)",
+      "name": "Port de données de télémétrie (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété de portée 1. S'il possède déjà la propriété de télémétrie, son numéro de télémétrie augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Versatile Frame (Champion)": {
@@ -1266,7 +1266,7 @@
       "description": "<h4>Personnalisation Droid (partie)</h4> <p><em>Condition préalable : maîtrise des armures lourdes</em></p> <hr /> <p>Votre CA de base devient 19. </p> <p><em>Utilisé à l'origine sur les coques de vaisseaux spatiaux, le duracier est le moyen le plus rentable d'empêcher la destruction de vos droïdes.</em></p>"
     },
     "Rending Amplifier (Fighting)": {
-      "name": "Rending Amplifier (Fighting)",
+      "name": "Amplificateur de rendu (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété de rendu 1. S'il possède déjà la propriété de rendu, son numéro de rendu augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Elongating Emitter (Master)": {
@@ -1434,7 +1434,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Vous gagnez une grande maîtrise en dressage.</p>"
     },
     "Rendcasting Crystal (Fighting)": {
-      "name": "Rendcasting Crystal (Fighting)",
+      "name": "Cristal rendu (combat)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Piercing Core": {
@@ -1462,7 +1462,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques de force à distance.</p>"
     },
     "Amplifying Channel (Mastery)": {
-      "name": "Amplifying Channel (Mastery)",
+      "name": "Canal d'amplification (maîtrise)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet acquiert la propriété d'amplification 2. S'il possède déjà la propriété amplificatrice, son nombre amplificateur augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Naturalist's Pattern (Fine)": {
@@ -1482,7 +1482,7 @@
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>Cet objet acquiert la propriété de dissipation 6. S'il possède déjà la propriété de dissipation, son nombre de dissipation passe à 6.</p>."
     },
     "Dire Fighting Guard": {
-      "name": "Dire Fighting Guard",
+      "name": "Garde de combat redoutable",
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme gagne la propriété désastre 1. S'il possède déjà la propriété désastre, son numéro désastre augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Pinpoint Subroutine": {
@@ -1498,7 +1498,7 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Le numéro de force de cette arme est réduit d'un cran (de 21 à 19, de 19 à 17, de 17 à 15, de 15 à 13 ou de 13 à 11). Si le numéro de force est 11, cette modification supprime entièrement la propriété de force.</p>"
     },
     "Withering Channel (Fighting)": {
-      "name": "Withering Channel (Fighting)",
+      "name": "Canal flétrissant (combat)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>Cet objet acquiert la propriété flétrissement 1. S'il possède déjà la propriété de flétrissement, son numéro de flétrissement augmente de 1, jusqu'à un maximum de 3.</p>."
     },
     "Surging Processor Mk III": {
@@ -1578,7 +1578,7 @@
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme acquiert la propriété sonore 17. S'il possède déjà la propriété sonore, son numéro sonore augmente de 5, jusqu'à un maximum de 18.</p>"
     },
     "Fading Cycler (Mastery)": {
-      "name": "Fading Cycler (Mastery)",
+      "name": "Fading Cycler (Maîtrise)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet acquiert la propriété de décoloration 2. S'il possède déjà la propriété de fondu, son numéro de fondu augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Hydraulic Equalizer Mk II": {
@@ -1634,7 +1634,7 @@
       "description": "<h4>Item Modification (Focus Generator)</h4>\n <p>When you cast a pouvoir de la Force of 1st-niveau or higher that deals dégâts, you can increase the dégâts by twice the number of point de Forces spent. </p>"
     },
     "Processing Amplifier (Mastery)": {
-      "name": "Processing Amplifier (Mastery)",
+      "name": "Amplificateur de traitement (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +3 aux attaques technologiques de mêlée.</p>"
     },
     "Ghostfire Crystal": {
@@ -1678,7 +1678,7 @@
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété d'allongement 10. S'il possède déjà la propriété d'allongement, son nombre d'allongement augmente de 10, jusqu'à un maximum de 30.</p>"
     },
     "Rendcasting Channel (Fighting)": {
-      "name": "Rendcasting Channel (Fighting)",
+      "name": "Chaîne de diffusion (combat)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Skills Enhancement Package": {
@@ -1710,11 +1710,11 @@
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>Cet objet acquiert la propriété d'allongement 5. S'il possède déjà la propriété d'allongement, son nombre d'allongement augmente de 5, jusqu'à un maximum de 30.</p>"
     },
     "Amplifying Processor (Mastery)": {
-      "name": "Amplifying Processor (Mastery)",
+      "name": "Processeur amplificateur (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété d'amplification 2. S'il possède déjà la propriété amplificatrice, son nombre amplificateur augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Ossus Fighting Lens": {
-      "name": "Ossus Fighting Lens",
+      "name": "Objectif de combat Ossus",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Vous gagnez un bonus de +1 aux jets d'attaque effectués avec cette arme.</p>"
     },
     "Charmer's Pattern (Elite)": {
@@ -1730,7 +1730,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Charisma jet de sauvegardes increases by two steps (to proficient, from trained to expertise, from proficient to mastery, from expertise to high mastery, or from mastery to grand mastery).</p>"
     },
     "Fadecasting Crystal (Mastery)": {
-      "name": "Fadecasting Crystal (Mastery)",
+      "name": "Cristal de fondu (Maîtrise)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 au DD de sauvegarde de force des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Guard Rangefinder (Novice)": {
@@ -1966,7 +1966,7 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p><em>Prérequis : Armure</em></p> <hr /> <p>Cette armure acquiert la propriété motorisée 21. S'il possède déjà la propriété alimenté, son numéro alimenté passe à 21.</p>"
     },
     "Processing Amplifier (Fighting)": {
-      "name": "Processing Amplifier (Fighting)",
+      "name": "Amplificateur de traitement (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques technologiques de mêlée.</p>"
     },
     "Ace Pilot's Pattern (Choice)": {
@@ -1974,7 +1974,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Piloting increases by four steps (to mastery, from trained to high mastery, or from proficient to grand mastery).</p>"
     },
     "Fading Motherboard (Mastery)": {
-      "name": "Fading Motherboard (Mastery)",
+      "name": "Carte mère décolorée (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété de décoloration 2. S'il possède déjà la propriété de fondu, son numéro de fondu augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Obscured Stitching": {
@@ -2006,7 +2006,7 @@
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Rendcasting Core (Fighting)": {
-      "name": "Rendcasting Core (Fighting)",
+      "name": "Noyau de rendu (combat)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Overlay Amplifier (Apprentice)": {
@@ -2106,7 +2106,7 @@
       "description": "<h4>Item Modification (Vibroweapon)</h4>\n <p><em>Prerequisite:  Lacks double or two-handed property</em></p>\n<hr />\n<p>This weapon gains the versatile ([[/r 1d10]]) property. If it already has the versatile property, the versatile dégâts increases by one step (from [[/r 2d4]] to [[/r d10]], [[/r d10]] to [[/r d12]], from [[/r d12]] to [[/r 2d6]], or from [[/r 2d6]] to [[/r 3d4]]).</p>"
     },
     "Targeting Amplifier (Fighting)": {
-      "name": "Targeting Amplifier (Fighting)",
+      "name": "Amplificateur de ciblage (combat)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques technologiques de mêlée.</p>"
     },
     "Barbed Armoring": {
@@ -2118,7 +2118,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Nature increases by four steps (to mastery, from trained to high mastery, or from proficient to grand mastery).</p>"
     },
     "Dire Fighting Hilt": {
-      "name": "Dire Fighting Hilt",
+      "name": "Poignée de combat terrible",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme gagne la propriété terrible 1. S'il possède déjà la propriété désastre, son numéro désastre augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Underlay Amplifier Mk IV": {
@@ -2150,7 +2150,7 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme gagne la propriété fixe.</p>"
     },
     "Processing Rangefinder (Mastery)": {
-      "name": "Processing Rangefinder (Mastery)",
+      "name": "Télémètre de traitement (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +3 aux attaques technologiques à distance.</p>"
     },
     "Wise Sage Package": {
@@ -2194,7 +2194,7 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p><em>Condition préalable : manque de propriété de force</em></p> <hr /> <p>Cette arme acquiert la propriété puissante.</p>"
     },
     "Dire Mastery Guard": {
-      "name": "Dire Mastery Guard",
+      "name": "Garde de maîtrise désastreuse",
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme gagne la propriété terrible 2. S'il possède déjà la propriété désastre, son nombre désastre augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Versatile Handle (Champion)": {
@@ -2230,7 +2230,7 @@
       "description": "<h4>Item Modification (Blaster)</h4>\n <p>You gain a +1 bonus to attack rolls and a -1 penalty to jet de dégâtss made with this weapon.</p>"
     },
     "Fadecasting Core (Fighting)": {
-      "name": "Fadecasting Core (Fighting)",
+      "name": "Noyau de fondu (combat)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Repulsor Lifts (Fine)": {
@@ -2262,7 +2262,7 @@
       "description": "<h4>Item Modification (Wristpad)</h4>\n <p>When you spend tech points to cast a pouvoir technique that restores points de vie to a creature, la créature gains a number of points de vie temporaires equal to twice the number of tech points spent.</p>"
     },
     "Targeting Rangefinder (Mastery)": {
-      "name": "Targeting Rangefinder (Mastery)",
+      "name": "Télémètre de ciblage (Maîtrise)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques technologiques à distance.</p>"
     },
     "Rendcasting Guard (Adept)": {
@@ -2286,7 +2286,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Insight increases by five steps (to high mastery or from trained to grand mastery).</p>"
     },
     "Channeling Amplifier (Fighting)": {
-      "name": "Channeling Amplifier (Fighting)",
+      "name": "Amplificateur de canalisation (combat)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques de force en mêlée.</p>"
     },
     "Wisdom Weave (Champion)": {
@@ -2318,7 +2318,7 @@
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +2 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Withercasting Core (Fighting)": {
-      "name": "Withercasting Core (Fighting)",
+      "name": "Noyau flétrisseur (combat)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Brawny Pattern (Basic)": {
@@ -2390,11 +2390,11 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p><em>Prérequis : Blaster utilisant des cellules ou des carcontactes</em></p> <hr /> <p>Cette arme gagne la propriété rapide, avec un nombre rapide égal au quart de son nombre de rechargement (arrondi au supérieur), au minimum de 2. S'il possède déjà la propriété rapide, le nombre rapide est réduit au huitième de son nombre de rechargement (arrondi au supérieur), à un minimum de 2.</p>"
     },
     "Processing Rangefinder (Fighting)": {
-      "name": "Processing Rangefinder (Fighting)",
+      "name": "Télémètre de traitement (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques technologiques à distance.</p>"
     },
     "Rendcasting Crystal (Mastery)": {
-      "name": "Rendcasting Crystal (Mastery)",
+      "name": "Cristal de rendu (Maîtrise)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Biting Crystal (Adept)": {
@@ -2462,7 +2462,7 @@
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme acquiert la propriété de lancer (20/60). S'il possède déjà la propriété throw, la portée augmente de 10/30.</p>"
     },
     "Fadecasting Channel (Fighting)": {
-      "name": "Fadecasting Channel (Fighting)",
+      "name": "Chaîne de diffusion en fondu (combat)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Dexterity Weave (Champion)": {
@@ -2542,7 +2542,7 @@
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété croissante 50. S'il possède déjà la propriété croissante, son nombre croissant augmente de 50, jusqu'à un maximum de 60.</p>"
     },
     "Targeting Amplifier (Mastery)": {
-      "name": "Targeting Amplifier (Mastery)",
+      "name": "Amplificateur de ciblage (maîtrise)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques technologiques de mêlée.</p>"
     },
     "Vicious Ascendancy Core": {
@@ -2570,7 +2570,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Vous gagnez une grande maîtrise en Escamotage.</p>"
     },
     "Channeling Rangefinder (Fighting)": {
-      "name": "Channeling Rangefinder (Fighting)",
+      "name": "Télémètre de canalisation (combat)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 aux attaques de force à distance.</p>"
     },
     "Vocoder (Superior)": {
@@ -2642,7 +2642,7 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme acquiert la propriété perturbatrice.</p>"
     },
     "Crystalizing Amplifier (Fighting)": {
-      "name": "Crystalizing Amplifier (Fighting)",
+      "name": "Amplificateur cristallisant (combat)",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques de force en mêlée.</p>"
     },
     "Absorbing Amplifier Mk III": {
@@ -2750,7 +2750,7 @@
       "description": "<h4>Modification d'objet (augmentation)</h4> <p>Votre score de Charisme augmente de 2 et votre maximum pour ce score augmente de 2.</p>"
     },
     "Withercasting Channel (Fighting)": {
-      "name": "Withercasting Channel (Fighting)",
+      "name": "Canal Withercasting (Combat)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Damind Crystal (Flawless)": {
@@ -2770,7 +2770,7 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme gagne la propriété brutale 2. S'il possède déjà la propriété brutal, son nombre brutal augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Stabilizer Fighting Cell": {
-      "name": "Stabilizer Fighting Cell",
+      "name": "Cellule de combat stabilisatrice",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Le numéro de dextérité de cette arme est réduit de deux niveaux (de 21 à 17, de 19 à 15, de 17 à 13 ou de 15 à 11). Si le nombre de dextérité est égal ou inférieur à 13, cette modification supprime entièrement la propriété de dextérité.</p>"
     },
     "Constitution Dataport (Champion)": {
@@ -2795,7 +2795,7 @@
     },
     "Strength Augment (Fine)": {
       "name": "Strength Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Strength score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score de Force augmente de 1.</p>"
     },
     "Accessing Motherboard (Prime)": {
       "name": "Accessing Motherboard (Prime)",
@@ -2830,7 +2830,7 @@
       "description": "<h4>Item Modification (Lightweapon)</h4>\n <p><em>Prerequisite:  Lacks double or two-handed property</em></p>\n<hr />\n<p>This weapon gains the versatile ([[/r 1d10]]) property. If it already has the versatile property, the versatile dégâts increases by one step (from [[/r 2d4]] to [[/r d10]], [[/r d10]] to [[/r d12]], from [[/r d12]] to [[/r 2d6]], or from [[/r 2d6]] to [[/r 3d4]]).</p>"
     },
     "Withercasting Channel (Mastery)": {
-      "name": "Withercasting Channel (Mastery)",
+      "name": "Canal Withercasting (Maîtrise)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Sagesse ou de Charisme.</p>"
     },
     "Detachable Eye": {
@@ -2878,7 +2878,7 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme gagne la propriété terrible 3. S'il possède déjà la propriété désastre, son numéro désastre passe à 3.</p>."
     },
     "Fading Cycler (Fighting)": {
-      "name": "Fading Cycler (Fighting)",
+      "name": "Fading Cycler (Combat)",
       "description": "<h4>Modification d'objet (Générateur de focus)</h4> <p>Cet objet gagne la propriété de décoloration 1. S'il possède déjà la propriété de fondu, son numéro de fondu augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Krayt Dragon Pearl (Perfect)": {
@@ -2894,7 +2894,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Lore increases by one step (to trained, from trained to proficient, from proficient to expertise, from expertise to mastery, from mastery to high mastery, or from high mastery to grand mastery).</p>"
     },
     "Rending Conductor (Mastery)": {
-      "name": "Rending Conductor (Mastery)",
+      "name": "Chef d'orchestre déchirant (maîtrise)",
       "description": "<h4>Modification d'objet (Générateur de focus)</h4> <p>Cet objet gagne la propriété rendu 2. S'il possède déjà la propriété de rendu, son numéro de rendu augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Nagai Edge (Basic)": {
@@ -2974,7 +2974,7 @@
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>Cet objet acquiert la propriété de dissipation 3. S'il possède déjà la propriété de dissipation, son nombre de dissipation augmente de 3, jusqu'à un maximum de 6.</p>"
     },
     "Crystalizing Rangefinder (Mastery)": {
-      "name": "Crystalizing Rangefinder (Mastery)",
+      "name": "Télémètre cristallisant (Maîtrise)",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +3 aux attaques de force à distance.</p>"
     },
     "Overlay Amplifier (Adept)": {
@@ -3122,7 +3122,7 @@
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété d'extension 10. S'il possède déjà la propriété d'extension, son numéro d'extension augmente de 10, jusqu'à un maximum de 30.</p>"
     },
     "Fadecasting Core (Mastery)": {
-      "name": "Fadecasting Core (Mastery)",
+      "name": "Noyau de fondu enchaîné (maîtrise)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Stabilizer Ascendancy Cell": {
@@ -3186,7 +3186,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Vous gagnez une grande maîtrise en acrobatie.</p>"
     },
     "Fadecasting Processor (Mastery)": {
-      "name": "Fadecasting Processor (Mastery)",
+      "name": "Processeur de fondu (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Reflex Protocol Mk III": {
@@ -3210,7 +3210,7 @@
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme acquiert la propriété sonore 13. S'il possède déjà la propriété sonore, son numéro sonore augmente de 1, jusqu'à un maximum de 18.</p>"
     },
     "Dire Mastery Scope": {
-      "name": "Dire Mastery Scope",
+      "name": "Portée de la maîtrise désastreuse",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme gagne la propriété terrible 2. S'il possède déjà la propriété désastre, son nombre désastre augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Inflating Conductor (Perfect)": {
@@ -3226,7 +3226,7 @@
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété de gonflage 10. S'il possède déjà la propriété gonflante, son indice de gonflage augmente de 10, jusqu'à un maximum de 30.</p>"
     },
     "Fadecasting Channel (Mastery)": {
-      "name": "Fadecasting Channel (Mastery)",
+      "name": "Canal de fondu enchaîné (maîtrise)",
       "description": "<h4>Modification d'objet (Générateur de Focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 au DD de sauvegarde de force des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Brawny Arm Prosthesis": {
@@ -3287,7 +3287,7 @@
     },
     "Intelligence Augment (Fine)": {
       "name": "Intelligence Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Intelligence score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score d'Intelligence augmente de 1.</p>"
     },
     "Increasing Cycler (Journeyman)": {
       "name": "Increasing Cycler (Journeyman)",
@@ -3350,11 +3350,11 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p>Cette armure ou ce bouclier acquiert la propriété de charge 2. S'il possède déjà la propriété de charge, son numéro de charge augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Ranging Dataport (Mastery)": {
-      "name": "Ranging Dataport (Mastery)",
+      "name": "Port de données de télémétrie (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété de portée 2. S'il possède déjà la propriété de télémétrie, son numéro de télémétrie augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Rendcasting Processor (Mastery)": {
-      "name": "Rendcasting Processor (Mastery)",
+      "name": "Processeur de rendu (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de Dextérité ou d'Intelligence.</p>"
     },
     "Amplifying Processor (Ascendancy)": {
@@ -3570,7 +3570,7 @@
       "description": "<h4>Item Modification (Clothing)</h4>\n <p>Your level of maîtrise in Dressage increases by four steps (to mastery, from trained to high mastery, or from proficient to grand mastery).</p>"
     },
     "Withercasting Processor (Mastery)": {
-      "name": "Withercasting Processor (Mastery)",
+      "name": "Processeur Withercasting (Maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 à la sauvegarde technologique DD des pouvoirs qui nécessitent un jet de sauvegarde de sagesse ou de charisme.</p>"
     },
     "Extending Motherboard (Superior)": {
@@ -3598,7 +3598,7 @@
       "description": "<h4>Item Modification (Vibroweapon)</h4>\n <p>This weapon ignores resistance to kinetic dégâts.</p>"
     },
     "Fading Motherboard (Fighting)": {
-      "name": "Fading Motherboard (Fighting)",
+      "name": "Carte mère décolorée (combat)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet gagne la propriété de décoloration 1. S'il possède déjà la propriété de fondu, son numéro de fondu augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Bonded Plates Mk IV": {
@@ -3622,7 +3622,7 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p><em>Prérequis : Armure</em></p> <hr /> <p>Cette armure acquiert la propriété imperméable.</p>"
     },
     "Vicious Mastery Hilt": {
-      "name": "Vicious Mastery Hilt",
+      "name": "Poignée de maîtrise vicieuse",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme acquiert la propriété vicieuse 2. S'il possède déjà la propriété vicieuse, son nombre vicieux augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Clandestine Stitching (Champion)": {
@@ -3730,7 +3730,7 @@
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Ce vêtement acquiert la propriété d'armure isolée 5. S'il possède déjà la propriété d'armure isolée, son numéro d'isolation augmente de 1, jusqu'à un maximum de 10. </p>"
     },
     "Ranging Emitter (Mastery)": {
-      "name": "Ranging Emitter (Mastery)",
+      "name": "Émetteur télémétrique (Maîtrise)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété de portée 2. S'il possède déjà la propriété de télémétrie, son numéro de télémétrie augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Threatening Pattern (Fine)": {
@@ -3790,7 +3790,7 @@
       "description": "<h4>Item Modification (Armor)</h4>\n <p>This armor or shield gains the absorptive 1 property. If it already has the absorptive property, its absorptive property increases by 1, to a maximum of 3. De plus, when taking energy dégâts from a lightweapon, this armor or shield's absorptive number is doubled, to a maximum of 6.</p>"
     },
     "Amplifying Channel (Fighting)": {
-      "name": "Amplifying Channel (Fighting)",
+      "name": "Canal d'amplification (combat)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet acquiert la propriété d'amplification 1. S'il possède déjà la propriété amplificatrice, son numéro amplificateur augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Gauntlet Armoring": {
@@ -3830,11 +3830,11 @@
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme acquiert la propriété intelligente (15, +2). S'il possède déjà la propriété intelligente, ses numéros intelligents augmentent respectivement de +1 et +1, jusqu'à un maximum de 20 et +6.</p>"
     },
     "Forged Ferricite Mastery Channel": {
-      "name": "Forged Ferricite Mastery Channel",
+      "name": "Canal de maîtrise en ferrite forgée",
       "description": "<h4>Item Modification (Focus Generator)</h4>\n <p>When you cast a pouvoir de la Force of 1st-niveau or higher that deals dégâts, you can increase the dégâts by one and a half times (rounded down) the number of point de Forces spent. </p>"
     },
     "Withering Channel (Mastery)": {
-      "name": "Withering Channel (Mastery)",
+      "name": "Canal flétrissant (Maîtrise)",
       "description": "<h4>Modification d'objet (Générateur de focus)</h4> <p>Cet objet gagne la propriété Withering 2. S'il possède déjà la propriété de flétrissement, son nombre de flétrissement augmente de 2, jusqu'à un maximum de 3.</p>."
     },
     "Stealthy Pattern (Favored)": {
@@ -3882,7 +3882,7 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p><em>Prérequis : Armure</em></p> <hr /> <p>Cette armure acquiert la propriété agile 13. S'il possède déjà la propriété agile, son numéro agile augmente de deux paliers (de 11 à 15, de 13 à 17, de 15 à 19 ou de 17 à 21).</p>"
     },
     "Rending Conductor (Fighting)": {
-      "name": "Rending Conductor (Fighting)",
+      "name": "Chef d'orchestre déchirant (combat)",
       "description": "<h4>Modification d'objet (Générateur de focus)</h4> <p>Cet objet gagne la propriété de rendu 1. S'il possède déjà la propriété de rendu, son numéro de rendu augmente de 1, jusqu'à un maximum de 3.</p>"
     },
     "Hydraulic Equalizer Mk III": {
@@ -3998,7 +3998,7 @@
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété de gonflage 10. S'il possède déjà la propriété gonflante, son indice de gonflage augmente de 10, jusqu'à un maximum de 30.</p>"
     },
     "Withering Processor (Mastery)": {
-      "name": "Withering Processor (Mastery)",
+      "name": "Processeur flétrissant (maîtrise)",
       "description": "<h4>Modification d'objet (poignet)</h4> <p>Cet objet acquiert la propriété Withering 2. S'il possède déjà la propriété de flétrissement, son nombre de flétrissement augmente de 2, jusqu'à un maximum de 3.</p>."
     },
     "Inflating Amplifier (Outstanding)": {
@@ -4110,11 +4110,11 @@
       "description": "<h4>Item Modification (Armor)</h4>\n <p>You can use your réaction to reduce any falling dégâts you would take by half.</p>"
     },
     "Channeling Amplifier (Mastery)": {
-      "name": "Channeling Amplifier (Mastery)",
+      "name": "Amplificateur de canalisation (maîtrise)",
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +3 aux attaques de force en mêlée.</p>"
     },
     "Targeting Rangefinder (Fighting)": {
-      "name": "Targeting Rangefinder (Fighting)",
+      "name": "Télémètre de ciblage (combat)",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 aux attaques technologiques à distance.</p>"
     },
     "Dispelling Emitter (Fine)": {
@@ -4247,7 +4247,7 @@
     },
     "Charisma Augment (Fine)": {
       "name": "Charisma Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Charisma score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score de Charisme augmente de 1.</p>"
     },
     "Stealthy Pattern (Exquisite)": {
       "name": "Stealthy Pattern (Exquisite)",
@@ -4262,7 +4262,7 @@
       "description": "<h4>Modification d'objet (armure)</h4> <p>Le numéro de force de cette armure ou bouclier est réduit de cinq niveaux (de 21 à 11). Si le nombre de résistance est égal ou inférieur à 19, cette modification supprime entièrement la propriété de résistance.</p>"
     },
     "Fadecasting Crystal (Fighting)": {
-      "name": "Fadecasting Crystal (Fighting)",
+      "name": "Cristal fondu (combat)",
       "description": "<h4>Modification d'objet (Arme légère)</h4> <p>En utilisant cet objet comme focus, vous gagnez un bonus de +1 à la sauvegarde de force DD des pouvoirs qui nécessitent un jet de sauvegarde de Force ou de Constitution.</p>"
     },
     "Expanding Conductor (Improved)": {
@@ -4270,7 +4270,7 @@
       "description": "<h4>Modification d'objet (générateur de focus)</h4> <p>Cet objet gagne la propriété d'expansion 15. S'il possède déjà la propriété d'expansion, son nombre d'expansion augmente de 15, jusqu'à un maximum de 30.</p>"
     },
     "Stabilizer Mastery Cell": {
-      "name": "Stabilizer Mastery Cell",
+      "name": "Cellule de maîtrise du stabilisateur",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Le numéro de dextérité de cette arme est réduit de quatre niveaux (de 21 à 13 ou de 19 à 11). Si le numéro de dextérité est égal ou inférieur à 17, cette modification supprime entièrement la propriété de dextérité.</p>"
     },
     "Adegan Crystal (Chipped)": {
@@ -4286,19 +4286,19 @@
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Cette arme acquiert la propriété vicieuse 3. S'il possède déjà la propriété vicieuse, son numéro vicieux passe à 3.</p>"
     },
     "Crystalizing Rangefinder (Fighting)": {
-      "name": "Crystalizing Rangefinder (Fighting)",
+      "name": "Télémètre cristallisant (combat)",
       "description": "<h4>Modification d'objet (arme légère)</h4> <p>Lorsque vous utilisez cet objet comme focus, vous gagnez un bonus de +1 aux attaques de force à distance.</p>"
     },
     "Wisdom Augment (Fine)": {
       "name": "Wisdom Augment (Fine)",
-      "description": "<h4>Item Modification (Augment)</h4>\n <p>Your Wisdom score increases by 1.</p>"
+      "description": "<h4>Modification d'objet (Augmentation)</h4>\n <p>Votre score de Sagesse augmente de 1.</p>"
     },
     "Avoidant Weave (Exquisite)": {
       "name": "Avoidant Weave (Exquisite)",
       "description": "<h4>Modification d'objet (vêtements)</h4> <p>Ce vêtement acquiert la propriété d'armure évitant 3. S'il possède déjà la propriété d'armure évitante, son numéro d'évitant passe à 3.</p>."
     },
     "Vicious Mastery Core": {
-      "name": "Vicious Mastery Core",
+      "name": "Noyau de maîtrise vicieux",
       "description": "<h4>Modification d'objet (Blaster)</h4> <p>Cette arme acquiert la propriété vicieuse 2. S'il possède déjà la propriété vicieuse, son nombre vicieux augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Dexterity Weave (Fine)": {
@@ -4338,7 +4338,7 @@
       "description": "<h4>Cybernetic Augmentation (Enhancement)</h4>\n <p><em>Prerequisite:  Intelligence 13</em></p>\n<hr />\n<p>When you are subjected to an effect that allows you to make a Intelligence jet de sauvegarde to take only half dégâts, you instead take no dégâts si vous réussissez on a jet de sauvegarde, and only half dégâts si vous échouez.</p>\n<p><strong>Side Effect:</strong> Quand vous échouez a Intelligence jet de sauvegarde, you treat the dégâts as if the source had rolled the maximum.</p>"
     },
     "Vicious Mastery Guard": {
-      "name": "Vicious Mastery Guard",
+      "name": "Garde de maîtrise vicieuse",
       "description": "<h4>Modification d'objet (Vibroweapon)</h4> <p>Cette arme acquiert la propriété vicieuse 2. S'il possède déjà la propriété vicieuse, son nombre vicieux augmente de 2, jusqu'à un maximum de 3.</p>"
     },
     "Inlay Amplifier (Journeyman)": {

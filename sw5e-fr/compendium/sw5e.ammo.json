@@ -110,7 +110,7 @@
       "description": "<p>Une cartouche corrosive est une cartouche à balle spécialisée pour une utilisation avec les armes blaster qui infligent des dégâts cinétiques. Lorsque vous touchez avec un tir avec l'arme chargée, la créature doit effectuer un jet de sauvegarde de Constitution DD 14, subissant [[/r 1d8]] dégâts d'acide en cas d'échec ou la moitié en cas de réussite. Si vous réduisez une créature à 0 point de vie avec l'arme chargée, elle doit effectuer un jet de sauvegarde de Constitution DD 13. En cas d'échec, elle meurt immédiatement sans effectuer de jets de sauvegarde contre la mort. Une créature désintégrée et tout l'équipement non amélioré qu'elle porte et transporte sont réduits en un tas de fine poussière grise. Une créature détruite de cette façon ne peut pas être revitalisée.</p>"
     },
     "Missile, fragmentation": {
-      "name": "Missile de fragmentation",
+      "name": "Missile à fragmentation",
       "description": "<p>Cette munition de lanceur poignet inflige [[/r 1d6]] dégâts cinétiques sur une touche. De plus, que vous touchiez ou non, le missile explose ensuite. La cible et chaque créature dans un rayon de 1,50 mètre doivent effectuer un jet de sauvegarde de Dextérité DD 14, subissant [[/r 1d10]] dégâts cinétiques en cas d'échec ou la moitié en cas de réussite.</p>"
     },
     "Flechette clip, plasma": {

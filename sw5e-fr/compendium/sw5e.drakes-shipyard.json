@@ -6,11 +6,11 @@
       "description": ""
     },
     "Probe-Mate Hyperspace Pod": {
-      "name": "Probe-Mate Hyperspace Pod",
+      "name": "Sonde-Mate hyperspatiale Pod",
       "description": ""
     },
     "CR90 Corvette": {
-      "name": "CR90 Corvette",
+      "name": "Corvette CR90",
       "description": ""
     },
     "Arquitens-class Light Cruiser": {
@@ -22,19 +22,19 @@
       "description": ""
     },
     "VCX-100 light freighter": {
-      "name": "VCX-100 light freighter",
+      "name": "Cargo léger VCX-100",
       "description": ""
     },
     "Y-Wing Starfighter - BTL-B/S3": {
-      "name": "Y-Wing Starfighter - BTL-B/S3",
+      "name": "Chasseur stellaire Y-Wing - BTL-B/S3",
       "description": ""
     },
     "TIE/sa Bomber (Missile Boat)": {
-      "name": "TIE/sa Bomber (Missile Boat)",
+      "name": "Bombardier TIE/sa (bateau lance-missiles)",
       "description": ""
     },
     "Y-TIE Fighter": {
-      "name": "Y-TIE Fighter",
+      "name": "Combattant Y-TIE",
       "description": ""
     },
     "Baleen-class Heavy Freighter": {
@@ -46,23 +46,23 @@
       "description": ""
     },
     "X-TIE Fighter": {
-      "name": "X-TIE Fighter",
+      "name": "Chasseur X-TIE",
       "description": ""
     },
     "A/SF-01 B-wing starfighter": {
-      "name": "A/SF-01 B-wing starfighter",
+      "name": "Chasseur stellaire A/SF-01 B-wing",
       "description": ""
     },
     "ST-70 Razor Crest Assault Ship - Legendary": {
-      "name": "ST-70 Razor Crest Assault Ship - Legendary",
+      "name": "Navire d'assaut ST-70 Razor Crest - Légendaire",
       "description": ""
     },
     "C-wing Corellian/B-wing": {
-      "name": "C-wing Corellian/B-wing",
+      "name": "Corellien/Aile B",
       "description": ""
     },
     "Gand Starfighter": {
-      "name": "Gand Starfighter",
+      "name": "Chasseur stellaire Gand",
       "description": ""
     },
     "DeepWater-class Light Freighter": {
@@ -70,11 +70,11 @@
       "description": ""
     },
     "RZ-1 A-wing Interceptor": {
-      "name": "RZ-1 A-wing Interceptor",
+      "name": "Intercepteur RZ-1 A-wing",
       "description": ""
     },
     "TYE-wing": {
-      "name": "TYE-wing",
+      "name": "TYE-aile",
       "description": ""
     },
     "AEG-77 Vigo Gunship": {
@@ -82,11 +82,11 @@
       "description": ""
     },
     "TIE/sa Bomber (Mine Layer)": {
-      "name": "TIE/sa Bomber (Mine Layer)",
+      "name": "Bombardier TIE/sa (poseur de mines)",
       "description": ""
     },
     "EF76 Nebulon-B Escort Frigate": {
-      "name": "EF76 Nebulon-B Escort Frigate",
+      "name": "Frégate d'escorte EF76 Nebulon-B",
       "description": ""
     },
     "Wander-class Jump Freighter": {
@@ -98,11 +98,11 @@
       "description": ""
     },
     "N-1 Naboo Starfighter": {
-      "name": "N-1 Naboo Starfighter",
+      "name": "Chasseur stellaire N-1 Naboo",
       "description": ""
     },
     "X-Wing Starfighter - Advanced": {
-      "name": "X-Wing Starfighter - Advanced",
+      "name": "Chasseur stellaire X-Wing - Avancé",
       "description": ""
     },
     "Barloz Class Medium Freighter": {
@@ -110,43 +110,43 @@
       "description": ""
     },
     "VCX-100 light freighter, Modified": {
-      "name": "VCX-100 light freighter, Modified",
+      "name": "Cargo léger VCX-100, modifié",
       "description": ""
     },
     "Z-95 Headhunter": {
-      "name": "Z-95 Headhunter",
+      "name": "Chasseur de têtes Z-95",
       "description": ""
     },
     "A-Z-Z-3 Light Freighter": {
-      "name": "A-Z-Z-3 Light Freighter",
+      "name": "Cargo léger A-Z-Z-3",
       "description": ""
     },
     "Baradium Missile": {
-      "name": "Baradium Missile",
+      "name": "Missile au baradium",
       "description": ""
     },
     "Chir'daki Deathseed": {
-      "name": "Chir'daki Deathseed",
+      "name": "Chir'daki Graine de Mort",
       "description": ""
     },
     "EF76 Nebulon-B Escort Frigate (Medical)": {
-      "name": "EF76 Nebulon-B Escort Frigate (Medical)",
+      "name": "Frégate d'escorte EF76 Nebulon-B (médicale)",
       "description": ""
     },
     "HMP Droid Gunship": {
-      "name": "HMP Droid Gunship",
+      "name": "HMP Droïde Gunship",
       "description": ""
     },
     "VCX-series auxiliary starfighter": {
-      "name": "VCX-series auxiliary starfighter",
+      "name": "Chasseur auxiliaire de série VCX",
       "description": ""
     },
     "Vulture Droid - CIS": {
-      "name": "Vulture Droid - CIS",
+      "name": "Droïde vautour - CIS",
       "description": ""
     },
     "Escape Pod": {
-      "name": "Escape Pod",
+      "name": "Capsule d'évasion",
       "description": ""
     },
     "Nantex-class Territorial Defense Starfighter": {
@@ -158,11 +158,11 @@
       "description": ""
     },
     "YT-1300, Heavily Modified": {
-      "name": "YT-1300, Heavily Modified",
+      "name": "YT-1300, fortement modifié",
       "description": ""
     },
     "VT-49 Decimator": {
-      "name": "VT-49 Decimator",
+      "name": "Décimateur VT-49",
       "description": ""
     },
     "StarViper Mk. II": {
@@ -170,11 +170,11 @@
       "description": ""
     },
     "Clutch Tri-Fighter": {
-      "name": "Clutch Tri-Fighter",
+      "name": "Embrayage Tri-Combattant",
       "description": ""
     },
     "U-wing Starfighter/Support Craft - UT-60D": {
-      "name": "U-wing Starfighter/Support Craft - UT-60D",
+      "name": "Chasseur stellaire/vaisseau de soutien U-wing - UT-60D",
       "description": ""
     },
     "Imperial I-class Star Destroyer": {
@@ -186,7 +186,7 @@
       "description": ""
     },
     "YT-1300f Light Freighter": {
-      "name": "YT-1300f Light Freighter",
+      "name": "Cargo léger YT-1300f",
       "description": ""
     },
     "Executor I-class Star Dreadnought": {
@@ -198,15 +198,15 @@
       "description": ""
     },
     "TIE/LN Starfighter": {
-      "name": "TIE/LN Starfighter",
+      "name": "Chasseur stellaire TIE/LN",
       "description": ""
     },
     "M12-L Kimogila Heavy Fighter": {
-      "name": "M12-L Kimogila Heavy Fighter",
+      "name": "Chasseur lourd M12-L Kimogila",
       "description": ""
     },
     "Basilisk Space Droid": {
-      "name": "Basilisk Space Droid",
+      "name": "Droïde spatial basilic",
       "description": ""
     },
     "StarViper-class Attack Platform": {
@@ -214,7 +214,7 @@
       "description": ""
     },
     "Droid Tri-Fighter": {
-      "name": "Droid Tri-Fighter",
+      "name": "Droïde Tri-Fighter",
       "description": ""
     },
     "Baudo-class Star Yacht - Modified": {
@@ -222,11 +222,11 @@
       "description": ""
     },
     "V-wing Starfighter - Alpha-3 Nimbus-class": {
-      "name": "V-wing Starfighter - Classe Alpha-3 Nimbus",
+      "name": "Chasseur stellaire V-wing - Classe Alpha-3 Nimbus",
       "description": ""
     },
     "TIE Advanced x1": {
-      "name": "TIE Advanced x1",
+      "name": "TIE Avancé x1",
       "description": ""
     },
     "Delta-7 Aethersprite-class light interceptor": {
@@ -234,19 +234,19 @@
       "description": ""
     },
     "YT-1300, Modified": {
-      "name": "YT-1300, Modified",
+      "name": "YT-1300, modifié",
       "description": ""
     },
     "M22-T Krayt Gunship": {
-      "name": "M22-T Krayt Gunship",
+      "name": "Navire de combat M22-T Krayt",
       "description": ""
     },
     "TIE/sa Bomber": {
-      "name": "TIE/sa Bomber",
+      "name": "TIE/sa Bombardier",
       "description": ""
     },
     "Crusader XX-777 Prototype Droid Frigate": {
-      "name": "Crusader XX-777 Prototype Droid Frigate",
+      "name": "Frégate droïde prototype Crusader XX-777",
       "description": ""
     },
     "Wayfarer-class Medium Transport": {
@@ -262,19 +262,19 @@
       "description": ""
     },
     "TIE/D Defender": {
-      "name": "TIE/D Defender",
+      "name": "Défenseur TIE/D",
       "description": ""
     },
     "M3-A Scyk Fighter": {
-      "name": "M3-A Scyk Fighter",
+      "name": "Chasseur Scyk M3-A",
       "description": ""
     },
     "Amphibious Fighter": {
-      "name": "Amphibious Fighter",
+      "name": "Chasseur amphibie",
       "description": ""
     },
     "TIE/HU Hunter Multi-role Starfighter": {
-      "name": "TIE/HU Hunter Multi-role Starfighter",
+      "name": "Chasseur stellaire multirôle TIE/HU Hunter",
       "description": ""
     },
     "X-70B Phantom-class Prototype": {
@@ -282,15 +282,15 @@
       "description": ""
     },
     "ARC-170 Starfighter": {
-      "name": "ARC-170 Starfighter",
+      "name": "Chasseur stellaire ARC-170",
       "description": ""
     },
     "GAT-12 Skipray Blastboat": {
-      "name": "GAT-12 Skipray Blastboat",
+      "name": "Blastboat GAT-12 Skipray",
       "description": ""
     },
     "Z-TIE Fighter": {
-      "name": "Z-TIE Fighter",
+      "name": "Chasseur Z-TIE",
       "description": ""
     },
     "ETA-2 Actis-class Interceptor": {
@@ -302,19 +302,19 @@
       "description": ""
     },
     "K-wing - BTL-S8": {
-      "name": "K-wing - BTL-S8",
+      "name": "K-wing-BTL-S8",
       "description": ""
     },
     "N-1 Naboo Starfighter, Custom": {
-      "name": "N-1 Naboo Starfighter, Custom",
+      "name": "N-1 Naboo Starfighter, personnalisé",
       "description": ""
     },
     "TIE/IN Interceptor": {
-      "name": "TIE/IN Interceptor",
+      "name": "Intercepteur TIE/IN",
       "description": ""
     },
     "M3-A Scyk \"Heavy\" Fighter": {
-      "name": "M3-A Scyk \"Heavy\" Fighter",
+      "name": "Chasseur \"lourd\" M3-A Scyk",
       "description": ""
     },
     "StarViper-class Attack Platform - Prototype": {
@@ -322,31 +322,31 @@
       "description": ""
     },
     "Z-'ceptor": {
-      "name": "Z-'ceptor",
+      "name": "Z-'cepteur",
       "description": ""
     },
     "X-ceptor": {
-      "name": "X-ceptor",
+      "name": "X-cepteur",
       "description": ""
     },
     "ST-70 Razor Crest Assault Ship": {
-      "name": "ST-70 Razor Crest Assault Ship",
+      "name": "Navire d'assaut ST-70 Razor Crest",
       "description": ""
     },
     "T-65 X-Wing Starfighter": {
-      "name": "T-65 X-Wing Starfighter",
+      "name": "Chasseur stellaire T-65 X-Wing",
       "description": ""
     },
     "M4-C Dunelizard Fighter": {
-      "name": "M4-C Dunelizard Fighter",
+      "name": "Chasseur M4-C Dunelézard",
       "description": ""
     },
     "DP20 Frigate": {
-      "name": "DP20 Frigate",
+      "name": "Frégate DP20",
       "description": ""
     },
     "YV-929 Armed Freighter": {
-      "name": "YV-929 Armed Freighter",
+      "name": "Cargo armé YV-929",
       "description": ""
     }
   },

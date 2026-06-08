@@ -2,7 +2,7 @@
   "label": "Species Features",
   "entries": {
     "Refinery Specialist": {
-      "name": "Refinery Specialist",
+      "name": "Spécialiste des raffineries",
       "description": "<p>You have maîtrise in your choice of constructor's implements, scavenging kit, or surveyor's implements. De plus, whenever you make an Intelligence (Nature) check to identify a metal or mineral, you are considered to have expertise in the Nature skill.</p>"
     },
     "Knowledge Protocol": {
@@ -19,7 +19,7 @@
     },
     "Nomadic": {
       "name": "Nomadic",
-      "description": "<p>You are proficient in Survival.</p>"
+      "description": "<p>Vous maîtrisez la survie.</p>"
     },
     "Four-Armed": {
       "name": "Four-Armed",
@@ -118,7 +118,7 @@
       "description": "<p>Whenever you make a Dexterity test de caractéristique, attack roll, or jet de sauvegarde, vous pouvez choisir to add [[/r 1d4]] to the result. You can use this before or after the roll, but before the GM determines the roll's outcome. Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
     },
     "Impose Order": {
-      "name": "Impose Order",
+      "name": "Imposer un ordre",
       "description": "<p>As a action bonus, you can command each ally within 15 mètres of you to move up to half that ally's speed as a réaction. This movement does not provoke attacks of opportunity. Once you use this trait, you can—t use it again until you finish a short or repos long.</p>"
     },
     "Montral Reception": {
@@ -458,7 +458,7 @@
       "description": "<p>You have avantage on jet de sauvegardes against being charmé.</p>"
     },
     "Integrated Engineering": {
-      "name": "Integrated Engineering",
+      "name": "Ingénierie intégrée",
       "description": "<p>You have maîtrise in one specialist's kit de votre choix. The chosen kit is integrated into your chassis, and can not be removed while you are conscious.</p>"
     },
     "Exoskeleton": {
@@ -514,7 +514,7 @@
       "description": "<p>Vous avez un désavantage aux jets d'attaque et aux tests de Sagesse (Perception) qui reposent sur la vue lorsque vous, la cible de votre attaque, ou tout ce que vous essayez de percevoir, est en plein soleil.</p>"
     },
     "Rolling Agility": {
-      "name": "Rolling Agility",
+      "name": "Agilité roulante",
       "description": "<p>As a lurmen, you can run on all fours, or curl into a ball, to move quickly along the ground. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 mètres on one of your turns.</p>"
     },
     "Inscrutable": {
@@ -651,7 +651,7 @@
     },
     "Hunter": {
       "name": "Hunter",
-      "description": "<p>You are proficient in Survival.</p>"
+      "description": "<p>Vous maîtrisez la survie.</p>"
     },
     "Major Miners": {
       "name": "Major Miners",
@@ -735,7 +735,7 @@
     },
     "Spicer": {
       "name": "Spicer",
-      "description": "<p>You are proficient in spicer's kit.</p>"
+      "description": "<p>Vous maîtrisez le kit Spicer.</p>"
     },
     "Compound Eyes": {
       "name": "Compound Eyes",
@@ -1054,7 +1054,7 @@
       "description": "<p>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra [[/r 2d6]] dégâts to it. You can use this trait only once per combat.</p>"
     },
     "Martial Upbringing": {
-      "name": "Martial Upbringing",
+      "name": "Éducation martiale",
       "description": "<p>You have maîtrise in light armor, and gain maîtrise with two martial vibroweapons de votre choix.</p>"
     },
     "Sadistic": {
@@ -1062,7 +1062,7 @@
       "description": "<p>You have maîtrise with saberwhips, vibrowhips, and nets.</p>"
     },
     "Amorphous Form": {
-      "name": "Amorphous Form",
+      "name": "Forme amorphe",
       "description": "<p>You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing. You also have avantage on test de caractéristiques you make to initiate or escape a grapple.</p>"
     },
     "Desert Protection": {
@@ -1082,7 +1082,7 @@
       "description": "<p>You have maîtrise in the Perception and Stealth skills.</p>"
     },
     "Martial Proficiency": {
-      "name": "Martial Proficiency",
+      "name": "Compétence martiale",
       "description": "<p>You have maîtrise with light and medium armor as well as the techstaff and vibropike.</p>"
     },
     "Electrical Resistance": {
@@ -1170,7 +1170,7 @@
       "description": "<p>If you are not incapacitated, you can reshape your body to give yourpersonnelle a head, one or two arms, one or two legs, and makeshift hands and mètres, or you can revert to a limbless blob (no action required). As a action bonus, you can extrude a pseudopod that is up to 6 inches wide and 10 mètres long or reabsorb it into your body. You can use this pseudopod to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour out the contents of a container. The pseudopod can—t attack, activate enhanced items, or carry more than 10 pounds.</p>"
     },
     "Specialist": {
-      "name": "Specialist",
+      "name": "Spécialiste",
       "description": "<p>You have maîtrise in one specialist's kit de votre choix.</p>"
     },
     "Climbing": {
@@ -1279,7 +1279,7 @@
     },
     "Musician": {
       "name": "Musician",
-      "description": "<p>You are proficient in one musical instrument de votre choix.</p>"
+      "description": "<p>Vous maîtrisez un instrument de musique de votre choix.</p>"
     },
     "Long-Limbed": {
       "name": "Long-Limbed",
@@ -1318,7 +1318,7 @@
       "description": "<p>Vous pouvez parler, lire et écrire Galactic Basic et Zygerrian. Zygerrian se caractérise par ses grognements et ronronnements subtils.</p>"
     },
     "Martial Protocol": {
-      "name": "Martial Protocol",
+      "name": "Protocole martial",
       "description": "<p>You have maîtrise with light and medium armor as well as two simple or martial blasters or vibroweapons de votre choix.</p>"
     },
     "Travelers": {

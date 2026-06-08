@@ -299,7 +299,7 @@
     },
     "Tactician Pursuit": {
       "description": "<h1>Voie du Tactician</h1>\n<p>Les tacticiens étudient la stratégie et les voies de la guerre. Les érudits qui choisissent la Voie du Tactician s'entraînent eux-mêmes et leurs alliés dans des manœuvres de combat pour éliminer habilement leurs adversaires grâce à un positionnement intelligent et des attaques féroces et opportunes.</p>",
-      "name": "Voie du Tactician",
+      "name": "Voie du Tacticien",
       "advancements": {
         "Features": "Fonctionnalités",
         "5ic0000000000000": {
@@ -309,7 +309,7 @@
       }
     },
     "Illusionist Technique": {
-      "description": "<h1>Technique de l'Illusionniste</h1>\n<p>Dans la galaxie, vous pouvez trouver divers infiltrateurs et agents qui font ample usage de la technologie holographique pour se sortir du danger. Les adeptes de la Technique de l'Illusionniste utilisent cette technologie holographique pour se donner un avantage illusoire au combat.</p>",
+      "description": "<h1>Technique de l'Illusionniste</h1>\n<p>Dans la galaxie, vous pouvez trouver divers infiltrateurs et agents qui font largement usage de la technologie holographique pour se sortir du danger. Les adeptes de la Technique de l'Illusionniste utilisent cette technologie holographique pour se donner un avantage illusoire au combat.</p>",
       "name": "Technique de l'Illusionniste",
       "advancements": {
         "Features": "Fonctionnalités"
@@ -347,7 +347,7 @@
     },
     "Echani Order": {
       "description": "<h1>Ordre Echani</h1>\n<p>Les moines de l'Ordre Echani s'entraînent sans relâche avec et sans leurs armes, au point que l'arme devient une extension du corps. Fondée sur la maîtrise du combat à l'épée, la tradition s'est étendue pour inclure de nombreuses armes différentes.</p>",
-      "name": "Ordre Echani",
+      "name": "Ordre Échani",
       "advancements": {
         "Features": "Fonctionnalités"
       }
@@ -400,7 +400,7 @@
     },
     "Slicer Pursuit": {
       "description": "<h1>Voie du Pirateur</h1>\n<p>À travers la galaxie, on trouve de nombreux pseudonymes et fausses identités appartenant aux pirates et cyber-infiltrateurs qui habitent le monde de l'électronique. Les érudits qui choisissent la Voie du Pirateur mettent leur impressionnante prouesse intellectuelle au service de la technologie, à des fins à la fois bienveillantes et malveillantes.</p>",
-      "name": "Voie du Pirateur",
+      "name": "Voie du Pirate",
       "advancements": {
         "Features": "Fonctionnalités",
         "5ic0000000000000": {

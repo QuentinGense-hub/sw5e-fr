@@ -6,7 +6,7 @@
       "description": "<p>Un ensemble spécial de gants et de bottes qui permet au porteur d'adhérer aux surfaces et de grimper. Lorsque vous portez ces objets, vous obtenez la capacité de vous déplacer sur les surfaces verticales et les plafonds tout en gardant les mains libres. Vous obtenez également une vitesse d'escalade égale à votre vitesse de déplacement.</p>"
     },
     "Datapad": {
-      "name": "Datapad",
+      "name": "Bloc de données",
       "description": "<p>Un datapad est un petit appareil électronique utilisé pour la saisie, le stockage et l'affichage d'informations. Il dispose d'une surface holoprojective pour une visualisation en 3D.</p>"
     },
     "Hydrospanner": {
@@ -24,7 +24,7 @@
       "name": "Combinaison chimique"
     },
     "Chest": {
-      "name": "Coffre",
+      "name": "Coffret",
       "description": "<p>Un coffre peut contenir 150 kg, sans dépasser 0,34 m³.</p>"
     },
     "Computer spike": {
@@ -111,11 +111,11 @@
       "description": "<p>Ce radeau est livré dans un tube de 60 cm de long. Lorsqu'il est activé, le radeau se déploie rapidement, s'agrandissant à sa taille normale en six secondes. Le radeau mesure 1,80 m de long et 90 cm de large, et peut contenir jusqu'à quatre créatures de taille Moyenne ne dépassant pas 350 kg. Il est livré avec deux avirons pliables pour ramer. Le radeau peut être replié et remis en état en 1 minute.</p>"
     },
     "Vocoder mask": {
-      "name": "Masque vocodeur",
+      "name": "Masque vocal",
       "description": "<p>Un masque vocodeur se porte sur le nez et la bouche d'une créature, et peut traduire les communications verbales entre jusqu'à 15 langues. Les langues peuvent être changées en interface avec un droïde de protocole ou un ordinateur approprié.</p>"
     },
     "Rocketpack": {
-      "name": "Rocketpack",
+      "name": "Pack de fusée",
       "description": "<p>Les rocketpack combinent le transport aérien d'un jetpack avec la puissance de feu d'un lance-roquettes. Activer ou désactiver les capacités de vol du rocketpack nécessite une action bonus et, tant qu'elles sont actives, vous avez une vitesse de vol de 7,50 m. Le jetpack dure 1 minute par cellule d'alimentation (jusqu'à un maximum de 5 minutes) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>\n<p>De plus, votre rocketpack est équipé d'un lance-roquettes intégré avec les propriétés Munitions (portée 30/120) et rechargement 1. Plutôt que des cellules d'alimentation traditionnelles, ce lance-roquettes tire des projectiles spécialisés sous forme de roquettes. Lorsque vous effectuez une attaque d'arme à distance, vous pouvez plutôt tirer ce lance-roquettes. Lorsque vous tirez une roquette à longue portée, les créatures dans le rayon de l'explosion de la roquette ont un avantage sur le jet de sauvegarde. Recharger ce lance-roquettes prend 1 minute.</p>"
     },
     "Fibercord cable, 50 ft (rolled)": {
@@ -220,11 +220,11 @@
       "name": "Prothèse de torse"
     },
     "Datacard": {
-      "name": "Datacarte",
+      "name": "Carte de données",
       "description": "<p>Une datacarte ou disque de données est un appareil plat et portable utilisé en conjonction avec un datapad pour stocker des informations.</p>"
     },
     "Hovercart": {
-      "name": "Hoverchariot",
+      "name": "Hoverchar",
       "description": "<p>Ce répulseur est conçu pour déplacer efficacement de grandes quantités de marchandises. Il a une vitesse de 9 m et peut contenir 900 kg, sans dépasser 3,40 m³.</p>"
     },
     "Repelling wristpad": {
@@ -256,7 +256,7 @@
       "description": "<p>Par une action, vous pouvez utiliser le poison de cette fiole pour enduire une vibro-arme, une cartouche à projectile ou un dard de lanceur de poignet. Une créature touchée par l'arme empoisonnée doit effectuer un jet de sauvegarde de Constitution DD 14, subissant [[/r 2d4]] dégâts de poison en cas d'échec ou la moitié en cas de réussite. Une fois appliqué, le poison conserve sa puissance pendant 1 minute avant de sécher.</p>"
     },
     "Binders": {
-      "name": "Menottes",
+      "name": "Ménottes",
       "description": "<p>Les menottes peuvent être utilisées pour entraver une créature de taille Petite ou Moyenne avec des appendices appropriés. Appliquer les menottes prend une action, et la cible doit effectuer un jet de sauvegarde de Force ou de Dextérité DD 14 (la cible choisit la caractéristique à utiliser). Une créature hostile effectue ce jet avec un avantage. Briser les menottes nécessite un test de Force DD 20. S'en échapper nécessite un test de Dextérité DD 20. Un ensemble de menottes est livré avec une clé. Sans la clé, déverrouiller les menottes nécessite un kit de sécurité DD 15 pour les forcer. Les menottes ont une CA de 10 et 15 points de vie. Détruire les menottes libère la créature sans lui faire de mal.</p>"
     },
     "Pot": {
@@ -293,7 +293,7 @@
       "description": "<p>Un poignet numérique est un harnais avec un datapad intégré et une interface holoprojecteur qui s'adapte sur l'avant-bras et comprend des batteries à recharge automatique.</p>"
     },
     "Commlink": {
-      "name": "Commlink",
+      "name": "Lien de communication",
       "description": "<p>Les commlinks sont des appareils de communication portables simples, équipés de microphones et de récepteurs. Les commlinks personnels de base ont une portée allant jusqu'à 50 km, mais sont réduits dans les zones urbaines denses ou les zones à forte interférence. Le commlink dure 10 heures et peut être rechargé en le connectant à une source d'alimentation ou en remplaçant la cellule d'alimentation.</p>"
     },
     "Repair kit": {
@@ -327,7 +327,7 @@
       "description": "<p>Les holocrons sont des dispositifs de stockage d'informations utilisés par les utilisateurs de la Force qui contiennent des leçons anciennes ou des informations précieuses sous forme holographique. Ils apparaissent comme des polyèdres lumineux de la taille d'une paume, faits de matériau cristallin et de matériel, et ne peuvent être activés et utilisés que par le pouvoir de la Force.</p>"
     },
     "Antitoxkit": {
-      "name": "Antitoxkit",
+      "name": "Kit antitox",
       "description": "<p>Un antitoxkit contient une variété d'injecteurs hypospray antidote à large spectre conçus pour neutraliser tous les poisons connus. Un kit a cinq charges. Par une action, vous pouvez administrer une charge du kit pour guérir une cible d'un poison l'affectant ou pour lui donner un avantage aux jets de sauvegarde contre le poison pendant 1 heure. Il ne confère aucun avantage aux droïdes ou aux constructions.</p>"
     },
     "Leg prosthesis": {
@@ -337,11 +337,11 @@
       "name": "Rations de survie (un jour)"
     },
     "Holocomm": {
-      "name": "Holocomm",
+      "name": "Holocom",
       "description": "<p>Un holocomm est une unité de communication qui utilise l'HoloNet. Il permet aux utilisateurs d'envoyer et de recevoir des messages via des réseaux de transmission holographiques.</p>"
     },
     "Shovel": {
-      "name": "Pelle"
+      "name": "Pelé"
     },
     "Heat generator": {
       "name": "Générateur de chaleur",
@@ -373,7 +373,7 @@
       "description": "<p>Les respirateurs sous-marins se portent sur la bouche et le bas du visage. Lorsqu'il est porté, vous pouvez respirer sous l'eau, car le respirateur filtre l'eau pour créer de l'oxygène respirable. Le respirateur fonctionne 1 heure par cellule d'alimentation (jusqu'à un maximum de 2 heures) et peut être rechargé par une source d'alimentation ou en remplaçant les cellules d'alimentation.</p>"
     },
     "Holorecorder": {
-      "name": "Holorecordeur",
+      "name": "Holoréenregistreur",
       "description": "<p>Un holorecordeur est un appareil utilisé pour enregistrer et projeter des hologrammes. Certains modèles de droïdes sont équipés d'holorecordeurs internes.</p>"
     },
     "Flame-proof suit": {
@@ -393,7 +393,7 @@
       "name": "Prothèse d'avant-bras"
     },
     "Bucket": {
-      "name": "Seau",
+      "name": "Séau",
       "description": "<p>Un seau contient 12 litres de liquide ou 0,014 m³ de solides.</p>"
     },
     "Foot prosthesis": {
@@ -418,7 +418,7 @@
       "description": "<p>Un datacron est un type d'holocron accessible par les non-sensibles à la Force et est principalement utilisé pour stocker des données cryptées. Il est doté d'une projection interactive pour accéder aux informations.</p>"
     },
     "Traumakit": {
-      "name": "Traumakit",
+      "name": "Kit de traumatologie",
       "description": "<p>Un traumakit courant est approvisionné en produits essentiels pour le traitement des blessures. Un traumakit a cinq utilisations. Par une action, vous pouvez dépenser une utilisation du kit pour stabiliser une créature qui a 0 point de vie, sans avoir à effectuer un test de Sagesse (Médecine).</p>"
     },
     "Field rations (one day's)": {

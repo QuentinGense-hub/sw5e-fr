@@ -2,83 +2,83 @@
   "label": "Lightsaber Forms",
   "entries": {
     "Vaapad Form": {
-      "name": "Vaapad Form",
+      "name": "Formulaire Vaapad",
       "description": "<p>Once before the start of your next turn, if you would have avantage on a attaque d'arme au corps à corps, vous pouvez choisir to forgo the avantage. If you do so, you can make one attaque d'arme au corps à corps against the same target (no action required), also without avantage.</p>"
     },
     "Niman Form": {
-      "name": "Niman Form",
+      "name": "Forme Niman",
       "description": "<p>As a part of the action bonus to adopt this form, if you took the Attack action, you can engage in Double- or Two-Weapon Fighting. </p>\n<p>Until the end of your next turn, you can use Wisdom or Charisma instead of Strength or Dexterity for the attack and jet de dégâtss of your attaque d'arme au corps à corpss. You must use the same modificateur for both rolls.</p>"
     },
     "Ataru Form": {
-      "name": "Ataru Form",
+      "name": "Forme Ataru",
       "description": "<p>As a part of the action bonus to adopt this form, you can leap up to 15 mètres to an unoccupied space you can see.</p>"
     },
     "Makashi Form": {
-      "name": "Makashi Form",
+      "name": "Forme Makashi",
       "description": "<p>Until the start of your next turn, you gain a special réaction. When a creature makes a attaque d'arme au corps à corps against you and misses, you can use this special réaction to make an attaque d'opportunité against cette créature. </p>"
     },
     "Soresu Form": {
-      "name": "Soresu Form",
+      "name": "Formulaire Soresu",
       "description": "<p>The first time you take kinetic, energy, or ion dégâts from a weapon before the end of your next turn, that dégâts is reduced by half.</p>"
     },
     "Ishu Form": {
-      "name": "Ishu Form",
+      "name": "Forme Ishu",
       "description": "<p>If there is a friendly creature within 15 mètres of you, you can move up to 10 mètres without provoking attaque d'opportunités. You must end this movement within 5 mètres of the friendly creature.</p>"
     },
     "Trakata Form": {
-      "name": "Trakata Form",
+      "name": "Forme Trakata",
       "description": "<p>As a part of the action bonus to adopt this form, you can flourish your weapon to attempt to distract an enemy you can see. Make a Dexterity (Escamotage) or Charisma (Deception) check (your choice) contested by a Wisdom (Perception) check of une créature that you can see within 5 mètres of you. On a success, cette créature has disavantage on the next attack roll it makes against you.</p>"
     },
     "Juyo Form": {
-      "name": "Juyo Form",
+      "name": "Formulaire Juyo",
       "description": "<p>Jusqu'au début de votre prochain tour, votre portée de coup critique avec les armes augmente de 1.</p>"
     },
     "Djem So Form": {
-      "name": "Djem So Form",
+      "name": "Djem So Forme",
       "description": "<p>Before the end of your next turn, you can add half your Wisdom or Charisma modificateur (your choice, minimum of +1) to one test de caractéristique or attack roll you make using Strength. </p>"
     },
     "Shien Form": {
-      "name": "Shien Form",
+      "name": "Forme Shien",
       "description": "<p>Avant la fin de votre prochain tour, vous pouvez ajouter la moitié de votre modificateur de Sagesse ou de Charisme (au choix, minimum +1) à votre CA contre une attaque. </p>"
     },
     "Jar'Kai Form": {
-      "name": "Jar'Kai Form",
+      "name": "Forme Jar'Kai",
       "description": "<p>As a part of the action bonus to adopt this form, if you took the Attack action, you can engage in Double- or Two-Weapon Fighting. </p>\n<p>Each time you hit with an attack on this turn, you can move up to 5 mètres without provoking attaque d'opportunités from la créature you hit. </p>"
     },
     "Sokan Form": {
-      "name": "Sokan Form",
+      "name": "Forme Sokan",
       "description": "<p>Until the start of your next turn, you ignore difficult terrain. De plus, when a hostile creature makes a attaque d'arme au corps à corps against you, you can use your réaction to move to another space within 5 mètres of cette créature without provoking attaque d'opportunités, imposing disavantage on the triggering roll.</p>"
     },
     "Vonil Form": {
-      "name": "Vonil Form",
+      "name": "Formulaire vonil",
       "description": "<p>If you took the Attack action before adopting this form, you can direct one of your allies to strike a creature you hit with an attack. Choose a friendly creature that can see or hear you and is within 5 mètres of la créature you hit with an attack. That creature can immediately use its réaction to make one attaque d'arme against the same creature.</p>"
     },
     "Ysannanite Form": {
-      "name": "Ysannanite Form",
+      "name": "Forme ysannanite",
       "description": "<p>As a part of the action bonus to adopt this form, if you took the Attack action, you can engage in Double- or Two-Weapon Fighting. </p>\n<p>De plus, jusqu'à la fin de votre prochain tour, when making a attaque d'arme à distance while you are within 5 mètres of a hostile creature, you do not have disavantage on the attack roll. </p>"
     },
     "Trispzest Form": {
-      "name": "Trispzest Form",
+      "name": "Formulaire Trispzest",
       "description": "<p>Once before the start of your next turn, you have avantage on a attaque d'arme au corps à corps against a creature that is effrayé of you.</p>"
     },
     "Shii-Cho Form": {
-      "name": "Shii-Cho Form",
+      "name": "Forme Shii-Cho",
       "description": "<p>As a part of the action bonus to adopt this form, if you took the Attack action, you can engage in Double- or Two-Weapon Fighting.</p>\n<p>De plus, the first time you hit a Large or smaller creature within 5 mètres of you with a attaque d'arme before the end of your next turn, you can force la cible to make a Strength jet de sauvegarde (DD = 8 + your bonus to attacks with the weapon). On a failed sauvegarde, it is pushed back 5 mètres, and you can immediately move into the space it just vacated without provoking attaque d'opportunités.</p>"
     },
     "Twilight Form": {
-      "name": "Twilight Form",
+      "name": "Forme crépusculaire",
       "description": "<p>As a part of the action bonus to adopt this form, you can mask yourpersonnelle with the force to attempt to hide from an enemy you can see. Make a Dexterity (Stealth) check contested by a Wisdom (Perception) check of une créature that you can see within 5 mètres of you. On a success, you become invisible to cette créature jusqu'au début de votre prochain tour, or until you attack, cast a power, or otherwise take a hostile action against it.</p>"
     },
     "Bakuuni Hand Form": {
-      "name": "Bakuuni Hand Form",
+      "name": "Forme de main de Bakouuni",
       "description": "<p>As a part of the action bonus to adopt this form, if you took the Attack action and would be able to use your action bonus to make an unarmed strike, you can do so as a part of this action bonus.</p>\n<p>Until the start of your next turn, when a creature enters your reach or moves while within your reach, you can use your réaction to attempt to shove la créature. On a success, vous pouvez choisir shove la cible an additional 5 mètres.</p>"
     },
     "Aqinos Form": {
-      "name": "Aqinos Form",
+      "name": "Formulaire Aqinos",
       "description": "<p><em><strong>Prerequisite:</strong> The ability to cast pouvoir techniques</em></p>\n<p>As a part of the action bonus to adopt this form, if you cast a pouvoir technique of niveau 1 or higher as your action, but no higher than half your Max Power Niveau, you can make one attaque d'arme au corps à corps.</p>"
     },
     "Drallig Form": {
-      "name": "Drallig Form",
+      "name": "Forme Drallig",
       "description": "<p>Until the start of your next turn, you gain a special réaction. When a creature enters your reach or moves while within your reach, you can use this special réaction to leap to an unoccupied space you can see within 10 mètres without provoking attaque d'opportunités from cette créature.</p>"
     }
   },

@@ -54,7 +54,7 @@
       "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'ouïe ou la vue. </p>"
     },
     "Ball Form": {
-      "name": "Ball Form",
+      "name": "Forme de boule",
       "description": "<p>AEn guise de bonus d'action, la {créature} peut se transformer en boule ou hors de sa forme. Sous forme de boule, la {créature} a augmenté sa vitesse, mais elle ne peut pas attaquer.</p>"
     },
     "Targeting Systems": {
@@ -82,7 +82,7 @@
       "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur la vue et l'odorat.</p>"
     },
     "Air Form": {
-      "name": "Air Form",
+      "name": "Forme aérienne",
       "description": "<p>La {créature} peut entrer dans l'espace d'une créature hostile et s'y arrêter. Il peut se déplacer dans un espace aussi étroit que 1 pouce de large sans se presser.</p>"
     },
     "Ram": {
@@ -130,7 +130,7 @@
       "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'audition.</p>"
     },
     "Martial Advantage": {
-      "name": "Martial Advantage",
+      "name": "Avantage martial",
       "description": "<p>Une fois par tour, the {creature} can deal an extra 14 (4d6) dégâts to a creature it hits with a attaque d'arme if cette créature is within 5 mètres of an ally of the {creature} that isn't incapacitated.</p>"
     },
     "Regeneration": {
@@ -434,7 +434,7 @@
       "description": "<p>AEn bonus d'action, la {créature} peut se déplacer à sa vitesse vers un ennemi qu'elle peut voir ou entendre.</p>"
     },
     "Watery Stealth (Liquid Form Only)": {
-      "name": "Watery Stealth (Liquid Form Only)",
+      "name": "Discrétion aqueuse (sous forme liquide uniquement)",
       "description": "<p> Sous l'eau, le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher, et il peut effectuer l'action Se cacher comme bonus d'action.</p>"
     },
     "Bite": {
