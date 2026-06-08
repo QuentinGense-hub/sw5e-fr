@@ -1,0 +1,493 @@
+{
+    "label":  "Maneuvers",
+    "entries":  {
+                    "Effective Flanking (Improved)":  {
+                                                          "name":  "Effective Flanking (Improved)",
+                                                          "description":  "\u003cp\u003eWhen you use the Effective Flanking maneuver, you add the result of the superiority die to both the attack and damage roll for the first attack against the creature before the start of your next turn.\u003c/p\u003e"
+                                                      },
+                    "Survive":  {
+                                    "name":  "Survive",
+                                    "description":  "\u003cp\u003eWhen you make an Survival check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                },
+                    "Shadow Puppetry":  {
+                                            "name":  "Shadow Puppetry",
+                                            "description":  "\u003cp\u003eWhen a creature you can see within 30 feet of you is reduced to 0 hit points, you can use your reaction and expend a superiority die to give that creature a final act of aggression. That creature can immediately move a number of feet equal to 5 times the result of the die and make a single weapon attack against a target of your choice within its attack range, adding the die to the attack roll.\u003c/p\u003e"
+                                        },
+                    "Sweeping Attack":  {
+                                            "name":  "Sweeping Attack",
+                                            "description":  "\u003cp\u003eWhen you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack.\u003c/p\u003e"
+                                        },
+                    "Assist":  {
+                                   "name":  "Assist",
+                                   "description":  "\u003cp\u003eWhen you make an Medicine check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                               },
+                    "Perform":  {
+                                    "name":  "Perform",
+                                    "description":  "\u003cp\u003eWhen you make an Performance check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                },
+                    "Automatic Startup Sequence":  {
+                                                       "name":  "Automatic Startup Sequence",
+                                                       "description":  "\u003cp\u003eWhen a creature makes a saving throw against a tech power you cast, you may expend a superiority die, subtracting the number rolled from their total.\u003c/p\u003e"
+                                                   },
+                    "Parry (Improved)":  {
+                                             "name":  "Parry (Improved)",
+                                             "description":  "\u003cp\u003eParry becomes a general maneuver for you.\u003c/p\u003e"
+                                         },
+                    "Sweeping Attack (Improved)":  {
+                                                       "name":  "Sweeping Attack (Improved)",
+                                                       "description":  "\u003cp\u003eWhen you use the Sweeping Attack maneuver, you add your maneuver ability modifier to the damage roll of the second creature.\u003c/p\u003e"
+                                                   },
+                    "Administer Aid (Greater)":  {
+                                                     "name":  "Administer Aid (Greater)",
+                                                     "description":  "\u003cp\u003eYou can use your Administer Aid maneuver as an action, bonus action, or reaction on your turn.\u003c/p\u003e"
+                                                 },
+                    "Remove Toxins":  {
+                                          "name":  "Remove Toxins",
+                                          "description":  "\u003cp\u003eAs an action, you can expend a superiority die to purge the toxins from a creature you can touch. The target regains hit points equal to the number rolled and, if it is poisoned or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts the target, you neutralize one poison or disease that you know is present, or you neutralize one at random.\u003c/p\u003e"
+                                      },
+                    "Flex":  {
+                                 "name":  "Flex",
+                                 "description":  "\u003cp\u003eWhen you make an Athletics check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                             },
+                    "Dark Transference":  {
+                                              "name":  "Dark Transference",
+                                              "description":  "\u003cp\u003eWhen you hit a creature with an attack, you can expend a superiority die and roll it to attempt to siphon life from it. The target must make a Constitution saving throw. On a failed save, add the result to the damage roll, and you regain one expended Hit Die.\u003c/p\u003e"
+                                          },
+                    "Befogging Ichor":  {
+                                            "name":  "Befogging Ichor",
+                                            "description":  "\u003cp\u003eYou can use a bonus action to expend a superiority die. When you do so, choose a creature you can see within 30 feet of you. The target must make a Wisdom saving throw. On a failed save, the target can\u0027t take reactions until the start of its next turn and on its turn must use its movement to move half its speed in a random direction. Roll a [[/r d8]] and assign a direction to each face. If the direction rolled is blocked, the target doesn\u0027t move.\u003c/p\u003e"
+                                        },
+                    "Effective Flanking (Greater)":  {
+                                                         "name":  "Effective Flanking (Greater)",
+                                                         "description":  "\u003cp\u003eWhen you use the Effective Flanking maneuver, you add your maneuver ability modifier to both the attack and damage roll for the first attack against the creature before the start of your next turn.\u003c/p\u003e"
+                                                     },
+                    "Reassure":  {
+                                     "name":  "Reassure",
+                                     "description":  "\u003cp\u003eAs an action, you can expend a superiority die and call out to a creature within 60 feet that can see or hear you that is charmed, frightened, or stunned. When you do so, that creature immediately makes another saving throw, adding the amount rolled to the save.\u003c/p\u003e"
+                                 },
+                    "Pin Down":  {
+                                     "name":  "Pin Down",
+                                     "description":  "\u003cp\u003eWhen your companion attempts to grapple or knock a creature prone, you can expend a superiority die to give it direction as long as it can see or hear you. Roll a superiority die and add it to your companion\u0027s Strength (Athletics) check.\u003c/p\u003e"
+                                 },
+                    "Study":  {
+                                  "name":  "Study",
+                                  "description":  "\u003cp\u003eWhen you make an Lore check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                              },
+                    "World on Fire":  {
+                                          "name":  "World on Fire",
+                                          "description":  "\u003cp\u003eOn your turn, when you hit with a weapon attack, you can use a bonus action to expend and roll one superiority die to ignite phosphorescent powder on your target, dealing extra fire damage equal to the result of the roll. Additionally, the target sheds dim light in a 5-foot radius and can\u0027t become invisible until the end of your next turn, and becomes visible if it was already invisible.\u003c/p\u003e"
+                                      },
+                    "Penetrating Shot":  {
+                                             "name":  "Penetrating Shot",
+                                             "description":  "\u003cp\u003eWhen you hit a creature with a ranged weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose up to two creatures within 15 feet of and directly behind your initial target. If the original attack roll would hit the second creature(s), it takes damage equal to the number you roll on your superiority die.\u003c/p\u003e\n\u003cp\u003eThe damage is of the same type dealt by the original attack.\u003c/p\u003e"
+                                         },
+                    "Charge":  {
+                                   "name":  "Charge",
+                                   "description":  "\u003cp\u003eAs a bonus action on your turn, you can expend one superiority die to spur your allies to move. Until the start of your next turn, creatures you choose within 10 feet of you who can see or hear you can move an additional distance equal to 5 times the superiority die rolled on their turn and ignore unenhanced difficult terrain.\u003c/p\u003e"
+                               },
+                    "Charming Presence":  {
+                                              "name":  "Charming Presence",
+                                              "description":  "\u003cp\u003eAs an action, you can make a Charisma (Persuasion) check and expend one superiority die to attempt to charm a humanoid creature who can see or hear you within 60 feet. Add the superiority die to the roll. The target makes a contested Wisdom (Insight) check. If your check succeeds, the target is charmed by you until the end of your next turn.\u003c/p\u003e"
+                                          },
+                    "Mind Over Matter":  {
+                                             "name":  "Mind Over Matter",
+                                             "description":  "\u003cp\u003eWhen you are forced to make an Intelligence, Wisdom, or Charisma saving throw, you can expend a superiority die to change the saving throw ability to your maneuver ability modifier.\u003c/p\u003e"
+                                         },
+                    "Precision Attack":  {
+                                             "name":  "Precision Attack",
+                                             "description":  "\u003cp\u003eWhen you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.\u003c/p\u003e"
+                                         },
+                    "Go Get \u0027Em":  {
+                                            "name":  "Go Get \u0027Em",
+                                            "description":  "\u003cp\u003eWhile your companion is moving, you can expend a superiority die and add 5 times the number rolled to its movement speed.\u003c/p\u003e"
+                                        },
+                    "Deathseek":  {
+                                      "name":  "Deathseek",
+                                      "description":  "\u003cp\u003eWhen an attack made against a hostile creature that you can see would miss, you can use a reaction and expend a superiority die and roll it to force the creature to instead take the hit. The creature must make a Wisdom saving throw. On a failed save, the target takes the minimum damage the attack could have dealt plus additional damage equal to the result of the superiority die.\u003c/p\u003e"
+                                  },
+                    "Firewall":  {
+                                     "name":  "Firewall",
+                                     "description":  "\u003cp\u003eWhen you or an ally you can see within 60 feet make a saving throw against a tech power, you can use your reaction to expend a superiority die, adding the number rolled to the result of that saving throw.\u003c/p\u003e"
+                                 },
+                    "Hacked Communications":  {
+                                                  "name":  "Hacked Communications",
+                                                  "description":  "\u003cp\u003eAs an action, you may expend a superiority die, and choose any number of creatures that you can see within 60 feet of you that have commlinks, headcomms, or other such communications devices. Each creature must succeed on a Constitution saving throw or take sonic damage equal to the number rolled on the dice + your maneuver ability modifier (minimum of one). Additionally, on a failed save, their communication devices are disabled until rebooted.\u003c/p\u003e"
+                                              },
+                    "You Call This Archaeology?":  {
+                                                       "name":  "You Call This Archaeology?",
+                                                       "description":  "\u003cp\u003eWhen you or a friendly creature that you can see reduces a hostile creature to 0 hit points, you can use your reaction and expend a superiority die to give yourself or that friendly creature temporary hit points equal to the number rolled + your universal forcecasting modifier.\u003c/p\u003e"
+                                                   },
+                    "Primal Endurance":  {
+                                             "name":  "Primal Endurance",
+                                             "description":  "\u003cp\u003eAs an action, you can expend a superiority die to improve your companion\u0027s defense. Roll the die and add it to your companion\u0027s AC until the beginning of your next turn.\u003c/p\u003e"
+                                         },
+                    "Investigate":  {
+                                        "name":  "Investigate",
+                                        "description":  "\u003cp\u003eWhen you make an Investigation check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                    },
+                    "Overwhelming Wit":  {
+                                             "name":  "Overwhelming Wit",
+                                             "description":  "\u003cp\u003eOnce per round, when a creature succeeds on a force power you cast or your class feature that requires a Wisdom or Charisma saving throw, you can expend a superiority die to make a universal forcecasting ability check with proficiency, substituting the result of the roll for the save DC for that power.\u003c/p\u003e"
+                                         },
+                    "Menacing Attack":  {
+                                            "name":  "Menacing Attack",
+                                            "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack\u0027s damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.\u003c/p\u003e"
+                                        },
+                    "Water of Life":  {
+                                          "name":  "Water of Life",
+                                          "description":  "\u003cp\u003eWhen an allied creature within 30 feet that you can see takes damage, you can use a reaction to expend a superiority die and roll it. The ally regains a number of hit points equal to the roll + your maneuver modifier.\u003c/p\u003e"
+                                      },
+                    "Flourish":  {
+                                     "name":  "Flourish",
+                                     "description":  "\u003cp\u003eWhen you make an Sleight of Hand check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                 },
+                    "Wrestle and Drag":  {
+                                             "name":  "Wrestle and Drag",
+                                             "description":  "\u003cp\u003eWhen you make a Strength (Athletics) check to grapple or shove a creature, you can expend a superiority die. Until the end of your turn, you can drag the grappled creature with you without your speed being halved. Additionally, if the creature is moved at least 5 feet, you can roll the superiority die, dealing kinetic damage to the creature equal to the result of the roll.\u003c/p\u003e"
+                                         },
+                    "Administer Aid":  {
+                                           "name":  "Administer Aid",
+                                           "description":  "\u003cp\u003eAs an action, you can expend a superiority die to tend to a creature you can touch. The creature regains a number of hit points equal to the number rolled + your maneuver ability modifier.\u003c/p\u003e"
+                                       },
+                    "Pilot":  {
+                                  "name":  "Pilot",
+                                  "description":  "\u003cp\u003eWhen you make an Piloting check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                              },
+                    "Calling Card":  {
+                                         "name":  "Calling Card",
+                                         "description":  "\u003cp\u003eAs a bonus action, you can expend a superiority die to \u003c/p\u003e\n\u003cp\u003ethrow a sonic charge at a target you can see within 30 feet. When you do so, the target and each creature of your choice within 5 feet of it must make Dexterity saving throws, taking sonic damage on a failure. The sonic damage equals the number rolled on the superiority die. \u003c/p\u003e"
+                                     },
+                    "Riposte (Improved)":  {
+                                               "name":  "Riposte (Improved)",
+                                               "description":  "\u003cp\u003eWhen a creature misses an ally within 30 feet you can see with a melee attack, and that ally can see or hear you, you can expend one superiority die (no action required), and the chosen ally use their reaction to make a melee weapon attack against the creature. If the attack hits, the ally adds the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                           },
+                    "Lunging Attack":  {
+                                           "name":  "Lunging Attack",
+                                           "description":  "\u003cp\u003eWhen you make a melee weapon attack on your turn, you can expend one superiority die to increase your reach for that attack by 5 feet. If you hit, you add the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                       },
+                    "Tenacity":  {
+                                     "name":  "Tenacity",
+                                     "description":  "\u003cp\u003eAs a bonus action, you can expend and roll a superiority die and move to an unoccupied space you can see up to a distance equal to 5 x the result of the roll. If you begin this movement hidden from a creature, and you end this movement in a space that could be hidden from the creature, this movement does not reveal your presence to that creature.\u003c/p\u003e"
+                                 },
+                    "Agonizing Lethargy":  {
+                                               "name":  "Agonizing Lethargy",
+                                               "description":  "\u003cp\u003eYou can use an action to expend a superiority die. When you do so, choose a creature you can see within 30 feet of you. The target must make a Constitution saving throw. On a failed save, the target takes [[/r 1d6]] necrotic damage for each attack it makes until the start of your next turn. \u003c/p\u003e"
+                                           },
+                    "Vanity":  {
+                                   "name":  "Vanity",
+                                   "description":  "\u003cp\u003eWhen you reduce a hostile creature to 0 hit points, you can expend and roll a superiority die (no action required), regaining a number of hit points equal to the result of the roll + your maneuver ability modifier.\u003c/p\u003e"
+                               },
+                    "Intimidating Presence":  {
+                                                  "name":  "Intimidating Presence",
+                                                  "description":  "\u003cp\u003eAs an action, you can make a Charisma (Intimidation) check and expend one superiority die to attempt to frighten a humanoid creature who can see or hear you within 60 feet. Add the superiority die to the roll. The target makes a contested Wisdom (Insight) check. If your check succeeds, the target is frightened of you until the end of your next turn.\u003c/p\u003e"
+                                              },
+                    "Chains of Transfixing":  {
+                                                  "name":  "Chains of Transfixing",
+                                                  "description":  "\u003cp\u003eYou can use a bonus action to expend a superiority die. When you do so, choose a creature you can see within 30 feet of you that is no more than one size larger than you. The target must succeed on a Strength saving throw or gain four slowed levels until the start of your next turn.\u003c/p\u003e"
+                                              },
+                    "Rattle":  {
+                                   "name":  "Rattle",
+                                   "description":  "\u003cp\u003eOn your turn, when you hit with a weapon attack, you can use a bonus action and expend and roll one superiority die to menace your target, dealing extra psychic damage equal to the amount rolled and forcing it to succeed on a Wisdom saving throw or be frightened of you until the end of your next turn. \u003c/p\u003e"
+                               },
+                    "Short Round":  {
+                                        "name":  "Short Round",
+                                        "description":  "\u003cp\u003eWhen you cast a force power of 1st-level or higher that has a casting time of 1 action, you can expend a superiority die to change the casting time to 1 bonus action for this casting.\u003c/p\u003e"
+                                    },
+                    "Evasive Footwork":  {
+                                             "name":  "Evasive Footwork",
+                                             "description":  "\u003cp\u003eWhen you move, you can expend one superiority die, rolling the die and adding the number rolled to your AC until you stop moving.\u003c/p\u003e"
+                                         },
+                    "Exploit Weakness":  {
+                                             "name":  "Exploit Weakness",
+                                             "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend a superiority die and deal additional true damage equal to the number rolled. \u003c/p\u003e"
+                                         },
+                    "Fast Access Programs":  {
+                                                 "name":  "Fast Access Programs",
+                                                 "description":  "\u003cp\u003eWhen you cast a tech power of 1st-level or higher that has a casting time of 1 action, you can expend a superiority die to change the casting time to 1 bonus action for this casting.\u003c/p\u003e"
+                                             },
+                    "Persuade":  {
+                                     "name":  "Persuade",
+                                     "description":  "\u003cp\u003eWhen you make an Persuasion check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                 },
+                    "Parry":  {
+                                  "name":  "Parry",
+                                  "description":  "\u003cp\u003eWhen another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your maneuver ability modifier.\u003c/p\u003e"
+                              },
+                    "Encouraging Pace":  {
+                                             "name":  "Encouraging Pace",
+                                             "description":  "\u003cp\u003eYou can use a bonus action to expend and roll a superiority die. When you do so, a number of friendly creatures equal to your maneuver ability modifier can immediately use their reaction to move a number of feet equal to 5 times the number rolled on the superiority die.\u003c/p\u003e"
+                                         },
+                    "Loyal Bond":  {
+                                       "name":  "Loyal Bond",
+                                       "description":  "\u003cp\u003eWhenever you are hit with an attack, you can expend one superiority die to command your companion to immediately use its reaction and move up to its speed directly towards you. If it ends this movement within 5 feet of you, roll the superiority die. Your companion takes the damage instead of you, subtracting the amount you rolled from the total.\u003c/p\u003e"
+                                   },
+                    "Force Resonance":  {
+                                            "name":  "Force Resonance",
+                                            "description":  "\u003cp\u003eImmediately after you deal damage to a target with a force attack, you can expend a superiority die and target a second creature that you can see within 30 feet of the first creature. Roll the die, and the second creature takes force damage equal to the roll + your forcecasting modifier. \u003c/p\u003e"
+                                        },
+                    "Deliberate Movement":  {
+                                                "name":  "Deliberate Movement",
+                                                "description":  "\u003cp\u003eYou can expend one superiority die to take the Dash action as a bonus action and ignore the effects of unenhanced difficult terrain until the end of your turn.\u003c/p\u003e"
+                                            },
+                    "Crippling Blow":  {
+                                           "name":  "Crippling Blow",
+                                           "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to cripple the creature. You add the superiority die to the attack\u0027s damage roll and the creature\u0027s gains 1 slowed level until the end of their next turn.\u003c/p\u003e"
+                                       },
+                    "Threaten":  {
+                                     "name":  "Threaten",
+                                     "description":  "\u003cp\u003eWhen you make an Intimidation check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                 },
+                    "Program":  {
+                                    "name":  "Program",
+                                    "description":  "\u003cp\u003eWhen you make an Technology check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                },
+                    "Charging Attack":  {
+                                            "name":  "Charging Attack",
+                                            "description":  "\u003cp\u003eIf you move at least 10 feet towards your target before successfully hitting them with a melee attack, you may expend a superiority die, causing the target to take additional damage equal to the result, and forcing it to make a Strength saving throw. On a failed save the creature is knocked prone.\u003c/p\u003e"
+                                        },
+                    "Trip Attack":  {
+                                        "name":  "Trip Attack",
+                                        "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack\u0027s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.\u003c/p\u003e"
+                                    },
+                    "Goading Attack":  {
+                                           "name":  "Goading Attack",
+                                           "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to attempt to goad the target into attacking you. You add the superiority die to the attack\u0027s damage roll, and the target must make a Wisdom saving throw. On a failed save, the target has disadvantage on all attack rolls against targets other than you until the end of your next turn.\u003c/p\u003e"
+                                       },
+                    "Empathize":  {
+                                      "name":  "Empathize",
+                                      "description":  "\u003cp\u003eWhen you make an Insight check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                  },
+                    "Return Fire":  {
+                                        "name":  "Return Fire",
+                                        "description":  "\u003cp\u003eWhen a creature misses you with a ranged attack, you can use your reaction and expend one superiority die to make a ranged weapon attack against the creature. If you hit, you add the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                    },
+                    "Encouraging Speech":  {
+                                               "name":  "Encouraging Speech",
+                                               "description":  "\u003cp\u003eYou can expend a superiority die to give an encouraging speech, spending the next minute rallying your allies. You grant two allies temporary hit points equal to the amount rolled on the superiority die + your maneuver ability modifier.\u003c/p\u003e\n\u003cp\u003eThis increases to three allies at 5th level, four allies at 9th level, five allies at 13th level, and six allies at 17th level.\u003c/p\u003e"
+                                           },
+                    "Maneuvering Attack":  {
+                                               "name":  "Maneuvering Attack",
+                                               "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack\u0027s damage roll, and you choose a friendly creature who can see or hear you. \u003c/p\u003e\n\u003cp\u003eThat creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.\u003c/p\u003e"
+                                           },
+                    "Weak Point Strike":  {
+                                              "name":  "Weak Point Strike",
+                                              "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend a superiority die to temporarily daze the creature. Add the number rolled to the damage of the weapon attack and the creature must succeed on a Constitution saving throw or be stunned until the end of its next turn.\u003c/p\u003e"
+                                          },
+                    "Unrelenting Grasp":  {
+                                              "name":  "Unrelenting Grasp",
+                                              "description":  "\u003cp\u003eWhen you hit a creature within 5 feet of you with an opportunity attack, you may expend a superiority die. The creature takes additional damage equal to your superiority die, and you may attempt to grapple the target as part of the same reaction.\u003c/p\u003e"
+                                          },
+                    "Targeted Strike":  {
+                                            "name":  "Targeted Strike",
+                                            "description":  "\u003cp\u003eWhen an ally who can see or hear you makes an attack against a creature, you can use your reaction to expend a superiority die. You add the superiority die to the attack roll, and the damage roll if it hits. You can use this maneuver before or after the attack roll, but before the GM determines whether or not the attack hits.\u003c/p\u003e"
+                                        },
+                    "Handle Animal":  {
+                                          "name":  "Handle Animal",
+                                          "description":  "\u003cp\u003eWhen you make an Animal Handling check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                      },
+                    "Pure Sabacc":  {
+                                        "name":  "Pure Sabacc",
+                                        "description":  "\u003cp\u003eWhen you score a critical hit with a weapon attack, you can expend a superiority die and roll it. On a roll of 4 or higher, you deal maximum damage on the weapon\u0027s damage roll, including the superiority die. On a roll of 3 or lower, you instead deal the minimum.\u003c/p\u003e"
+                                    },
+                    "Call to Arms (Improved)":  {
+                                                    "name":  "Call to Arms (Improved)",
+                                                    "description":  "\u003cp\u003eWhen you use your Call to Arms maneuver, you can roll the superiority die and extend the benefits of the maneuver to a number of allies up to the result of the roll, provided those allies can see or hear you.\u003c/p\u003e"
+                                                },
+                    "Self-Preservation":  {
+                                              "name":  "Self-Preservation",
+                                              "description":  "\u003cp\u003eAs a reaction when you make a saving throw against an effect you can see, you can expend a superiority die and add it to the result. You can use this maneuver before or after making the saving throw, but before any effects of the saving throw are determined.\u003c/p\u003e"
+                                          },
+                    "Commander\u0027s Strike":  {
+                                                    "name":  "Commander\u0027s Strike",
+                                                    "description":  "\u003cp\u003eWhen you take the Attack action on your turn, you can forgo one of your attacks and use a bonus action to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one superiority die. That creature can immediately use its reaction to make one weapon attack, adding the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                                },
+                    "Strikeforce":  {
+                                        "name":  "Strikeforce",
+                                        "description":  "\u003cp\u003eWhen you make a melee weapon attack against a creature, you can expend one superiority die and add the number rolled to the attack roll. On a hit, the target takes additional force damage equal to the number rolled. \u003c/p\u003e"
+                                    },
+                    "Spine-Chilling Howls":  {
+                                                 "name":  "Spine-Chilling Howls",
+                                                 "description":  "\u003cp\u003eAs an action, you can expend one superiority die to command your companion to frighten another creature. The target must then succeed on a Wisdom saving throw against your Maneuver save DC or become frightened of both you and your companion for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\u003c/p\u003e"
+                                             },
+                    "Conceal":  {
+                                    "name":  "Conceal",
+                                    "description":  "\u003cp\u003eWhen you make an Stealth check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                },
+                    "Wild Senses":  {
+                                        "name":  "Wild Senses",
+                                        "description":  "\u003cp\u003eWhenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can request the aid of your companion by expending a superiority die, adding the number rolled to the check. You can use this maneuver before or after making the ability check, but before the results of the ability check are determined.\u003c/p\u003e"
+                                    },
+                    "Steady the Nerves":  {
+                                              "name":  "Steady the Nerves",
+                                              "description":  "\u003cp\u003eAs an action, you can expend one superiority die to strengthen your allies\u0027 defenses. Roll a superiority die. Until the end of your next turn, you and all allies within 5 feet of you when you use this action has a bonus to any saving throws they make equal to the amount rolled.\u003c/p\u003e"
+                                          },
+                    "Inner Strength":  {
+                                           "name":  "Inner Strength",
+                                           "description":  "\u003cp\u003eAs an action, you can expend and roll one superiority die, gaining temporary hit points equal to the result of the roll + your maneuver ability modifier.\u003c/p\u003e"
+                                       },
+                    "Neuroblock":  {
+                                       "name":  "Neuroblock",
+                                       "description":  "\u003cp\u003eWhen you make an attack roll, you can expend a superiority die and add it to the attack roll. On a hit, the creature\u0027s next attack has disadvantage and it cannot regain hit points until the start of your next turn.\u003c/p\u003e"
+                                   },
+                    "Deceive":  {
+                                    "name":  "Deceive",
+                                    "description":  "\u003cp\u003eWhen you make an Deception check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                },
+                    "Precise Movements":  {
+                                              "name":  "Precise Movements",
+                                              "description":  "\u003cp\u003eWhen you or a friendly creature you can see that can see or hear you moves, you can expend a superiority die to give them verbal guidance and encouragement. \u003c/p\u003e\n\u003cp\u003eRoll a superiority die. The creature\u0027s speed increases by 5 times the number rolled, and they can move through the space of hostile creatures as if it were difficult terrain.\u003c/p\u003e"
+                                          },
+                    "Riposte":  {
+                                    "name":  "Riposte",
+                                    "description":  "\u003cp\u003eWhen a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If the attack hits, you add the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                },
+                    "Perceive":  {
+                                     "name":  "Perceive",
+                                     "description":  "\u003cp\u003eWhen you make an Perception check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                 },
+                    "Wracking Torment":  {
+                                             "name":  "Wracking Torment",
+                                             "description":  "\u003cp\u003eWhen a hostile creature you can see within 30 feet would take damage from an effect you or a friendly creature controls, you can use your reaction and expend a superiority die to temporarily weaken their resilience against it. Until the end of the turn, the target loses resistance to the damage types of the triggering attack or power.\u003c/p\u003e"
+                                         },
+                    "Tumble":  {
+                                   "name":  "Tumble",
+                                   "description":  "\u003cp\u003eWhen you make an Acrobatics check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                               },
+                    "Administer Aid (Improved)":  {
+                                                      "name":  "Administer Aid (Improved)",
+                                                      "description":  "\u003cp\u003eYou can use your Administer Aid maneuver as an action or bonus action.\u003c/p\u003e"
+                                                  },
+                    "Subtle Execution":  {
+                                             "name":  "Subtle Execution",
+                                             "description":  "\u003cp\u003eWhen you cast a tech power, you may expend a superiority die to cast the power without any visual or auditory cues. Creatures have disadvantage on any Intelligence (Investigation) or Wisdom (Perception) checks made to determine if you were the caster.\u003c/p\u003e"
+                                         },
+                    "Body Over Bother":  {
+                                             "name":  "Body Over Bother",
+                                             "description":  "\u003cp\u003eWhen you are forced to make an Strength, Dexterity, or Constitution saving throw, you can expend a superiority die to change the saving throw ability to your maneuver ability modifier.\u003c/p\u003e"
+                                         },
+                    "Incite":  {
+                                   "name":  "Incite",
+                                   "description":  "\u003cp\u003eOn your turn, you can use an action and expend one superiority die to bolster the resolve of one of an ally within 30 feet who can see or hear you. The ally can add your maneuver ability modifier to every damage roll they make until the start of your next turn. \u003c/p\u003e"
+                               },
+                    "Disarming Blow":  {
+                                           "name":  "Disarming Blow",
+                                           "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it\u0027s holding. You add the superiority die to the attack\u0027s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. If you have a free hand and are within 5 feet of the creature, you can catch the item. Otherwise, the object lands at the creature\u0027s feet.\u003c/p\u003e"
+                                       },
+                    "Call the Guards":  {
+                                            "name":  "Call the Guards",
+                                            "description":  "\u003cp\u003eWhen a creature makes an attack roll against you, you can use your reaction and expend a superiority die and command a willing ally within 5 feet of that creature to use their reaction to intercede. The creature is then forced to make an attack on the ally instead. If the attack misses, the ally can immediately make a weapon attack against that creature as a part of that same reaction. Roll the superiority die, and add the result to the ally\u0027s attack roll.\u003c/p\u003e"
+                                        },
+                    "Rampage":  {
+                                    "name":  "Rampage",
+                                    "description":  "\u003cp\u003eWhen you reduce a creature to 0 hit points, you can use your bonus action to expend a superiority die and move up to half your speed. If you end this movement within 5 feet of a creature, you can make a single melee weapon attack against that creature, adding the superiority die to the attack roll.\u003c/p\u003e"
+                                },
+                    "Runtime Extension":  {
+                                              "name":  "Runtime Extension",
+                                              "description":  "\u003cp\u003eWhen a tech power you cast with a duration of 1 minute or longer reaches the end of its duration, you may expend a superiority die to extend the duration of the power by a number of rounds equal to the number rolled on your superiority die.\u003c/p\u003e"
+                                          },
+                    "Pushing Attack":  {
+                                           "name":  "Pushing Attack",
+                                           "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to attempt to drive the target back. You add the superiority die to the attack\u0027s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you push the target up to 15 feet away from you.\u003c/p\u003e"
+                                       },
+                    "Effective Flanking":  {
+                                               "name":  "Effective Flanking",
+                                               "description":  "\u003cp\u003eAs a bonus action, you choose a target within 30 feet that you can see to make a Wisdom saving throw. On a failed save, roll a superiority die; the result is added to the first attack roll against the creature before the start of your next turn.\u003c/p\u003e"
+                                           },
+                    "Adrenaline Hit":  {
+                                           "name":  "Adrenaline Hit",
+                                           "description":  "\u003cp\u003eYou can use an action and expend one superiority die to inject a creature with regenerative medication that temporarily enhances their agility. When you do so, a creature you can touch regains hit points equal to the superiority die roll. Additionally, until the start of your next turn, when that creature would take damage, the amount is reduced by an amount equal to your maneuver ability modifier.\u003c/p\u003e"
+                                       },
+                    "Daring Escape":  {
+                                          "name":  "Daring Escape",
+                                          "description":  "\u003cp\u003eYou can expend one superiority die to take the Disengage action as a bonus action on your turn. Until the end of this turn, you have advantage on ability checks and saving throws to break effects that would grapple, restrain or slow you.\u003c/p\u003e"
+                                      },
+                    "Call to Arms":  {
+                                         "name":  "Call to Arms",
+                                         "description":  "\u003cp\u003eIf you are surprised at the start of combat and aren\u0027t incapacitated, you can expend one superiority die to act normally.\u003c/p\u003e"
+                                     },
+                    "Heads Up":  {
+                                     "name":  "Heads Up",
+                                     "description":  "\u003cp\u003eWhen a friendly creature who can see or hear you makes a saving throw, you can use your reaction and expend a superiority die, adding the number rolled to the result of the saving throw.\u003c/p\u003e"
+                                 },
+                    "One With Shadows":  {
+                                             "name":  "One With Shadows",
+                                             "description":  "\u003cp\u003eWhen you are in an area of dim light or darkness, you can use your action and expend one superiority die to become invisible until you move or take a hostile action.\u003c/p\u003e"
+                                         },
+                    "One with the Force":  {
+                                               "name":  "One with the Force",
+                                               "description":  "\u003cp\u003eOnce per turn, when you make a Constitution saving throw to maintain concentration on a force power, you can expend a superiority die and add the number rolled to the saving throw.\u003c/p\u003e"
+                                           },
+                    "One Step Ahead":  {
+                                           "name":  "One Step Ahead",
+                                           "description":  "\u003cp\u003eWhen you roll initiative and you are not surprised, you can expend a superiority die and add the number rolled to your Initiative check.\u003c/p\u003e"
+                                       },
+                    "Sic \u0027Em":  {
+                                         "name":  "Sic \u0027Em",
+                                         "description":  "\u003cp\u003eAs an action, you can expend a superiority die and command your companion to savage a nearby enemy. Your companion can use its reaction to immediately move up to 10 feet and make one attack, adding the superiority dice to the damage roll on a hit.\u003c/p\u003e"
+                                     },
+                    "Commander\u0027s Strike (Greater)":  {
+                                                              "name":  "Commander\u0027s Strike (Greater)",
+                                                              "description":  "\u003cp\u003eWhen you use the Commander\u0027s Strike maneuver, you can choose to forgo an attack or use your bonus action, rather than both. All the other rules of Commander\u0027s Strike still apply to you.\u003c/p\u003e"
+                                                          },
+                    "Distracting Blow":  {
+                                             "name":  "Distracting Blow",
+                                             "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die to distract the creature, giving your allies an opening. You add the superiority die to the attack\u0027s damage roll. The next attack roll against the target by an attacker other than you has advantage if the attack is made before the start of your next turn.\u003c/p\u003e"
+                                         },
+                    "Tyrannical Strike":  {
+                                              "name":  "Tyrannical Strike",
+                                              "description":  "\u003cp\u003eWhen you hit a creature with a weapon attack, you can expend one superiority die and use your reaction to issue a one-word command to a creature who can see or hear you. You add the superiority die to the attack\u0027s damage roll, and the target must succeed on a Wisdom saving throw. On a failed save, the target must follow the command on its next turn. \u003c/p\u003e\n\u003cp\u003eThe target automatically succeeds if it is immune to charm, it doesn\u0027t understand your language, or if your command is directly harmful to it.\u003c/p\u003e"
+                                          },
+                    "Feinting Attack":  {
+                                            "name":  "Feinting Attack",
+                                            "description":  "\u003cp\u003eYou can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature this turn. If that attack hits, add the superiority die to the attack\u0027s damage roll.\u003c/p\u003e"
+                                        },
+                    "Reverse Curse":  {
+                                          "name":  "Reverse Curse",
+                                          "description":  "\u003cp\u003eWhen another creature attempts to charm or frighten you or an ally you can see within 15 feet of you, you can use your reaction and expend a superiority die and roll it to attempt to turn the effect back on that creature. The creature must succeed on a Wisdom saving throw or be be charmed or frightened by you, dependent on the triggering ability, for a number of rounds equal to the die roll or until the creature takes any damage.\u003c/p\u003e"
+                                      },
+                    "No Escape":  {
+                                      "name":  "No Escape",
+                                      "description":  "\u003cp\u003eWhenever you or an ally you can see makes an opportunity attack, you can expend a superiority die. If the attack hits, roll the superiority die and add the result to the damage roll. Additionally, the affected creature gains 4 slowed levels until the start of its next turn.\u003c/p\u003e"
+                                  },
+                    "Enhancement Injection":  {
+                                                  "name":  "Enhancement Injection",
+                                                  "description":  "\u003cp\u003eAs an action, you can expend one superiority die to inject a creature you can touch with enhancements, granting them temporary hit points equal to the superiority die roll + your maneuver ability modifier, which last for 1 minute. Additionally, when the target makes a Strength or Constitution check or saving throw while it has these temporary hit points, it gains a bonus equal to your maneuver ability modifier.\u003c/p\u003e"
+                                              },
+                    "Overcapacity Powers":  {
+                                                "name":  "Overcapacity Powers",
+                                                "description":  "\u003cp\u003eWhen you cast a tech power of 1st-level or higher, you may expend a superiority die to cast the power at a higher level, provided it does not exceed your Maximum Power Level. Roll the superiority die, and add it to the level at which you are casting the power. You can choose to cast it at this new power level or lower.\u003c/p\u003e"
+                                            },
+                    "Naturalize":  {
+                                       "name":  "Naturalize",
+                                       "description":  "\u003cp\u003eWhen you make an Nature check, you can expend a superiority die, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.\u003c/p\u003e"
+                                   },
+                    "Fortune and Glory":  {
+                                              "name":  "Fortune and Glory",
+                                              "description":  "\u003cp\u003eWhen you would make a weapon attack against a target within 30 feet, you can instead manipulate the Force to expend a superiority die and make a Sleight of Hand check using your universal forcecasting ability to plant something on the target, conceal an object on the target, lift the target\u0027s purse, or take something from its pocket. Roll the superiority die, and add the result to the check.\u003c/p\u003e"
+                                          },
+                    "Commander\u0027s Strike (Improved)":  {
+                                                               "name":  "Commander\u0027s Strike (Improved)",
+                                                               "description":  "\u003cp\u003eWhen you use the Commander\u0027s Strike maneuver, you no longer have to forgo an attack as a part of that maneuver. All the other rules of Commander\u0027s Strike still apply to you.\u003c/p\u003e"
+                                                           },
+                    "Rally":  {
+                                  "name":  "Rally",
+                                  "description":  "\u003cp\u003eOn your turn, you can use a bonus action and expend one superiority die to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains temporary hit points equal to the superiority die roll + your maneuver ability modifier.\u003c/p\u003e"
+                              },
+                    "Assess the Situation":  {
+                                                 "name":  "Assess the Situation",
+                                                 "description":  "\u003cp\u003eYou can expend one superiority die to make a Wisdom (Perception) or Intelligence (Investigation) check as a bonus action, adding the superiority die to the check.\u003c/p\u003e"
+                                             }
+                },
+    "mapping":  {
+                    "atFlavorText":  "system.atFlavorText.value",
+                    "name":  "name",
+                    "description":  "system.description.value",
+                    "biography":  "system.details.biography.value",
+                    "advancements":  {
+                                         "path":  "system.advancement",
+                                         "converter":  "sw5eAdvancements"
+                                     },
+                    "chat":  "system.description.chat",
+                    "invocations":  "system.invocations.value"
+                }
+}

@@ -1,0 +1,117 @@
+{
+    "label":  "Armures",
+    "entries":  {
+                    "Light physical shield":  {
+                                                   "name":  "Bouclier physique léger"
+                                               },
+                    "Durafiber battle armor":  {
+                                                    "name":  "Armure de combat durafibre",
+                                                    "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eForce 11\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                                },
+                    "Beskar weave armor":  {
+                                                "name":  "Armure en tissu beskar",
+                                                "description":  "\u003ch3\u003eRégulé\u003c/h3\u003e\n\u003cp\u003eLorsque vous portez une armure ou maniez un bouclier doté de cette propriété et qu'une créature obtient le résultat maximal sur un dé de dégâts d'arme contre vous, elle doit relancer ce dé et utiliser le nouveau résultat, même si celui-ci est à nouveau le résultat maximal du dé de dégâts d'arme.\u003c/p\u003e\n\u003ch3\u003eForce 11\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                            },
+                    "Heavy shield generator":  {
+                                                    "name":  "Générateur de bouclier lourd"
+                                                },
+                    "Composite armor":  {
+                                             "name":  "Armure composite",
+                                             "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003chr /\u003e\n\u003cp\u003eL'armure composite est un type de combinaison blindée qui offre un bon équilibre entre mobilité et protection contre la plupart des types d'armes. Les micro-hydrauliques de ce type d'armure motorisée offrent une protection à l'opérateur, mais sont plus volumineuses que les armures en mailles ou en tissu. Ce type d'armure est rarement vu en dehors de l'usage de mercenaires professionnels et de soldats.\u003c/p\u003e"
+                                         },
+                    "Assault armor":  {
+                                           "name":  "Armure d'assaut",
+                                           "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eForce 15\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e\n\u003chr /\u003e\n\u003cp\u003eL'armure d'assaut est une amélioration de l'armure de combat, avec le bénéfice de micro-hydrauliques qui augmentent l'efficacité de l'opérateur. Elle offre une meilleure protection, mais un poids accru.\u003c/p\u003e"
+                                       },
+                    "Bone light shield":  {
+                                               "name":  "Bouclier léger en os",
+                                               "description":  "\u003ch3\u003eÀ pointes ([[/r 1d4]])\u003c/h3\u003e\n\u003cp\u003eLorsque vous réussissez un test de Force (Athlétisme) pour bousculer ou faire trébucher une créature en maniant un bouclier doté de cette propriété, la créature subit des dégâts cinétiques égaux aux dégâts à pointes (indiqués entre parenthèses avec la propriété) + votre modificateur de Force. Si vous utilisez un bouclier doté de cette propriété comme arme improvisée, les dégâts augmentent d'un cran (de [[/r d4]] à [[/r d6]], [[/r d6]] à [[/r d8]], ou [[/r d8]] à [[/r 2d4]]).\u003c/p\u003e"
+                                           },
+                    "Combat suit":  {
+                                         "name":  "Combinaison de combat",
+                                         "description":  "\u003cp\u003eLes combinaisons de combat sont vues partout dans la galaxie et peuvent être trouvées à la vente chez presque tout marchand traitant d'armes et d'armures. De nombreuses combinaisons sont utilisées par des organisations militaires, comme l'armée de la République Galactique, ainsi que par des mercenaires, des criminels, des chasseurs de primes et même certains Jedi.\u003c/p\u003e\n\u003cp\u003eLa combinaison elle-même offre une protection décente contre la plupart des types d'attaques tout en maintenant une flexibilité maximale et un poids minimal. Cependant, cette armure n'est recommandée que pour les escarmouches légères.\u003c/p\u003e"
+                                     },
+                    "Weave armor":  {
+                                         "name":  "Armure en tissu",
+                                         "description":  "\u003cp\u003eL'armure en tissu était construite à partir d'un maillage de plaques métalliques ou composites et d'une combinaison rembourrée. Des variantes de l'armure comprenaient moins de plaques et plus de rembourrage pour une armure plus légère, bien que moins protectrice, et un plaques plus lourdes avec des pièces moulées pour s'adapter au porteur. Bien que l'armure soit disponible non modifiée, la plupart des utilisateurs personnalisaient leur armure.\u003c/p\u003e"
+                                     },
+                    "Heavy exoskeleton":  {
+                                               "name":  "Exosquelette lourd",
+                                               "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eForce 17\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e\n\u003chr /\u003e\n\u003cp\u003eLes exosquelettes lourds sont virtuellement les armures les plus lourdes acquérables pendant la Guerre Galactique. Ils sont idéaux pour les situations de combat extrême impliquant des dégâts directs et offrent également un très bon niveau de protection au sacrifice de la dextérité. Certains les considèrent claustrophobes, mais c'était le compromis pour la sécurité.\u003c/p\u003e"
+                                           },
+                    "Fiber armor":  {
+                                         "name":  "Armure en fibres",
+                                         "description":  "\u003cp\u003eL'armure en fibres est un type d'armure qui offre plus de protection que la combinaison de combat plus légère. L'armure en fibres est globalement plus lourde que les combinaisons de combat, et pas tout à fait aussi flexible, mais beaucoup considèrent les compromis comme valables. C'est une bonne source de défense contre les attaques physiques et les tirs de blaster légers.\u003c/p\u003e"
+                                     },
+                    "Duravlex fiber armor":  {
+                                                  "name":  "Armure en fibres duravlex",
+                                                  "description":  "\u003ch3\u003eSilencieux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez l'avantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e"
+                                              },
+                    "Fleximetal fiber armor":  {
+                                                    "name":  "Armure en fibres fleximétal",
+                                                    "description":  "\u003ch3\u003eÉvitant 1\u003c/h3\u003e\n\u003cp\u003eLorsque vous portez une armure ou maniez un bouclier doté de cette propriété et qu'une créature effectue une attaque contre vous, la plage de coup critique diminue d'un montant égal à la valeur évitante, jusqu'à un minimum de 1.\u003c/p\u003e\n\u003ch3\u003eForce 11\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                                },
+                    "Crystadium medium shield":  {
+                                                      "name":  "Bouclier intermédiaire en crystadium",
+                                                      "description":  "\u003ch3\u003eAbsorbant 1\u003c/h3\u003e\n\u003cp\u003eLorsque vous portez une armure ou maniez un bouclier doté de cette propriété, les dégâts que vous subissez de la part des armes sont réduits d'un montant égal à la valeur absorbante. Si cela devait réduire les dégâts à 0, ils sont réduits à 1 à la place.\u003c/p\u003e\n\u003ch3\u003eDéséquilibré\u003c/h3\u003e\n\u003cp\u003eLorsque vous subissez un coup critique en maniant un bouclier doté de cette propriété, vous ne pouvez pas effectuer de réactions jusqu'au début de votre prochain tour, et vous ne gagnez aucun bénéfice de CA de votre bouclier contre la prochaine attaque effectuée contre vous avant le début de votre prochain tour.\u003c/p\u003e\n\u003ch3\u003eForce 13\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                                  },
+                    "Mesh armor":  {
+                                        "name":  "Armure en mailles",
+                                        "description":  "\u003cp\u003eOffrant une protection solide pour un coût minimal, l'armure en mailles est considérée comme une excellente protection pour les troupes retranchées ou les gardes. Cependant, cette protection a un coût en mobilité, limitant son utilisation par l'infanterie avançant rapidement. Elle offre néanmoins plus de mobilité que l'armure de combat.\u003c/p\u003e"
+                                    },
+                    "Quadanium heavy shield":  {
+                                                    "name":  "Bouclier lourd en quadanium",
+                                                    "description":  "\u003ch3\u003eChargeur 1\u003c/h3\u003e\n\u003cp\u003eLorsque vous subissez des dégâts en portant une armure ou en maniant un bouclier doté de cette propriété, vous gagnez une charge. Vous pouvez stocker un nombre maximal de charges égal à la valeur chargeur, et ces charges durent 1 minute. La prochaine fois que vous touchez avec une attaque d'arme au corps à corps alors que vous avez des charges, vous infligez des dégâts supplémentaires du même type que les dégâts de l'arme, égaux au nombre de charges stockées, puis les charges sont dépensées.\u003c/p\u003e\n\u003ch3\u003eGênant\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 1,50 mètre.\u003c/p\u003e\n\u003ch3\u003eVoyant\u003c/h3\u003e\n\u003ch3\u003eForce 15\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                                },
+                    "Battle armor":  {
+                                          "name":  "Armure de combat",
+                                          "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eForce 13\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e\n\u003chr /\u003e\n\u003cp\u003eL'armure de combat est une armure qui réduit le poids, mais restreint les mouvements. Elle est couramment utilisée par les mercenaires, les chasseurs de primes, les soldats et les civils qui vivent dans des zones dangereuses.\u003c/p\u003e"
+                                      },
+                    "Medium shield generator":  {
+                                                     "name":  "Générateur de bouclier intermédiaire"
+                                                 },
+                    "Neutronium mesh":  {
+                                             "name":  "Maillage en neutronium",
+                                             "description":  "\u003ch3\u003eIsolé 5\u003c/h3\u003e\n\u003cp\u003eLorsque vous effectuez un jet de sauvegarde contre un effet qui infligerait des dégâts ioniques ou de foudre alors que vous portez une armure ou maniez un bouclier doté de cette propriété, vous pouvez traiter un résultat de [[/r d20]] inférieur à la valeur isolée comme étant égal à cette valeur.\u003c/p\u003e\n\u003ch3\u003eForce 11\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                         },
+                    "Durasteel exoskeleton":  {
+                                                   "name":  "Exosquelette en durasteel",
+                                                   "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eImperméable 2\u003c/h3\u003e\n\u003cp\u003eUne armure dotée de cette propriété comprend les fonctions limitées d'un nombre de combinaisons environnementales égal à la valeur imperméable dans la liste ci-dessous. Ces fonctions sont soit indiquées entre parenthèses avec la propriété, soit déterminées par le MJ. De plus, elle comprend une réserve d'oxygène de 4 heures, qui peut être renouvelée avec des réservoirs d'oxygène.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison chimique :\u003c/strong\u003e Vous êtes immunisé contre l'état corrodé.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison conductrice :\u003c/strong\u003e Vous êtes immunisé contre l'état électrisé.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison d'atténuation :\u003c/strong\u003e Vous êtes immunisé contre l'état assourdi, et vous ne pouvez pas avoir le désavantage aux tests de Sagesse (Perception) et d'Intelligence (Investigation) qui reposent sur le son.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison de plongée :\u003c/strong\u003e Vous êtes protégé contre les dangers associés aux environnements à haute pression.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison ignifugée :\u003c/strong\u003e Vous êtes immunisé contre l'état enflammé.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison de protection :\u003c/strong\u003e Vous êtes immunisé contre l'état empoisonné.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison de protection mentale :\u003c/strong\u003e Vous avez l'avantage aux jets de sauvegarde pour éviter d'être effrayé, et vous avez l'avantage aux jets de sauvegarde pour éviter que votre esprit soit lu ou affecté.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison spatiale :\u003c/strong\u003e Vous êtes protégé contre les dangers associés aux environnements à basse pression.\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCombinaison stabilisatrice :\u003c/strong\u003e Vous avez l'avantage aux tests de caractéristique et aux jets de sauvegarde pour éviter d'être déplacé.\u003c/li\u003e\u003c/ul\u003e"
+                                               },
+                    "Heavy physical shield":  {
+                                                   "name":  "Bouclier physique lourd",
+                                                   "description":  "\u003ch3\u003eVoyant\u003c/h3\u003e\n\u003ch3\u003eForce 15\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                               },
+                    "Light shield generator":  {
+                                                    "name":  "Générateur de bouclier léger"
+                                                },
+                    "Laminanium assault":  {
+                                                "name":  "Assaut en laminanium",
+                                                "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eGênant\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 1,50 mètre.\u003c/p\u003e\n\u003ch3\u003eMasqué\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, les capteurs électroniques et les caméras ont le désavantage aux tests de Sagesse (Perception) et d'Intelligence (Investigation) contre vous qui reposent sur la vue.\u003c/p\u003e\n\u003ch3\u003eForce 15\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                            },
+                    "Medium physical shield":  {
+                                                    "name":  "Bouclier physique intermédiaire",
+                                                    "description":  "\u003ch3\u003eForce 13\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 3 mètres, sauf si votre valeur de Force atteint ou dépasse le nombre de Force requis.\u003c/p\u003e"
+                                                },
+                    "Duranium combat suit":  {
+                                                  "name":  "Combinaison de combat en duranium",
+                                                  "description":  "\u003ch3\u003eGênant\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure ou maniez un bouclier doté de cette propriété, votre vitesse est réduite de 1,50 mètre.\u003c/p\u003e\n\u003ch3\u003eRéactif 1\u003c/h3\u003e\n\u003cp\u003eLorsque vous portez une armure dotée de cette propriété et qu'une créature vous touche avec un jet d'attaque, vous gagnez contre la prochaine attaque de cette créature avant le début de votre prochain tour un bonus à la CA égal à la valeur réactive.\u003c/p\u003e"
+                                              },
+                    "Plastoid composite":  {
+                                                "name":  "Composite plastique",
+                                                "description":  "\u003ch3\u003eVolumineux\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.\u003c/p\u003e\n\u003ch3\u003eRenforcé\u003c/h3\u003e\n\u003cp\u003eLorsque vous effectuez un saut en longueur en portant une armure dotée de cette propriété, vous pouvez parcourir un nombre de mètres allant jusqu'à deux fois votre valeur de Force. Lorsque vous effectuez un saut en hauteur, vous pouvez bondir dans les airs d'un nombre de mètres égal à 3 + deux fois votre modificateur de Force.\u003c/p\u003e\n\u003ch3\u003eRigide\u003c/h3\u003e\n\u003cp\u003eTant que vous portez une armure dotée de cette propriété, vous ajoutez la moitié de votre modificateur de Dextérité, arrondie à l'inférieur, au lieu de votre modificateur de Dextérité complet aux jets de sauvegarde de Dextérité que vous effectuez. Si votre modificateur de Dextérité est négatif, vous soustrayez à la place le modificateur complet.\u003c/p\u003e"
+                                            }
+                 },
+    "mapping":  {
+                    "atFlavorText":  "system.atFlavorText.value",
+                    "name":  "name",
+                    "description":  "system.description.value",
+                    "biography":  "system.details.biography.value",
+                    "advancements":  {
+                                          "path":  "system.advancement",
+                                          "converter":  "sw5eAdvancements"
+                                      },
+                    "chat":  "system.description.chat",
+                    "invocations":  "system.invocations.value"
+                }
+}

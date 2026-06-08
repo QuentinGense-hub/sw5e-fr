@@ -1,0 +1,41 @@
+{
+  "label": "Starship Armor",
+  "entries": {
+    "Deflection Armor": {
+      "name": "Armure de déviation",
+      "description": "<p>Deflection armor offers a trade-off for a somewhat maneuverable but less bulky ship. A ship with Deflection Armor installed gains dégâts reduction (3), but limits the amount of Dexterity that can be applied to its Classe d'Armure</p>"
+    },
+    "Quick-Charge Shield": {
+      "name": "Quick-Charge Shield",
+      "description": "<p>Quick-Charge Shields, opposite of Fortress Shields, offer a reduced capacity but rapidly replenish.</p>"
+    },
+    "Lightweight Armor": {
+      "name": "Armure légère",
+      "description": "<p>Un blindage léger est couramment utilisé sur les petits navires, leur permettant de tirer pleinement parti de leur rapidité.</p>"
+    },
+    "Reinforced Armor": {
+      "name": "Armure renforcée",
+      "description": "<p>Reinforced armor grants a ship significant dégâts reduction, but makes it less likely to avoid dégâts.</p>"
+    },
+    "Fortress Shield": {
+      "name": "Fortress Shield",
+      "description": "<p>Les boucliers de forteresse offrent un maximum de points de bouclier plus élevé, mais se régénèrent plus lentement que les boucliers normaux.</p>"
+    },
+    "Directional Shield": {
+      "name": "Directional Shield",
+      "description": "<p>Les boucliers directionnels sont les boucliers les plus couramment utilisés et équilibrés sur le marché.</p>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

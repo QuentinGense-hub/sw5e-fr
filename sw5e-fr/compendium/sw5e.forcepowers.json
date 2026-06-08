@@ -1,0 +1,949 @@
+{
+  "label": "Force Powers",
+  "entries": {
+    "Malacia": {
+      "name": "Malacia",
+      "description": "<p><em><strong>Prerequisite</strong>: Mind Trick</em></p>\n<p>A creature de votre choix that you can see within range is overcome with a sense of dizziness and nausea, as you disturb its equilibrium with the Force. The creature must succeed on a Wisdom jet de sauvegarde or fall à terre, becoming incapacitated and unable to stand up for the duration.</p>\n<p>At the end of each of its turns, and each time it takes dégâts, la cible can make another Wisdom jet de sauvegarde. La cible has avantage on the jet de sauvegarde if it's triggered by dégâts. On a success, the power ends. This power has no effect on droids or constructs.</p>"
+    },
+    "Feedback": {
+      "name": "Feedback",
+      "description": "<p>You unleash a burst of psychic energy at a target within range. If la cible can hear you (though it need not understand you), it must succeed on an Intelligence jet de sauvegarde or take [[/r 1d4]] psychic dégâts and have disavantage on the next attack roll it makes before the end of its next turn.</p>\n<p>This power's dégâts increases by [[/r 1d4]] when you reach niveau 5 ([[/r 2d4]]), niveau 11 ([[/r 3d4]]), and niveau 17 ([[/r 4d4]]).</p>"
+    },
+    "Force Scream": {
+      "name": "Force Scream",
+      "description": "<p>You emit a scream imbued with the power of the Force. Each creature you choose within 15 mètres of you must succeed on a Constitution jet de sauvegarde. On a failed sauvegarde, a creature take [[/r 4d6]] psychic dégâts, [[/r 4d6]] sonic dégâts, and is assourdi until the end of its next turn. On a successful sauvegarde, it takes half as much dégâts and isn't assourdi.</p>"
+    },
+    "Saber Dance": {
+      "name": "Saber Dance",
+      "description": "<p><em><strong>Prerequisite</strong>: Animate Weapon</em></p>\n<p>A light- or vibro-weapon de votre choix that you are wearing or carrying begins to animate, spinning around your body at high speeds in a rayon de 3 mètres centered on you. For the duration, your vitesse de déplacement is halved, and the weapon moves with you.</p>\n<p>When a creature enters the affected area for the first time on a turn or starts its turn there, la créature must make a Dexterity jet de sauvegarde or take [[/r 4d10]] dégâts of the weapon's type, or half as much dégâts on a successful jet de sauvegarde.</p>\n<p>When this power ends, you can immediately recall the weapon to your hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the radius of the power increases to 15 mètres, and the power's dégâts increases by [[/r 1d10]] for each slot niveau above 4th.</p>"
+    },
+    "Knight Speed": {
+      "name": "Knight Speed",
+      "description": "<p><em><strong>Prérequis</strong> : Explosion de vitesse</em></p> <p>Choisissez une créature volontaire que vous pouvez voir à portée. Jusqu'à la fin du pouvoir, la vitesse de la cible est doublée, elle gagne un bonus de +2 à la CA, elle a un avantage sur les jets de sauvegardes de Dextérité, et elle gagne une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour effectuer l'action Attaque (une seule attaque d'arme), Se précipiter, Se désengager, Se cacher ou Utiliser un objet.</p> <p>Lorsque le pouvoir prend fin, la cible ne peut plus bouger ou entreprendre des actions avant son prochain tour, alors qu'une vague de léthargie l'envahit.</p>"
+    },
+    "Force Concealment": {
+      "name": "Force Concealment",
+      "description": "<p>Vous enveloppez ou modifiez l'aura d'une créature ou d'un objet que vous contactez afin que le pouvoir de la Forces révèle de fausses informations à son sujet. La cible peut être une créature volontaire ou un objet qui n'est pas transporté ou porté par une autre créature.</p> <p>Lorsque vous lancez le pouvoir, choisissez l'un ou les deux effets suivants. L'effet dure toute la durée. Si vous lancez ce pouvoir sur la même créature ou objet tous les jours pendant 30 jours, en lui appliquant le même effet à chaque fois, l'effet dure jusqu'à ce qu'il soit dissipé.</p> <p><strong><em>Fausse Aura.</em></strong> Vous modifiez la façon dont la cible apparaît face aux pouvoirs et aux effets améliorés basés sur la Force, tels que <em>sense force</em>, qui détecte la présence de la Force. Vous pouvez faire en sorte qu'un objet ou une créature non améliorée basée sur la Force apparaisse améliorée et qu'elle rayonne une aura de Force, ou qu'un objet ou une créature améliorée basée sur la Force apparaisse non améliorée et ne rayonne aucune aura de Force. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse aura apparente à toute créature qui manipule l'objet.</p> <p><strong><em>Cloak.</em></strong> Vous pouvez modifier la façon dont l'affinité de la cible dans la Force apparaît au pouvoir <em>force Sight</em>. Par exemple, un Seigneur Sith doté d'un grand pouvoir dans le côté obscur de la Force peut apparaître comme ayant très peu de force dans la Force, avec une affinité pour le côté lumineux.</p>"
+    },
+    "Master Force Barrier": {
+      "name": "Master Force Barrier",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Force Barrier</em></p>\n<p>This power massively bolsters your allies with toughness and resolve. Creatures de votre choix in a rayon de 9 mètres around you when you cast this power gain the following benefits:</p>\n<ul>\n<li>The creature sheds dim light in a rayon de 1,5 mètre.</li>\n<li>The creature has avantage on all jet de sauvegardes</li>\n<li>Other creatures have disavantage on attack rolls against them.</li>\n<li>When a dark side creature hits them with a attaque au corps à corps, cette créature must make a Constitution jet de sauvegarde or be aveuglé until the power ends.</li></ul>"
+    },
+    "Wall Run": {
+      "name": "Wall Run",
+      "description": "<p>Jusqu'à la fin du tour, vous disposez d'une vitesse de montée égale à votre vitesse de marche et vous avez un avantage sur les tests de Dextérité (Acrobatie) et de Force (Athlétisme) qui impliquent du mouvement. Pendant la même durée, vous pouvez monter, descendre et traverser des surfaces verticales tout en gardant les mains libres. Cela ne vous permet pas de vous déplacer à l'envers le long des plafonds. Si vous êtes sur une surface verticale alors que vous n'avez plus de vitesse de montée, vous tombez immédiatement à moins que vous ne disposiez d'un autre moyen pour y rester.</p>"
+    },
+    "Tremor": {
+      "name": "Tremor",
+      "description": "<p><em><strong>Prerequisite</strong>: Burst</em></p>\n<p>You cause a tremor in the ground within range. Each creature other than you in a 5-foot-radius sphere centered on that point must make a Dexterity jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 1d8]] kinetic dégâts and is knocked à terre. On a successful sauvegarde, la créature takes half as much dégâts and isn't knocked à terre. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 1st.</p>"
+    },
+    "Heroism": {
+      "name": "Heroism",
+      "description": "<p>A willing creature you contact is imbued with bravery. Until the power ends, la créature is immune to being effrayé and gains points de vie temporaires equal to your forcecasting modificateur de caractéristique at the start of each of its turns. When the power ends, la cible loses any remaining points de vie temporaires from this power. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, you can target one additional creature for each slot niveau above 1st.</p>"
+    },
+    "Aura of Purity": {
+      "name": "Aura of Purity",
+      "description": "<p><em><strong>Prerequisite</strong>: Restoration</em></p>\n<p>Purifying energy radiates from you in a rayon de 9 mètres. Until the power ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison dégâts, and has avantage on jet de sauvegardes against effects that cause any of the following conditions: aveuglé, charmé, assourdi, effrayé, paralysé, empoisonné, and étourdi. </p>"
+    },
+    "Improved Dark Side Tendrils": {
+      "name": "Improved Dark Side Tendrils",
+      "description": "<p><em><strong>Prerequisite</strong>: Dark Side Tendrils</em></p>\n<p>You summon a 20-foot-radius sphere of inky blackness at a point within range. No light, enhanced or otherwise, can illuminate the area, creatures fully within the area are aveuglé, and the area is difficult terrain. Any creature that starts its turn in the area takes [[/r 2d6]] necrotic dégâts. Any creature that ends its turn in the area must succeed on a Strength jet de sauvegarde or take [[/r 2d6]] poison dégâts as tendrils of dark energy caress it.</p>"
+    },
+    "Comprehend Speech": {
+      "name": "Comprehend Speech",
+      "description": "<p>Pour la durée, vous comprenez le sens littéral de toute langue parlée que vous entendez.</p>"
+    },
+    "Plague": {
+      "name": "Plague",
+      "description": "<p><em><strong>Prerequisite</strong>: Affliction</em></p>\n<p>Choose up to six creatures de votre choix in a 40-foot cube within range. Each target must succeed on a Constitution jet de sauvegarde or be affected by this power for the duration.</p>\n<p>An affected target gains 1 slowed niveau, it takes a -2 penalty to AC and Dexterity jet de sauvegardes, and it can't use réactions. On its turn, it can use either an action or a action bonus, not both. Regardless of la créature's abilities or items, it can't make more than one melee or attaque à distance during its turn.</p>\n<p>If la créature attempts to cast a power with a casting time of 1 action, roll a [[/r d20]]. On an 11 or higher, the power doesn't take effect until la créature's next turn, and la créature must use its action on that turn to complete the power. If it can't, the power is wasted.\t</p>\n<p>A creature affected by this power makes another Constitution jet de sauvegarde at the end of its turn. On a successful sauvegarde, the effect ends for it.</p>"
+    },
+    "Guidance": {
+      "name": "Guidance",
+      "description": "<p>You contact one willing creature. Once before the power ends, la cible can roll a [[/r d4]] and add the number rolled to one test de caractéristique of its choice. The power then ends.</p>\n<p>This power's die increases at higher niveaus: to a [[/r d6]] at niveau 5, a [[/r d8]] at niveau 11, and a [[/r d10]] at niveau 17.</p>"
+    },
+    "Sound Trick": {
+      "name": "Sound Trick",
+      "description": "<p>Vous utilisez la Force pour produire un effet à portée. Vous créez l'un des effets spéciaux suivants à portée :</p> <ul> <li>Votre voix résonne jusqu'à trois fois plus fort que d'habitude et vous pouvez modifier sa tonalité pendant 1 minute.</li> <li>Vous provoquez des tremblements inoffensifs dans le sol pendant 1 minute.</li> <li>Vous créez un un son instantané provenant d'un point de votre choix à portée, comme un grondement de tonnerre, le cri d'un oiseau ou des murmures menaçants. effet sensoriel instantané et inoffensif, tel que la chute de feuilles, un souffle de vent, le mouvement des vêtements de quelqu'un ou le scintillement de luminaires non améliorés à portée.</li> </ul> <p>Une créature méfiante peut utiliser son action pour effectuer un test d'Intelligence (Enquête) par rapport à votre DD de sauvegarde de force, discernant que les effets sont illusoires en cas de succès.</p> <p>Si vous lancez ce pouvoir plusieurs fois, vous pouvez avoir jusqu'à trois de ses effets d'une minute actifs à la fois, et vous pouvez ignorer un tel effet comme une action.</p>"
+    },
+    "Force Disarm": {
+      "name": "Force Disarm",
+      "description": "<p>You select a weapon or object being worn or carried by a Large or smaller creature within range. The creature must make a Strength or Dexterity jet de sauvegarde (la créature chooses the ability to use). If the item is being carried, this sauvegarde is made with avantage. On a failed sauvegarde, the item is pulled directly to you. If you have a free hand, you catch the weapon. Otherwise, it lands at your mètres.</p>"
+    },
+    "Vitality Shield": {
+      "name": "Vitality Shield",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Body</em></p>\n<p>You siphon some of your own vitality to create a barrier in the Force around yourpersonnelle. You take [[/r 2d8]] true dégâts, and gain a number of points de vie temporaires equal to twice the amount of dégâts you took. If this dégâts would reduce your points de vie to 0, the power fails. While you have these points de vie temporaires, you have avantage on Strength, Dexterity and Constitution jet de sauvegardes. Any remaining points de vie temporaires are lost when this power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the true dégâts increases by [[/r 1d8]] for each slot niveau above 2nd.</p>"
+    },
+    "Battlemind": {
+      "name": "Battlemind",
+      "description": "<p><em><strong>Prerequisite</strong>: Battle Precognition</em></p>\n<p>Through the Force, you gain a limited form of telepathy that enables you to anticipate the moves of your opponents in combat. While you aren't wearing armor or wielding a shield, you gain a +2 AC bonus against attaque au corps à corpss and a +3 AC bonus against attaque à distances.</p>\n<p>This AC bonus is not applied against attacks from droids, constructs, or creatures with resistance or immunity to psychic dégâts.</p>"
+    },
+    "Master Speed": {
+      "name": "Master Speed",
+      "description": "<p><em><strong>Prérequis</strong> : Vitesse de chevalier</em></p> <p>Choisissez jusqu'à deux créatures consentantes que vous pouvez voir à portée. Jusqu'à la fin du pouvoir, la vitesse de chaque cible est doublée, elle gagne un bonus de +2 à la CA, elle a un avantage sur les jets de sauvegardes de Dextérité, et elle gagne une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour effectuer l'action Attaque (une seule attaque d'arme), Se précipiter, Se désengager, Se cacher ou Utiliser un objet. </p> <p>Lorsque le pouvoir prend fin, chaque cible ne peut plus bouger ou entreprendre d'actions avant son prochain tour, alors qu'une vague de léthargie la balaye.</p> <p><strong><em>Puissance de la Force.</em></strong> Lorsque vous lancez ce pouvoir en utilisant un emplacement de force de De niveau 8 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au 7.</p>"
+    },
+    "Improved Feedback": {
+      "name": "Improved Feedback",
+      "description": "<p><em><strong>Prerequisite</strong>: Feedback</em></p>\n<p>You unleash a blast of psychic energy at a target within range. If la cible can hear you (though it need not understand you), it must succeed on an Intelligence jet de sauvegarde. On a failed sauvegarde, it takes [[/r 3d6]] psychic dégâts and must immediately use its réaction, if available, to move as far as its speed allows away from you. The creature doesn't move into obviously dangerous ground, such as a fire or a pit. On a successful sauvegarde, la cible takes half as much dégâts and doesn't have to move away. A assourdi creature automatically succeeds on the sauvegarde.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 1st.</p>"
+    },
+    "Force Push/Pull": {
+      "name": "Force Push/Pull",
+      "description": "<p>You gain the minor ability to move or manipulate creatures and objects with the Force. You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial. Alternatively, you can push or pull a creature or object you can see. </p>\n<p>You use the Force to move a Medium or smaller creature or object not being worn or carried within range. La cible must make a Strength jet de sauvegarde. An object automatically fails this jet de sauvegarde. On a failed sauvegarde, la créature or object moves a number of mètres in a direction de votre choix based on its size. A Tiny creature or object can be moved up to 20 mètres, a Small creature or object can be moved up to 10 mètres, and a Medium creature or object can be moved up to 5 mètres. If at the end of this movement la créature or object strikes another creature or object, it must make a Dexterity jet de sauvegarde. An object automatically fails this jet de sauvegarde. On a failed sauvegarde, they both take [[/r 1d4]] kinetic dégâts.</p>\n<p>This power improves when you reach higher niveaus. At niveau 5, you can move a Tiny creature or object up to 30 mètres, a Small creature or object up to 20 mètres, a Medium creature or object up to 10 mètres, and the power's dégâts increases to [[/r 2d4]] kinetic dégâts. At niveau 11, you can move a Small creature or object up to 30 mètres, a Medium creature up to 20 mètres, and the power's dégâts increases to [[/r 3d4]] kinetic dégâts. At niveau 17, you can move a Medium creature to up 30 mètres, and the power's dégâts increases to [[/r 4d4]] kinetic dégâts.</p>"
+    },
+    "Mass Coerce Mind": {
+      "name": "Mass Coerce Mind",
+      "description": "<p><em><strong>Prerequisite</strong>: Coerce Mind</em></p>\n<p>You suggest a course of activity (limited to a sentence or two) and influence with the Force up to twelve creatures de votre choix that you can see within range and that can hear and understand you. Creatures that can't be charmé are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking la créature to harm itpersonnelle automatically negates the effect of the power.</p>\n<p>Each target must make a Wisdom jet de sauvegarde. On a failed sauvegarde, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the power ends when the subject finishes what it was asked to do.</p>\n<p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition isn't met before the power ends, the activity isn't performed. If you or any of your companions dégâts a creature affected by this power, the power ends for cette créature. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a 7th-niveau force slot, the duration is 10 days. When you use an 8th-niveau force slot, the duration is 30 days. When you use a 9th-niveau force slot, the duration is a year and a day.</p>"
+    },
+    "Lightning Charge": {
+      "name": "Lightning Charge",
+      "description": "<p>You imbue your weapon with debilitating force lightning. As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and the lightning leaps from la cible to a different creature de votre choix that you can see within 5 mètres of it. The second creature takes lightning dégâts equal to your forcecasting modificateur de caractéristique.</p>\n<p>This power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d8]] lightning dégâts to la cible, and the lightning dégâts to the second creature increases to [[/r 1d8]] + your forcecasting modificateur de caractéristique. Both jet de dégâtss increase by [[/r 1d8]] at niveau 11 and niveau 17.</p>"
+    },
+    "Bestow Curse": {
+      "name": "Bestow Curse",
+      "description": "<p><em><strong>Prerequisite</strong>: Curse</em></p>\n<p>You contact a creature, and cette créature must succeed on a Wisdom jet de sauvegarde or become cursed for the duration of the power. When you cast this power, choose the nature of the curse from the following options:</p>\n<ul>\n<li>Choose one score de caractéristique. While cursed, la cible has disavantage on test de caractéristiques and jet de sauvegardes made with that score de caractéristique.</li>\n<li>While cursed, la cible has disavantage on attack rolls against you.</li>\n<li>While cursed, la cible must make a Wisdom jet de sauvegarde at the start of each of its turns. lf it fails, it wastes its action that turn doing nothing.</li>\n<li>While la cible is cursed, your attacks and powers deal an extra [[/r 1d8]] necrotic dégâts to la cible.</li>\n</ul>\n<p>A remove curse power ends this effect. At the GM's discretion, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> If you cast this power using a force slot of niveau 4 or higher, the duration is concentration, up to 10 minutes. If you use a force slot of 5th Niveau or higher, the duration is 8 hours. If you use a force slot of niveau 7 or higher, the duration is 24 hours. If you use a niveau 9 force slot, the power lasts until it is dispelled. Using a force slot of 5th Niveau or higher grants a duration that doesn't require concentration.</p>"
+    },
+    "Force Leap": {
+      "name": "Force Leap",
+      "description": "<p>Until the end of your next turn, you can use your forcecasting score de caractéristique instead of your Strength score when you jump, and always count as having made a running start before jumping.</p>"
+    },
+    "Earthquake": {
+      "name": "Earthquake",
+      "description": "<p><em><strong>Prerequisite</strong>: Eruption</em></p>\n<p>You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.</p>\n<p>The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution jet de sauvegarde. On a failed sauvegarde, la créature's concentration is broken.</p>\n<p>When you cast this power and at the end of each turn you spend concentrating on it, chaque créature on the ground in the area must make a Dexterity jet de sauvegarde. On a failed sauvegarde, la créature is knocked à terre. </p>\n<p>This power can have additional effects depending on the terrain in the area, as determined by the GM.</p>\n<p><strong><em>Fissures.</em></strong> Fissures open throughout the power's area at the start of your next turn after you cast the power. A total of [[/r 1d6]] such fissures open in locations chosen by the GM. Each is [[/r 1d10 * 10]] mètres deep, 10 mètres wide, and extends from one edge of the power's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity jet de sauvegarde or fall in. A creature that successfully sauvegardes moves with the fissure's edge as it opens.</p>\n<p>A fissure that opens beneath a structure causes it to automatically collapse (see below).</p>\n<p><strong><em>Structures.</em></strong> The tremor deals 50 kinetic dégâts to any structure in contact with the ground in the area when you cast the power and at the start of each of your turns until the power ends. If a structure drops to 0 points de vie, it collapses and potentially dégâtss nearby creatures. A creature within half the distance of a structure's height must make a Dexterity jet de sauvegarde. On a failed sauvegarde, la créature takes [[/r 5d6]] kinetic dégâts, is knocked à terre, and is buried in the rubble, requiring a DD 20 Strength (Athletics) check as an action to escape. The GM can adjust the DD higher or lower, depending on the nature of the rubble. On a successful sauvegarde, la créature takes half as much dégâts and doesn't fall à terre or become buried.</p>"
+    },
+    "Force Sight": {
+      "name": "Force Sight",
+      "description": "<p><em><strong>Prerequisite</strong>: Sense Force</em></p>\n<p>You shift your vision to see through use of the Force; colors fade and inanimate objects appear as shades of gray. For the duration, you gain the following benefits.</p>\n<ul>\n<li>Living things glow with the power of the Force. Those with an affinity for the light side glow blue, those with an affinity for the dark side glow red, and those with no attunement to either side of the Force glow yellow. How bright they glow is determined by how strong their connection to the Force is.</li>\n<li>You gain blindsight to 30 mètres.</li>\n<li>You have avantage on Wisdom (Perception) checks that rely on sight against living targets within 30 mètres.</li></ul>"
+    },
+    "Mass Hysteria": {
+      "name": "Mass Hysteria",
+      "description": "<p><em><strong>Prerequisite</strong>: Hysteria</em></p>\n<p>Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, manifesting their worst nightmares as an implacable threat visible only to them. Each creature in a 30-foot-radius sphere is effrayé for the duration of the power. At the end of each of the effrayé creature's turns, it must succeed on a Wisdom jet de sauvegarde or take [[/r 5d10]] psychic dégâts. On a successful sauvegarde, the power ends for cette créature. This power has no effect on droids or constructs.</p>"
+    },
+    "Master Heal": {
+      "name": "Master Heal",
+      "description": "<p><em><strong>Prerequisite</strong>: Greater Heal</em></p>\n<p>A wave of healing energy washes over la créature you contact. La cible regains all its points de vie. If la créature is charmé, effrayé, paralysé, or étourdi, the condition ends. If la créature is à terre, it can use its réaction to stand up. This power has no effect on droids or constructs.</p>"
+    },
+    "Sense Shatterpoint": {
+      "name": "Sense Shatterpoint",
+      "description": "<p><em><strong>Prérequis</strong> : Battle Insight</em></p> <p>Vous recherchez un aperçu plus approfondi des défenses d'une créature que vous pouvez voir à portée. Jusqu'à la fin de votre prochain tour, vous avez l'avantage sur vos deux prochains jets d'attaque contre la cible.</p>"
+    },
+    "Land Stride": {
+      "name": "Land Stride",
+      "description": "<p>You align yourpersonnelle with nature, making traversing natural environments far easier. For the duration, your movement and that of creatures de votre choix within 40 mètres of you can't be slowed by natural terrain, such as mud, rocky ground, vines, or tall grass. Climbing still costs double normal movement. A creature that receives this bonus leaves behind no traces of its passage.</p>"
+    },
+    "Dun Moch": {
+      "name": "Dun Moch",
+      "description": "<p>You attempt to manipulate a creature into fighting you. One creature that you can see within range must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la créature is drawn to you, compelled by your demands. For the duration, it has disavantage on attack rolls against creatures other than you, and must make a Wisdom jet de sauvegarde each time it attempts to move to a space that is more than 30 mètres away from you; if it succeeds on this jet de sauvegarde, this power doesn't restrict la cible's movement for that turn.</p>\n<p>The power ends if you attack any other creature, if you cast a power cette cibles a hostile creature other than la cible, if a creature friendly to you dégâtss la cible or casts a harmful power on it, or if you end your turn more than 30 mètres away from la cible. This power has no effect on droids or constructs.</p>"
+    },
+    "Kinetite": {
+      "name": "Kinetite",
+      "description": "<p><em><strong>Prerequisite</strong>: Sustained Lightning</em></p>\n<p>A 5-foot-diameter sphere of compressed lightning appears in an unoccupied space de votre choix within range and lasts for the duration. Any creature that ends its turn within 5 mètres of the sphere must make a Dexterity jet de sauvegarde. The creature takes [[/r 2d6]] lightning dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p>\n<p>As a action bonus, you can move the sphere up to 30 mètres. If you ram the sphere into a creature, cette créature must make a Dexterity jet de sauvegarde, taking [[/r 2d6]] kinetic dégâts on a failed sauvegarde or half as much dégâts on a successful one, and the sphere stops moving this turn.</p>\n<p>When you move the sphere, you can direct it over barriers up to 5 mètres tall and jump it across pits up to 10 mètres wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a rayon de 6 mètres and dim light for an additional 20 mètres.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power with a force slot of niveau 3 or higher, both the lightning and kinetic dégâts increase by [[/r 1d6]] for each slot niveau above 2nd.</p>"
+    },
+    "Force Imbuement": {
+      "name": "Force Imbuement",
+      "description": "<p>The crystal inside of a simple lightweapon or the material of a simple vibroweapon or an improvised weapon you are holding is imbued with the power of the Force. For the duration, you can use your forcecasting ability instead of Strength for the attack and jet de dégâtss of attaque au corps à corpss using that weapon, and the weapon's dégâts die becomes [[/r 1d8]]. The weapon also becomes enhanced, if it isn't already, and you become proficient with it, if you aren't already. The power ends if you cast it again or if you let go of the weapon.</p>"
+    },
+    "Horror": {
+      "name": "Horror",
+      "description": "<p><em><strong>Prerequisite</strong>: Fear</em></p>\n<p>You project a phantasmal image of a creature's worst fears. Each creature in a cône de 9 mètres must succeed on a Wisdom jet de sauvegarde or drop whatever it is holding and become effrayé for the duration. This power has no effect on constructs or droids.</p>\n<p>While effrayé by this power, a creature must take the Dash action and move away from you by the safest </p>\n<p>available route on each of its turns, unless there is nowhere to move. If la créature ends its turn in a location where it doesn't have line of sight to you, la créature can make a Wisdom jet de sauvegarde. On a successful sauvegarde, the power ends for cette créature.</p>"
+    },
+    "Dark Aura": {
+      "name": "Dark Aura",
+      "description": "<p><em><strong>Prerequisite</strong>: Hex</em></p>\n<p>You manifest a mantle of malevolent dark side energy for the duration.</p>\n<p>Until the power ends, any attack you make deals an extra [[/r 1d8]] necrotic dégâts quand vous contactez a creature within 10 mètres of you. Any creature that takes this dégâts can't regain points de vie jusqu'au début de votre prochain tour.</p>\n<p>De plus, any creature de votre choix that you can see that starts its turn within 10 mètres of you gains 1 slowed niveau jusqu'au début de votre prochain tour.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the extra dégâts increases by [[/r 1d8]] for for every two slot niveaus above 3rd.</p>"
+    },
+    "Force Mend": {
+      "name": "Force Mend",
+      "description": "<p>You contact a creature and stimulate its natural healing ability. La cible regains [[/r 4d8+15]] points de vie. For the duration of the power, la cible regains 1 point de vie at the start of each of its turns (10 points de vie each minute).</p>\n<p>If la créature has a severed part you hold it to the stump, the power instantaneously causes the limb to knit to the stump.</p>\n<p>This power has no effect on droids or constructs.</p>"
+    },
+    "Force Blinding": {
+      "name": "Force Blinding",
+      "description": "<p>You use the Force to emit a blinding flash of light from your hand. Roll [[/r 6d10]], the total is how many points de vie of creatures this power can effect. Creatures in a cône de 4,5 mètres originating from you are affected in ascending order of their current points de vie (ignoring inconscient creatures and creatures that can't see).</p>\n<p>Starting with la créature that has the lowest current points de vie, chaque créature affected by this power is aveuglé until the power ends. Subtract chaque créature's points de vie from the total before moving on to la créature with the next lowest points de vie. A creature's points de vie must be equal to or less than the remaining total for la créature to be affected.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, roll an additional [[/r 2d10]] for each slot niveau above 1st.</p>"
+    },
+    "Improved Kinetite": {
+      "name": "Improved Kinetite",
+      "description": "<p><em><strong>Prerequisite</strong>: Kinetite</em></p>\n<p>A 20-foot-radius sphere of compressed lightning springs into existence centered on a point you choose within range. The sphere remains for the power's duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a Strength jet de sauvegarde or take [[/r 2d6]] kinetic dégâts. The sphere's space is difficult terrain.</p>\n<p>Until the power ends, you can use a action bonus on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward une créature you choose within 60 mètres of the center. Make a ranged force attack. You have avantage on the attack roll if la cible is in the sphere. En cas de contacter, la cible takes [[/r 4d6]] lightning dégâts.</p>\n<p>Creatures within 30 mètres of the sphere have disavantage on Wisdom (Perception) checks made to listen.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power with a force slot of niveau 5 or higher, the dégâts increases for each of its effects by [[/r 1d6]] for each slot niveau above 4th.</p>"
+    },
+    "Will of the Force": {
+      "name": "Volonté de la Force",
+      "description": "<p>You sublimate yourpersonnelle before the will of the Force, attempting to use it to affect change in the galaxy around you. </p>\n<p>The basic use of this power is to duplicate any other light side or universal pouvoir de la Force of niveau 8 or lower. You don't need to meet any requirements in that power; it simply takes effect. Alternatively, you can create one of the following effects de votre choix:</p>\n<ul>\n<li>You summon one object to you of up to 250,000 cr in value that isn't an enhanced item. The object can be no more than 300 mètres in any dimension, and it appears in an unoccupied space you can see on the ground.</li>\n<li>You allow up to twenty creatures that you can see to regain all points de vie, and you end all effects on them described in the <em>improved restoration</em> power.</li>\n<li>You grant up to ten creatures that you can see resistance to a type de dégâts you choose.</li>\n<li>You grant up to ten creatures you can see immunity to a single power or other specific enhanced effect for 8 hours. For instance, you could make yourpersonnelle and all your companions immune to the Manifestation of Abeloth's Will ability.</li>\n<li>You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itpersonnelle to accommodate the new result. For example, <em>will of the force</em> could undo an opponent's successful sauvegarde, a foe's critical hit, or a friend's failed sauvegarde. You can force the reroll to be made with avantage or disavantage, and vous pouvez choisir whether to use the reroll or the original roll.</li>\n</ul>\n<p>You might be able to achieve something beyond the scope of the above examples. State your wish to the DM as precisely as possible. The DM has great latitude </p>\n<p>in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This power might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary enhanced item or artifact might instantly transport you to the presence of the item's current owner.</p>\n<p>The stress of casting this power to produce any effect other than duplicating another power weakens you. After enduring that stress, each time you cast a power until you finish a repos long, you take [[/r 1d10]] necrotic dégâts per niveau of that power, which can't be reduced or prevented in any way. De plus, your Strength drops to 3, if it isn't 3 or lower already, for [[/r 2d4]] days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. De plus, there is a 33 percent chance that you are unable to cast <em>will of the force</em> ever again if you suffer this stress. Finally, if you are reduced to 0 points de vie as a result of this necrotic dégâts, or at any point before you have fully recovered from the Strength reduction, you immediately die and cannot be resurrected as your body fades away, absorbed into the living Force.</p>"
+    },
+    "Calm Emotions": {
+      "name": "Calm Emotions",
+      "description": "<p><em><strong>Prerequisite</strong>: Sense Emotion</em></p>\n<p>You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma jet de sauvegarde a creature can choose to fail this jet de sauvegarde if it wishes. If a creature fails its jet de sauvegarde, choose one of the following two effects.</p>\n<ul>\n<li>You can suppress any effect causing a target to be charmé or effrayé. When this power ends, any suppressed effect resumes, provided that its duration has not expired in the meantime. </li>\n<li>Vous pouvez faire a target indifferent about creatures de votre choix that it is hostile toward. This indifference ends if la cible is attacked or harmed by a power or if it witnesses any of its friends being harmed. </li>\n</ul>\n<p>When the power ends, la créature becomes hostile again, unless the GM rules otherwise.</p>"
+    },
+    "Force Immunity": {
+      "name": "Force Immunity",
+      "description": "<p>Une barrière immobile et légèrement scintillante surgit autour de vous et reste pour toute la durée. La barrière bouge avec vous. Tout pouvoir de la Force de niveau 3 ou inférieur lancé depuis l'extérieur de la barrière ne peut pas vous affecter, même si le pouvoir est lancé en utilisant un emplacement de force de niveau supérieur. Un tel pouvoir peut vous cibler, mais il n’a aucun effet sur vous. De même, la zone à l'intérieur de la barrière est exclue des zones affectées par de tels pouvoirs.</p> <p><strong><em>Force Potency.</em></strong> Lorsque vous lancez ce pouvoir en utilisant un emplacement de force de niveau 5 ou supérieur, la barrière bloque les pouvoirs d'un niveau supérieur pour chaque niveau d'emplacement au-dessus du 4ème.</p>"
+    },
+    "Hex": {
+      "name": "Hex",
+      "description": "<p>You curse an opponent within range. Until the power ends, you deal an extra [[/r 1d6]] necrotic dégâts to la cible whenever you hit it with an attack. Also, choose one ability when you cast the power. La cible has disavantage on test de caractéristiques made with the chosen ability.</p>\n<p>If la cible drops to 0 points de vie before this power ends, you can use a action bonus on a subsequent turn of yours to curse a new creature.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of 3rd or niveau 4, you can maintain your concentration on the power for up to 8 hours. When you use a force slot of niveau 5 or higher, you can maintain your concentration on the power for up to 24 hours.</p>"
+    },
+    "Precognition": {
+      "name": "Precognition",
+      "description": "<p><em><strong>Prerequisite</strong>: Danger Sense</em></p>\n<p>Your mastery of the Force gives you a limited ability to see into the immediate future. For the duration, you can't be surprised and you have avantage on attack rolls, test de caractéristiques, and jet de sauvegardes. De plus, other creatures have disavantage on attack rolls against you for the duration.</p>"
+    },
+    "Sever Force": {
+      "name": "Sever Force",
+      "description": "<p>You attempt to interrupt a creature in the process of casting a pouvoir de la Force. If la créature is casting a power of niveau 3 or lower, its power fails and has no effect. If it is casting a power of niveau 4 or higher, make an test de caractéristique using your forcecasting ability. The DD equals 10 + the power's niveau. On a success, la créature's power fails and has no effect.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the interrupted power has no effect if its niveau is less than or equal to the niveau of the force slot you used.</p>"
+    },
+    "Drain Life": {
+      "name": "Drain Life",
+      "description": "<p><em><strong>Prerequisite</strong>: Drain Vitality</em></p>\n<p>You draw the life force from a creature you can see within range. La cible must make a Constitution jet de sauvegarde. La cible takes [[/r 8d8]] necrotic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. If you reduce a hostile creature to 0, you gain points de vie temporaires equal to half the dégâts dealt. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 4th.</p>"
+    },
+    "Spirit Blade": {
+      "name": "Spirit Blade",
+      "description": "<p>You conjure a blade of spirit energy and attempt to strike une créature. Make a melee force attack against la cible. If the attack hits, la créature takes [[/r 1d10]] necrotic dégâts.</p>\n<p>This power can make multiple attacks at higher niveaus: two attacks at niveau 5, three attacks at niveau 11, and four attacks at niveau 17. Each attack can target the same creature or different ones. Make a separate attack roll for each target.</p>"
+    },
+    "Stasis": {
+      "name": "Stasis",
+      "description": "<p><em><strong>Prerequisite</strong>: Stun</em></p>\n<p>Choose a creature that you can see within range. La cible must succeed on a Wisdom jet de sauvegarde or be paralysé for the duration. At the end of each of its turns, la cible can make another Wisdom jet de sauvegarde. On a success, the power ends on la cible. This power has no effect on droids or constructs. </p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, you can target an additional creature for each slot niveau above 5th. The creatures must be within 30 mètres of each other when you target them.</p>"
+    },
+    "Master Force Immunity": {
+      "name": "Master Force Immunity",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Force Immunity</em></p>\n<p>A 10-foot-radius faintly shimmering barrier surrounds you. Within the sphere, powers can't be cast and enhanced items become mundane. Until the power ends, the sphere moves with you, centered on you.</p>\n<p>Powers and other enhanced effects are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed power is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.</p>\n<p><strong><em>Targeted Effects.</em></strong> Powers and other enhanced effects cette cible a creature or an object in the sphere have no effect on cette cible.</p>\n<p><strong><em>Enhanced Areas.</em></strong> The area of another power or enhanced effect, such as <em>force storm</em>, can't extend into the sphere. If the sphere overlaps an enhanced area, the part of the area that is covered by the sphere is suppressed.</p>\n<p><strong><em>Powers.</em></strong> Any active power or other enhanced effect on a creature or an object in the sphere is suppressed while la créature or object is in it.</p>\n<p><strong><em>Enhanced Items.</em></strong> The properties and powers of enhanced items are suppressed in the sphere. For example, a +1 vibrosword in the sphere functions as an unenhanced vibrosword.</p>\n<p>An enhanced weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If an enhanced weapon or a piece of enhanced ammunition fully leaves the sphere (for example, if you fire an enhanced shot or throw an enhanced saberspear at a target outside the sphere), the enhancement of the item ceases to be suppressed as soon as it exits.</p>\n<p><strong><em>Enhanced Travel.</em></strong> Teleportation fails to work in the sphere, whether the sphere is the destination or the departure point for such enhanced travel. A portal to another location temporarily closes while in the sphere.</p>\n<p><strong><em>Creatures and Objects.</em></strong> A creature or object summoned or created by powers temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space la créature occupied is no longer within the sphere.</p>\n<p><strong><em>Tech Override/Sever Force.</em></strong> Powers and enhanced effects such as <em>sever force</em> have no effect on the sphere. Likewise, the spheres created by different scrambling field powers don't nullify each other.</p>"
+    },
+    "Sense Emotion": {
+      "name": "Sense Emotion",
+      "description": "<p>You attune your senses to pick up the emotions of others for the duration. When you cast the power, and as your action on each turn until the power ends, you can focus your senses on one humanoid you can see within 30 mètres of you. You instantly learn la cible's prevailing emotion, whether it's love, anger, pain, fear, calm, or something else, and you have avantage on Wisdom (Insight) checks against la cible. If la cible isn't actually humanoid or it is immune to being charmé, you sense that it is calm.</p>"
+    },
+    "Battle Precognition": {
+      "name": "Battle Precognition",
+      "description": "<p>Votre harmonisation avec la Force vous avertit lorsque vous êtes sur le point d'entrer en danger. Jusqu'à la fin du pouvoir, votre CA de base devient 13 + votre modificateur de Dextérité. Ce pouvoir n'a aucun effet si vous portez une armure.</p>"
+    },
+    "Improved Revitalize": {
+      "name": "Improved Revitalize",
+      "description": "<p><em><strong>Prerequisite</strong>: Revitalize</em></p>\n<p>You return a dead creature you contact to life, provided that it has been dead no longer than 1 hour. If la créature's soul is both willing and at liberty to rejoin the body, la créature returns to life with all its points de vie. This power has no effect on droids or constructs.\t</p>\n<p>This power also neutralizes any poisons and cures diseases that affected la créature at the time it died. </p>\n<p>This power closes all mortal wounds and restores any missing body parts.\t</p>\n<p>Coming back from the dead is an ordeal. La cible takes a -4 penalty to all attack rolls, jet de sauvegardes, and test de caractéristiques. Every time la cible finishes a repos long, the penalty is reduced by 1 until it disappears.</p>"
+    },
+    "True Sight": {
+      "name": "True Sight",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Sight</em></p>\n<p>You shift your vision to see through use of the Force, </p>\n<p>giving you the ability to see things as they actually are. For the duration, you have truesight and notice secret doors hidden by powers, all out to a range of 120 mètres.</p>"
+    },
+    "Share Life": {
+      "name": "Share Life",
+      "description": "<p><em><strong>Prerequisite</strong>: Give Life</em></p>\n<p>You sacrifice some of your health to mend another creature's injuries. You take [[/r 4d8]] necrotic dégâts, and une créature de votre choix that you can see within range regains a number of points de vie equal to twice the necrotic dégâts you take. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 3rd.</p>"
+    },
+    "Battle Meditation": {
+      "name": "Battle Meditation",
+      "description": "<p>You exude an aura out to 5 mètres that boosts the morale and overall battle prowess of you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. </p>\n<p>Whenever you or a friendly creature within your meditation makes an attack roll or a jet de sauvegarde, they can roll a [[/r d4]] and add the number rolled to the attack roll or jet de sauvegarde. </p>\n<p>Whenever a hostile creature enters your meditation or starts its turn there, it must make a Charisma jet de sauvegarde. On a failed sauvegarde, it must roll a [[/r d4]] and subtract the number rolled from each attack roll or jet de sauvegarde it makes before the end of your next turn. On a successful sauvegarde, it is immune to this power for 1 day.</p>"
+    },
+    "Sonic Charge": {
+      "name": "Sonic Charge",
+      "description": "<p>As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and you begin to emanate a disturbing hum jusqu'au début de votre prochain tour. If a hostile creature ends its turn within 5 mètres of you, it takes [[/r 1d4]] sonic dégâts.</p>\n<p>This power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d8]] sonic dégâts to la cible, and the secondary dégâts increases by [[/r 1d4]]. Both jet de dégâtss increase by [[/r 1d8]] and [[/r 1d4]], respectively, at niveau 11 and niveau 17.</p>"
+    },
+    "Force Lightning": {
+      "name": "Force Lightning",
+      "description": "<p><em><strong>Prerequisite</strong>: Shock</em></p>\n<p>A stroke of lightning forming a line 100 mètres long and 5 mètres wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity jet de sauvegarde. A creature takes [[/r 8d6]] lightning dégâts on a failed sauvegarde, or half as much dégâts on a successful one. </p>\n<p>The lightning ignites flammable objects in the area that aren't being worn or carried.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 3rd.</p>"
+    },
+    "Insanity": {
+      "name": "Insanity",
+      "description": "<p><em><strong>Prerequisite</strong>: Horror</em></p>\n<p>This power assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 30-foot-radius sphere centered on you must succeed on a Wisdom jet de sauvegarde when you cast this power or be affected by it.</p>\n<p>An affected target can't take réactions and must roll a [[/r d8]] at the start of each of its turns to determine its behavior for that turn. This power has no effect on constructs or droids.</p>\n<p>|[[/r d8]]|Behavior|</p>\n<p>|:--:|:--|</p>\n<p>|1| The creature uses all its movement to move in a random direction. To determine the direction, roll a [[/r d8]] and assign a direction to each die face. The creature doesn't take an action this turn.|</p>\n<p>|2-6| The creature doesn't move or take actions this turn.|</p>\n<p>|7-8|The creature uses its action to make a attaque au corps à corps against a randomly determined creature within its reach. If there is no creature within its reach, la créature does nothing this turn.|</p>\n<p>At the end of each of its turns, an affected target can make a Wisdom jet de sauvegarde. If it succeeds, this effect ends for cette cible.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a power slot of niveau 6 or higher, the radius of the sphere increases by 5 mètres for each force slot niveau above 5th.</p>"
+    },
+    "Phasewalk": {
+      "name": "Phasewalk",
+      "description": "<p>You teleport up to 30 mètres to an unoccupied space that you can see.</p>"
+    },
+    "Saber Assault": {
+      "name": "Saber Assault",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Ward</em></p>\n<p>The first time you take the Attack action during your turn, you can simultaneously cast this power to blend your attaque d'arme au corps à corpss with the use of the Force. For each successful hit you make with a melee weapon before the power ends, la cible must make a Dexterity jet de sauvegarde or have a new effect apply until the end of its next turn. Once you've made three attaque d'armes, the power ends.</p>\n<ul>\n<li><strong>1st Hit:</strong> If la cible fails its jet de sauvegarde, it gains 1 slowed niveau until the end of its next turn.</li>\n<li><strong>2nd Hit:</strong> If la cible fails its jet de sauvegarde, it takes [[/r 1d6]] kinetic dégâts and cannot take réactions until after the end of its next turn.</li>\n<li><strong>3rd Hit:</strong> If la cible fails its jet de sauvegarde, it takes [[/r 2d6]] kinetic dégâts and cannot take action bonuss during its next turn.</li>\n</ul>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the dégâts of the second and third hit each increase by [[/r 1d6]] for every two slot niveaus above 1st.</p>"
+    },
+    "Hysteria": {
+      "name": "Hysteria",
+      "description": "<p><em><strong>Prerequisite</strong>: Hallucination</em></p>\n<p>You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to cette créature. La cible must succeed on a Wisdom jet de sauvegarde or become effrayé for the duration. At the end of each of la cible's turns before the power ends, la cible must succeed on a Wisdom jet de sauvegarde or take [[/r 4d10]] psychic dégâts. On a successful sauvegarde, the power ends. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a pouvoir de la Force slot of niveau 5 or higher, the dégâts increases by [[/r 1d10]] for each slot niveau above 4th.</p>"
+    },
+    "Improved Phasestrike": {
+      "name": "Improved Phasestrike",
+      "description": "<p><em><strong>Prerequisite</strong>: Phasestrike</em></p>\n<p>Choose up to five creatures you can see within range. Make a melee force attack against each one. On hit, a target takes [[/r 6d10]] force dégâts. You can then teleport to an unoccupied space you can see within 5 mètres of one of la créatures you chose.</p>"
+    },
+    "Master Malacia": {
+      "name": "Master Malacia",
+      "description": "<p><em><strong>Prerequisite</strong>: Mass Malacia</em></p>\n<p>Choose une créature that you can see within range. The creature reels with extreme dizziness and nausea for the duration. Creatures that can't be charmé are immune to this power.</p>\n<p>The affected creature must use all of its movement to writhe in discomfort without leaving its space and has disavantage on Dexterity jet de sauvegardes and attack rolls. While la cible is affected by this power, other creatures have avantage on attack rolls against it. As an action, an affected creature makes a Wisdom jet de sauvegarde to regain control of itpersonnelle. On a successful sauvegarde, the power ends. This power has no effect on droids or constructs.</p>"
+    },
+    "Locate Object": {
+      "name": "Locate Object",
+      "description": "<p>Describe or name an object. You sense the direction to the object's location, as long as its within 1000 mètres of you. If the object is in motion, you know the direction of its movement. The power can locate a specific object known to you, as long as you have seen it while within 30 mètres of it. Alternatively, the power can locate the nearest object of a particular kind. This power can't locate an object if any thickness of lead blocks a direct path between you and the object.</p>"
+    },
+    "Convulsion": {
+      "name": "Convulsion",
+      "description": "<p><em><strong>Prerequisite</strong>: Tremor</em></p>\n<p>Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity jet de sauvegarde. A creature takes [[/r 3d12]] kinetic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. De plus, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d12]] for each slot niveau above 3rd.</p>"
+    },
+    "Saber Reflect": {
+      "name": "Saber Reflect",
+      "description": "<p>In response to being attacked, you raise your weapon to attempt to deflect. When you use this power, the dégâts you take from the attack is reduced by [[/r 1d6]]. If you reduce the dégâts to 0, you're wielding a lightweapon or vibroweapon, and the dégâts is energy or ion, you can reflect the attack at a target within range as part of the same réaction. Make a ranged force attack at a target you can see. The attack has a normal range of 20 mètres and a long range of 60 mètres. En cas de contacter, la cible takes the triggering attack's normal dégâts. </p>\n<p>The power's dégâts reduction increases by [[/r 1d6]] when you reach niveau 5 ([[/r 2d6]]), niveau 11 ([[/r 3d6]]), and niveau 17 ([[/r 4d6]]).</p>"
+    },
+    "Sanctuary": {
+      "name": "Sanctuary",
+      "description": "<p>Until the power ends, any creature who targets the warded creature with an attack, a harmful power, or a hostile action must first make a Wisdom jet de sauvegarde. On a failed sauvegarde, la créature must choose a new target or lose the attack or power. This power doesn't protect the warded creature from area effects.</p>\n<p>If the warded creature makes an attack, casts a power that affects an enemy creature, or takes a hostile action this power ends.</p>"
+    },
+    "Death Field": {
+      "name": "Death Field",
+      "description": "<p><em><strong>Prerequisite</strong>: Siphon Life</em></p>\n<p>You draw the life force from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution jet de sauvegarde. A creature takes [[/r 10d8]] necrotic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. If you reduce a hostile creature to 0 points de vie, you gain points de vie temporaires equal to half the dégâts dealt. This power has no effect on droids or constructs.</p>"
+    },
+    "Affliction": {
+      "name": "Affliction",
+      "description": "<p><em><strong>Prerequisite</strong>: Slow</em></p>\n<p>Choose a creature that you can see within range. That creature must make a Constitution jet de sauvegarde. On a failed sauvegarde, la cible gains 1 slowed niveau, it takes a -2 penalty to AC and Dexterity jet de sauvegardes, and it can't use réactions. On its turn, it can use either an action or a action bonus, not both. Regardless of la créature's abilities or items, it can't make more than one melee or attaque à distance during its turn.</p>\n<p>If la créature attempts to cast a power with a casting time of 1 action, roll a [[/r d20]]. On an 11 or higher, the power doesn't take effect until la créature's next turn, and la créature must use its action on that turn to complete the power. If it can't, the power is wasted.\t</p>\n<p>The creatures makes another Constitution jet de sauvegarde at the end of its turn. On a successful sauvegarde, the effect ends.</p>"
+    },
+    "Sap Vitality": {
+      "name": "Sap Vitality",
+      "description": "<p>Make a melee force attack against a creature you can reach. En cas de contacter, la cible takes [[/r 3d10]] necrotic dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts increases by [[/r 1d10]] for each slot niveau above 1st.</p>"
+    },
+    "Breath Control": {
+      "name": "Breath Control",
+      "description": "<p>You are able to slow your metabolism in such a way that you can stop breathing and resist the effect of toxins in your body. If you are empoisonné, you neutralize the poison. If more than one poison afflicts you, you neutralize one poison that you know is present, or you neutralize one at random.</p>\n<p>For the duration, you have avantage on jet de sauvegardes against being empoisonné, resistance to poison dégâts, and you no longer need to breathe.</p>"
+    },
+    "Improved Force Scream": {
+      "name": "Improved Force Scream",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Scream</em></p>\n<p>You emit a violent scream imbued with the power of the Force. Each creature you choose within 30 mètres of you must succeed on a Constitution jet de sauvegarde. On a </p>\n<p>failed sauvegarde, a creature take [[/r 5d6]] psychic dégâts, [[/r 5d6]] sonic dégâts, is assourdi until the end of its next turn, and is knocked à terre. On a successful sauvegarde, it takes half as much dégâts and isn't assourdi or knocked à terre.</p>"
+    },
+    "Saber Onslaught": {
+      "name": "Saber Onslaught",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Strike</em></p>\n<p>You assume a battle stance. Until the end of your turn, your movement does not provoke attaque d'opportunités. De plus, whenever you move, you can make one attaque d'arme au corps à corps against chaque créature you move within 5 mètres of for the first time this turn. En cas de contacter, the attack deals an extra [[/r 1d6]] dégâts of the weapon's type, and la cible must make a Strength jet de sauvegarde. On a failed sauvegarde, vous pouvez choisir to either knock la cible à terre, or push it 5 mètres away from you.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the bonus weapon dégâts increases by [[/r 1d6]] for each slot niveau above 4th.</p>"
+    },
+    "Necrotic Charge": {
+      "name": "Necrotic Charge",
+      "description": "<p>As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and vous pouvez choisir to deal up to [[/r 1d8]] of necrotic dégâts, which you suffer as well. This dégâts can't be reduced or negated in any way. </p>\n<p>This power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d8]] necrotic dégâts to la cible, and you can increase the secondary dégâts to [[/r 2d8]]. Both jet de dégâtss increase by [[/r 1d8]] at niveau 11 and niveau 17.</p>"
+    },
+    "Dominate Beast": {
+      "name": "Dominate Beast",
+      "description": "<p>A beast you can see must succeed on a Wisdom sauvegarde or be charmé. If you or your companions are fighting it, it has avantage on this jet de sauvegarde.</p>\n<p>While it's charmé, you have a telepathic link to it if you're on the same planet. You can use this link to issue commands while you are conscious, no action required, which it does its best to obey. You can specify a simple and general course of action. If it completes the order and doesn't receive further orders, it focuses on defending itpersonnelle.</p>\n<p>Vous pouvez utiliser votre action pour take total control of la cible. Until the end of your next turn, the beast takes only the actions you decide and nothing you don't allow it to. You can also have the beast use a réaction, but this takes your réaction as well.</p>\n<p>If the beast takes dégâts, it makes another Wisdom sauvegarde. On a success, the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a 5th-niveau force slot, the duration is up to 10 minutes. At a 6th-niveau slot, the duration is up to 1 hour. At a slot of 7th or higher, the duration is up to 8 hours.</p>"
+    },
+    "Give Life": {
+      "name": "Give Life",
+      "description": "<p>Placing your hand on another creature you can transfer your own life force to them. You spend and roll one of your Hit Dice and la créature regains that many points de vie. This power has no effect on droids or constructs.</p>"
+    },
+    "Improved Heal": {
+      "name": "Improved Heal",
+      "description": "<p><em><strong>Prerequisite</strong>: Heal</em></p>\n<p>A wave of healing energy washes out from a point de votre choix within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains points de vie equal to [[/r 3d8]] + your forcecasting modificateur de caractéristique. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, the healing increases by [[/r 1d8]] for each slot niveau above 5th.</p>"
+    },
+    "Disable Droid": {
+      "name": "Disable Droid",
+      "description": "<p><em><strong>Prerequisite</strong>: Stun Droid</em></p>\n<p>Choose a point that you can see within range. Each droid or construct must succeed on a Constitution jet de sauvegarde or be paralysé for the duration. At the beginning of each of its turns, an affected creature takes energy dégâts equal to your forcecasting modificateur de caractéristique and then repeats this jet de sauvegarde. On a success, the power ends on la cible.</p>"
+    },
+    "Phasestrike": {
+      "name": "Phasestrike",
+      "description": "<p>Until the power ends, your movement doesn't provoke attaque d'opportunités.</p>\n<p>Once before the power ends, you can give yourpersonnelle avantage on one attaque d'arme roll on your turn. That attack deals an extra [[/r 1d8]] force dégâts on a hit. Whether you hit or miss, your walking speed increases by 30 mètres until the end of that turn.</p>"
+    },
+    "Control Pain": {
+      "name": "Control Pain",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Body</em></p>\n<p>You use the Force to push your body beyond its normal limits. You can't die from dégâts or from failed death jet de sauvegardes while this power is in effect, but the effort taxes you. If you have 0 points de vie while you are under the effect of this power, you do not fall inconscient, and continue acting and fighting normally. While you remain at 0 points de vie, you must make a death jet de sauvegarde at the start of each of your turns. Each time you fail a death jet de sauvegarde, you suffer a cumulative -1 penalty to attack rolls, test de caractéristiques, and jet de sauvegardes (including death jet de sauvegardes). This penalty lasts until you regain points de vie. Successful death jet de sauvegardes have no effect, but a natural 20 restores 1 point de vie as usual. </p>\n<p>If you have 0 points de vie when this power ends, you die instantly.</p>"
+    },
+    "Heal": {
+      "name": "Heal",
+      "description": "<p>A creature you contact regains a number of points de vie equal to [[/r 1d8]] + your forcecasting modificateur de caractéristique. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the healing increases by [[/r 1d8]] for each slot niveau above 1st.</p>"
+    },
+    "Wound": {
+      "name": "Wound",
+      "description": "<p>You make a piercing gesture at a creature within range. Make a ranged force attack against la cible. En cas de contacter, la cible takes [[/r 2d8]] necrotic dégâts and must make a Constitution jet de sauvegarde. On a failed sauvegarde, it is also empoisonné jusqu'à la fin de votre prochain tour.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 1st.</p>"
+    },
+    "Greater Kinetite": {
+      "name": "Greater Kinetite",
+      "description": "<p><em><strong>Prerequisite</strong>: Kinetite</em></p>\n<p>A 5-foot diameter sphere of compressed lightning appears in an unoccupied space de votre choix and lasts for the duration. Each creature within 5 mètres of the sphere when the power is cast must make a Dexterity jet de sauvegarde. A creature takes [[/r 5d8]] lightning dégâts on a failed sauvegarde, or half as much dégâts on a successful one. </p>\n<p>As a action bonus on each of your turns, you can move the ball of lightning up to 30 mètres vertically or horizontally. If you ram the sphere into a creature, cette créature must make a Dexterity jet de sauvegarde or take [[/r 5d8]] kinetic dégâts (or half as much dégâts on a success), and the sphere stops moving this turn. A creature takes half as dégâts on a successful Dexterity jet de sauvegarde.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power with a force slot of niveau 6 or higher, both the lightning and kinetic dégâts increase by [[/r 1d8]] for each slot niveau above 5th.</p>"
+    },
+    "Force Shunt": {
+      "name": "Force Shunt",
+      "description": "<p>You use the Force to thrust a creature you can see to the ground. La cible must make a Strength jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 1d4]] kinetic dégâts and falls à terre. </p>\n<p>This power's dégâts increases by [[/r 1d4]] when you reach niveau 5 ([[/r 2d4]]), niveau 11 ([[/r 3d4]]), and niveau 17 ([[/r 4d4]]).</p>"
+    },
+    "Burst": {
+      "name": "Burst",
+      "description": "<p>You cause the earth to burst from beneath your mètres. Each creature within range, other than you, must succeed on a Dexterity jet de sauvegarde or take [[/r 1d8]] kinetic dégâts.</p>\n<p>This power's dégâts increases by [[/r 1d8]] when you reach niveau 5 ([[/r 2d8]]), niveau 11 ([[/r 3d8]]), and niveau 17 ([[/r 4d8]]).</p>"
+    },
+    "Saber Throw": {
+      "name": "Lancer de sabre",
+      "description": "<p>As a part of the action used to cast this power, you must make a ranged force attack with a lightweapon or vibroweapon against une cible within the power's range, otherwise the power fails. En cas de contacter, la cible takes [[/r 1d8]] dégâts of the same type as the weapon's dégâts. The weapon then immediately returns to your hand.</p>\n<p>This power can hit multiple targets when you reach higher niveaus: two targets at niveau 5, three targets at niveau 11, and four targets at niveau 17. Each target must be within 30 mètres of the previous target, you must make a separate attack roll for each target, and the last target must be no further than 30 mètres away from you. You can not hit the same target twice in succession.</p>"
+    },
+    "Psychometry": {
+      "name": "Psychometry",
+      "description": "<p><em><strong>Prérequis</strong> : Télémétrie</em></p> <p>Pour la durée, vous gagnez la capacité de « communiquer » par télépathie avec les objets inanimés que vous contactez. Vous pouvez poser jusqu'à cinq questions et recevoir des réponses d'objets, généralement sous la forme d'une hallucination auditive ou visuelle. Par exemple, contacter les restes rouillés et brisés d'un sabre laser et demander comment il est arrivé là peut entraîner une brève vision d'un chevalier Jedi mécontent le jetant au sol à cet endroit. Un objet ainsi « interrogé » ne peut fournir que des informations relatives à son passé. Le DM a le dernier mot sur les objets qui peuvent être interrogés et dans quelle mesure.</p>"
+    },
+    "Master Feedback": {
+      "name": "Master Feedback",
+      "description": "<p><em><strong>Prerequisite</strong>: Greater Feedback</em></p>\n<p>You unleash the power of your mind to blast the intellect of up to ten creatures de votre choix that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected.</p>\n<p>Each target must make an Intelligence jet de sauvegarde. On a failed sauvegarde, a target takes [[/r 14d6]] psychic dégâts and is étourdi. On a successful sauvegarde, a target takes half as much dégâts and isn't étourdi. </p>\n<p>A étourdi target can make a Wisdom jet de sauvegarde at the end of each of its turns. On a successful sauvegarde, the stunning effect ends.</p>"
+    },
+    "Shroud of Darkness": {
+      "name": "Shroud of Darkness",
+      "description": "<p><em><strong>Prerequisite</strong>: Darkness</em></p>\n<p>You become heavily obscured to others. Dim light within 10 mètres of you becomes darkness, and bright light becomes dim light.</p>\n<p>Until the power ends, you have resistance to force dégâts. De plus, whenever a creature within 10 mètres of you hits you with an attack, it takes [[/r 2d8]] necrotic dégâts.</p>"
+    },
+    "Crush": {
+      "name": "Crush",
+      "description": "<p><em><strong>Prerequisite</strong>: Choke</em></p>\n<p>You make a crushing gesture at a creature within range. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde target takes [[/r 10d8]] force dégâts and is paralysé jusqu'à la fin de votre prochain tour. On a successful sauvegarde, la cible takes half as much dégâts and is not paralysé.</p>\n<p>You can use a action bonus while la cible is paralysé to move la cible up to 10 mètres in any direction.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 6th.</p>"
+    },
+    "Beacon of Hope": {
+      "name": "Beacon of Hope",
+      "description": "<p><em><strong>Prérequis</strong> : Héroïsme</em></p> <p>Ce pouvoir confère espoir et vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant toute la durée, chaque cible a un avantage sur les jets de sauvegarde de Sagesse et les jets de sauvegarde de mort, et récupère le nombre maximum de points de vie possible grâce à n'importe quel soin.</p>"
+    },
+    "Mass Malacia": {
+      "name": "Mass Malacia",
+      "description": "<p><em><strong>Prerequisite</strong>: Malacia</em></p>\n<p>Each creature in a 30-foot cube within range must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la créature becomes charmé for the duration. While charmé by this power, la créature is incapacitated and has a speed of 0.</p>\n<p>The power ends for an affected creature if it takes any dégâts or if someone else uses an action to shake la créature out of its stupor. This power has no effect on droids or constructs.</p>"
+    },
+    "Force Body": {
+      "name": "Force Body",
+      "description": "<p>Ce pouvoir vous permet d'utiliser votre santé pour alimenter votre pouvoir de la Forces. Pendant la durée, lorsque vous lancez un pouvoir de la Force, vous pouvez choisir de payer jusqu'à la moitié du coût du pouvoir de la Force en utilisant vos points de vie au lieu de vos points de Forces. Lorsque vous le faites, votre maximum de points de vie est réduit du même montant jusqu'à ce que vous complétiez un repos long.</p> <p>Vous pouvez mettre fin à cet effet à tout moment. Si vous lancez un pouvoir de la Force qui réduirait vos points de vie à 0, le pouvoir échoue automatiquement et cet effet prend fin.</p>"
+    },
+    "Mind Blank": {
+      "name": "Mind Blank",
+      "description": "<p><em><strong>Prerequisite</strong>: Mind Trap</em></p>\n<p>Until the power ends, one willing creature you contact is immune to psychic and sonic dégâts, any effect that would sense its emotions or read its thoughts, and the charmé condition. The power foils powers or effects of similar power used to affect la cible's mind or to gain information about la cible.</p>"
+    },
+    "Greater Feedback": {
+      "name": "Greater Feedback",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Feedback</em></p>\n<p>You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence jet de sauvegarde. A creature with an Intelligence score of 2 or lower can't be affected by this power. A target takes [[/r 8d6]] psychic dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p>\n<p>After a failed sauvegarde, a target has muddled thoughts pendant 1 minute. During that time, it rolls a [[/r d6]] and subtracts the number rolled from all its attack rolls and test de caractéristiques, as well as its Constitution jet de sauvegardes to maintain concentration. La cible can make an Intelligence jet de sauvegarde at the end of each of its turns, ending the effect on itpersonnelle on a success.</p>"
+    },
+    "Valor": {
+      "name": "Valor",
+      "description": "<p><em><strong>Prérequis</strong> : Résistance</em></p> <p>Vous bénissez jusqu'à trois créatures de votre choix à portée. Chaque fois qu'une cible effectue un jet d'attaque ou un jet de sauvegarde avant la fin du pouvoir, la cible peut lancer un [[/r d4]] et ajouter le nombre obtenu au jet d'attaque ou au jet de sauvegarde.</p> <p><strong><em>Potence de force.</em></strong> Lorsque vous lancez ce pouvoir avec un emplacement de force de niveau 3 ou supérieur, vous peut cibler une créature supplémentaire tous les deux niveaux d'emplacement au-dessus du 1er. Lorsque vous lancez ce pouvoir au niveau 3, 6 ou 9, le dé passe respectivement à [[/r d6]], [[/r d8]] et [[/r d10]].</p>"
+    },
+    "Improved Restoration": {
+      "name": "Improved Restoration",
+      "description": "<p><em><strong>Prerequisite</strong>: Restoration</em></p>\n<p>You imbue a creature you contact with positive energy to undo a debilitating effect. Vous pouvez réduire la cible's épuisement niveau by one, or end one of the following effects on la cible:</p>\n<ul>\n<li>One effect that charmé la cible.</li>\n<li>One curse, including la cible's attunement to a cursed item.</li>\n<li>Any reduction to one of la cible's score de caractéristiques.</li>\n<li>One effect reducing la cible's point de vie maximum.</li></ul>"
+    },
+    "Turbulence": {
+      "name": "Turbulence",
+      "description": "<p>Choose une créature, or choose two creatures that are within 5 mètres of each other, within range. A target must succeed on a Dexterity jet de sauvegarde or take [[/r 1d6]] force dégâts.</p>\n<p>This power's dégâts increases by [[/r 1d6]] when you reach 5th, 11th, and niveau 17.</p>"
+    },
+    "Morichro": {
+      "name": "Morichro",
+      "description": "<p><em><strong>Prerequisite</strong>: Cloud Mind</em></p>\n<p>You contact a willing creature and put it into a cataleptic state that is indistinguishable from death. </p>\n<p>For the power's duration, or until you use an action to contact la cible and dismiss the power, la cible appears dead to all outward inspection and to powers used to determine la cible's status. La cible is aveuglé and incapacitated, and its speed drops to 0. La cible has resistance to all dégâts except psychic dégâts. If la cible is diseased or empoisonné when you cast the power, or becomes diseased or empoisonné while under the power's effect, the disease and poison have no effect until the power ends. This power has no effect on droids or constructs.</p>"
+    },
+    "Coerce Mind": {
+      "name": "Coerce Mind",
+      "description": "<p><em><strong>Prerequisite</strong>: Affect Mind</em></p>\n<p>You suggest a course of activity (limited to a sentence or two) and influence with the Force a creature you can see within range that can hear and understand you.  Creatures that can't be charmé are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking la créature to harm itpersonnelle automatically negates the effect of the power.</p>\n<p>La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the power ends when the subject finishes what it was asked to do.</p>\n<p>You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a soldier give her speeder to the first vagrant she meets. If the condition isn't met before the power expires, the activity isn't performed.</p>\n<p>If you or any of your companions dégâts la cible, the power ends. This power has no effect on droids or constructs.</p>"
+    },
+    "Force Jump": {
+      "name": "Force Jump",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Leap</em></p>\n<p>Using the Force to augment the strength in your legs, you leap up to 30 mètres to an unoccupied space you can see, provided you have a direct path to the space.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, your jump distance increases by 5 mètres for each slot niveau above 1st.</p>"
+    },
+    "Locate Creature": {
+      "name": "Localiser la créature",
+      "description": "<p><em><strong>Prerequisite</strong>: Locate Object</em></p>\n<p>Describe or name a creature familiar to you. You sense the direction to la créature's location, as long as its within 1000 mètres of you. If la créature is in motion, you know the direction of its movement. The power can locate a specific creature known to you or the nearest of a specific kind, as long as you have seen it while within 30 mètres of it. If la créature is in a different form, the power doesn't work. This power can't locate a creature if running water at least 10 mètres wide blocks a direct path between you and la créature.</p>"
+    },
+    "Dominate Monster": {
+      "name": "Dominate Monster",
+      "description": "<p><em><strong>Prerequisite</strong>: Dominate Mind</em></p>\n<p>You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom jet de sauvegarde or be charmé by you for the duration. If you or creatures that are friendly to you are fighting it, it has avantage on the jet de sauvegarde.</p>\n<p>While la créature is charmé, you have a telepathic link with it as long as you are within 1 mile of it. You can use this telepathic link to issue commands to la créature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as \"Attack cette créature,\" \"Run over there,\" or \"Fetch that object.\" If la créature completes the order and doesn't receive further direction from you, it defends and preserves itpersonnelle to the best of its ability.</p>\n<p>Vous pouvez utiliser votre action pour take total and precise control of la cible. Until the end of your next turn, la créature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause la créature to use a réaction, but this requires you to use your own réaction as well.</p>\n<p>Each time la cible takes dégâts, it makes a new Wisdom jet de sauvegarde against the power. If the jet de sauvegarde succeeds, the power ends. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power with a 9th-niveau force slot, the duration is concentration, up to 8 hours.</p>"
+    },
+    "Greater Saber Throw": {
+      "name": "Lancer de sabre supérieur",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Saber Throw</em></p>\n<p>As a part of the action used to cast this power, you must make a ranged force attack with a lightweapon or vibroweapon against une cible within the power's range, otherwise the power fails. En cas de contacter, la cible takes [[/r 6d8]] dégâts of the same type as the weapon's dégâts and must make a Constitution jet de sauvegarde against an additional effect depending on your choice of casting ability:</p>\n<p><strong><em>Wisdom.</em></strong> La cible takes an additional [[/r 4d6]] force dégâts and it gains four niveaus of slowed until the end of its next turn. On a success, la cible takes half as much dégâts and its speed isn't reduced.</p>\n<p><strong><em>Charisma.</em></strong> La cible takes an additional [[/r 4d6]] necrotic dégâts and cannot regain points de vie until the end of its next turn. On a success, la cible takes half as much dégâts and its healing capability is unaffected.</p>\n<p>The weapon then immediately returns to your hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, the force or necrotic dégâts increases by [[/r 1d6]] for each slot above 5th.</p>"
+    },
+    "Revitalize": {
+      "name": "Revitalize",
+      "description": "<p><em><strong>Prerequisite</strong>: Spare the Dying</em></p>\n<p>You return a dead creature you contact to life, provided that it has been dead no longer than 10 minutes. If la créature's soul is both willing and at liberty to rejoin the body, la créature returns to life with 1 point de vie. This power has no effect on droids or constructs.</p>\n<p>This power also neutralizes any poisons and cures diseases that affected la créature at the time it died. </p>\n<p>This power closes all mortal wounds, but it doesn't restore missing body parts. If la créature is lacking body parts or organs integral for its survival—its head, for instance—the power automatically fails.</p>\n<p>Coming back from the dead is an ordeal. La cible takes a -4 penalty to all attack rolls, jet de sauvegardes, and test de caractéristiques. Every time la cible finishes a repos long, the penalty is reduced by 1 until it disappears. </p>"
+    },
+    "Ruin": {
+      "name": "Ruin",
+      "description": "<p><em><strong>Prerequisite</strong>: Wound</em></p>\n<p>You channel the dark side of the Force to desecrate a creature you can see within range, causing waves of intense pain to assail it. If la cible has 100 points de vie or fewer, it is subject to crippling pain. Otherwise, the power has no effect on it. </p>\n<p>While la cible is affected by crippling pain, any speed it has can be no higher than 10 mètres. La cible also has disavantage on attack rolls, test de caractéristiques, and jet de sauvegardes, other than Constitution jet de sauvegardes. Finally, if la cible tries to cast a power, it must first succeed on a Constitution jet de sauvegarde, or the casting fails and the power is wasted.</p>\n<p>A target suffering this pain can make a Constitution jet de sauvegarde at the end of each of its turns. On a successful sauvegarde, the pain ends.</p>"
+    },
+    "Darkness": {
+      "name": "Darkness",
+      "description": "<p>L'obscurité se propage à partir d'un point que vous choisissez à portée pour remplir une sphère de 15 pieds de rayon jusqu'à la fin du pouvoir. L’obscurité s’étend dans les coins. Une créature dotée de la vision dans le noir ne peut pas voir à travers ces ténèbres, et une lumière non améliorée ne peut pas l'éclairer.</p> <p>Si le point que vous choisissez se trouve sur un objet que vous tenez ou sur un objet qui n'est pas porté ou transporté, l'obscurité vient de l'objet et se déplace avec lui. Couvrir complètement la source de l'obscurité avec un objet opaque bloque l'obscurité.</p> <p>Si la zone de ce pouvoir chevauche la lumière créée par un pouvoir de 2e niveau ou inférieur, la lumière est dissipée.</p>"
+    },
+    "Improved Phasewalk": {
+      "name": "Improved Phasewalk",
+      "description": "<p><em><strong>Prerequisite</strong>: Phasewalk</em></p>\n<p>You teleport up to 60 mètres to an unoccupied space you can see. On each of your turns before the power ends, you can use a action bonus to teleport in this way again.</p>"
+    },
+    "Force Reflect": {
+      "name": "Force Reflect",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Reflect</em></p>\n<p>In response to being attacked, you attempt to deflect the attack with the Force. When you use this power, the dégâts you take from the attack is reduced by [[/r 1d10]]. If you reduce the dégâts to 0 and the dégâts is energy, force, ion, kinetic, lightning, necrotic, or sonic, you can reflect the attack at a target within range as part of the same réaction. Make a ranged force attack at a target you can see. The attack has a normal range of 30 mètres and a long range of 90 mètres. En cas de contacter, la cible takes the triggering attack's normal dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts reduction increases by [[/r 1d10]] for each slot niveau above 1st.</p>"
+    },
+    "Seethe": {
+      "name": "Seethe",
+      "description": "<p>Vous bouillonnez de colère, laissant le côté obscur de la Force vous traverser et vous donner du pouvoir. Dans le cadre de l'action de lancement de ce pouvoir, vous dépensez un de vos Dés de Vie pour récupérer des points de vie.</p>"
+    },
+    "Siphon Life": {
+      "name": "Siphon Life",
+      "description": "<p><em><strong>Prerequisite</strong>: Drain Life</em></p>\n<p>A tendril of inky darkness reaches out from you, contacting a creature you can see within range to drain life from it. La cible must make a Dexterity jet de sauvegarde. On a successful sauvegarde, la cible takes [[/r 2d8]] necrotic dégâts, and the power ends. On a failed sauvegarde, la cible takes [[/r 4d8]] necrotic dégâts, and until the power ends, you can use your action on each of your turns to automatically deal [[/r 4d8]] necrotic dégâts to la cible. The power ends if you use your action to do anything else, if la cible is ever outside the power's range, or if la cible has total cover from you.</p>\n<p>Whenever the power deals dégâts to a target, you regain points de vie equal to half the amount of necrotic dégâts la cible takes.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 5th.</p>"
+    },
+    "Shocking Shield": {
+      "name": "Shocking Shield",
+      "description": "<p><em><strong>Prerequisite</strong>: Shock</em></p>\n<p>Lightning courses in a sphere surrounding your body, shedding bright light in a rayon de 3 mètres and dim light for an additional 10 mètres. Vous pouvez utiliser votre action pour end the power early.</p>\n<p>Whenever a creature within 5 mètres of you hits you with a attaque au corps à corps, it takes [[/r 2d8]] lightning dégâts.</p>"
+    },
+    "Burst of Speed": {
+      "name": "Burst of Speed",
+      "description": "<p>You contact a creature. La cible's speed increases by 10 mètres until the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, you can target one additional creature for each slot niveau above 1st.</p>"
+    },
+    "Force Throw": {
+      "name": "Lancer de force",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Push/Pull</em></p>\n<p>You use the Force to move a Large or smaller creature or object not being worn or carried within </p>\n<p>range. La cible must make a Strength jet de sauvegarde. An object automatically fails this jet de sauvegarde. On a failed sauvegarde, la créature or object moves a number of mètres in a direction de votre choix based on its size. A Tiny creature or object can be moved up to 90 mètres, a Small creature or object can be moved up to 60 mètres, a Medium creature or object can be moved up to 30 mètres, and a Large creature or object can be moved up to 10 mètres. If at the end of this movement la créature or object strikes another creature or object, they both take [[/r 2d8]] force dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the range you can throw a creature or object increases by 10 mètres, to a maximum of 90 mètres, and the power's dégâts increases by [[/r 1d8]].</p>"
+    },
+    "Force Storm": {
+      "name": "Force Storm",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Lightning Cone</em></p>\n<p>A crackling storm of lightning with a diameter of 60 mètres and a height of 120 mètres appears in a location you choose within range. Whenever a creature enters the storm or starts its turn there, it must make a Dexterity jet de sauvegarde. On a failed sauvegarde, it takes [[/r 30d6]] lightning dégâts or half as much as a successful one.</p>\n<p>The power dégâtss objects in the area and ignites flammable objects that aren't being worn or carried.</p>"
+    },
+    "Force Focus": {
+      "name": "Force Focus",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Technique</em></p>\n<p>You let the Force guide you, empowering your strikes. Until the power ends, your attaque d'armes deal an extra [[/r 1d4]] force dégâts on a hit.</p>"
+    },
+    "Master Pyrokinesis": {
+      "name": "Master Pyrokinesis",
+      "description": "<p><em><strong>Prerequisite</strong>: Greater Pyrokinesis</em></p>\n<p>A storm made up of sheets of roaring, Force-enhanced flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity jet de sauvegarde. It takes [[/r 7d10]] energy dégâts on a failed sauvegarde, or half as much dégâts on a successful one. A creature in the area of more than one cube is affected only once.</p>\n<p>The flame dégâtss objects in the area and ignites flammable objects that aren't being worn or carried.</p>"
+    },
+    "Improved Pyrokinesis": {
+      "name": "Improved Pyrokinesis",
+      "description": "<p><em><strong>Prerequisite</strong>: Pyrokinesis</em></p>\n<p>A line of roaring Force-enhanced flame 30 mètres long and 5 mètres wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity jet de sauvegarde. A creature takes [[/r 3d8]] energy dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 2nd.</p>"
+    },
+    "Force Current": {
+      "name": "Force Current",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Push/Pull</em></p>\n<p>When you cast this power, you raise your hand and unleash a burst of Force energy. Each creature in a cône de 4,5 mètres must make a Strength jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 3d6]] force dégâts and, if it is Large or smaller, is also pushed back 5 mètres. On a successful sauvegarde, a creature takes half as much dégâts and isn't pushed. All Medium or smaller objects that are not worn or carried within the area of effect are also pushed 5 mètres.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 1st. For each slot 2 niveaus higher than 1st, you can add an additional 5 mètres to the push.</p>"
+    },
+    "Danger Sense": {
+      "name": "Danger Sense",
+      "description": "<p>Vous faites confiance à la Force, vous anticipez l'avenir et voyez si vos actions mèneront à la fortune ou à la ruine. Le MJ choisit parmi les présages possibles suivants :</p> <ul> <li><strong>Paix</strong>, pour des résultats qui ne sont pas dangereux</li> <li><strong>Danger</strong>, pour des résultats qui sont dangereux mais qui en valent peut-être la peine. danger</li> <li><strong>Ruine</strong>, pour des résultats qui se termineront certainement par la mort ou la tragédie</li> </ul> <p>Le pouvoir ne prend pas en compte les circonstances possibles qui pourraient changer le résultat, comme l'utilisation de pouvoirs supplémentaires ou la perte ou le gain d'un compagnon.</p> <p>Si vous utilisez ce pouvoir deux fois ou plus avant de terminer votre prochain repos long, il y a 25 % de chances cumulées pour chaque lancement après le premier que vous obteniez un résultat neutre, quel que soit le résultat réel.</p>"
+    },
+    "Dark Side Tendrils": {
+      "name": "Dark Side Tendrils",
+      "description": "<p>Tendrils of dark energy erupt from you and batter all creatures within 10 mètres of you. Each creature in that area must make a Strength jet de sauvegarde. On a failed sauvegarde, a target takes [[/r 2d6]] necrotic dégâts and can't take réactions until its next turn. On a successful sauvegarde, la créature takes half dégâts, but suffers no other effect.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a power slot of niveau 2 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 1st.</p>"
+    },
+    "Aura of Vigor": {
+      "name": "Aura of Vigor",
+      "description": "<p><em><strong>Prerequisite</strong>: Valor</em></p>\n<p>Envigorating energy radiates from you in a rayon de 9 mètres. Until the power ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) deals an extra [[/r 1d4]] dégâts with attaque d'armes.</p>"
+    },
+    "Remove Curse": {
+      "name": "Remove Curse",
+      "description": "<p>At your contact, all curses affecting une créature or object end. If the object is a cursed enhanced item, its curse remains, but the power breaks its owner's attunement to the object so it can be removed or discarded.</p>"
+    },
+    "Hallucination": {
+      "name": "Hallucination",
+      "description": "<p>You craft a dangerous illusion in the mind of a creature that you can see within range. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, you create a phantasmal object, creature, or other visible phenomenon de votre choix that is no larger than a 10-foot cube and that is perceivable only to la cible for the duration. This power has no effect on droids or constructs.</p>\n<p>The hallucination includes sound, temperature, and other stimuli, also evident only to la créature.</p>\n<p>La cible can use its action to examine the hallucination with an Intelligence (Investigation) check against your pouvoir de la Force sauvegarde DD. If the check succeeds, la cible realizes that the hallucination is an illusion, and the power ends.</p>\n<p>While a target is affected by the power, la cible treats the hallucination as if it were real. La cible rationalizes any illogical outcomes from interacting with the hallucination. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If la cible survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall - it was pushed, it slipped, or a strong wind might have knocked it off.</p>\n<p>An affected target is so convinced of the hallucination's reality that it can even take dégâts from the illusion. A hallucination created to appear as a creature can attack la cible. Similarly, a hallucination created to appear as fire, a pool of acid, or lava can burn la cible. Each round on your turn, the hallucination can deal [[/r 1d6]] psychic dégâts to la cible if it is in the hallucination's area or within 5 mètres of the hallucination, provided that the illusion is of a creature or hazard that could logically deal dégâts, such as by attacking. La cible perceives the dégâts as a type appropriate to the illusion.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a pouvoir de la Force slot of niveau 3 or higher, the range increases by 20 mètres, the image dimensions increase by 5 mètres, and you can target one additional creature for every two slot niveaus above 2nd.</p>"
+    },
+    "Saber Ward": {
+      "name": "Saber Ward",
+      "description": "<p>You take a defensive stance. Until the end of your next turn, you have resistance against kinetic, energy, and ion dégâts dealt by weapons.</p>"
+    },
+    "Greater Pyrokinesis": {
+      "name": "Greater Pyrokinesis",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Pyrokinesis</em></p>\n<p>You create a wall of Force-enhanced fire on a solid surface within range. Vous pouvez faire the wall up to 60 mètres long, 20 mètres high, and 1 foot thick, or a ringed wall up to 20 mètres in diameter, 20 mètres high, and 1 foot thick. The wall is opaque and lasts for the duration. </p>\n<p>When the wall appears, chaque créature within its area must make a Dexterity jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 5d8]] energy dégâts, or half as much dégâts on a successful sauvegarde. </p>\n<p>One side of the wall, selected by you when you cast this power, deals [[/r 5d8]] energy dégâts to chaque créature that ends its turn within 10 mètres of that side or inside the wall. A creature takes the same dégâts when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 4th.</p>"
+    },
+    "Saber Strike": {
+      "name": "Saber Strike",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Assault</em></p>\n<p>As part of the action used to cast the power, you can move up to your speed and make one attaque d'arme au corps à corps. En cas de contacter, the attack deals an extra [[/r 1d10]] dégâts of the weapon's type. De plus, if you hit with the attack, la cible must succeed on a Strength jet de sauvegarde or be knocked à terre.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the bonus weapon dégâts increases by [[/r 1d10]] for every two slot niveaus above 2nd.</p>"
+    },
+    "Force Project": {
+      "name": "Force Project",
+      "description": "<p>You create an illusory copy of yourpersonnelle that lasts for the duration. The copy can appear at any location that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any dégâts, it disappears, and the power ends. </p>\n<p>Vous pouvez utiliser votre action pour move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.</p>\n<p>You can see through its eyes and hear through its ears as if you were in its space. On your turn as a action bonus, you can switch from using its senses to using your own, or back again. While you are using its senses, you are aveuglé and assourdi in regard to your own surroundings.</p>\n<p>Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your force sauvegarde DD. If a creature discerns the illusion for what it is, la créature can see through the image, and any noise it makes sounds hollow to la créature.</p>"
+    },
+    "Skill Empowerment": {
+      "name": "Skill Empowerment",
+      "description": "<p>Your power with the Force deepens a creature's understanding of its own talent. You contact one willing creature and give it expertise in one skill de votre choix; until the power ends, la créature doubles its bonus de maîtrise for test de caractéristiques it makes that use the chosen skill.</p>\n<p>You must choose a skill in which la cible is proficient and that isn't already benefiting from an effect, such as Expertise, that doubles its bonus de maîtrise.</p>"
+    },
+    "Eruption": {
+      "name": "Eruption",
+      "description": "<p><em><strong>Prerequisite</strong>: Convulsion</em></p>\n<p>You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 mètres and a height of up to 30 mètres. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if cette créature is Medium or smaller. Each pillar has AC 5 and 30 points de vie. When reduced to 0 points de vie, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10 - foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.</p>\n<p>If a pillar is created under a creature, cette créature must succeed on a Dexterity jet de sauvegarde or be lifted by the pillar. A creature can choose to fail the sauvegarde. </p>\n<p>If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes [[/r 6d6]] kinetic dégâts and is entravé, pinched between the pillar and the obstacle. The entravé creature can use an action to make a Strength or test de Dextérité (la créature's choice) against the power's sauvegarde DD. On a success, la créature is no longer entravé and must either move off the pillar or fall off it.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, you can create two additional pillars for each slot niveau above 6th.</p>"
+    },
+    "Mind Trap": {
+      "name": "Mind Trap",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Confusion</em></p>\n<p>You attempt to trap the mind of your target in a psychic cage. La cible must make a Charisma jet de sauvegarde. On a failed sauvegarde, la créature is incapacitated for the duration as its mind is trapped. It can think, but it can't have any contact with or perceive the outside world. If la créature takes dégâts, it makes another Charisma sauvegarde. On a success, the power ends. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, after 1 minute of concentration the power's duration becomes 24 hours and it no longer requires your concentration.</p>"
+    },
+    "Force Breach": {
+      "name": "Force Breach",
+      "description": "<p>Choose a spot within range. All pouvoir de la Forces of niveau 5 or lower in the area end. For each pouvoir de la Force of niveau 6 or higher in the area, make an test de caractéristique using your forcecasting ability. The DD equals 10 + the power's niveau. On a successful check, the pouvoir de la Force ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, you automatically end the effects of a pouvoir de la Force on la cible if the power's niveau is equal to or less than the niveau of the force slot you used.</p>"
+    },
+    "Grasping Vine": {
+      "name": "Grasping Vine",
+      "description": "<p><em><strong>Prerequisite</strong>: Plant Surge</em></p>\n<p>You make a vine sprout from the ground in an unoccupied space you can see. When you cast this power, you can make the vine whip a creature up to 30 mètres from it, if you can see la cible. The creature must pass a Dexterity sauvegarde or be pulled 20 mètres directly toward the vine.</p>\n<p>Until the power ends, you can use your action bonus to have the vine lash out again.</p>"
+    },
+    "Improved Force Camouflage": {
+      "name": "Improved Force Camouflage",
+      "description": "<p><em><strong>Prérequis</strong> : Camouflage de Force</em></p> <p>A La créature volontaire que vous contactez devient invisible jusqu'à la fin du pouvoir. Tout ce que la cible porte ou transporte est invisible tant qu'il se trouve sur la personne de la cible. </p>"
+    },
+    "Shock": {
+      "name": "Shock",
+      "description": "<p>You hurl a bolt of lightning at a target within range, making a ranged force attack. En cas de contacter, la cible takes [[/r 1d10]] lightning dégâts. The lightning ignites flammable objects in the area that aren't being worn or carried.</p>\n<p>This power's dégâts increases by [[/r 1d10]] when you reach niveau 5 ([[/r 2d10]]), niveau 11 ([[/r 3d10]]), and niveau 17 ([[/r 4d10]]).</p>"
+    },
+    "Rescue": {
+      "name": "Rescue",
+      "description": "<p>You pull one willing ally you can see within 30 mètres of you to an unoccupied space within 5 mètres of you. La cible must use their réaction to accept the pull.</p>"
+    },
+    "Reveal Shatterpoint": {
+      "name": "Reveal Shatterpoint",
+      "description": "<p><em><strong>Prerequisite</strong>: Sense Shatterpoint</em></p>\n<p>You focus on a creature you can see within range, and gain uncanny insight on its defenses and capabilities through the Force. La cible must make a Charisma jet de sauvegarde. On a failed sauvegarde, you have avantage on attack rolls against cette créature, and it has disavantage on attack rolls against you for the duration. On a successful sauvegarde, you have avantage on the next attack roll you make against cette créature, and it has disavantage on its next attack roll against you. Once both attacks have been made, the power ends.</p>"
+    },
+    "Probe Mind": {
+      "name": "Probe Mind",
+      "description": "<p><em><strong>Prerequisite</strong>: Sense Emotion</em></p>\n<p>For the duration, you can read the thoughts of certain creatures. When you cast the power and as your action on each turn until the power ends, you can focus your mind on any une créature that you can see within 30 mètres of you. If la créature you choose has an Intelligence of 3 or lower or doesn't speak any language, la créature is unaffected. </p>\n<p>You initially learn the surface thoughts of la créature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, la cible must make a Wisdom jet de sauvegarde. If it fails, it takes [[/r 1d6]] psychic dégâts as you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the power ends. Either way, la cible knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, la créature can use its action on its turn to make an test d'Intelligence contested by your forcecasting test de caractéristique; if it succeeds, the power ends.</p>\n<p>On subsequent turns after probing deeper, you can use your action to deal [[/r 1d6]] psychic dégâts to la cible automatically.</p>\n<p>Questions verbally directed at la cible creature naturally shape the course of its thoughts, so this power is particularly effective as part of an interrogation.</p>\n<p>You can also use this power to detect the presence of thinking creatures you can't see. When you cast the power or as your action during the duration, you can search for thoughts within 30 mètres of you. The power can penetrate barriers. You can't detect a creature with an Intelligence of 3 or lower or one that doesn't speak any language. </p>\n<p>Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can't see it, but it must still be within range.</p>\n<p>This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the initial psychic dégâts a target takes the first time you probe deeper into its mind increases by [[/r 1d6]] for each slot niveau above 2nd.</p>"
+    },
+    "Force Lightning Cone": {
+      "name": "Force Lightning Cone",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Chain Lightning</em></p>\n<p>Lightning arcs from your hands. Each creature in a cône de 18 mètres must make a Dexterity jet de sauvegarde. A creature takes [[/r 12d6]] lightning dégâts on a failed sauvegarde, or half as much on a successful one.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 8 or higher, the dégâts increases by [[/r 2d6]] for each slot niveau above 7th.</p>"
+    },
+    "Master Battle Meditation": {
+      "name": "Master Battle Meditation",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Battle Meditation</em></p>\n<p>You exude an aura out to 30 mètres that boosts the morale and overall battle prowess you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. </p>\n<p>Whenever you or a friendly creature within your meditation makes an attack roll or a jet de sauvegarde, they can roll a [[/r d8]] and add the number rolled to the attack roll or jet de sauvegarde. </p>\n<p>Whenever a hostile creature enters your meditation or starts its turn there, it must make a Charisma jet de sauvegarde. On a failed sauvegarde, it must roll a [[/r d8]] and subtract the number rolled from each attack roll or jet de sauvegarde it makes before the end of your next turn. On a successful sauvegarde, it is immune to this power for 1 day.</p>"
+    },
+    "Plant Surge": {
+      "name": "Plant Surge",
+      "description": "<p>If you cast this power using 1 action, all normal plants in a 100-foot radius centered on a point become overgrown. Moving through the area spends 4 mètres of movement for every 1 foot moved. You can exclude areas of any size within the power's area from being affected.</p>\n<p>If you cast this power over 8 hours, all plants in a half-mile radius centered on a point yield twice the normal amount of food when harvested for 1 year.</p>"
+    },
+    "Pyrokinesis": {
+      "name": "Pyrokinesis",
+      "description": "<p>By stimulating air molecules, you create a zone of Force-enhanced fire on ground that you can see within range. Until the power ends, the enhanced fire fills a 5-foot cube. Any creature in the fire's space when you cast the power must succeed on a Dexterity jet de sauvegarde or take [[/r 1d8]] energy dégâts. A creature must also make the jet de sauvegarde when it moves into the fire's space for the first time on a turn or ends its turn there.</p>\n<p>The fire ignites flammable objects in its area that aren't being worn or carried.</p>\n<p>The power's dégâts increases by [[/r 1d8]] when you reach niveau 5 ([[/r 2d8]]), niveau 11 ([[/r 3d8]]), and niveau 17 ([[/r 4d8]]).</p>"
+    },
+    "Drain Vitality": {
+      "name": "Drain Vitality",
+      "description": "<p><em><strong>Prerequisite</strong>: Sap Vitality</em></p>\n<p>You draw the willpower from a creature you can see within range. Make a ranged force attack against la cible. En cas de contacter, la cible takes [[/r 2d6]] necrotic dégâts and it deals only half dégâts with attaque d'armes that use Strength until the power ends.</p>\n<p>At the end of each of la cible's turns, it can make a Constitution jet de sauvegarde against the power. On a success, the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 2nd.</p>"
+    },
+    "Psychic Charge": {
+      "name": "Psychic Charge",
+      "description": "<p>As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and its mouth is covered by a violet veil jusqu'au début de votre prochain tour. If la cible willingly speaks before then, it immediately takes [[/r 1d8]] psychic dégâts, and the power ends.</p>\n<p>This power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d8]] psychic dégâts to la cible, and the dégâts la cible takes for speaking increases to [[/r 2d8]]. Both jet de dégâtss increase by [[/r 1d8]] at niveau 11 and niveau 17.</p>"
+    },
+    "Force Camouflage": {
+      "name": "Force Camouflage",
+      "description": "<p>Vous devenez invisible jusqu'à la fin du pouvoir. Tout ce que vous portez ou portez est invisible tant qu’il se trouve sur vous. Le pouvoir prend fin si vous attaquez, lancez un pouvoir ou effectuez une action hostile.</p>"
+    },
+    "Improved Saber Throw": {
+      "name": "Lancer de sabre amélioré",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Throw</em></p>\n<p>As a part of the action used to cast this power, you must make a ranged force attack with a lightweapon or vibroweapon against une cible within the power's range, otherwise the power fails. En cas de contacter, la cible takes [[/r 2d8]] dégâts of the same type as the weapon's dégâts and must make a Constitution jet de sauvegarde. On a failed sauvegarde, la cible gains 1 slowed niveau until the end of its next turn and the weapon then immediately returns to your hand. The next attack made against la cible that hits it before the end of la cible's next turn deals an additional [[/r 1d10]] force dégâts. On a successful sauvegarde, la cible takes half as much additional force dégâts on the next attack that hits it, and suffers no additional effect. The weapon then immediately returns to your hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the force dégâts increases by [[/r 1d10]] for each slot niveau above 2nd.</p>"
+    },
+    "Beast Trick": {
+      "name": "Beast Trick",
+      "description": "<p>This power lets you distract a beast. Choose a beast that you can see within range. If the beast's Intelligence is 4 or higher, the power fails. Otherwise, the beast must succeed on a Wisdom jet de sauvegarde or be charmé by you for the power's duration. If you or one of your companions harms la cible, the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, you can affect one additional beast for each slot niveau above 1st.</p>"
+    },
+    "Whirlwind": {
+      "name": "Whirlwind",
+      "description": "<p>A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the power ends, you can use your action to move </p>\n<p>the whirlwind up to 30 mètres in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.</p>\n<p>A creature must make a Dexterity jet de sauvegarde the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes [[/r 10d6]] kinetic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. De plus, a Large or smaller creature that fails the sauvegarde must succeed on a Strength jet de sauvegarde or become entravé in the whirlwind until the power ends. When a creature starts its turn entravé by the whirlwind, la créature is pulled 5 mètres higher inside it, unless la créature is at the top. A entravé creature moves with the whirlwind and falls when the power ends, unless la créature has some means to stay aloft.</p>\n<p>A entravé creature can use an action to make a Strength or test de Dextérité against your force sauvegarde DD. If successful, la créature is no longer entravé by the whirlwind and is hurled [[/r 3d6*10]] mètres away from it in a random direction.</p>"
+    },
+    "Cloud Mind": {
+      "name": "Cloud Mind",
+      "description": "<p>Roll [[/r 5d8]]; the total is how many points de vie of creatures this power can affect. Creatures within 20 mètres of a point you choose are affected in order of their current points de vie.</p>\n<p>Starting with la créature that has the lowest current points de vie, chaque créature affected by this power falls inconscient. If the power ends, the sleeper takes dégâts, or someone uses an action wake the sleeper, they will be awoken.</p>\n<p>Subtract chaque créature's points de vie from the total before moving on to la créature with the next lowest points de vie. A creature's points de vie must be equal to or less than the remaining total for cette créature to be affected.</p>\n<p>This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, you can roll an additional [[/r 2d8]] for each slot niveau above 1st. </p>"
+    },
+    "Call Lightning": {
+      "name": "Call Lightning",
+      "description": "<p>As you align yourpersonnelle with nature through the Force, a 10-foot tall, rayon de 18 mètres storm cloud cylinder appears, centered on a point you can see within range above you, with you as the center point. The power fails if your location can't accommodate the cloud's size or height. When you cast the power, choose a point under the cloud for lightning to strike. Each creature within 5 mètres must make a Dexterity sauvegarde, taking [[/r 3d10]] lightning dégâts on a fail and half on a success. While the power persists, you can use your action to call lightning to a point in range again.</p>\n<p>If you're outdoors and in a storm, the power gives you control of the storm rather than creating a new one. The lightning dégâts also increases by [[/r 1d10]].</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d10]] for each slot niveau above 3rd.</p>"
+    },
+    "Sustained Lightning": {
+      "name": "Sustained Lightning",
+      "description": "<p><em><strong>Prerequisite</strong>: Shock</em></p>\n<p>You lash out against a creature within range with continual jolts of Force lightning. Make a ranged force attack against cette créature. En cas de contacter, la cible takes [[/r 1d12]] lightning dégâts, and on each of your turns for the duration, you can use your action to deal [[/r 1d12]] lightning dégâts to la cible automatically. The power ends if you use your action to do anything else. The power also ends if la cible is ever outside the power's range or if it has total cover from you.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the initial dégâts increases by [[/r 1d12]] for each slot niveau above 1st.</p>"
+    },
+    "Telekinetic Burst": {
+      "name": "Telekinetic Burst",
+      "description": "<p><em><strong>Prerequisite</strong>: Telekinetic Storm</em></p>\n<p>A beam of Force energy flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 8d6]] force dégâts and is knocked à terre. On a successful sauvegarde, it takes half as much dégâts and isn't knocked à terre. </p>\n<p>You can create a new telekinetic gust as your action on your turn until the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, the dégâts increases by [[/r 2d6]] for each slot niveau above 6th.</p>"
+    },
+    "Force Intuition": {
+      "name": "Force Intuition",
+      "description": "<p>Your senses attune to your environment for the duration, allowing you to see things before they happen, and react even faster than normal. For the duration, you can use your forcecasting modificateur de caractéristique in place of your Dexterity modificateur quand vous faites initiative checks, if the check doesn't already include that modificateur. </p>\n<p>De plus, once during the duration of this power, if you are surprised at the start of combat, rather than being completely unable to act, you can still use a réaction, and take an action on your first turn in combat. This action can be used only to take one of the following actions: Dash, Disengage, Dodge, Hide, or Use an Object.</p>"
+    },
+    "Stun": {
+      "name": "Stun",
+      "description": "<p>Choose a humanoid that you can see within range. La cible must succeed on a Wisdom jet de sauvegarde or be paralysé for the duration. At the end of each of its turns, la cible can make another Wisdom jet de sauvegarde. On a success, the power ends on la cible.</p>"
+    },
+    "Pull Earthward": {
+      "name": "Pull Earthward",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Propel</em></p>\n<p>Choose une créature you can see within range. La cible must succeed on a Strength jet de sauvegarde or its flying speed (if any) is reduced to 0 mètres for the power's duration. An airborne creature affected by this power descends at 60 mètres per round until it reaches the ground or the power ends.</p>"
+    },
+    "Force Link": {
+      "name": "Force Link",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Meld</em></p>\n<p>You create a telepathic link between yourpersonnelle and a willing creature with which you are familiar. Until the power ends, you and la cible can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and la cible recognizes you as la créature it is communicating with. The power enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it. This power has no effect on droids or constructs.</p>"
+    },
+    "Force Repulse": {
+      "name": "Force Repulse",
+      "description": "<p>You release an omnidirectional telekinetic burst. Each creature within 20 mètres must make a Dexterity jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 8d6]] force dégâts and is pushed back 5 mètres. On a successful sauvegarde, a creature takes half dégâts and isn't pushed.</p>\n<p>All small objects that are not worn or carried are also pushed 5 mètres back.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d6]] for each slot niveau above 3rd.</p>"
+    },
+    "Force Propel": {
+      "name": "Force Propel",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Push/Pull</em></p>\n<p>Choose one or more creatures or objects not being worn or carried within 60 mètres that weigh up to a combined total of 15 pounds. The creatures or objects immediately move 60 mètres in a direction de votre choix. If la créatures or objects end this movement in the air, they immediately fall to the ground. If la créatures or objects collide with any une cible during its travel, both la créatures or objects and la cible take [[/r 3d8]] kinetic dégâts. If la cible is a creature, it must make a Dexterity jet de sauvegarde. On a failed sauvegarde, it takes the kinetic dégâts, or half as much on a successful one.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the maximum weight increases by 15 pounds and the dégâts increases by [[/r 1d8]] for each slot niveau above 1st.</p>"
+    },
+    "Kill": {
+      "name": "Kill",
+      "description": "<p><em><strong>Prerequisite</strong>: Ruin</em></p>\n<p>You compel une créature you can see within range to die instantly. If la créature you choose has 100 points de vie or fewer, it dies. Otherwise, the power has no effect.</p>"
+    },
+    "Telekinetic Storm": {
+      "name": "Telekinetic Storm",
+      "description": "<p><em><strong>Prerequisite</strong>: Turbulence</em></p>\n<p>You stir the Force around you, creating a turbulent field of telekinetic energy that buffets enemies around you. The field extends out to a distance of 15 mètres around you for the duration.</p>\n<p>When you cast this power, you can designate any number of creatures you can see to be unaffected by it. An affected creature gains 1 slowed niveau while in the area, and when la créature enters the area for the first time on a turn or starts its turn there, it must make a Constitution jet de sauvegarde. On a failed sauvegarde, la créature takes [[/r 3d8]] force dégâts. On a successful sauvegarde, la créature takes half as much dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a pouvoir de la Force slot of niveau 4 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 3rd.</p>"
+    },
+    "Force Enlightenment": {
+      "name": "Force Enlightenment",
+      "description": "<p><em><strong>Prerequisite</strong>: Guidance</em></p>\n<p>You contact a creature and enhance it with the Force. Choose one of the following effects; la cible gains that effect until the power ends.</p>\n<ul>\n<li><strong><em>Strength.</em></strong> La cible has avantage on test de Forces, and his or her carrying capacity doubles.</li>\n<li><strong><em>Dexterity.</em></strong> La cible has avantage on test de Dextérités. It also doesn't take dégâts from falling 20 mètres or less if it isn't incapacitated.</li>\n<li><strong><em>Endurance.</em></strong> La cible has avantage on test de Constitutions. It also gains [[/r 2d6]] points de vie temporaires, which are lost when the power ends.</li>\n<li><strong><em>Cunning.</em></strong> La cible has avantage on test d'Intelligences.</li>\n<li><strong><em>Wisdom.</em></strong> La cible has avantage on test de Sagesses.</li>\n<li><strong><em>Splendor.</em></strong> La cible has avantage on test de Charismes.</li>\n</ul>\n<p>This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, you can target one additional creature for each slot niveau above 2nd.</p>"
+    },
+    "Improved Force Immunity": {
+      "name": "Improved Force Immunity",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Immunity</em></p>\n<p>An immobile, faintly shimmering barrier springs into existence in a rayon de 4,5 mètres around you and remains for the duration. The barrier moves with you.</p>\n<p>Any pouvoir de la Force of niveau 5 or lower cast from outside the barrier can't affect creatures or objects within it, even if the power is cast using a higher niveau force slot. Such a power can target creatures and objects within the barrier, but the power has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such powers.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, the barrier blocks powers of one niveau higher for each slot niveau above 6th.</p>"
+    },
+    "Improved Force Barrier": {
+      "name": "Improved Force Barrier",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Barrier</em></p>\n<p>This power further bolsters your allies with toughness and resolve. Choose up to twelve creatures within range. Each target gains the following benefits:</p>\n<ul>\n<li>The becomes immune to poison and disease. Any currently existing poison or diseases still exist.</li>\n<li>The creature becomes immune to being effrayé by powers.</li>\n<li>The creature's point de vie maximum and current points de vie increase by [[/r 2d10]] for the duration.</li>\n</ul>\n<p>These benefits last for 24 hours or until the end of your next repos long, whichever happens first.</p>"
+    },
+    "Master Force Scream": {
+      "name": "Master Force Scream",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Force Scream</em></p>\n<p>You emit a cacophonous scream imbued with the power of the Force. Each creature you choose within 60 mètres of you must succeed on a Constitution jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 6d6]] psychic dégâts, [[/r 6d6]] sonic dégâts, is assourdi and aveuglé pendant 1 minute, and knocked à terre. On a successful sauvegarde, it takes half as much dégâts and isn't assourdi, aveuglé, or knocked à terre.</p>\n<p>A creature aveuglé by this power makes another Constitution jet de sauvegarde at the end of each of its turns. On a successful sauvegarde, it is no longer aveuglé.</p>"
+    },
+    "Sense Force": {
+      "name": "Sense Force",
+      "description": "<p>For the duration, you sense the use of the Force, or its presence in an inanimate object within 30 mètres of you. If you sense the Force in this way, you can use your action to determine the direction from which it originates and, if it's in line of sight, you see a faint aura around the person or object from which the Force emanates.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a 3rd-niveau force slot, the range increases to 60 mètres. When you use a 5th-niveau force slot, the range increases to 500 mètres. When you use a 7th-niveau force slot, the range increases to 1 mile. When you use a 9th-niveau force slot, the range increases to 10 miles.</p>"
+    },
+    "Force Suppression": {
+      "name": "Force Suppression",
+      "description": "<p>Choose une créature, object, or force effect within range. Any pouvoir de la Force of niveau 3 or lower on la cible ends. For each pouvoir de la Force of niveau 4 or higher on la cible, make an test de caractéristique using your forcecasting ability. The DD equals 10 + the power's niveau. On a success, the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, you automatically end the effects of a pouvoir de la Force on la cible if the power's niveau is equal to or less than the niveau of the force slot you used.</p>"
+    },
+    "Armor of Abeloth": {
+      "name": "Armure d'Abeloth",
+      "description": "<p>A protective force surrounds you, manifesting as shimmering light that covers you and your gear. You gain 5 points de vie temporaires for the duration. If a creature hits you with a attaque au corps à corps while you have these points de vie, la créature takes 5 psychic dégâts.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, both the points de vie temporaires and the psychic dégâts increase by 5 for each slot.</p>"
+    },
+    "Force Whisper": {
+      "name": "Force Whisper",
+      "description": "<p>You use the Force to carry a message in your voice to another creature within range. La cible (and only la cible) hears the message and can reply in a whisper that only you can hear.</p>\n<p>You can cast this power through solid objects if you are familiar with la cible and know it is beyond the barrier. An enhanced silence effect, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 mètres of wood blocks the power. The power doesn't have to follow a straight line and can travel freely around corners or through openings.</p>"
+    },
+    "Dominate Mind": {
+      "name": "Dominate Mind",
+      "description": "<p><em><strong>Prerequisite</strong>: Dominate Beast</em></p>\n<p>You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom jet de sauvegarde or be charmé by you for the duration. If you or creatures that are friendly to you are fighting it, it has avantage on the jet de sauvegarde.</p>\n<p>While la cible is charmé, you have a telepathic link with it as long as you are within 1 mile of it. You can use this telepathic link to issue commands to la créature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as \"Attack cette créature,\" \"Run over there,\" or \"Fetch that object.\" If la créature completes the order and doesn't receive further direction from you, it defends and preserves itpersonnelle to the best of its ability.</p>\n<p>Vous pouvez utiliser votre action pour take total and precise control of la cible. Until the end of your next turn, la créature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause la créature to use a réaction, but this requires you to use your own réaction as well.</p>\n<p>Each time la cible takes dégâts, it makes a new Wisdom jet de sauvegarde against the power. If the jet de sauvegarde succeeds, the power ends. </p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a 6th-niveau force slot, the duration is 10 minutes. When you use a 7th-niveau force slot, the duration is 1 hour. When you use a force slot of niveau 8 or higher, the duration is 8 hours.</p>"
+    },
+    "Affect Mind": {
+      "name": "Affect Mind",
+      "description": "<p>Choose a target within range that isn't hostile toward you. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, you have avantage on all test de Charismes directed at cette cible. </p>\n<p>On a successful sauvegarde, la créature does not realize that you tried to use the Force to influence its mood, but it becomes immune to this power for one day. This power has no effect on droids or constructs.</p>"
+    },
+    "Mind Spike": {
+      "name": "Mind Spike",
+      "description": "<p>Choose une créature you can see. La cible must make a Wisdom jet de sauvegarde. A creature takes [[/r 3d8]] psychic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. De plus, on a failed sauvegarde, you always know la cible's location, but only while the two of you are on the same planet. La cible can't become hidden from you, and if it's invisible, it gains no benefits from this condition against you. This power has no effect on droids or constructs.</p>"
+    },
+    "Rebuke": {
+      "name": "Rebuke",
+      "description": "<p>You strike a creature with the righteous fury of the Force. Make a melee force attack against la cible, if the attack hits, la cible takes force dégâts depending on its alignment: a dark-aligned creature takes [[/r 1d12]] force dégâts, a balanced or unaligned creature takes [[/r 1d10]] force dégâts, and a light-aligned creature takes [[/r 1d8]] force dégâts.</p>\n<p>The power's dégâts increases by one die when you reach 5th, 11th, and niveau 17.</p>"
+    },
+    "Defensive Technique": {
+      "name": "Defensive Technique",
+      "description": "<p>As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and you ward yourpersonnelle from it through the Force.</p>\n<p>If la cible forces you to make a jet de sauvegarde before the start of your next turn, la cible takes an additional [[/r 1d6]] psychic dégâts, and you can roll [[/r 1d4]] and add the number rolled to your jet de sauvegarde. The power then ends.</p>\n<p>The power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d6]] psychic dégâts to la cible, and the psychic dégâts la cible takes for forcing you to make a jet de sauvegarde increases to [[/r 2d6]]. Both jet de dégâtss increase by [[/r 1d6]] at niveau 11 and niveau 17.</p>"
+    },
+    "Telepathic Link": {
+      "name": "Telepathic Link",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Whisper</em></p>\n<p>You establish a telepathic link with one willing creature you contact. Until the power ends, whenever you and la cible can see each other, each of you can communicate with the other via telepathy.</p>\n<p>You don't need to share a language with a creature for it to understand your telepathic utterances, and la créature understands you even if it lacks a language. The creature can respond to you telepathically as well, but it must understand at least one language in order to communicate this way. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the duration increases to concentration, up to 1 hour, and if either you or la créature you are linked to are surprised while the other isn't, and both of you can see each other, the surprised creature can still act normally on its first turn in combat, as if it were not surprised.</p>"
+    },
+    "Denounce": {
+      "name": "Denounce",
+      "description": "<p>A la cible de votre choix à portée doit faire un jet de sauvegarde Charisma. En cas d'échec de la sauvegarde, lorsque la cible effectue son prochain jet d'attaque ou jet de sauvegarde, elle doit lancer un [[/r d4]] et en soustraire le numéro. Le pouvoir prend alors fin.</p> <p>Le dé de ce pouvoir augmente aux niveaux supérieurs : jusqu'à un [[/r d6]] au niveau 5, un [[/r d8]] au niveau 11 et un [[/r d10]] au niveau 17.</p>."
+    },
+    "Destroy Droid": {
+      "name": "Destroy Droid",
+      "description": "<p><em><strong>Prerequisite</strong>: Disable Droid</em></p>\n<p>Choose a point that you can see within range. Each droid or construct  must succeed on a Constitution jet de sauvegarde or be paralysé for the duration. At the beginning of each of its turns, an affected target takes energy dégâts equal to twice your forcecasting modificateur de caractéristique and then repeats this jet de sauvegarde. On a success, the power ends on la cible.</p>"
+    },
+    "Improved Force Intuition": {
+      "name": "Improved Force Intuition",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Intuition</em></p>\n<p>You make your initiative check at avantage, and gain a +2 bonus to AC until the power ends. De plus, until the end of your first turn in the combat, your speed increases by 10 mètres and you add [[/r 1d4]] to your attack rolls. This power ends early si vous échouez a jet de sauvegarde or are hit by an attack.</p>"
+    },
+    "Choke": {
+      "name": "Choke",
+      "description": "<p>You make a constricting gesture at a creature within range. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde target takes [[/r 5d8]] force dégâts and is entravé jusqu'à la fin de votre prochain tour. On a successful sauvegarde, la cible takes half as much dégâts and is not entravé.</p>\n<p>You can use a action bonus while la cible is entravé to move la cible up to 5 mètres in any direction.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the dégâts increases by [[/r 1d8]] for each slot niveau above 3rd.</p>"
+    },
+    "Agile Defense": {
+      "name": "Agile Defense",
+      "description": "<p>Dans le cadre de l'action de lancement de ce pouvoir, vous effectuez l'action Esquive.</p>"
+    },
+    "Battle Insight": {
+      "name": "Battle Insight",
+      "description": "<p>Vous concentrez votre attention sur une cible à portée. Grâce à la Force, vous obtenez un bref aperçu des défenses de la cible. Lors de votre prochain tour, vous gagnez un avantage sur votre premier jet d'attaque contre la cible, à condition que ce pouvoir ne soit pas terminé.</p> <p>Ce pouvoir bénéficie d'attaques supplémentaires aux niveaux supérieurs : deux attaques au niveau 5, trois attaques au niveau 11 et quatre attaques au niveau 17.</p>"
+    },
+    "Force Barrier": {
+      "name": "Force Barrier",
+      "description": "<p>Ce pouvoir renforce vos alliés avec endurance et détermination. Choisissez jusqu'à trois créatures à portée. Le point de vie maximum de chaque cible et les points de vie actuels augmentent de 5 pour la durée.</p> <p><strong><em>Force Potency.</em></strong> Lorsque vous lancez ce pouvoir en utilisant un emplacement de force de niveau 3 ou supérieur, les points de vie d'une cible augmentent de 5 supplémentaires pour chaque niveau d'emplacement supérieur. 2e.</p>"
+    },
+    "Force Mask": {
+      "name": "Force Mask",
+      "description": "<p><em><strong>Prérequis</strong> : Astuce mentale</em></p> <p>Jusqu'à ce que le pouvoir se termine ou que vous utilisiez une action pour le renvoyer, vous pouvez déguiser votre personnel en utilisant la Force de plusieurs manières. Vous pouvez paraître plus petit ou plus grand d’environ un pied et modifier l’apparence de votre corps et votre poids, mais vous ne pouvez pas modifier la structure de base de votre corps. Cet effet peut inclure vos vêtements, armes et autres effets personnels sur vous.</p> <p>Cet effet est uniquement visuel, donc tout type de contact physique n'interagira qu'avec votre taille et votre forme réelles. Une créature qui utilise son action pour vous examiner peut identifier cet effet en réussissant un test d'Intelligence (Enquête) contre votre DD de sauvegarde de force. </p>"
+    },
+    "Force Trance": {
+      "name": "Force Trance",
+      "description": "<p>You make a calming gesture, and up to three willing creatures de votre choix that you can see within range fall inconscient for the power's duration. The power ends on a target early if it takes dégâts or someone uses an action to shake or slap it awake. If a target remains inconscient for the full duration, cette cible gains the benefit of a repos court, and it can't be affected by this power again until it finishes a repos long. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, you can target one additional willing creature for each slot niveau above 3rd.</p>"
+    },
+    "Scourge": {
+      "name": "Scourge",
+      "description": "<p><em><strong>Prerequisite</strong>: Plague</em></p>\n<p>For the power's duration, your eyes become an inky void imbued with dread power. One creature de votre choix within 60 mètres of you that you can see must succeed on a Constitution jet de sauvegarde or be affected by one of the following effects de votre choix for the duration. On each of your turns until the power ends, you can use your action to target another creature but can't target a creature again if it has succeeded on a jet de sauvegarde against this casting of <em>scourge.</em></p>\n<p><strong><em>Asleep.</em></strong> La cible falls inconscient. It wakes up if it takes any dégâts or if another creature uses its action to shake the sleeper awake.</p>\n<p><strong><em>Panicked.</em></strong> La cible is effrayé of you. On each of its turns, the effrayé creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If la cible moves to a place at least 60 mètres away from you where it can no longer see you, this effect ends.</p>\n<p><strong><em>Sickened.</em></strong> La cible has disavantage on attack rolls and test de caractéristiques. At the end of each of its turns, it can make another Constitution jet de sauvegarde. If it succeeds, the effect ends.</p>"
+    },
+    "Necrotic Touch": {
+      "name": "Necrotic Touch",
+      "description": "<p>You attempt to drain the essence from a creature. Make a melee force attack against la cible. If the attack hits, la créature takes [[/r 1d6]] necrotic dégâts, and you gain points de vie temporaires equal to the dégâts dealt jusqu'à la fin de votre prochain tour.</p>\n<p>This power's dégâts increases by [[/r 1d6]] when you reach niveau 5 ([[/r 2d6]]), niveau 11 ([[/r 3d6]]), and niveau 17 ([[/r 4d6]]).</p>"
+    },
+    "Shadow Sight": {
+      "name": "Shadow Sight",
+      "description": "<p>You enhance your eyesight with the Force, allowing you to better see in the dark. For the duration, you have darkvision out to 60 mètres.</p>"
+    },
+    "Force Weapon": {
+      "name": "Arme de force",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Imbuement</em></p>\n<p>You contact an unenhanced weapon with which you are proficient. While you wield it for the duration, that weapon becomes an enhanced weapon with a +1 bonus to attack rolls and jet de dégâtss. De plus, you can use your forcecasting modificateur de caractéristique instead of your Strength or Dexterity modificateur for attacks and jet de dégâtss when attacking with that weapon.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 5 or higher, the bonus increases to +2. When you use a force slot of niveau 7 or higher, the bonus increases to +3.</p>"
+    },
+    "Phaseshift": {
+      "name": "Phaseshift",
+      "description": "<p>Too quickly for untrained eyes to perceive, you shift in position. You can move up to 5 mètres, and this movement does not provoke attaque d'opportunités.</p>"
+    },
+    "Stasis Field": {
+      "name": "Stasis Field",
+      "description": "<p><em><strong>Prerequisite</strong>: Stasis</em></p>\n<p>Choose a point that you can see within range. Each creature within range of that point must succeed on a Wisdom jet de sauvegarde or be paralysé for the duration. At the end of each of a target's turns, it can make another Wisdom jet de sauvegarde. On a success, the power ends on la cible. This power has no effect on droids or constructs. </p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 9, the size of the cube increases to 40 mètres.</p>"
+    },
+    "Telemetry": {
+      "name": "Telemetry",
+      "description": "<p>Vous choisissez un objet que vous devez contacter tout au long du lancement du pouvoir. S'il s'agit d'un objet amélioré ou modifié, vous apprenez ses propriétés et comment les utiliser, s'il nécessite une harmonisation pour être utilisé et combien de charges il possède, le cas échéant. Vous apprenez si des pouvoirs affectent l'objet et quels sont ces pouvoirs.</p> <p>Si l'objet a été créé par un pouvoir, vous apprenez quel pouvoir l'a créé. Si, à la place, vous contactez une créature tout au long du lancement, vous apprenez quel pouvoir de la Forces, le cas échéant, l'affecte actuellement.</p>"
+    },
+    "Telekinetic Wave": {
+      "name": "Telekinetic Wave",
+      "description": "<p><em><strong>Prerequisite</strong>: Telekinetic Burst</em></p>\n<p>You manipulate the Force in a rayon de 18 mètres centered on a point you choose within range. Each creature in that area must make a Constitution jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 12d6]] force dégâts, is knocked à terre, and moved 5 mètres in a direction de votre choix. On a successful sauvegarde, it takes half as much dégâts and isn't knocked à terre or moved.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 9, the dégâts increases by [[/r 2d6]].</p>"
+    },
+    "Spare the Dying": {
+      "name": "Épargner les mourants",
+      "description": "<p>Vous contactez un être vivant qui a 0 point de vie. La créature devient stable. Ce pouvoir n'a aucun effet sur les droïdes ou les constructions.</p>"
+    },
+    "Break": {
+      "name": "Break",
+      "description": "<p>You inflict 10 force dégâts to an object you can see within range that is not being worn or carried, generating an explosion of sound that can be heard up to 100 mètres away. Even if the object is not destroyed, small shards of shrapnel fly at creatures within 5 mètres of it. Each creature must make a Dexterity jet de sauvegarde. On a failed sauvegarde, a creature takes [[/r 1d4]] kinetic dégâts. </p>\n<p>This power's kinetic dégâts increases by [[/r 1d4]] when you reach niveau 5 ([[/r 2d4]]), niveau 11 ([[/r 3d4]]), and niveau 17 ([[/r 4d4]]), and the power's force dégâts also increases by 10 at each of these niveaus.</p>"
+    },
+    "Greater Heal": {
+      "name": "Greater Heal",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Heal</em></p>\n<p>Choose a creature that you can see within range. A surge of positive energy washes through la créature, causing it to regain 70 points de vie. This power also ends blindness, deafness, and any diseases affecting la cible. This power has no effect on droids or constructs.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, the healing increases by 10 for each slot niveau above 6th.</p>"
+    },
+    "Enfeeble": {
+      "name": "Enfeeble",
+      "description": "<p>Dark energy courses from your hand at a creature within range. La cible must succeed on a Wisdom jet de sauvegarde. If it is missing any points de vie, it takes [[/r 1d12]] necrotic dégâts. Otherwise, it takes [[/r 1d8]].</p>\n<p>The power's dégâts increases by one die when you reach 5th, 11th, and niveau 17.</p>"
+    },
+    "Slow": {
+      "name": "Slow",
+      "description": "<p>A hostile creature de votre choix must make a Constitution jet de sauvegarde. On a failed sauvegarde, la cible gains 1 slowed niveau until the power ends. At the end of each of la créature's turns, it repeats this jet de sauvegarde, ending the effect on a success.</p>\n<p>This power can affect multiple targets when you reach higher niveaus: two targets at niveau 5, three targets at niveau 11, and four targets at niveau 17. </p>"
+    },
+    "Improved Battle Meditation": {
+      "name": "Improved Battle Meditation",
+      "description": "<p><em><strong>Prerequisite</strong>: Battle Meditation</em></p>\n<p>You exude an aura out to 15 mètres that boosts the morale and overall battle prowess you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. </p>\n<p>Whenever you or a friendly creature within your meditation makes an attack roll or a jet de sauvegarde, they can roll a [[/r d6]] and add the number rolled to the attack roll or jet de sauvegarde. </p>\n<p>Whenever a hostile creature enters your meditation or starts its turn there, it must make a Charisma jet de sauvegarde. On a failed sauvegarde, it must roll a [[/r d6]] and subtract the number rolled from each attack roll or jet de sauvegarde it makes before the end of your next turn. On a successful sauvegarde, it is immune to this power for 1 day.</p>"
+    },
+    "Art of Movement": {
+      "name": "Art of Movement",
+      "description": "<p><em><strong>Prerequisite</strong>: Instinctive Movement</em></p>\n<p>By letting the Force flow through you, you move with preternatural grace, leaping onto or over tall obstacles that impede others. Until the power ends, you gain the following benefits:</p>\n<ul>\n<li>Your speed increases by 10 mètres.</li>\n<li>You have resistance to dégâts from falling.</li>\n<li>Your jumping distance is tripled.</li>\n<li>You gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. If you are on a vertical surface when you end your turn and are not using your hands to climb, you immediately fall unless you have some other means of remaining there.</li>\n<li>Your movement is unaffected by difficult terrain or squeezing.</li>\n<li>You ignore the effects of slowed niveaus under 3.</li>\n</ul>\n<p>Once before the power ends, you can give yourpersonnelle avantage on one attaque d'arme roll on your turn. That attack deals an extra [[/r 1d10]] force dégâts on a hit. Whether you hit or miss, you gain a flying speed equal to your walking speed until the end of that turn.</p>"
+    },
+    "Heighten Senses": {
+      "name": "Heighten Senses",
+      "description": "<p>Through the Force, you sense a sudden shift in your environment, and can seize on it with great speed. You gain avantage on your initiative check, and until the end of your first turn in combat, your walking speed increases by 30 mètres.</p>"
+    },
+    "Restoration": {
+      "name": "Restoration",
+      "description": "<p>You contact a creature and end either one disease or one condition afflicting it. The condition can be aveuglé, assourdi, paralysé, or empoisonné. This power has no effect on droids or constructs.</p>"
+    },
+    "Disperse Force": {
+      "name": "Disperse Force",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Ward</em></p>\n<p>This power absorbs dégâts from certain incoming attacks, lessening its effect on you and distributing it throughout your body. You have resistance to the triggering type de dégâts jusqu'au début de votre prochain tour. Also, you gain 5 points de vie temporaires to potentially absorb the attack. These points de vie temporaires last jusqu'au début de votre prochain tour.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the points de vie temporaires increases by 5 for each slot niveau above 1st.</p>"
+    },
+    "Force Blur": {
+      "name": "Force Blur",
+      "description": "<p><em><strong>Prérequis</strong> : Masque de Force</em></p> <p>Vous utilisez la Force pour tisser une illusion qui brouille votre forme, se déplaçant et vacillant pour tous ceux qui peuvent vous voir. Pendant toute la durée du sort, toute créature est désavantagée aux jets d'attaque contre vous. Un attaquant est immunisé contre cet effet s'il ne s'appuie pas sur la vue, comme dans le cas de la vision aveugle, ou s'il peut voir à travers des illusions, comme dans le cas de la vision vraie.</p>"
+    },
+    "Force Technique": {
+      "name": "Force Technique",
+      "description": "<p>You imbue your weapon with the purifying light of the Force. As part of the action used to cast this power, you must make a attaque d'arme au corps à corps against une créature within your reach, otherwise the power fails. En cas de contacter, la cible suffers the attack's normal effects, and it becomes wreathed in a glowing barrier of force energy jusqu'au début de votre prochain tour. If la cible willingly moves before then, it immediately takes [[/r 1d8]] force dégâts, and the power ends.</p>\n<p>This power's dégâts increases when you reach higher niveaus. At niveau 5, the attaque au corps à corps deals an extra [[/r 1d8]] force dégâts to la cible, and the dégâts la cible takes for moving increases to [[/r 2d8]]. Both jet de dégâtss increase by [[/r 1d8]] at niveau 11 and niveau 17.</p>"
+    },
+    "Telekinetic Shield": {
+      "name": "Telekinetic Shield",
+      "description": "<p><em><strong>Prerequisite</strong>: Animate Weapon</em></p>\n<p>You lift three piles of debris or small objects from the ground and interpose them between you and your opponents for the duration. </p>\n<p>While at least three piles remain, you have three-quarters cover. While two piles remain, you have half cover. While only one pile remains, you have one-quarter cover. The piles don't hinder your attacks. When you cast the power, or as an action on a subsequent turn, you can direct up to two piles to attack up to two creatures you can see within 30 mètres. Make a ranged force attack roll for each pile. En cas de contacter, a creature takes [[/r 2d6]] kinetic plus [[/r 1d10]] force dégâts. The pile is destroyed whether it hits or misses.</p>\n<p><strong><em>Force Potency.</em></strong> If you cast this power with a force slot of niveau 4 or higher, the power creates one additional pile for each niveau above 3rd. </p>"
+    },
+    "Mind Prison": {
+      "name": "Mind Prison",
+      "description": "<p><em><strong>Prerequisite</strong>: Mind Trap</em></p>\n<p>You attempt to bind a creature within an illusory cell that only it perceives. One creature you can see within range must make an Intelligence jet de sauvegarde. La cible succeeds automatically if it is immune to being charmé. On a successful sauvegarde, la cible takes [[/r 5d10]] psychic dégâts, and the power ends. On a failed sauvegarde, la cible takes [[/r 5d10]] psychic dégâts, and you make the area immediately around la cible's space appear dangerous to it in some way. You might cause la cible to perceive itpersonnelle as being surrounded by fire, a storm of blaster-fire, or deadly toxic gas, for example. Whatever form the illusion takes, la cible can't see or hear anything beyond it and is entravé for the power's duration. If la cible is moved out of the illusion, makes a attaque au corps à corps through it, or reaches any part of its body through it, la cible takes [[/r 10d10]] psychic dégâts, and the power ends. This power has no effect on droids or constructs.</p>"
+    },
+    "Stun Droid": {
+      "name": "Stun Droid",
+      "description": "<p>Choose a droid or construct that you can see within range. La cible must succeed on a Constitution jet de sauvegarde or be paralysé for the duration. At the beginning of each of its turns, la cible takes energy dégâts equal to your forcecasting modificateur de caractéristique. At the end of each of its turns, la cible can make another Constitution jet de sauvegarde. On a success, the power ends on la cible.</p>"
+    },
+    "Force Blind/Deafen": {
+      "name": "Force Blind/Deafen",
+      "description": "<p>You can blind or deafen a foe. Choose une créature that you can see within range to make a Constitution jet de sauvegarde. If it fails, la cible is either aveuglé or assourdi (your choice) for the duration. At the end of each of its turns, la cible can make a Constitution jet de sauvegarde. On a success, the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, you can target one additional creature for each slot niveau above 2nd.</p>"
+    },
+    "Rage": {
+      "name": "Rage",
+      "description": "<p>You endow yourpersonnelle with endurance and martial prowess fueled by the Force. Until the power ends, you can't cast powers, and you gain the following benefits:</p>\n<ul>\n<li>You gain 50 points de vie temporaires. If any of these remain when the power ends, they are lost.</li>\n<li>You have avantage on attack rolls that you make with lightweapons and vibroweapons.</li>\n<li>When you hit a target with a attaque d'arme, cette cible takes an extra [[/r 2d12]] force dégâts.</li>\n<li>You have maîtrise with all armor, lightweapons, and vibroweapons.</li>\n<li>You have maîtrise in Strength and Constitution jet de sauvegardes.</li>\n<li>You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.</li>\n</ul>\n<p>Immediately after the power ends, you must succeed on a DD 15 Constitution jet de sauvegarde or suffer one niveau of épuisement.</p>"
+    },
+    "Project": {
+      "name": "Project",
+      "description": "<p>You lift three piles of debris or small objects from the ground and hurl them. Each pile hits a creature de votre choix that you can see within range. The pile deals [[/r 1d4+1]] force dégâts to its target. The piles all strike simultaneously and you can direct them to hit une créature or several.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, you lift and throw an additional pile of debris for each slot niveau above 1st.</p>"
+    },
+    "Force Confusion": {
+      "name": "Force Confusion",
+      "description": "<p>One humanoid de votre choix that you can see within range must succeed on a Wisdom jet de sauvegarde or become charmé by you for the duration. The </p>\n<p>charmé target must use its action before moving on each of its turns to make a attaque au corps à corps against a creature other than itpersonnelle that you mentally choose.</p>\n<p>La cible can act normally on its turn if you choose no creature or if none are within its reach.</p>\n<p>On your subsequent turns, you must use your action to maintain control over la cible, or the power ends. Also, la cible can make a Wisdom jet de sauvegarde at the end of each of its turns. On a success, the power ends.</p>"
+    },
+    "Wrack": {
+      "name": "Wrack",
+      "description": "<p><em><strong>Prerequisite</strong>: Plague</em></p>\n<p>You wrack the body of a creature that you can see with a virulent, disease-like condition. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, it takes [[/r 14d6]] necrotic dégâts, or half as much dégâts on a successful sauvegarde. The dégâts can't reduce la cible's points de vie below 1. If la cible fails the jet de sauvegarde, its point de vie maximum is reduced for 1 hour by an amount equal to the necrotic dégâts it took. Any effect that removes a disease allows a creature's point de vie maximum to return to normal immediately.</p>\n<p><strong><em>Force Potency.</em></strong> If you cast this power using a force slot of niveau 7 or higher, the power deals an extra [[/r 2d6]] dégâts for each slot niveau above 6th.</p>"
+    },
+    "Tapas": {
+      "name": "Tapas",
+      "description": "<p>Vous utilisez la Force pour protéger votre personnel contre les éléments. Pour la durée, vous êtes considéré comme adapté aux climats chauds et froids.</p>"
+    },
+    "Telekinesis": {
+      "name": "Telekinesis",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Throw</em></p>\n<p>You gain the ability to move or manipulate creatures and objects with the Force. When you cast this power, and as your action each round for the duration, you can exert your will on une créature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the power.</p>\n<p><strong><em>Creature.</em></strong> You can try to move a Huge or smaller creature. La cible must make a Strength jet de sauvegarde. On a failed sauvegarde, you move la créature up to 30 mètres in any direction, including upward but not beyond the range of this power. Until the end of your next turn, la créature is entravé in your telekinetic grip. A creature lifted upward is suspended in mid-air.</p>\n<p>On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on la créature by repeating the contest.</p>\n<p><strong><em>Object.</em></strong> You move an object that isn't being worn or carried and weighs up to 2,500 lbs up to 30 mètres in any direction, but not beyond the range of this power.</p>\n<p>You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 6 or higher, the maximum object weight increases by 2,500 lbs for every slot niveau above 5th.</p>"
+    },
+    "Force Vision": {
+      "name": "Force Vision",
+      "description": "<p>You receive a vision of the future through the Force, giving you or one willing creature you can see within range a chance to change fate. When the chosen creature makes an test de caractéristique, an attack roll, or a jet de sauvegarde before the power ends, it can dismiss this power on itpersonnelle to roll an additional [[/r d20]] and choose which of the d20s to use. Alternatively, when an attack roll is made against the chosen creature, it can dismiss this power on itpersonnelle to roll a [[/r d20]] and choose which of the d20s to use, the one it rolled or the one the attacker rolled. </p>\n<p>If the original [[/r d20]] roll has avantage or disavantage, la créature rolls the additional [[/r d20]] after avantage or disavantage has been applied to the original roll.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, you can target one additional creature for each slot niveau above 2nd.</p>"
+    },
+    "Master Saber Throw": {
+      "name": "Lancer de sabre maître",
+      "description": "<p><em><strong>Prerequisite</strong>: Greater Saber Throw</em></p>\n<p>When you cast this power, you must be wielding at least one lightweapon or vibroweapon, otherwise the power fails. When you cast this power, you can throw two weapons, striking creatures in two lines originating from yourpersonnelle, both 90 mètres long and 5 mètres wide, or you can throw one weapon in a 90-foot long, 5-foot wide line de votre choix originating from yourpersonnelle and change its direction to move in a second identical line de votre choix within range. Each creature in a line must make a Dexterity jet de sauvegarde. A creature takes [[/r 5d8]] dégâts of the same type as the weapon's dégâts and [[/r 5d8]] force dégâts on a failed sauvegarde, or half as much dégâts on a successful one. A creature in the area of more than one line is affected only once. The weapons then immediately return to your hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 8 or higher, the weapon dégâts and force dégâts each increase by [[/r 1d8]] for each slot niveau above 7th.</p>"
+    },
+    "Mind Trick": {
+      "name": "Mind Trick",
+      "description": "<p>Choose a target within range that isn't hostile toward you. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible has disavantage on Wisdom (Perception) and Intelligence (Investigation) checks. </p>\n<p>On a successful sauvegarde, la créature realizes that you tried to use the Force to influence its awareness and becomes hostile toward you. A creature à terre to violence might attack you. Another creature might seek retribution in other ways (at the GM's discretion), depending on the nature of your interaction with it. This power has no effect on droids or constructs.</p>"
+    },
+    "Dark Shear": {
+      "name": "Dark Shear",
+      "description": "<p>You create a weapon of imperceptible Force energy that lasts until the power ends. It counts as a simple lightweapon with which you are proficient. It deals [[/r 2d6]] psychic dégâts, and has the finesse, light, and thrown properties (range 20/60). When you attack while within dim light or darkness, you have avantage.</p>\n<p>If you drop the weapon or throw it, it disappears at the end of the turn. While the power lasts, you can use a action bonus to make the weapon reappear in your hand.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a 3rd or niveau 4 force slot, the dégâts increases by [[/r 1d6]] ([[/r 3d6]]). At 5th or niveau 6, the dégâts increases by [[/r 2d6]] ([[/r 4d6]]). At niveau 7 or higher, the dégâts increases by [[/r 3d6]] ([[/r 5d6]]). </p>"
+    },
+    "Force Meld": {
+      "name": "Force Meld",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Whisper</em></p>\n<p>You forge a telepathic link among up to eight willing creatures de votre choix within range, psychically linking chaque créature to all the others for the duration. Droids, constructs, and creatures with Intelligence scores of 2 or less aren't affected by this power.</p>\n<p>Until the power ends, la cibles can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend beyond a single planet.</p>"
+    },
+    "Slow Descent": {
+      "name": "Slow Descent",
+      "description": "<p>Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 mètres per round until the power ends. If la créature lands before the power ends, it takes no falling dégâts and can land on its mètres, and the power ends for cette créature.</p>"
+    },
+    "Saber Slash": {
+      "name": "Saber Slash",
+      "description": "<p><em><strong>Prerequisite</strong>: Saber Strike</em></p>\n<p>You move in a burst of speed to deliver a deadly blow. When you cast this power, you must be wielding a melee weapon with which you are proficient, otherwise, the power fails. As part of the action used to cast this power, you move in a straight line to an unoccupied space within the power's range and strike a creature within your weapon's range. Opportunity attacks provoked by this movement have disavantage. The creature must make a Dexterity jet de sauvegarde. On a failed sauvegarde, it takes dégâts equal to three rolls of the weapon's dégâts dice + [[/r 4d4]] force dégâts, or half as much dégâts on a successful one.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 4 or higher, the force dégâts increases by [[/r 1d4]] for each slot niveau above 3rd.</p>"
+    },
+    "Resistance": {
+      "name": "Resistance",
+      "description": "<p>Vous contactez une créature consentante. Une fois avant la fin du pouvoir, la cible peut lancer un [[/r d4]] et ajouter le numéro obtenu à un jet de sauvegarde de son choix. Le pouvoir prend alors fin.</p> <p>Le dé de ce pouvoir augmente aux niveaux supérieurs : jusqu'à un [[/r d6]] au niveau 5, un [[/r d8]] au niveau 11 et un [[/r d10]] au niveau 17.</p>."
+    },
+    "Force Chain Lightning": {
+      "name": "Force Chain Lightning",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Lightning</em></p>\n<p>You create a bolt of lightning that arcs toward a target de votre choix that you can see within range. Three bolts then leap from cette cible to as many as three other targets, each of which must be within 30 mètres of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</p>\n<p>A target must make a Dexterity jet de sauvegarde. La cible takes [[/r 10d8]] lightning dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 7 or higher, one additional bolt leaps from the first target to another target for each slot niveau above 6th.</p>"
+    },
+    "Master Revitalize": {
+      "name": "Master Revitalize",
+      "description": "<p><em><strong>Prerequisite</strong>: Improved Revitalize</em></p>\n<p>You return a dead creature you contact to life, provided that it has been dead no longer than 1 day. If la créature's soul is both willing and at liberty to rejoin the body, la créature returns to life with all its points de vie. This power has no effect on droids or constructs.</p>\n<p>This power closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting la créature when it died. The power replaces dégâtsd or missing organs and limbs.</p>"
+    },
+    "Curse": {
+      "name": "Curse",
+      "description": "<p><em><strong>Prérequis</strong> : Dénonciation</em></p> <p>Jusqu'à trois créatures de votre choix que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. La première fois à chaque tour, une cible qui échoue à ce jet de sauvegarde effectue un jet d'attaque ou un jet de sauvegarde avant la fin du pouvoir, la cible doit lancer un [[/r d4]] et soustraire le nombre obtenu du jet d'attaque ou du jet de sauvegarde. un emplacement de force de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire tous les deux niveaux d'emplacement au-dessus du 1er. Lorsque vous lancez ce pouvoir au niveau 3, 6 ou 9, le dé passe respectivement à [[/r d6]], [[/r d8]] et [[/r d10]].</p>"
+    },
+    "Wall of Light": {
+      "name": "Wall of Light",
+      "description": "<p>You conjure an immense manifestation of destructive light side Force energy. The wall appears within range and lasts for the duration. Vous pouvez faire a straight wall up to 100 mètres long, 20 mètres high, and 5 mètres thick, or a ringed wall up to 60 mètres in diameter, 20 mètres high, and 5 mètres thick. The wall provides three-quarters cover and its space is difficult terrain.</p>\n<p>When a creature enters the wall's area for the first time on a turn or starts its turn there, it must make a Dexterity jet de sauvegarde. On a failed sauvegarde, la créature takes [[/r 6d10]] force dégâts, or half as much on a success.</p>"
+    },
+    "Mass Animation": {
+      "name": "Mass Animation",
+      "description": "<p><em><strong>Prerequisite</strong>: Animate Weapon</em></p>\n<p>You snag several objects using the Force and whip them into the air around you, controlling them to attack at your command. Choose up to ten unenhanced objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't control any object larger than Huge. Each object animates and hovers near you, remaining within 100 mètres of you for the duration. An animated object behaves as though it is a construct, with AC, points de vie, and attacks determined by its size, and a flying speed of 30 mètres.</p>\n<p>As a action bonus, you can mentally direct any object controlled by this power. If you control multiple objects, you can command any or all of them at the same time. You decide what action the object will take and where it will move. The objects act at the end of your turn. If you command an object to attack, it can make a single attaque au corps à corps against a creature within 5 mètres of it. It makes a slam attack with an attack bonus and kinetic dégâts determined by its size.</p>\n<p>|Size|\t\tHP|\tAC|\tAttack|</p>\n<p>|:--|:--:|:--:|:--:|</p>\n<p>|Tiny\t|20|16|+6 to hit, [[/r 1d4 + 3]] dégâts|</p>\n<p>|Small\t|25|15|+6 to hit, [[/r 1d8 + 2]] dégâts|</p>\n<p>|Medium\t|40|13|+5 to hit, [[/r 2d6 + 1]] dégâts|</p>\n<p>|Large\t|50|10|+6 to hit, [[/r 2d10 + 2]] dégâts|</p>\n<p>|Huge\t|80|10|+8 to hit, [[/r 2d12 + 4]] dégâts|</p>\n<p><strong><em>Force Potency.</em></strong> If you cast this power using a force slot of niveau 6 or higher, you can animate two additional objects for each slot niveau above 5th.</p>"
+    },
+    "Wakefulness": {
+      "name": "Wakefulness",
+      "description": "<p><em><strong>Prerequisite</strong>: Breath Control</em></p>\n<p>You use the Force to control your body's functions. For the duration, you gain the following benefits:</p>\n<ul>\n<li>You ignore the effects of any niveaus of épuisement you have. </li>\n<li>You do not need to eat, drink, or sleep. You can't be forced to sleep by any means. To gain the benefits of a repos long, you can spend all 8 hours doing light activity, such as reading and keeping watch. </li>\n</ul>\n<p>If you still have any niveaus of épuisement when this power ends, you must make a DD 15 Constitution jet de sauvegarde. On a failed sauvegarde, you gain one additional niveau of épuisement.</p>"
+    },
+    "Fear": {
+      "name": "Fear",
+      "description": "<p>You awaken the sense of mortality in une créature you can see within range. La cible must succeed on a Wisdom jet de sauvegarde or become effrayé for the duration. A target with 25 points de vie or fewer makes the jet de sauvegarde with disavantage. A effrayé creature can repeat this sauvegarde at the end of each of its turns, ending this effect on a success. This power has no effect on constructs or droids.</p>"
+    },
+    "Instinctive Movement": {
+      "name": "Instinctive Movement",
+      "description": "<p><em><strong>Prerequisite</strong>: Wall Run</em></p>\n<p>You enhance your movement with the Force, allowing you to traverse your environment with speed and acrobatic grace. When you cast this power, you gain two speed points. When you cast the power and as a action bonus on subsequent turns, you can expend a speed point, granting yourpersonnelle all of the following benefits until the end of that turn:</p>\n<ul>\n<li>Your speed increases by 5 mètres. </li>\n<li>You have resistance to falling dégâts. </li>\n<li>You ignore difficult terrain. </li>\n<li>You have a climb speed equal to your walking speed. </li>\n<li>You add 10 mètres to your long jump distance and 3 mètres to your high jump distance. </li>\n<li>You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. </li>\n<li>You do not sink when moving over soft or brittle terrain, such as dust, silt, mud, snow, or thin ice. Cet effet does not allow you to move across liquid surfaces.</li>\n<li>If you move at least 20 mètres straight toward a creature and then hit it with a attaque d'arme au corps à corps for the first time on the same turn, you deal an extra [[/r 1d4]] dégâts with that attack.</li>\n</ul>\n<p>At the end of the turn, the benefits fade entirely until you spend another speed point. If these benefits end while you are still on a vertical surface, or anywhere else where you would normally fall or sink, you immediately fall or begin to sink unless you have some other means to remain there. </p>\n<p>This power ends when its duration expires, when you cast this power again, or when you have spent all your speed points. When the power ends, any unspent speed points are lost.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 2 or higher, the extra dégâts increases by [[/r 1d4]] for each slot niveau above 1st. De plus, if you cast this power with a force slot of niveau 3 or higher, you gain one additional speed point for every two slot niveaus above 1st.</p>"
+    },
+    "Freedom of Movement": {
+      "name": "Freedom of Movement",
+      "description": "<p>You contact a willing creature. Its movement is unaffected by difficult terrain, and powers and enhanced effects can't reduce its speed or cause it to be paralysé or entravé.</p>\n<p>La cible can spend 5 mètres of movement to automatically escape from unenhanced restraints. De plus, being underwater imposes no penalties on its movement or attacks. </p>"
+    },
+    "Animate Weapon": {
+      "name": "Animer une arme",
+      "description": "<p><em><strong>Prerequisite</strong>: Force Disarm</em></p>\n<p>You select a light- or vibro-weapon within this power's range that is not worn or carried by a conscious creature other than you, and use the Force to cause it to levitate, acting as an extension of your will for the duration or until you cast this power again. When you use this power, you can cause the weapon to move up to 20 mètres and make a melee force attack against a creature within 5 mètres of it. En cas de contacter, la cible takes [[/r 1d8]] + your forcecasting modificateur de caractéristique dégâts. The type is of the normal dégâts dealt by the weapon.</p>\n<p>While the weapon is animated, on each of your turns you can use a action bonus to move the weapon up to 20 mètres and repeat the attack against a creature within 5 mètres of it. At any time, you can end this pouvoir de la Force to return the animated weapon to your hand.</p>\n<p>An enemy can attempt to gain control of the weapon by using its action to make a Strength (Athletics) check against your force sauvegarde DD. On a success, la créature gains control of the weapon and the power ends.</p>\n<p><strong><em>Force Potency.</em></strong> When you cast this power using a force slot of niveau 3 or higher, the weapon's dégâts increases by [[/r 1d8]] for every two slot niveaus above 2nd.</p>"
+    },
+    "Maddening Darkness": {
+      "name": "Maddening Darkness",
+      "description": "<p><em><strong>Prerequisite</strong>: Shroud of Darkness</em></p>\n<p>Terrifying darkness spreads from a point you choose within range to fill a 60-foot-radius sphere until the power ends. The darkness spreads around corners. A creature with darkvision can't see through this darkness. Unenhanced light, as well as light created by powers of niveau 8 or lower, can't illuminate the area.</p>\n<p>Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a creature starts its turn in the sphere, it must make a Wisdom jet de sauvegarde, taking [[/r 8d8]] psychic dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

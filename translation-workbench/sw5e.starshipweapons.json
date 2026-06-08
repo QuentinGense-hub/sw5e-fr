@@ -1,0 +1,381 @@
+{
+    "label":  "Starship Weapons",
+    "entries":  {
+                    "Conner Net (mine)":  {
+                                              "name":  "Conner Net (mine)",
+                                              "description":  "\u003cp\u003e2000 (4000) cr\u003c/p\u003e\u003cp\u003e30 (60) lb\u003c/p\u003e\u003cp\u003eUpon detonation, a conner net deploys on the target, which must make a Constitution saving throw (DC 15). On a failed save, the ship is stunned for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success.\u003c/p\u003e"
+                                          },
+                    "Heavy slug railgun":  {
+                                               "name":  "Heavy slug railgun",
+                                               "description":  "Power (range 2400/9600), con. 17, overheat 2"
+                                           },
+                    "Assault laser cannon":  {
+                                                 "name":  "Assault laser cannon",
+                                                 "description":  "Power (range 1200/4800), constitution 15, overheat 2"
+                                             },
+                    "Ordnance point-defense":  {
+                                                   "name":  "Ordnance point-defense",
+                                                   "description":  "Power (range 300/1200), explosive, saturate, zone"
+                                               },
+                    "Proton Bomb":  {
+                                        "name":  "Proton Bomb",
+                                        "description":  "\u003cp\u003e2100 (4200) cr\u003c/p\u003e\u003cp\u003e32 (65) lb\u003c/p\u003e\u003cp\u003eWhen a proton bomb detonates, each ship within 100 [200] feet must make a Dexterity saving throw (DC 15). A ship takes 4d10 [8d10] energy damage on a failed save, or half as much on a successful one.\u003c/p\u003e"
+                                    },
+                    "Adv. Cluster Missile":  {
+                                                 "name":  "Adv. Cluster Missile",
+                                                 "description":  "\u003cp\u003e(Range 600/2400), auto, burst 6, explosive, rapid 6\u003c/p\u003e\n\u003cp\u003e20 (40) lb\u003c/p\u003e\n\u003cp\u003e3d6 (6d6) kinetic\u003c/p\u003e"
+                                             },
+                    "Conner Net (missile)":  {
+                                                 "name":  "Conner Net (missile)",
+                                                 "description":  "\u003cp\u003e(Range 600/2400), special\u003c/p\u003e\n\u003cp\u003e85 (170) lb\u003c/p\u003e\n\u003cp\u003eOn a failed saving throw for a missile, a conner net deploys on the target, which must make a Constitution saving throw (DC 15). On a failed save, the ship is stunned for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success.\u003c/p\u003e"
+                                             },
+                    "Rapid-fire turbolaser battery":  {
+                                                          "name":  "Rapid-fire turbolaser battery",
+                                                          "description":  "Power (range 400/1600), auto, burst 16, overheat 16, rapid 4"
+                                                      },
+                    "Burst laser cannon":  {
+                                               "name":  "Burst laser cannon",
+                                               "description":  "\u003cp\u003ePower (range 200/800), auto, burst 2, overheat 2, saturate\u003c/p\u003e"
+                                           },
+                    "Heavy blaster cannon":  {
+                                                 "name":  "Heavy blaster cannon",
+                                                 "description":  "Power (range 600/2400), heavy, overheat 12"
+                                             },
+                    "Ion railgun":  {
+                                        "name":  "Ion railgun",
+                                        "description":  "Power (range 1000/4000), constitution 17, ionizing, overheat 4"
+                                    },
+                    "Heavy laser cannon":  {
+                                               "name":  "Heavy laser cannon",
+                                               "description":  "Power (range 1200/4800), constitution 15, heavy, overheat 2"
+                                           },
+                    "Turbolaser":  {
+                                       "name":  "Turbolaser",
+                                       "description":  "Power (range 1000/4000), constitution 13, overheat 4"
+                                   },
+                    "Twin auto-blaster":  {
+                                              "name":  "Twin auto-blaster",
+                                              "description":  "Power (range 250/1000), auto, burst 10, hidden, overheat 20, rapid 5"
+                                          },
+                    "S-Thread Tracer":  {
+                                            "name":  "S-Thread Tracer",
+                                            "description":  "\u003cp\u003e(Range 1200/4800), special\u003c/p\u003e\n\u003cp\u003e50 (100) lb\u003c/p\u003e\n\u003cp\u003eOn a failed saving throw, the missile latches an S-thread tracer onto the target. When making an Intelligence (Probe) check to detect the S-threaded ship\u0027s hyperspace travel, its angle of departure can be detected on a roll of 15 instead of 25.\u003c/p\u003e"
+                                        },
+                    "Adv. Concussion Missile":  {
+                                                    "name":  "Adv. Concussion Missile",
+                                                    "description":  "\u003cp\u003e(Range 800/3200), auto, burst 1, explosive, rapid 1\u003c/p\u003e\n\u003cp\u003e125 (250) lb\u003c/p\u003e\n\u003cp\u003e2d10 (4d10) energy\u003c/p\u003e"
+                                                },
+                    "Torpedo launcher":  {
+                                             "name":  "Torpedo launcher",
+                                             "description":  "Ammunition reload 4"
+                                         },
+                    "Light ion battery":  {
+                                              "name":  "Light ion battery",
+                                              "description":  "Power (range 800/3200), overheat 16"
+                                          },
+                    "Long-range turbolaser battery":  {
+                                                          "name":  "Long-range turbolaser battery",
+                                                          "description":  "Power (range 2400/9600), con. 15, overheat 2"
+                                                      },
+                    "Seismic Charge":  {
+                                           "name":  "Seismic Charge",
+                                           "description":  "\u003cp\u003e2000 (4000) cr\u003c/p\u003e\u003cp\u003e30 (60) lb\u003c/p\u003e\u003cp\u003eWhen a seismic charge detonates, each ship within 150 [300] feet must make a Dexterity saving throw (DC 15). A ship takes 1d10 [2d10] kinetic damage on a failed save, or half as much on a successful one.\u003c/p\u003e"
+                                       },
+                    "Slug cannon":  {
+                                        "name":  "Slug cannon",
+                                        "description":  "Power (range 600/2400), constitution 11, dire 1, overheat 4"
+                                    },
+                    "Ion battery":  {
+                                        "name":  "Ion battery",
+                                        "description":  "Power (range 800/3200), con. 13, ionizing, overheat 8"
+                                    },
+                    "Heavy thermite railgun":  {
+                                                   "name":  "Heavy thermite railgun",
+                                                   "description":  "Power (range 2400/9600), con. 19, melt, overheat 2"
+                                               },
+                    "Slug railgun":  {
+                                         "name":  "Slug railgun",
+                                         "description":  "Power (range 1200/4800), constitution 15, overheat 2"
+                                     },
+                    "Twin turbolaser battery":  {
+                                                    "name":  "Twin turbolaser battery",
+                                                    "description":  "Power (range 600/2400), con. 11, rapid 3, overheat 12"
+                                                },
+                    "Heavy turbolaser battery":  {
+                                                     "name":  "Heavy turbolaser battery",
+                                                     "description":  "Power (range 1200/4800), con. 15, heavy, overheat 2"
+                                                 },
+                    "Cluster pod launcher":  {
+                                                 "name":  "Cluster pod launcher",
+                                                 "description":  "Ammunition, reload 12"
+                                             },
+                    "Double laser cannon":  {
+                                                "name":  "Double laser cannon",
+                                                "description":  "Power (range 800/3200), overheat 8"
+                                            },
+                    "Quad pulse laser":  {
+                                             "name":  "Quad pulse laser",
+                                             "description":  "Power (range 400/1600), overheat 16, rapid 4"
+                                         },
+                    "Heavy ion cannon":  {
+                                             "name":  "Heavy ion cannon",
+                                             "description":  "Power (range 1000/4000), constitution 17, heavy, ionizing, overheat 4"
+                                         },
+                    "Heavy gun battery":  {
+                                              "name":  "Heavy gun battery",
+                                              "description":  "Power (range 400/1600), con. 17, overheat 1, vicious 1"
+                                          },
+                    "Light laser cannon":  {
+                                               "name":  "Light laser cannon",
+                                               "description":  "Power (range 800/3200), overheat 16"
+                                           },
+                    "Homing Cluster Missile":  {
+                                                   "name":  "Homing Cluster Missile",
+                                                   "description":  "\u003cp\u003e(Range 600/2400), auto, burst 6, explosive, homing, rapid 6\u003c/p\u003e\n\u003cp\u003e15 (30) lb\u003c/p\u003e\n\u003cp\u003e3d4 (6d4) kinetic\u003c/p\u003e"
+                                               },
+                    "Plasburst turbolaser battery":  {
+                                                         "name":  "Plasburst turbolaser battery",
+                                                         "description":  "Power (range 600/2400), burst 12, overheat 12"
+                                                     },
+                    "Laser cannon point-defense":  {
+                                                       "name":  "Laser cannon point-defense",
+                                                       "description":  "Power (range 300/1200), saturate, zone"
+                                                   },
+                    "Ion cannon":  {
+                                       "name":  "Ion cannon",
+                                       "description":  "Power (range 800/3200), constitution 13, ionizing, overheat 8"
+                                   },
+                    "Thermite battery":  {
+                                             "name":  "Thermite battery",
+                                             "description":  "Power (range 1200/4800), con. 17, melt, overheat 2"
+                                         },
+                    "Light ion cannon":  {
+                                             "name":  "Light ion cannon",
+                                             "description":  "Power (range 800/3200), overheat 16"
+                                         },
+                    "Burst turbolaser battery":  {
+                                                     "name":  "Burst turbolaser battery",
+                                                     "description":  "\u003cp\u003ePower (range 200/800), auto, burst 2, overheat 2, saturate\u003c/p\u003e"
+                                                 },
+                    "Plasma Torpedo":  {
+                                           "name":  "Plasma Torpedo",
+                                           "description":  "\u003cp\u003e(Range 1200/4800), vicious 1\u003c/p\u003e\n\u003cp\u003e70 (140) lb\u003c/p\u003e\n\u003cp\u003e2d12 (4d12) ion\u003c/p\u003e"
+                                       },
+                    "Quad pulse turbolaser battery":  {
+                                                          "name":  "Quad pulse turbolaser battery",
+                                                          "description":  "Power (range 400/1600), overheat 16, rapid 4"
+                                                      },
+                    "Plasburst laser cannon":  {
+                                                   "name":  "Plasburst laser cannon",
+                                                   "description":  "Power (range 600/2400), burst 12, overheat 12"
+                                               },
+                    "Heavy ion railgun":  {
+                                              "name":  "Heavy ion railgun",
+                                              "description":  "Power (range 2000/8000), con. 19, ionizing, overheat 4"
+                                          },
+                    "Flechette Torpedo":  {
+                                              "name":  "Flechette Torpedo",
+                                              "description":  "\u003cp\u003e(Range 600/2400), special\u003c/p\u003e\n\u003cp\u003e85 (170) lb\u003c/p\u003e\n\u003cp\u003eA Flechette torpedo detonates at a point within range, creating a 200 (400) foot cube of difficult terrain. Any ship entering or starting their turn in this area must succeed at a Dexterity saving throw (DC 15) or take 1d8 [2d8] kinetic damage.\u003c/p\u003e"
+                                          },
+                    "Assault cluster pod launcher":  {
+                                                         "name":  "Assault cluster pod launcher",
+                                                         "description":  "Ammunition, reload 24"
+                                                     },
+                    "Sparkler ion cannon":  {
+                                                "name":  "Sparkler ion cannon",
+                                                "description":  "\u003cp\u003ePower (range 200/800), auto, burst 2, ionizing, overheat 1, saturate\u003c/p\u003e"
+                                            },
+                    "Pulse Bomb":  {
+                                       "name":  "Pulse Bomb",
+                                       "description":  "\u003cp\u003e2300 (4600) cr\u003c/p\u003e\u003cp\u003e35 (70) lb\u003c/p\u003e\u003cp\u003eWhen a pulse bomb detonates, each ship within 200 [400] feet must make a Constitution saving throw (DC 15). A ship takes 2d10 [4d10] ion damage on a failed save, or half as much on a successful one. Additionally, on a failed save, it is ionized for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success. Ships larger than you have advantage on their saving throw.\u003c/p\u003e"
+                                   },
+                    "Pulse turbolaser battery":  {
+                                                     "name":  "Pulse turbolaser battery",
+                                                     "description":  "Power (range 500/2000), keen 1, piercing 1, overheat 20"
+                                                 },
+                    "Adv. Homing Cluster Missile":  {
+                                                        "name":  "Adv. Homing Cluster Missile",
+                                                        "description":  "\u003cp\u003e(Range 600/2400), auto, burst 6, explosive, homing, rapid 6\u003c/p\u003e\n\u003cp\u003e25 (50) lb\u003c/p\u003e\n\u003cp\u003e3d6 (6d6) kinetic\u003c/p\u003e"
+                                                    },
+                    "Discord Missile":  {
+                                            "name":  "Discord Missile",
+                                            "description":  "\u003cp\u003e(Range 600/2400), special\u003c/p\u003e\n\u003cp\u003e85 (170) lb\u003c/p\u003e\n\u003cp\u003eOn a failed saving throw, the missile deploys pistoeka sabotage or \"buzz\" droids on the target. At the end of each of the target ship\u0027s turns, the target ship gains one level of system damage. As an action on each of their turns, a crew member can have the ship attempt their choice of a dexterity or constitution saving throw (DC 15), ending the effect on a success.\u003c/p\u003e"
+                                        },
+                    "EMP Bomb":  {
+                                     "name":  "EMP Bomb",
+                                     "description":  "\u003cp\u003e2300 (4600) cr\u003c/p\u003e\u003cp\u003e45 (90) lb\u003c/p\u003e\u003cp\u003eWhen an EMP bomb detonates, each ship within 150 [300] feet must make a Constitution saving throw (DC 15). On a failed save, a ship is stunned for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success.\u003c/p\u003e"
+                                 },
+                    "Rocket pod launcher":  {
+                                                "name":  "Rocket pod launcher",
+                                                "description":  "\u003cp\u003eAmmunition, reload 12\u003c/p\u003e"
+                                            },
+                    "Turbolaser battery":  {
+                                               "name":  "Turbolaser battery",
+                                               "description":  "Power (range 1000/4000), con. 11, overheat 4"
+                                           },
+                    "Twin laser cannon":  {
+                                              "name":  "Twin laser cannon",
+                                              "description":  "Power (range 600/2400), constitution 11, rapid 3, overheat 12"
+                                          },
+                    "Particle cannon":  {
+                                            "name":  "Particle cannon",
+                                            "description":  "Power (range 1600/6400), con. 13, overheat 4"
+                                        },
+                    "Thermite railgun":  {
+                                             "name":  "Thermite railgun",
+                                             "description":  "Power (range 1200/4800), constitution 17, melt, overheat 2"
+                                         },
+                    "Pulse laser cannon":  {
+                                               "name":  "Pulse laser cannon",
+                                               "description":  "Power (range 500/2000), keen 1, piercing 1, overheat 20"
+                                           },
+                    "Particle beam":  {
+                                          "name":  "Particle beam",
+                                          "description":  "Power (range 800/3200), constitution 11, overheat 4"
+                                      },
+                    "Blaster cannon":  {
+                                           "name":  "Blaster cannon",
+                                           "description":  "Power (range 600/2400), hidden, overheat 18, rapid 9"
+                                       },
+                    "Silent Thunder Missile":  {
+                                                   "name":  "Silent Thunder Missile",
+                                                   "description":  "\u003cp\u003e(Range 1200/4800), explosive\u003c/p\u003e\n\u003cp\u003e150 (300) lb\u003c/p\u003e\n\u003cp\u003e4d10 (8d10) energy\u003c/p\u003e"
+                                               },
+                    "Assault missile launcher":  {
+                                                     "name":  "Assault missile launcher",
+                                                     "description":  "Ammunition, reload 8"
+                                                 },
+                    "Quad laser cannon":  {
+                                              "name":  "Quad laser cannon",
+                                              "description":  "Power (range 800/3200), constitution 13, overheat 8, rapid 2"
+                                          },
+                    "Cluster Missile":  {
+                                            "name":  "Cluster Missile",
+                                            "description":  "\u003cp\u003e(Range 600/2400), auto, burst 6, explosive, rapid 6\u003c/p\u003e\n\u003cp\u003e10 (20) lb\u003c/p\u003e\n\u003cp\u003e3d4 (6d4) kinetic\u003c/p\u003e"
+                                        },
+                    "Thermite cannon":  {
+                                            "name":  "Thermite cannon",
+                                            "description":  "Power (range 1200/4800), constitution 17, melt, overheat 2"
+                                        },
+                    "Ion cannon point-defense":  {
+                                                     "name":  "Ion cannon point-defense",
+                                                     "description":  "Power (range 300/1200), ionizing, saturate, zone"
+                                                 },
+                    "Heavy ion battery":  {
+                                              "name":  "Heavy ion battery",
+                                              "description":  "Power (range 1000/4000), con. 17, heavy, ionizing, overheat 4"
+                                          },
+                    "Ion Pulse Missile":  {
+                                              "name":  "Ion Pulse Missile",
+                                              "description":  "\u003cp\u003e(Range 1000/4000), ionizing\u003c/p\u003e\n\u003cp\u003e70 (140) lb\u003c/p\u003e\n\u003cp\u003e2d10 (4d10) ion\u003c/p\u003e"
+                                          },
+                    "Blaster point-defense":  {
+                                                  "name":  "Blaster point-defense",
+                                                  "description":  "Power (range 200/800), saturate, zone"
+                                              },
+                    "Gravity Mine":  {
+                                         "name":  "Gravity Mine",
+                                         "description":  "\u003cp\u003e2000 (4000) cr\u003c/p\u003e\u003cp\u003e30 (60) lb\u003c/p\u003e\u003cp\u003eRather than exploding on contact, gravity mines detonate any time a ship comes within range of it. When a gravity mine detonates, it creates a mass shadow centered on the point of detonation with a radius of 50 [100] feet that lasts for 10 minutes. Any ships touching this mass shadow are unable to activate their hyperdrives.\u003c/p\u003e"
+                                     },
+                    "Thermite Torpedo":  {
+                                             "name":  "Thermite Torpedo",
+                                             "description":  "\u003cp\u003e(Range 1200/4800), melt, keen 1\u003c/p\u003e\n\u003cp\u003e70 (140) lb\u003c/p\u003e\n\u003cp\u003e2d10 (4d10) fire\u003c/p\u003e"
+                                         },
+                    "Homing Torpedo":  {
+                                           "name":  "Homing Torpedo",
+                                           "description":  "\u003cp\u003e(Range 1200/4800), explosive, homing\u003c/p\u003e\n\u003cp\u003e25 (50) lb\u003c/p\u003e\n\u003cp\u003e1d12 (2d12) energy\u003c/p\u003e"
+                                       },
+                    "Rapid-fire laser cannon":  {
+                                                    "name":  "Rapid-fire laser cannon",
+                                                    "description":  "Power (range 400/1600), auto, burst 16, overheat 16, rapid 4"
+                                                },
+                    "Assault turbolaser battery":  {
+                                                       "name":  "Assault turbolaser battery",
+                                                       "description":  "Power (range 1200/4800), con. 15, overheat 2"
+                                                   },
+                    "Light turbolaser battery":  {
+                                                     "name":  "Light turbolaser battery",
+                                                     "description":  "Power (range 800/3200), overheat 16"
+                                                 },
+                    "Quad turbolaser battery":  {
+                                                    "name":  "Quad turbolaser battery",
+                                                    "description":  "Power (range 800/3200), con. 13, overheat 8, rapid 2"
+                                                },
+                    "Assault rocket pod launcher":  {
+                                                        "name":  "Assault rocket pod launcher",
+                                                        "description":  "\u003cp\u003eAmmunition, reload 24\u003c/p\u003e"
+                                                    },
+                    "Glop Bomb":  {
+                                      "name":  "Glop Bomb",
+                                      "description":  "\u003cp\u003e2000 (4000) cr\u003c/p\u003e\u003cp\u003e30 (60) lb\u003c/p\u003e\u003cp\u003eWhen a glop bomb detonates, each ship within 50 [100] feet must make a Dexterity saving throw (DC 15). On a failed save, a ship is blinded for 1 minute. As an action on each of their turns, a crew member can have the ship repeat the saving throw, ending the effect on a success. Ships larger than you have advantage on their saving throw.\u003c/p\u003e"
+                                  },
+                    "Bomblet":  {
+                                    "name":  "Bomblet",
+                                    "description":  "\u003cp\u003e1200 (2400) cr\u003c/p\u003e\u003cp\u003e16 (32) lb\u003c/p\u003e\u003cp\u003eWhen a bomblet detonates, each ship within 50 [100] feet must make a Dexterity saving throw (DC 15). A ship takes 1d10 [2d10] energy damage on a failed save, or half as much on a successful one.\u003c/p\u003e"
+                                },
+                    "Nano Cluster Rocket":  {
+                                                "name":  "Nano Cluster Rocket",
+                                                "description":  "\u003cp\u003e(Range 800/3200), explosive, homing\u003c/p\u003e\n\u003cp\u003e10 (20) lb\u003c/p\u003e\n\u003cp\u003e1d4 (2d4) kinetic\u003c/p\u003e"
+                                            },
+                    "Concussion Missile":  {
+                                               "name":  "Concussion Missile",
+                                               "description":  "\u003cp\u003e(Range 600/2400), auto, burst 1, explosive, rapid 1\u003c/p\u003e\n\u003cp\u003e75 (150) lb\u003c/p\u003e\n\u003cp\u003e2d8 (4d8) energy\u003c/p\u003e"
+                                           },
+                    "Proton Torpedo":  {
+                                           "name":  "Proton Torpedo",
+                                           "description":  "\u003cp\u003e(Range 1200/4800), explosive, keen 1\u003c/p\u003e\u003cp\u003e65 (130) lb\u003c/p\u003e\u003cp\u003e2d10 (4d10) energy\u003c/p\u003e"
+                                       },
+                    "Gravity Bomb":  {
+                                         "name":  "Gravity Bomb",
+                                         "description":  "\u003cp\u003e2200 (4400) cr\u003c/p\u003e\u003cp\u003e40 (80) lb\u003c/p\u003e\u003cp\u003eRather than exploding on contact, gravity bombs detonate any time a ship comes within range of it. When a gravity bomb detonates, it attaches itself to the closest ship hull within 50 [100] feet, creating a mass shadow centered on the ship with a radius of 50 feet that lasts for 10 minutes. A ship can attempt to dislodge the gravity bomb at the beginning of each ship turn by making a Strength saving throw (DC 15). Any Large or smaller [Gargantuan or smaller] ships with an attached gravity bomb are unable to activate their hyperdrives.\u003c/p\u003e"
+                                     },
+                    "Bomb deployer":  {
+                                          "name":  "Bomb deployer",
+                                          "description":  "Ammunition, reload 4"
+                                      },
+                    "Assault torpedo launcher":  {
+                                                     "name":  "Assault torpedo launcher",
+                                                     "description":  "Ammunition reload 8"
+                                                 },
+                    "Double turbolaser battery":  {
+                                                      "name":  "Double turbolaser battery",
+                                                      "description":  "Power (range 800/3200), overheat 8"
+                                                  },
+                    "Proton Rocket":  {
+                                          "name":  "Proton Rocket",
+                                          "description":  "\u003cp\u003e(Range 200/800), explosive, vicious 1\u003c/p\u003e\n\u003cp\u003e95 (190) lb\u003c/p\u003e\n\u003cp\u003e10d4 (20d4) kinetic\u003c/p\u003e"
+                                      },
+                    "Proximity Mine":  {
+                                           "name":  "Proximity Mine",
+                                           "description":  "\u003cp\u003e2200 (4400) cr\u003c/p\u003e\u003cp\u003e32 (65) lb\u003c/p\u003e\u003cp\u003eRather than exploding on contact, proximity mines detonate any time a ship comes within range of it. When a proximity mine detonates, each ship within 100 [200] feet must make a Dexterity saving throw (DC 15). A ship takes 2d10 [4d10] fire damage on a failed save, or half as much on a successful one.\u003c/p\u003e"
+                                       },
+                    "Advanced Proton Torpedo":  {
+                                                    "name":  "Advanced Proton Torpedo",
+                                                    "description":  "\u003cp\u003e(Range 800/3200), explosive, keen 1\u003c/p\u003e\n\u003cp\u003e85 (170) lb\u003c/p\u003e\n\u003cp\u003e2d12 (4d12) energy\u003c/p\u003e"
+                                                },
+                    "Laser cannon":  {
+                                         "name":  "Laser cannon",
+                                         "description":  "Power (range 1000/4000), constitution 11, overheat 4"
+                                     },
+                    "Bomb layer":  {
+                                       "name":  "Bomb layer",
+                                       "description":  "Ammunition, reload 8"
+                                   },
+                    "Missile launcher":  {
+                                             "name":  "Missile launcher",
+                                             "description":  "Ammunition, reload 4"
+                                         }
+                },
+    "mapping":  {
+                    "atFlavorText":  "system.atFlavorText.value",
+                    "name":  "name",
+                    "description":  "system.description.value",
+                    "biography":  "system.details.biography.value",
+                    "advancements":  {
+                                         "path":  "system.advancement",
+                                         "converter":  "sw5eAdvancements"
+                                     },
+                    "chat":  "system.description.chat",
+                    "invocations":  "system.invocations.value"
+                }
+}

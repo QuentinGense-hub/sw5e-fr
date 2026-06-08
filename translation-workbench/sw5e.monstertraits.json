@@ -1,0 +1,597 @@
+{
+    "label":  "Monster Traits",
+    "entries":  {
+                    "Vines":  {
+                                  "name":  "Vines",
+                                  "description":  "\u003csection id=\"secret-uZoCINajuNksClKc\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+6, Reach 15 ft., One target. \u003cem\u003eHit : \u003c/em\u003e22 (4d8+4) kinetic damage.\u003c/p\u003e\u003cp\u003eThe target is Grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the vines can\u0027t constrict another target.\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} attacks with vines.\u003c/span\u003e\u003c/p\u003e"
+                              },
+                    "Disruptive":  {
+                                       "name":  "Disruptive",
+                                       "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhen a creature is forced to make a Constitution saving throw to maintain concentration due to taking damage from the {creature}, the DC for the check equals 10 or the full damage taken, whichever number is higher, instead of only half.\u003c/span\u003e\u003c/p\u003e"
+                                   },
+                    "Tusks":  {
+                                  "name":  "Tusks",
+                                  "description":  "\u003csection id=\"secret-s4nxKGwZTZvx86jb\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+8, Reach 5 ft., One target. \u003cem\u003eHit : \u003c/em\u003e13 (2d8+4) kinetic damage\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} attacks using its tusks.\u003c/span\u003e\u003c/p\u003e"
+                              },
+                    "Echolocation":  {
+                                         "name":  "Echolocation",
+                                         "description":  "\u003cp\u003eThe {creature} can\u0027t use its blindsight while deafened.\u003c/p\u003e"
+                                     },
+                    "Brutal Critical":  {
+                                            "name":  "Brutal Critical",
+                                            "description":  "\u003cp\u003eWhen the {creature}s scores a critical hit with a melee weapon attack, roll one of the weapon\u0027s damage dice one additional time and add it to the extra damage of the critical hit.\u003c/p\u003e"
+                                        },
+                    "Reactive":  {
+                                     "name":  "Reactive",
+                                     "description":  "\u003cp\u003eThe {creature} can take one reaction each turn.\u003c/p\u003e"
+                                 },
+                    "Aura of Command":  {
+                                            "name":  "Aura of Command",
+                                            "description":  "\u003cp\u003eFriendly creatures that it can see and hear the {creature} within 30 feet of it add a +1 bonus to their attack and damage rolls. This effect ends if the {creature} is incapacitated.\u003c/p\u003e"
+                                        },
+                    "Enhanced Sensors":  {
+                                             "name":  "Enhanced Sensors",
+                                             "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on hearing or sight.\u003c/p\u003e"
+                                         },
+                    "Troop Transport":  {
+                                            "name":  "Troop Transport",
+                                            "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e can transport a maximum of X {passengers} and X {vehicles}, which it can deploy using its Deploy legendary action, or which can be fought by creatures inside of the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e.\u003c/p\u003e"
+                                        },
+                    "Relentless Fortitude":  {
+                                                 "name":  "Relentless Fortitude",
+                                                 "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eIf the {creature} would be reduced to 0 hit points, it rolls a [[/r 1d6]], on a roll of a 5 or 6, the {creature} is instead only reduced to 1.\u003c/span\u003e\u003c/p\u003e"
+                                             },
+                    "Superior Camouflage":  {
+                                                "name":  "Superior Camouflage",
+                                                "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} turns invisible until its concentration ends (as if concentrating on a power).\u003c/span\u003e\u003c/p\u003e"
+                                            },
+                    "Charge":  {
+                                   "name":  "Charge",
+                                   "description":  "\u003cp\u003eIf the {creature} moves at least 20 feet toward a target and hits it with a {natural weapon} attack on that turn, the target takes an extra 7 (2d6) kinetic damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.\u003c/p\u003e"
+                               },
+                    "Keen Hearing and Sight":  {
+                                                   "name":  "Keen Hearing and Sight",
+                                                   "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on hearing or sight. \u003c/p\u003e"
+                                               },
+                    "Ball Form":  {
+                                      "name":  "Ball Form",
+                                      "description":  "\u003cp\u003eAs a bonus action, the {creature} can transform into or out of ball form. While in ball form, the {creature} has increased speed, but it can not attack.\u003c/p\u003e"
+                                  },
+                    "Targeting Systems":  {
+                                              "name":  "Targeting Systems",
+                                              "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e uses its Intelligence modifier for attack, damage, and intitiative rolls.\u003c/p\u003e"
+                                          },
+                    "Throw Boulder":  {
+                                          "name":  "Throw Boulder",
+                                          "description":  "\u003csection id=\"secret-YGXcpiDtyKq68DJY\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eRanged Weapon Attack \u003c/em\u003e+8, Range 60/240 ft., One target. \u003cem\u003eHit : \u003c/em\u003e21 (3d10+5) kinetic damage.\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} attacks by throwing a boulder.\u003c/span\u003e\u003c/p\u003e"
+                                      },
+                    "Teleport":  {
+                                     "name":  "Teleport",
+                                     "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e teleports up to 120 feet into an unoccupied space it can see.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                                 },
+                    "Swarm":  {
+                                  "name":  "Swarm",
+                                  "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe swarm can occupy another creature\u0027s space and vice versa, and the swarm can move through any opening large enough for a medium {creature}. The swarm can\u0027t regain hit points or gain temporary hit points.\u003c/span\u003e\u003c/p\u003e"
+                              },
+                    "Legendary Resistance (3/Day)":  {
+                                                         "name":  "Legendary Resistance (3/Day)",
+                                                         "description":  "\u003cp\u003eIf the {creature} fails a saving throw, it can choose to succeed instead.\u003c/p\u003e"
+                                                     },
+                    "Keen Sight and Smell":  {
+                                                 "name":  "Keen Sight and Smell",
+                                                 "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on sight and smell.\u003c/p\u003e"
+                                             },
+                    "Air Form":  {
+                                     "name":  "Air Form",
+                                     "description":  "\u003cp\u003eThe {creature} can enter a hostile creature\u0027s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.\u003c/p\u003e"
+                                 },
+                    "Ram":  {
+                                "name":  "Ram",
+                                "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eAny creature within the {creature}\u0027s movement path must make a DC 17 Dexterity saving throw, taking 26 (4d12) kinetic damage on a failed save and is knocked prone, or half as much damage on a successful one\u003c/span\u003e\u003c/p\u003e"
+                            },
+                    "Gunner":  {
+                                   "name":  "Gunner",
+                                   "description":  "\u003cp\u003eThe construct requires an active gunner to take any actions, and if the gunner is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. The gunner may take their own action or one of the actions granted by the construct.\u003c/p\u003e"
+                               },
+                    "Constrict":  {
+                                      "name":  "Constrict",
+                                      "description":  "\u003cp\u003e\u003c/p\u003e\u003csection id=\"secret-XmgDZgs9F7aXYVal\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+9, Reach 10 ft., One target. \u003cem\u003eHit : \u003c/em\u003e9 (1d8+5) kinetic damage.\u003c/p\u003e\u003cp\u003eIf the target is a Large or smaller creature is Grappled (escape DC 16).\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe {creature} uses its appendages to constrict its opponent.\u003c/p\u003e"
+                                  },
+                    "Set Mine":  {
+                                     "name":  "Set Mine",
+                                     "description":  "\u003cp\u003eAfter setting this mine, a laser line imperceptible to normal vision extends up to 15 feet out. When the laser is tripped, the mine explodes, and each creature within 15 feet of it must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 3d6 kinetic damage, or half as much on a successful one.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                                 },
+                    "Energy Absorption":  {
+                                              "name":  "Energy Absorption",
+                                              "description":  "\u003cp\u003eWhenever the {creature} is subjected to energy damage, it takes no damage and instead regains a number of hit points equal to the energy damage dealt.\u003c/p\u003e"
+                                          },
+                    "Advanced Telepathy":  {
+                                               "name":  "Advanced Telepathy",
+                                               "description":  "\u003cp\u003eThe {creature} can perceive the content of any telepathic communication used within 60 feet of it, and it can\u0027t be surprised by creatures with any form of telepathy.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                                           },
+                    "Unhindered Movement":  {
+                                                "name":  "Unhindered Movement",
+                                                "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e\u0027s movement speed is not reduced while moving with a grappled creature.\u003c/p\u003e"
+                                            },
+                    "Relentless":  {
+                                       "name":  "Relentless",
+                                       "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhen the {creature} is reduced to 0 hit points, it is reduced to 1 hit point instead.\u003c/span\u003e\u003c/p\u003e"
+                                   },
+                    "Jetpack":  {
+                                    "name":  "Jetpack",
+                                    "description":  "\u003cp\u003eActivating or deactivating the jetpack requires a bonus action and, while active, the {creature} has a flying speed of 30 feet. The jetpack lasts for a maximum of 10 minutes.\u003c/p\u003e"
+                                },
+                    "Sunlight Sensitivity":  {
+                                                 "name":  "Sunlight Sensitivity",
+                                                 "description":  "\u003cp\u003eWhile in sunlight, the {creature} has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\u003c/p\u003e"
+                                             },
+                    "Keen Hearing":  {
+                                         "name":  "Keen Hearing",
+                                         "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on hearing.\u003c/p\u003e"
+                                     },
+                    "Martial Advantage":  {
+                                              "name":  "Martial Advantage",
+                                              "description":  "\u003cp\u003eOnce per turn, the {creature} can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the {creature} that isn\u0027t incapacitated.\u003c/p\u003e"
+                                          },
+                    "Regeneration":  {
+                                         "name":  "Regeneration",
+                                         "description":  "\u003cp\u003eThe {creature} regains 10 hit points at the start of its turn if it has at least 1 hit point.\u003c/p\u003e"
+                                     },
+                    "Damage Transfer":  {
+                                            "name":  "Damage Transfer",
+                                            "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhile attached to a creature, the {creature} takes only half the damage dealt to it (rounded down), and that creature takes the other half.\u003c/span\u003e\u003c/p\u003e"
+                                        },
+                    "Pack Tactics":  {
+                                         "name":  "Pack Tactics",
+                                         "description":  "\u003cp\u003eThe {creature} has advantage on an attack roll against a creature if it is grappled by at least one of the {creature}\u0027s allies.\u003c/p\u003e"
+                                     },
+                    "Sunlight Hypersensitivity":  {
+                                                      "name":  "Sunlight Hypersensitivity",
+                                                      "description":  "\u003cp\u003eThe {creature} takes 5 fire damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.\u003c/p\u003e"
+                                                  },
+                    "Limited Amphibiousness":  {
+                                                   "name":  "Limited Amphibiousness",
+                                                   "description":  "\u003cp\u003eThe {creature} can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.\u003c/p\u003e"
+                                               },
+                    "Keen Hearing and Smell":  {
+                                                   "name":  "Keen Hearing and Smell",
+                                                   "description":  "\u003cp\u003eThe {creature} has advantage on on Wisdom (Perception) checks that rely on hearing and smell.\u003c/p\u003e"
+                                               },
+                    "Wounded Fury":  {
+                                         "name":  "Wounded Fury",
+                                         "description":  "\u003cp\u003eWhile it has 10 hit points or fewer, the {creature} has advantage on attack rolls. In addition, it deals an extra 7 [[/r 2d6]] damage to any target it hits with a melee attack.\u003c/p\u003e"
+                                     },
+                    "Surprise Attack":  {
+                                            "name":  "Surprise Attack",
+                                            "description":  "\u003cp\u003eIf the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.\u003c/p\u003e"
+                                        },
+                    "Detect Force":  {
+                                         "name":  "Detect Force",
+                                         "description":  "\u003cp\u003eThe {creature} can sense the presence and direction of a creature who can cast force powers within 120 feet.\u003c/p\u003e"
+                                     },
+                    "Stock Strike":  {
+                                         "name":  "Stock Strike",
+                                         "description":  "\u003csection id=\"secret-h3cB314coxEnBlFc\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+4, Reach 5 ft., One target. \u003cem\u003eHit : \u003c/em\u003e4 (1d4+2) kinetic damage\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe stock of a blaster is hard and unyielding.\u003c/p\u003e"
+                                     },
+                    "Volley":  {
+                                   "name":  "Volley",
+                                   "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e makes one ranged attack against every enemy within 10 feet of a point it can see.\u003c/p\u003e\u003csection id=\"secret-UgdQSJ6IF2H3gIao\" class=\"secret\"\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027\"\u003e\u003cem style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:\u0027Open Sans\u0027;font-size:12px\"\u003eRanged Weapon Attack \u003c/em\u003e+6, Range 100/400 ft., One target. \u003cem style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:\u0027Open Sans\u0027;font-size:12px\"\u003eHit : \u003c/em\u003e8 (1d8+4) energy damage\u003c/span\u003e\u003c/p\u003e\u003c/section\u003e"
+                               },
+                    "Locked Saddle":  {
+                                          "name":  "Locked Saddle",
+                                          "description":  "\u003cp\u003eThe {creature} cannot be knocked prone, dismounted, or moved against it\u0027s will while mounted.\u003c/p\u003e"
+                                      },
+                    "Towering":  {
+                                     "name":  "Towering",
+                                     "description":  "\u003cp\u003eCreatures of Large size or smaller can stand in the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e\u0027s space.\u003c/p\u003e"
+                                 },
+                    "Weapons Tech Enhancements":  {
+                                                      "name":  "Weapons Tech Enhancements",
+                                                      "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has the following weapon enhancements:\u003c/p\u003e\u003cp\u003eAccuracy Scope. \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e gains a +2 to attack rolls (included). Amplifying Barrel. Specialist gains a +2 to damage (included). Bayonet. \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} \u003c/span\u003ecan make melee attacks with the finesse property utilizing his sniper rifle.\u003c/p\u003e\u003cp\u003eBooming Strikes. Once per turn, when the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e hits with the weapon, he can deal an additional 1d6 damage (included). The weapon makes a loud boom which can be heard 100 feet away. If the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} \u003c/span\u003eis hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.\u003c/p\u003e\u003cp\u003eOvercharge Weapon. The \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} \u003c/span\u003ecan expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. You can add this damage to the extra damage of your Booming Strikes.\u003c/p\u003e"
+                                                  },
+                    "Fixed":  {
+                                  "name":  "Fixed",
+                                  "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhen the {creature} makes a check or saving throw to avoid being moved, it does so with advantage and adds +10 to the roll.\u003c/span\u003e\u003c/p\u003e"
+                              },
+                    "Sneak Attack (1/Turn)":  {
+                                                  "name":  "Sneak Attack (1/Turn)",
+                                                  "description":  "\u003cp\u003eThe {creature} deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the {creature} that isn\u0027t incapacitated and the assassin doesn\u0027t have disadvantage on the roll.\u003c/p\u003e"
+                                              },
+                    "Multiattack":  {
+                                        "name":  "Multiattack",
+                                        "description":  "\u003cp\u003eThe {creature} makes two attacks with its blaster cannon.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                                    },
+                    "Blood Rage":  {
+                                       "name":  "Blood Rage",
+                                       "description":  "\u003cp\u003eWhen a creature within 5 feet of the {creature} hits it with an attack, the {creature} may use its reaction to immediately make a melee weapon attack with advantage against that creature.\u003c/p\u003e"
+                                   },
+                    "Tentacle":  {
+                                     "name":  "Tentacle",
+                                     "description":  "\u003csection id=\"secret-a53vOWfDPGF56iPR\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+14, Reach 60 ft., One target. \u003cem\u003eHit : \u003c/em\u003e26 (4d8+8) kinetic damage.\u003c/p\u003e\u003cp\u003eThe target is grappled (escape DC 16). Until this grapple ends, the target is restrained. The \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has X tentacles, each of which can grapple one target.\u003c/p\u003e\u003c/section\u003e\u003cp\u003e\u003c/p\u003e"
+                                 },
+                    "Grasping Tendrils":  {
+                                              "name":  "Grasping Tendrils",
+                                              "description":  "\u003cp\u003eThe {creature} can have up to seven at a time. Each tentacle can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tentacle deals no damage to the {creature}, which can extrude a replacement tentacle on its next turn. A tentacle can also be broken if a creature takes an action and succeeds on a DC 16 Strength check against it.\u003c/p\u003e"
+                                          },
+                    "Vulnerable Interior":  {
+                                                "name":  "Vulnerable Interior",
+                                                "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e\u0027s interior is vulnerable to damage done by grenades, mines and charges, unless it is immune to that damage. It also automatically fails all Dexterity saving throws from such effects that occur in its interior.\u003c/p\u003e"
+                                            },
+                    "Dive Attack":  {
+                                        "name":  "Dive Attack",
+                                        "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eIf the {creature} is flying and dives at least 30 feet straight toward a target and then hits it with a talon attack, the attack deals an extra 2 [[/r 1d4]] damage to the target.\u003c/span\u003e\u003c/p\u003e"
+                                    },
+                    "Trampling Charge":  {
+                                             "name":  "Trampling Charge",
+                                             "description":  "\u003cp\u003eIf the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e moves at least 20 feet straight toward a creature and then hits it with a bite attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e can make one {weapon} attack against it as a bonus action.\u003c/p\u003e"
+                                         },
+                    "Mounted Warrior":  {
+                                            "name":  "Mounted Warrior",
+                                            "description":  "\u003cp\u003eWhile the {creature} is mounted, the mount cannot be charmed or frightened.\u003c/p\u003e"
+                                        },
+                    "Blood Frenzy":  {
+                                         "name":  "Blood Frenzy",
+                                         "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} has advantage on melee attack rolls against any creature that doesn\u0027t have all its hit points.\u003c/span\u003e\u003c/p\u003e"
+                                     },
+                    "War Casting":  {
+                                        "name":  "War Casting",
+                                        "description":  "\u003cp\u003eWhen the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e uses an action to cast a power, they can use a bonus action to make a {melee weapon} attack.\u003c/p\u003e"
+                                    },
+                    "Onslaught":  {
+                                      "name":  "Onslaught",
+                                      "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eAs a bonus action, the {creature} can make a shove attack.\u003c/span\u003e\u003c/p\u003e"
+                                  },
+                    "Spiked Hide":  {
+                                        "name":  "Spiked Hide",
+                                        "description":  "\u003csection id=\"secret-znk06GzuFanVajXb\" class=\"secret\"\u003e\u003cp\u003eAny creature that grapples the {creature} takes 3 (1d6) kinetic damage at the end of its turn.\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe spikes are a natural defense.\u003c/p\u003e"
+                                    },
+                    "Stench":  {
+                                   "name":  "Stench",
+                                   "description":  "\u003cp\u003eAny creature other than a {creature} that starts its turn within 10 feet of the {creature} must succeed on a DC 15 Constitution saving throw or be poisoned until the start of the creature\u0027s next turn. On a successful saving throw, the creature is immune to the stench of any {creature} for 1 hour.\u003c/p\u003e"
+                               },
+                    "Venom Spray":  {
+                                        "name":  "Venom Spray",
+                                        "description":  "\u003cp\u003eThe dragon spits poison in a 60-foot cone. \u003c/p\u003e\u003csection id=\"secret-LTU0xPVS1cTNtnoe\" class=\"secret\"\u003e\u003cp\u003eEach creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage damage on a failed save, or half as much damage on a successful one.\u003c/p\u003e\u003c/section\u003e\u003cp\u003e\u003c/p\u003e"
+                                    },
+                    "Villainous Exhaustion":  {
+                                                  "name":  "Villainous Exhaustion",
+                                                  "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e rolls initiative with advantage. \u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e starts with a number of villainous actions equal to one less than it\u0027s villainous multiplier. If a hit point pool is depleted, \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e also loses one villainous action. \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e may use a villainous action after any other creature takes a turn. If \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e does so, it regains its reaction. A villainous action is a complete turn. They have an action, bonus action and may move up to their full speed. The villainous actions refresh at the start of \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e\u0027s turn and any remaining actions from the previous turn are lost.\u003c/p\u003e"
+                                              },
+                    "Forcecasting":  {
+                                         "name":  "Forcecasting",
+                                         "description":  "\u003cp\u003eThe {creature} is a Xth-level forcecaster. Its forcecasting ability is {ability} (Power save DC X, +X to hit with force attacks) and it has X force points. The {creature} knows the following force powers:\u003c/p\u003e\u003cp\u003eAt-will: \u003c/p\u003e\u003cp\u003e1st-level: \u003c/p\u003e\u003cp\u003e2nd-level:\u003c/p\u003e"
+                                     },
+                    "Atmosphere Agnostic":  {
+                                                "name":  "Atmosphere Agnostic",
+                                                "description":  "\u003cp\u003eThe {creature} can survive in any type of atmosphere or vacuum.\u003c/p\u003e"
+                                            },
+                    "Snow Camouflage":  {
+                                            "name":  "Snow Camouflage",
+                                            "description":  "\u003cp\u003eThe {creature} has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.\u003c/p\u003e"
+                                        },
+                    "Magnetic Lock":  {
+                                          "name":  "Magnetic Lock",
+                                          "description":  "\u003cp\u003eThe {creature} can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\u003c/p\u003e"
+                                      },
+                    "Avoidance":  {
+                                      "name":  "Avoidance",
+                                      "description":  "\u003cp\u003eIf the {creature} is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.\u003c/p\u003e"
+                                  },
+                    "Squad":  {
+                                  "name":  "Squad",
+                                  "description":  "\u003cp\u003eThe squad can occupy another creature\u0027s space and vice versa, and can move through openings large enough for a Medium humanoid. The squad is immune to any power or effect that would alter its form.\u003c/p\u003e"
+                              },
+                    "Force Resistance":  {
+                                             "name":  "Force Resistance",
+                                             "description":  "\u003cp\u003eThe {creature} has advantage on saving throws against force powers and resistance to damage dealt by force powers.\u003c/p\u003e"
+                                         },
+                    "Mud Camouflage":  {
+                                           "name":  "Mud Camouflage",
+                                           "description":  "\u003cp\u003eThe {creature} has advantage on Dexterity (Stealth) checks made to hide in muddy terrain.\u003c/p\u003e"
+                                       },
+                    "Rooted":  {
+                                   "name":  "Rooted",
+                                   "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} is rooted in place and cannot move.\u003c/span\u003e\u003c/p\u003e"
+                               },
+                    "Enhanced Weapons":  {
+                                             "name":  "Enhanced Weapons",
+                                             "description":  "\u003cp\u003eThe {creature} weapon attacks are enhanced.\u003c/p\u003e"
+                                         },
+                    "Detect Sentience":  {
+                                             "name":  "Detect Sentience",
+                                             "description":  "\u003cp\u003eThe {creature} can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank force power.\u003c/p\u003e"
+                                         },
+                    "Whirlpool (Costs 2 Actions)":  {
+                                                        "name":  "Whirlpool (Costs 2 Actions)",
+                                                        "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} creates a whirlpool in the water at a point it can see within 30 feet. The whirlpool is a 30-feet deep cylinder with a 10-foot radius centered on that point. On subsequent turns, the {creature} can use its Whirlpool action again to maintain and move the whirlpool up to 30 feet in any direction along the surface of the water. The whirlpool sucks up any medium or smaller objects that aren\u0027t secured to anything and that aren\u0027t worn or carried by anyone.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eA creature must make a DC 21 Dexterity saving throw when it enters the whirlpool\u0027s area for the first time on a turn or starts its turn there. A creature takes 27 (6d8) kinetic damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a DC 21 Strength saving throw or become restrained in the whirlpool until the power ends.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhen a creature starts its turn restrained by the whirlpool, the creature is pulled 5 feet deeper inside it, unless the creature is at the bottom. A restrained creature moves with the whirlpool and is submerged when the effect ends, unless the creature has some means to stay afloat. A restrained creature can use an action to make a DC 21 Strength or Dexterity check. If successful, the creature is no longer restrained by the whirlpool and is hurled [[/r 3d6x10]] feet away from it in a random direction. The whirlpool lasts for one round. The aqua monster can repeat the legendary action again to maintain the whirlpool.\u003c/span\u003e\u003c/p\u003e"
+                                                    },
+                    "Amphibious":  {
+                                       "name":  "Amphibious",
+                                       "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} can breathe air and water\u003c/span\u003e\u003c/p\u003e"
+                                   },
+                    "Brute":  {
+                                  "name":  "Brute",
+                                  "description":  "\u003cp\u003eThe {creature} deals an extra 3 (1d6) damage when it hits with a melee weapon attack (include in the attack\u0027s damage).\u003c/p\u003e"
+                              },
+                    "Web Sense":  {
+                                      "name":  "Web Sense",
+                                      "description":  "\u003cp\u003eWhile in contact with a web, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e knows the exact location of any other creature in contact with the same web.\u003c/p\u003e"
+                                  },
+                    "Creature Sense":  {
+                                           "name":  "Creature Sense",
+                                           "description":  "\u003cp\u003eThe {creature} is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each such creature, as well as each such creature\u0027s intelligence score, but it can\u0027t sense anything else about it. Droids and creatures protected by a mind blank power or other similar power cannot be perceived in this manner.\u003c/p\u003e"
+                                       },
+                    "Hold Breath":  {
+                                        "name":  "Hold Breath",
+                                        "description":  "\u003cp\u003eThe {creature} can hold its breath for 30 minutes.\u003c/p\u003e"
+                                    },
+                    "Tech Resistance":  {
+                                            "name":  "Tech Resistance",
+                                            "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has advantage on saving throws against tech powers.\u003c/p\u003e"
+                                        },
+                    "Stone Camouflage":  {
+                                             "name":  "Stone Camouflage",
+                                             "description":  "\u003cp\u003eThe {creature} has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\u003c/p\u003e"
+                                         },
+                    "Stealthy":  {
+                                     "name":  "Stealthy",
+                                     "description":  "\u003cp\u003eThe {creature} can take the Hide action as a bonus action.\u003c/p\u003e"
+                                 },
+                    "Operated":  {
+                                     "name":  "Operated",
+                                     "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe construct requires operation by both a Pilot \u0026amp; Gunner. An active operator acts on its own initiative.\u003c/span\u003e\u003c/p\u003e"
+                                 },
+                    "Incorporeal Movement":  {
+                                                 "name":  "Incorporeal Movement",
+                                                 "description":  "\u003cp\u003eThe {creature} can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.\u003c/p\u003e"
+                                             },
+                    "Reckless":  {
+                                     "name":  "Reckless",
+                                     "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eAt the start of its turn, the {creature} can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.\u003c/span\u003e\u003c/p\u003e"
+                                 },
+                    "Innate Forcecasting":  {
+                                                "name":  "Innate Forcecasting",
+                                                "description":  "\u003cp\u003e{creature}\u0027s forceasting ability is {ability} (force save DC X). {creature} can innately cast\u003c/p\u003e\u003cp\u003ethe following powers:\u003c/p\u003e\u003cp\u003eAt will:\u003c/p\u003e\u003cp\u003e3/day each: \u003c/p\u003e\u003cp\u003e1/day each: \u003c/p\u003e"
+                                            },
+                    "Rocket Boost":  {
+                                         "name":  "Rocket Boost",
+                                         "description":  "\u003cp\u003eThe {creature} leaps up to 40 feet in any direction.\u003c/p\u003e"
+                                     },
+                    "Shadow Stealth":  {
+                                           "name":  "Shadow Stealth",
+                                           "description":  "\u003cp\u003eWhile lightly or heavily obscured, the {creature} can take the Hide action as a bonus action.\u003c/p\u003e"
+                                       },
+                    "Brave":  {
+                                  "name":  "Brave",
+                                  "description":  "\u003cp\u003eThe {creature} has advantage on saving throws against being frightened.\u003c/p\u003e"
+                              },
+                    "Beast of Burden":  {
+                                            "name":  "Beast of Burden",
+                                            "description":  "\u003cp\u003eThe {creature} is considered to be a Huge animal for the purposes of determining its carrying capacity.\u003c/p\u003e"
+                                        },
+                    "Pounce":  {
+                                   "name":  "Pounce",
+                                   "description":  "\u003cp\u003eIf the {creature} moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15 Strength saving throw or be knocked prone. If the target is prone, the {creature} can make one bite attack against it as a bonus action.\u003c/p\u003e"
+                               },
+                    "Poisonous Skin":  {
+                                           "name":  "Poisonous Skin",
+                                           "description":  "\u003cp\u003eAny creature that grapples the {creature} or otherwise comes into direct contact with the {creature}\u0027s skin must succeed on a DC 14 Constitution saving throw or be stunned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.\u003c/p\u003e"
+                                       },
+                    "Diving Ambush":  {
+                                          "name":  "Diving Ambush",
+                                          "description":  "\u003cp\u003eIf the {creature} drops on to target from above and hits it with a bite attack on the same turn, the target takes an extra 3 [[/r 1d6]] kinetic damage per 10 feet fallen, up to 14 (4d6). If the {creature} misses, it takes half normal falling damage for distance fallen.\u003c/p\u003e"
+                                      },
+                    "Flyby":  {
+                                  "name":  "Flyby",
+                                  "description":  "\u003cp\u003eThe {creature} doesn\u0027t provoke opportunity attacks when it flies out of an enemy\u0027s reach.\u003c/p\u003e"
+                              },
+                    "Fortified Mind":  {
+                                           "name":  "Fortified Mind",
+                                           "description":  "\u003cp\u003eThe {creature} has advantage on saving throws against being charmed and frightened, and it can\u0027t be put to sleep.\u003c/p\u003e"
+                                       },
+                    "Nimble Escape":  {
+                                          "name":  "Nimble Escape",
+                                          "description":  "\u003cp\u003eThe {creature} can take the Disengage or Hide action as a bonus action on each of its turns.\u003c/p\u003e"
+                                      },
+                    "Keen Striking":  {
+                                          "name":  "Keen Striking",
+                                          "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} scores a critical hit on a roll of 19 or 20. If at least one of the {creature}\u0027s allies is within 5 feet of its target and the ally isn\u0027t incapacitated, the {creature} instead scores a critical hit on a roll of 18-20.\u003c/span\u003e\u003c/p\u003e"
+                                      },
+                    "Stomp":  {
+                                  "name":  "Stomp",
+                                  "description":  "\u003csection id=\"secret-oIXdjm5fHHVjikhK\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+8, Reach 5 ft., One prone creature. \u003cem\u003eHit : \u003c/em\u003e22 (3d10+6) kinetic damage.\u003c/p\u003e\u003c/section\u003e\u003cp\u003eA large appendage slams down.\u003c/p\u003e"
+                              },
+                    "Telepathy":  {
+                                      "name":  "Telepathy",
+                                      "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} can communicate telepathically with other creatures within its line of sight.\u003c/span\u003e\u003c/p\u003e"
+                                  },
+                    "Howdah":  {
+                                   "name":  "Howdah",
+                                   "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} carries a fortified platform on its back. Up to six Medium creatures can ride on the platform without squeezing. Creatures on the platform have three-quarters cover against attacks and effects from outside it. If the {creature} dies, creatures on the platform are placed in occupied spaces within 10 feet of the {creature}.\u003c/span\u003e\u003c/p\u003e"
+                               },
+                    "Blood Thirsty":  {
+                                          "name":  "Blood Thirsty",
+                                          "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eIf the {creature} hits the same creature with two {weapon} attacks in one turn, it can make a {weapon} attack as a bonus action.\u003c/span\u003e\u003c/p\u003e"
+                                      },
+                    "Turtle":  {
+                                   "name":  "Turtle",
+                                   "description":  "\u003cp\u003eThe first time the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e would drop to zero hit points, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e can instead remain at one hit point and temporarily deactivate and fold up into a tougher, immobile form. While turtled, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has an AC of 14, and is considered paralyzed. The creature interfaced with this \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e can use a bonus action to restore this \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e to it\u0027s unturtled condition.\u003c/p\u003e"
+                               },
+                    "Spider Climb":  {
+                                         "name":  "Spider Climb",
+                                         "description":  "\u003cp\u003eThe {creature} can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\u003c/p\u003e"
+                                     },
+                    "Tail":  {
+                                 "name":  "Tail",
+                                 "description":  "\u003csection id=\"secret-UeM7gW4TzawbkR4Z\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+17, Reach 15 ft., One target. \u003cem\u003eHit : \u003c/em\u003e19 (2d8+10) kinetic damage\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e attacks with its tail.\u003c/p\u003e"
+                             },
+                    "Cunning Action":  {
+                                           "name":  "Cunning Action",
+                                           "description":  "\u003cp\u003eOn each of its turns, {creature} can use a bonus action to take the Dash, Disengage, or Hide action.\u003c/p\u003e"
+                                       },
+                    "Aggressive":  {
+                                       "name":  "Aggressive",
+                                       "description":  "\u003cp\u003eAs a bonus action, the {creature} can move up to its speed toward an enemy that it can see or hear.\u003c/p\u003e"
+                                   },
+                    "Watery Stealth (Liquid Form Only)":  {
+                                                              "name":  "Watery Stealth (Liquid Form Only)",
+                                                              "description":  "\u003cp\u003eWhile underwater, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.\u003c/p\u003e"
+                                                          },
+                    "Bite":  {
+                                 "name":  "Bite",
+                                 "description":  "\u003csection id=\"secret-Eoe3wXIsACzqhcWP\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+11, Reach 5 ft., One target. \u003cem\u003eHit : \u003c/em\u003e19 (2d12+6) kinetic damage.\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe {creature} attacks using its bite.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                             },
+                    "Piloted":  {
+                                    "name":  "Piloted",
+                                    "description":  "\u003cp\u003eThe construct requires an active pilot to take any actions, and if the pilot is subjected to any conditions that the construct is not immune to, the construct is also subjected to those conditions. Pilot Controls movement, Ram action, \u0026amp; Rocket launchers\u003c/p\u003e"
+                                },
+                    "Standing Leap":  {
+                                          "name":  "Standing Leap",
+                                          "description":  "\u003cp\u003eThe {creature}\u0027s long jump is up to 20 feet and its high jump is up to 10 ft., with or without a running start.\u003c/p\u003e"
+                                      },
+                    "Aura of Blood Thirst":  {
+                                                 "name":  "Aura of Blood Thirst",
+                                                 "description":  "\u003cp\u003eIf the {creature} isn\u0027t incapacitated, any other {creature of the same species} can make a melee attack as a bonus action while within 10 feet of the {creature}.\u003c/p\u003e"
+                                             },
+                    "Battery Drainer":  {
+                                            "name":  "Battery Drainer",
+                                            "description":  "\u003cp\u003eIf the {creature} attaches itself to a piece of equipment that needs energy to function, that piece will stop working until the {creature} is removed.\u003c/p\u003e"
+                                        },
+                    "Droid Synergy":  {
+                                          "name":  "Droid Synergy",
+                                          "description":  "\u003cp\u003eOnce per turn, the {creature} can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the {creature} that isn\u0027t incapacitated.\u003c/p\u003e"
+                                      },
+                    "Mimicry":  {
+                                    "name":  "Mimicry",
+                                    "description":  "\u003cp\u003eThe {creature} can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.\u003c/p\u003e"
+                                },
+                    "Siege Monster":  {
+                                          "name":  "Siege Monster",
+                                          "description":  "\u003cp\u003eThe {creature} deals double damage to objects and structures.\u003c/p\u003e"
+                                      },
+                    "Rocky Camouflage":  {
+                                             "name":  "Rocky Camouflage",
+                                             "description":  "\u003cp\u003eThe {creature} has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\u003c/p\u003e"
+                                         },
+                    "Assassinate":  {
+                                        "name":  "Assassinate",
+                                        "description":  "\u003cp\u003eDuring her first turn, the {creature} has advantage on attack rolls against any creature that hasn\u0027t taken a turn. Any hit the {creature} scores against a surprised creature is a critical hit.\u003c/p\u003e"
+                                    },
+                    "Water Torrent":  {
+                                          "name":  "Water Torrent",
+                                          "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e exhales a torrent of water in a 120 foot cone. Each creature in the area must make a DC 24 Dexterity saving throw, taking 42 (12d6) kinetic damage and 42 (12d6) cold damage on a failed save, or half as much on a successful one.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                                      },
+                    "Powerful Build":  {
+                                           "name":  "Powerful Build",
+                                           "description":  "\u003cp\u003eThe {creature} counts as one size larger when determining carrying capacity and the weight it can push, drag, or lift.\u003c/p\u003e"
+                                       },
+                    "Unstable":  {
+                                     "name":  "Unstable",
+                                     "description":  "\u003cp\u003eThe construct requires a successful pilot skill check (DC 15) for the pilot to take an action, bonus action, or reaction while piloting the vehicle. On a failure, the pilot does not succeed in performing the desired action or reaction. If the roll fails by 10 or more, the pilot immediately loses control of the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e and crashes.\u003c/p\u003e"
+                                 },
+                    "Innate Techcasting":  {
+                                               "name":  "Innate Techcasting",
+                                               "description":  "\u003cp\u003e{creature}\u0027s techasting ability is {ability} (force save DC 23). {creature} can innately cast\u003c/p\u003e\u003cp\u003ethe following powers:\u003c/p\u003e\u003cp\u003eAt will: \u003c/p\u003e\u003cp\u003e3/day each: \u003c/p\u003e\u003cp\u003e1/day each: \u003c/p\u003e"
+                                           },
+                    "Sith-born":  {
+                                      "name":  "Sith-born",
+                                      "description":  "\u003cp\u003eDark forcecasters and Sith (species) have advantage on Animal Handling checks against {creature}.\u003c/p\u003e"
+                                  },
+                    "Tunneler":  {
+                                     "name":  "Tunneler",
+                                     "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e can burrow through solid rock at half its burrow speed and leaves a 5-foot-diameter tunnel in its wake.\u003c/p\u003e"
+                                 },
+                    "Sure-Footed":  {
+                                        "name":  "Sure-Footed",
+                                        "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e {creature}\u003c/span\u003e has advantage on Strength and Dexterity saving throws made against effects that would shove it or knock it prone.\u003c/p\u003e"
+                                    },
+                    "Many-Eyed":  {
+                                      "name":  "Many-Eyed",
+                                      "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} has advantage on saving throws made against being blinded.\u003c/span\u003e\u003c/p\u003e"
+                                  },
+                    "Rage":  {
+                                 "name":  "Rage",
+                                 "description":  "\u003cp\u003eOn it\u0027s turn, the {creature} can enter a rage as a bonus action in combat. The rage lasts for 1 minute and can be used once per day, gaining the following abilities: \u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003e+2 damage on all melee attacks. \u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eResistance to kinetic damage.\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e"
+                             },
+                    "Talons":  {
+                                   "name":  "Talons",
+                                   "description":  "\u003csection id=\"secret-X7EcYqJK8ETtpt6z\" class=\"secret\"\u003e\u003cp\u003e\u003cem\u003eMelee Weapon Attack \u003c/em\u003e+5, Reach 5 ft., One target. \u003cem\u003eHit : \u003c/em\u003e5 (1d4+3) kinetic damage\u003c/p\u003e\u003c/section\u003e\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} attacks with its talons\u003c/span\u003e\u003c/p\u003e"
+                               },
+                    "Circuitry":  {
+                                      "name":  "Circuitry",
+                                      "description":  "\u003cp\u003eThe {creature} has disadvantage on saving throws against effects that would deal ion or lightning damage.\u003c/p\u003e"
+                                  },
+                    "Squad Tactics":  {
+                                          "name":  "Squad Tactics",
+                                          "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eThe {creature} has advantage on an attack roll against a creature if at least one of the {creature}\u0027s allies is within 5 ft. of the creature and the ally isn\u0027t incapacitated.\u003c/span\u003e\u003c/p\u003e"
+                                      },
+                    "False Appearance":  {
+                                             "name":  "False Appearance",
+                                             "description":  "\u003cp\u003eWhile the {creature} remains motionless, it is indistinguishable from a normal {item}.\u003c/p\u003e"
+                                         },
+                    "Keen Sight":  {
+                                       "name":  "Keen Sight",
+                                       "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on sight.\u003c/p\u003e"
+                                   },
+                    "Keen Senses":  {
+                                        "name":  "Keen Senses",
+                                        "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks.\u003c/p\u003e"
+                                    },
+                    "Psychic Link":  {
+                                         "name":  "Psychic Link",
+                                         "description":  "\u003cp\u003eThe {creature} can establish a psychic link with any creature that it successfully grapples with its tentacles. Until the psychic link ends, the {creature} can perceive everything the target senses. The target is aware that its mind is linked, and the {creature} can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the psychic link, doing so with a successful DC 18 Intelligence saving throw. On a successful save, the target takes 10 (3d6) psychic damage. The psychic link also ends if the target and the {creature} are more than 1 mile apart, with no consequences to the target. The {creature} can form psychic links with up to ten creatures at a time.\u003c/p\u003e"
+                                     },
+                    "Techcasting":  {
+                                        "name":  "Techcasting",
+                                        "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e is a Xth-level techcaster. Its techcasting ability is Intelligence (tech save DC X, +X to hit with tech powers).\u003c/p\u003e\u003cp\u003eIt has X tech points and knows the following tech powers:\u003c/p\u003e\u003cp\u003eAt will: \u003c/p\u003e\u003cp\u003e1st-level: \u003c/p\u003e\u003cp\u003e2nd-level: \u003c/p\u003e\u003cp\u003e3rd-level: \u003c/p\u003e"
+                                    },
+                    "Villainous Hit Points":  {
+                                                  "name":  "Villainous Hit Points",
+                                                  "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e has multiple pools of hit points, each of which is tracked separately. Damage and healing only applies to the currently active hit point pool. When a pool is depleted of all hit points, it becomes inactive. Only one pool can be active at any time. If a hit point pool is depleted, the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e immediately saves against all ongoing conditions and effects. Any abilities which can reset do so. If all pools of hit points are inactive, \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e is killed. \u003c/p\u003e\u003cp\u003eIf \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e takes a long rest, it fully heals the currently active pool and fully heals one depleted pool.\u003c/p\u003e"
+                                              },
+                    "Web Walker":  {
+                                       "name":  "Web Walker",
+                                       "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e ignores movement restrictions caused by webbing.\u003c/p\u003e"
+                                   },
+                    "Battle Droid Swarm":  {
+                                               "name":  "Battle Droid Swarm",
+                                               "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eWhen an ally of the {creature} hits a hostile creature that it can see with a weapon attack, the {creature} can use its reaction to make one weapon attack, with disadvantage, against that creature.\u003c/span\u003e\u003c/p\u003e"
+                                           },
+                    "Tongue":  {
+                                   "name":  "Tongue",
+                                   "description":  "\u003cp\u003eThe \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e targets one Small or smaller creature that it can see within 15 feet of it. The target must make a DC 12 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature}\u003c/span\u003e, and the \u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e{creature} \u003c/span\u003ecan make a bite attack against it as a bonus action.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e"
+                               },
+                    "Ambusher":  {
+                                     "name":  "Ambusher",
+                                     "description":  "\u003cp\u003eIn the first round of a combat, the {creature} has advantage on attack rolls against any creature it surprised.\u003c/p\u003e"
+                                 },
+                    "Freedom of Movement":  {
+                                                "name":  "Freedom of Movement",
+                                                "description":  "\u003cp\u003eThe {creature} ignores difficult terrain and can pass through occupied hostile spaces.\u003c/p\u003e"
+                                            },
+                    "Superior Aura of Command":  {
+                                                     "name":  "Superior Aura of Command",
+                                                     "description":  "\u003cp\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003eFriendly creatures that can see and hear the {creature} within 30 feet of it add a +2 bonus to their attack and damage rolls. This effect ends if the \u003c/span\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e {creature}\u003c/span\u003e\u003cspan style=\"font-family:\u0027Open Sans\u0027, sans-serif\"\u003e is incapacitated.\u003c/span\u003e\u003c/p\u003e"
+                                                 },
+                    "Bioluminescent":  {
+                                           "name":  "Bioluminescent",
+                                           "description":  "\u003cp\u003eThe {creature} either emits dim light in a 10-foot radius, or bright light in a 10-foot radius and dim light for an additional 10 ft.. It can switch between the options as a bonus action.\u003c/p\u003e"
+                                       },
+                    "Keen Smell":  {
+                                       "name":  "Keen Smell",
+                                       "description":  "\u003cp\u003eThe {creature} has advantage on Wisdom (Perception) checks that rely on smell.\u003c/p\u003e"
+                                   }
+                },
+    "mapping":  {
+                    "atFlavorText":  "system.atFlavorText.value",
+                    "name":  "name",
+                    "description":  "system.description.value",
+                    "biography":  "system.details.biography.value",
+                    "advancements":  {
+                                         "path":  "system.advancement",
+                                         "converter":  "sw5eAdvancements"
+                                     },
+                    "chat":  "system.description.chat",
+                    "invocations":  "system.invocations.value"
+                }
+}

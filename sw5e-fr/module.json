@@ -1,0 +1,59 @@
+{
+  "id": "sw5e-fr",
+  "title": "SW5E - Traduction Française",
+  "description": "Traduction française communautaire pour le module SW5E. Traduit les libellés du module, les états et les compendiums via Babele.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Communauté francophone SW5E"
+    }
+  ],
+  "esmodules": [
+    "scripts/register-babele.mjs",
+    "scripts/status-effects.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.3.0",
+          "verified": "4.3.5"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "sw5e",
+        "type": "module",
+        "manifest": "https://github.com/sw5e-foundry/sw5e-module/releases/latest/download/module.json"
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/2.6.2/module/module.json",
+        "compatibility": {
+          "minimum": "2.6.2",
+          "verified": "2.6.2"
+        }
+      }
+    ]
+  },
+  "system": [
+    "dnd5e"
+  ],
+  "url": "https://github.com/sw5e-foundry/sw5e-module",
+  "readme": "README.md"
+}

@@ -1,0 +1,65 @@
+{
+  "label": "Artisan's Implements",
+  "entries": {
+    "Astrotech's implements": {
+      "name": "Astrotech's implements"
+    },
+    "Constructor's implements": {
+      "name": "Constructor's implements"
+    },
+    "Gadgeteer's implements": {
+      "name": "Gadgeteer's implements"
+    },
+    "Biotech's implements": {
+      "name": "Biotech's implements"
+    },
+    "Geneticist's implements": {
+      "name": "Geneticist's implements"
+    },
+    "Cybertech's implements": {
+      "name": "Cybertech's implements"
+    },
+    "Armstech's implements": {
+      "name": "Armstech's implements"
+    },
+    "Armormech's implements": {
+      "name": "Armormech's implements"
+    },
+    "Surveyor's implements": {
+      "name": "Surveyor's implements"
+    },
+    "Artificer's implements": {
+      "name": "Artificer's implements"
+    },
+    "Writer's implements": {
+      "name": "Writer's implements"
+    },
+    "Audiotech's implements": {
+      "name": "Audiotech's implements"
+    },
+    "Artist's implements": {
+      "name": "Artist's implements"
+    },
+    "Jeweler's implements": {
+      "name": "Jeweler's implements"
+    },
+    "Tinker's implements": {
+      "name": "Tinker's implements"
+    },
+    "Synthweaver's implements": {
+      "name": "Synthweaver's implements"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "label": "Explosives",
+  "entries": {
+    "Mine, electrifying": {
+      "name": "Mine, electrifying",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d6]] lightning dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature is shocked pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, stun": {
+      "name": "Mine, stun",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Constitution jet de sauvegarde. On a failed sauvegarde, a creature is étourdi until the end of their next turn.</p>\n<p>De plus, on a failed sauvegarde, a creature is inconscient pendant 1 minute, until it takes dégâts, or until someone uses an action to shake or slap la créature awake. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Grenade, panic": {
+      "name": "Grenade, panic",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Wisdom jet de sauvegarde. A creature takes [[/r 2d6]] psychic dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature becomes effrayé of you pendant 1 minute. At the start of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Grenade, plasma": {
+      "name": "Grenade, plasma",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d10]] energy dégâts on a failed sauvegarde, or half as much as on a successful one.</p>"
+    },
+    "Grenade, corrosive": {
+      "name": "Grenade, corrosive",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d8]] acid dégâts on a failed sauvegarde, or half as much as on a successful one. If this dégâts reduces a creature to 0 points de vie, it must make a DD 13 Constitution jet de sauvegarde. On a failed sauvegarde, it dies immediately without making death jet de sauvegardes. A disintegrated creature and everything unenhanced it is wearing or carrying are reduced to a pile of fine gray dust. A creature destroyed in this way can not be revitalized.</p>"
+    },
+    "Mine, cryo": {
+      "name": "Mine, cryo",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d6]] cold dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature gains 1 slowed niveau pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Grenade, incendiary": {
+      "name": "Grenade, incendiary",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. The grenade explodes, setting the ground in a rayon de 3 mètres ablaze pendant 1 minute. The fire ignites any flammable objects in the area that aren't being worn or carried.</p>\n<p>When a creature enters the fire or starts its turn there, it creature must make a DD 14 Dexterity jet de sauvegarde. The creature takes [[/r 2d8]] fire dégâts on a failed sauvegarde, or half as much dégâts on a successful one. </p>"
+    },
+    "Grenade, fragmentation": {
+      "name": "Grenade, fragmentation",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d10]] kinetic dégâts on a failed sauvegarde, or half as much as on a successful one.</p>"
+    },
+    "Grenade, deafening": {
+      "name": "Grenade, deafening",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d6]] sonic dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature is assourdi pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, deafening": {
+      "name": "Mine, deafening",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d6]] sonic dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature is assourdi pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, ion": {
+      "name": "Mine, ion",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d6]] ion dégâts on a failed sauvegarde, or half as much as on a successful one. Any electronics within the blast radius that aren't being worn or carried are disabled until rebooted.</p>"
+    },
+    "Grenade, stun": {
+      "name": "Grenade, stun",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Constitution jet de sauvegarde. On a failed sauvegarde, a creature is étourdi until the end of their next turn.</p>\n<p>De plus, on a failed sauvegarde, a creature is inconscient pendant 1 minute, until it takes dégâts, or until someone uses an action to shake or slap la créature awake. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Grenade, flash": {
+      "name": "Grenade, flash",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Constitution jet de sauvegarde. On a failed sauvegarde, a creature is aveuglé pendant 1 minute. At the start of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, flash": {
+      "name": "Mine, flash",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Constitution jet de sauvegarde. On a failed sauvegarde, a creature is aveuglé pendant 1 minute. At the start of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, gas": {
+      "name": "Mine, gas",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote </p>"
+    },
+    "Mine, corrosive": {
+      "name": "Mine, corrosive",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d8]] acid dégâts on a failed sauvegarde, or half as much as on a successful one. If this dégâts reduces a creature to 0 points de vie, it must make a DD 13 Constitution jet de sauvegarde. On a failed sauvegarde, it dies immediately without making death jet de sauvegardes. A disintegrated creature and everything unenhanced it is wearing or carrying are reduced to a pile of fine gray dust. A creature destroyed in this way can not be revitalized.</p>"
+    },
+    "Mine, incendiary": {
+      "name": "Mine, incendiary",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, the mine sets the ground in a rayon de 4,5 mètres ablaze pendant 1 minute. The fire ignites any flammable objects in the area that aren't being worn or carried.</p>\n<p>When a creature enters the fire or starts its turn there, it creature must make a DD 14 Dexterity jet de sauvegarde. The creature takes [[/r 2d8]] fire dégâts on a failed sauvegarde, or half as much dégâts on a successful one. </p>"
+    },
+    "Grenade, electrifying": {
+      "name": "Grenade, electrifying",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d6]] lightning dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature is shocked pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Mine, panic": {
+      "name": "Mine, panic",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Wisdom jet de sauvegarde. A creature takes [[/r 2d6]] psychic dégâts on a failed sauvegarde, or half as much as on a successful one. </p>\n<p>De plus, on a failed sauvegarde, a creature becomes effrayé of you pendant 1 minute. At the start of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    },
+    "Charge, fragmentation": {
+      "name": "Charge, fragmentation",
+      "description": "<p>A device used to blow holes in larger constructs and structures, a breaching charge creates a devastating explosion focused in a specific direction. Installing a breaching charge takes 1 minute. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator.</p>\n<p>When detonated, the breaching charge explodes in a cône de 4,5 mètres. Each creature within the cone must make a DD 14 Dexterity jet de sauvegarde, taking [[/r 20d4]] kinetic dégâts on a failed sauvegarde or half as much on a successful one. If affixed to a creature, cette créature has disavantage on the jet de sauvegarde. Objects, structures, and other surfaces have disavantage on the jet de sauvegarde. If affixed to the object, structure, or surface, it instead automatically fails this jet de sauvegarde.</p>"
+    },
+    "Grenade, ion": {
+      "name": "Grenade, ion",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d6]] ion dégâts on a failed sauvegarde, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted. </p>"
+    },
+    "Charge, plasma": {
+      "name": "Charge, plasma",
+      "description": "<p>A device used to blow holes in larger constructs and structures, a breaching charge creates a devastating explosion focused in a specific direction. Installing a breaching charge takes 1 minute. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator.</p>\n<p>When detonated, the breaching charge explodes in a cône de 4,5 mètres. Each creature within the cone must make a DD 14 Dexterity jet de sauvegarde, taking [[/r 20d4]] energy dégâts on a failed sauvegarde or half as much on a successful one. If affixed to a creature, cette créature has disavantage on the jet de sauvegarde. Objects, structures, and other surfaces have disavantage on the jet de sauvegarde. If affixed to the object, structure, or surface, it instead automatically fails this jet de sauvegarde.</p>"
+    },
+    "Mine, plasma": {
+      "name": "Mine, plasma",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d10]] energy dégâts on a failed sauvegarde, or half as much as on a successful one.</p>"
+    },
+    "Mine, fragmentation": {
+      "name": "Mine, fragmentation",
+      "description": "<p>Mines can be set to detonate when a creature comes within up to 15 mètres of it or paired with a remote detonator. As an action, you can prime and set a mine on a surface you can reach, which arms at the start of your next turn. When detonated, chaque créature within 15 mètres of it must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d10]] kinetic dégâts on a failed sauvegarde, or half as much as on a successful one.</p>"
+    },
+    "Thermal detonator": {
+      "name": "Thermal detonator",
+      "description": "<p>Thermal detonators are unique in that can only be turned off by whoever turned them on. They can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 20 mètres must make a DD 14 Dexterity jet de sauvegarde. A creature takes [[/r 2d6]] fire and [[/r 2d10]] kinetic dégâts on a failed sauvegarde, or half as much as on a successful one. De plus, on a failed sauvegarde, la créature is knocked à terre. </p>"
+    },
+    "Grenade, gas": {
+      "name": "Grenade, gas",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. The grenade explodes, filling the air in a 10-foot-radius sphere with yellow-green fog pendant 1 minute. The fog spreads around corners, and its area is heavily obscured. It lasts pendant 1 minute or until a wind of at least 10 miles per hour disperses it.</p>\n<p>When a creature enters the fog or starts its turn there, it creature must make a DD 14 Constitution jet de sauvegarde. The creature takes [[/r 2d6]] poison dégâts on a failed sauvegarde, or half as much dégâts on a successful one. De plus, on a failed sauvegarde, la créature is empoisonné while it is in the cloud. Droids, constructs and humanoids wearing appropriate protective equipment are unaffected.</p>"
+    },
+    "Grenade, cryo": {
+      "name": "Grenade, cryo",
+      "description": "<p>Grenades can be set to detonate on impact or with a timer that causes them to explode on initiative count 20 (losing all initiative ties). As an action, you can prime and throw a grenade at a point you can see within 30 mètres + your Strength modificateur x 5. Each creature within 10 mètres must make a DD 14 Constitution jet de sauvegarde. A creature takes [[/r 2d6]] cold dégâts on a failed sauvegarde, or half as much as on a successful one. De plus, on a failed sauvegarde, a creature gains 1 slowed niveau pendant 1 minute. At the end of an affected creature's turn, it can repeat this sauvegarde, ending the effect on a success.</p>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "label": "Ventures",
+  "entries": {
+    "Force Purification": {
+      "name": "Force Purification",
+      "description": "<p><em><strong>Prérequis</strong> : au moins 14 niveaux en gardien</em><br /><br />Les navires deviennent des cibles valides pour votre capacité Cleansing Touch.</p>"
+    },
+    "Gunner Adept": {
+      "name": "Gunner Adept",
+      "description": "<p><em><strong>Prérequis :</strong> 2e rang</em></p><p>Vous avez une formation de tireur qui vous permet d'effectuer des manœuvres de combat spéciales. Vous apprenez deux gambits de votre choix parmi ceux disponibles pour le déploiement des tireurs. </p>"
+    },
+    "Calculating Gunner": {
+      "name": "Calculating Gunner",
+      "description": "<p>Lorsque vous effectuez un jet d'attaque avec une arme secondaire du vaisseau, vous pouvez utiliser votre modificateur d'Intelligence, à la place du modificateur de Sagesse du vaisseau, pour les jets d'attaque.</p>"
+    },
+    "Resourceful Display": {
+      "name": "Resourceful Display",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang dans le coordinateur</em></p><p>Une fois par tour, lorsque vous, ou un allié avec votre dé d'affichage inspirant, lancez un affichage inspirant, il peut lancer le dé deux fois et obtenir l'un ou l'autre résultat.</p>"
+    },
+    "Analytical Coordinator": {
+      "name": "Analytical Coordinator",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 1 niveau in scholar</em></p><p>When an ally makes an test de caractéristique or attack roll affected by your Direct action, and they are also la cible of your Critical Analysis class feature, they can also roll a [[/r 1d6]] and add it to the test de caractéristique or attack roll.</p>"
+    },
+    "Spacecasting, Legendary": {
+      "name": "Spacecasting, Legendary",
+      "description": "<p><em><strong>Prerequisite:</strong> Master Spacecasting venture</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">When casting a force or pouvoir technique while aboard your ship and in space that affects an area, the area's dimensions are instead multiplied by 1,000.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, when casting a force or pouvoir technique while aboard your ship and in space, you ignore the dégâts scaling against Medium and smaller ships.</span></p>"
+    },
+    "Explosive Gambits": {
+      "name": "Explosive Gambits",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 3 rangs en tireur</em></p><p>Une fois par tour, lorsque vous lancez le maximum sur un dé de gambit, vous pouvez lancer un dé supplémentaire et l'ajouter au jet.</p>"
+    },
+    "Resourceful Disruption": {
+      "name": "Resourceful Disruption",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang chez l'opérateur</em></p><p>Une fois par tour, lorsque vous lancez un dé de pouvoir dans le cadre d'une perturbation d'un opérateur, vous pouvez lancer le dé deux fois et obtenir l'un ou l'autre résultat.</p>"
+    },
+    "Multitasker, Improved": {
+      "name": "Multitasker, Improved",
+      "description": "<p><em><strong>Prérequis</strong> : Multitâche</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous conduisez un navire, vous gagnez un deuxième bonus d'action que vous pouvez prendre avec le navire.</span></p>"
+    },
+    "Resourceful Boost": {
+      "name": "Resourceful Boost",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 1 rang en mécanique</em></p><p>Une fois par tour, lorsque vous utilisez votre fonction System Boost, vous pouvez lancer le dé technologique deux fois et prendre l'un ou l'autre résultat.</p>"
+    },
+    "Natural Slicer": {
+      "name": "Natural Slicer",
+      "description": "Chaque fois que vous effectuez un test de Charisme (Interférence), vous pouvez à la place effectuer un test d'Intelligence (Slicer Tools)."
+    },
+    "Targeting Fire": {
+      "name": "Targeting Fire",
+      "description": "<p><em><strong>Prerequisite</strong>: at least 1 rank in gunner</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">When you take this Venture, you may select two areas that you are adept at targeting. You may take this Venture multiple times. Each time you do so, you may select two additional target areas.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>Une fois par tour, quand vous contactez a target with a ship attack from a primary or secondary weapon, you may use a réaction to either forego avantage if you have avantage, spend one tech point, or spend one point de Force to target a specific area of the ship causing targeted dégâts there.</p><p></p><p>La cible gain 1 slowed niveau until the end of its turn as it suffers dégâts to its engines.<span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span></p><p>You dégâts la cible's targeting systems. The first time la cible forces you to make a jet de sauvegarde before the start of your next turn, la cible takes an additional [[/r 1d6]] ionic dégâts, and you can roll [[/r 1d4]] and add the number rolled to your jet de sauvegarde.</p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You cause each Large or smaller ship within 100 mètres of la cible to make a Strength jet de sauvegarde (DD = 8 + your bonus de maîtrise + your ship's Strength modificateur). On a failure, that ship is pulled to the nearest unoccupied space adjacent to la cible.<span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You destabilize the ship's reactor. Until the start of your next turn, if la cible becomes tractored, ionized, or shocked, the reactor suffers damaging feedback, causing the ship to immediately take [[/r 1d8]] ionic dégâts.</p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You create an illusory duplicate of your ship in your space that only la cible can see. La cible has disavantage on the next attack roll it makes against your ship before the start of your next turn.</p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You cause la cible to take additional dégâts to la cible's shields equal to your techcasting modificateur de caractéristique at the start of your next turn.</p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You cause la cible to become shocked until the end of your ship's next turn. When this attack hits a target, if there is a ship within 300 mètres who is shocked, an arc of lightning courses between the two ships, dealing [[/r 1d6]] lightning dégâts to both of them. If there are multiple other ships who are shocked, the lightning leaps to the closest ship.</p><p><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>You dégâts the ship's weapon systems. The first time it would deal dégâts before the start of your next turn, that dégâts is reduced by [[/r 1d6]].</p>"
+    },
+    "Gunning Mastery": {
+      "name": "Gunning Mastery",
+      "description": "<p><em><strong>Prerequisite:</strong> 5th rank</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">You master a particular style of gunning. Choose one of the Gunning Mastery options, detailed below. You can select this venture multiple times. You can't take a Gunning Mastery option more than once, even if you later get to choose again.</span></p><h4>CANNON MASTERY</h4><p>You are the master of laser cannons. While you are firing a primary weapon, when you take the Fire action, vous pouvez choisir to fire rapidly at the expense of accuracy. Your attacks are made without the aid of your bonus de maîtrise, but you use your action bonus to make an additional attack, also without your bonus de maîtrise.</p><h4>HEAVY GUN MASTERY</h4><p>You are the master of railguns and turbolasers. While you are firing a secondary weapon, before you make an attack, vous pouvez choisir to double your bonus de maîtrise. If the attack hits, you reduce the dégâts dealt by an amount equal to your bonus de maîtrise.</p><h4>PAYLOAD MASTERY</h4><p>You are the master of missiles, rockets, and other ship-board explosive weapons. While you are firing a tertiary or quaternary weapon, vous pouvez choisir to reduce the DD by an amount equal to your bonus de maîtrise. If you do, and la cible fails the jet de sauvegarde, they take additional dégâts equal to twice your bonus de maîtrise.</p><p></p>"
+    },
+    "Multi-Roled, Improved": {
+      "name": "Multi-Roled, Improved",
+      "description": "<p><em><strong>Prérequis</strong> : Multi-rôle</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous avancez d'un rang dans votre déploiement principal, vous pouvez sélectionner une manœuvre de déploiement (collaboration, gambit, technique, perturbation, tactique ou stratagème) à partir de n'importe quel déploiement au lieu de votre déploiement principal. déploiement.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Si la manœuvre que vous avez choisie est une technique, vous pouvez utiliser un dé de pouvoir depuis n'importe quel endroit au lieu d'un dé de technologie pour cette technique.</span></p>"
+    },
+    "Pilot in Training": {
+      "name": "Pilot in Training",
+      "description": "When you make a Dexterity (Maneuver) check while deployed as a pilot, you can add your bonus de maîtrise to checks you make if you do not already do so."
+    },
+    "Experienced Slicer": {
+      "name": "Experienced Slicer",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang chez l'opérateur</em></p><p>Lorsque vous configurez la sauvegarde DD des perturbations de votre opérateur et chaque fois qu'une perturbation utilise le modificateur de Charisme de votre vaisseau, vous pouvez ajouter la moitié de votre modificateur d'Intelligence.</p>"
+    },
+    "Resourceful Tactics": {
+      "name": "Resourceful Tactics",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang en pilote</em></p><p>Une fois par tour, lorsque vous lancez un dé de pouvoir dans le cadre d'une tactique de pilote, vous pouvez lancer le dé deux fois et obtenir l'un ou l'autre résultat.</p>"
+    },
+    "Infuse Ship Weapon": {
+      "name": "Infuser l'arme du vaisseau",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 2 niveaux en ingénieur</em></p><p>Les armes de navire deviennent des cibles valides pour votre fonction de classe Infuse Item.</p>"
+    },
+    "Force-Empowered Accuracy": {
+      "name": "Force-Empowered Accuracy",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 2 niveaux en consulaire</em></p><p>Une fois par tour, lorsque vous ratez une attaque de navire, ou lorsqu'une cible réussit le jet de sauvegarde contre une arme de navire, vous pouvez dépenser 1 point de Force pour relancer le dé. Vous devez utiliser le nouveau rouleau.</p>"
+    },
+    "Astrogation Mechanic": {
+      "name": "Astrogation Mechanic",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">When you make an Intelligence (Astrogation) check, your ship is considered proficiently equipped if you have maîtrise in Technology or expertly equipped if you have expertise in Technology.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, quand vous faites a Constitution (Patch) check when taking the Patch action, your ship is considered proficiently equipped if you have maîtrise in Mechanic's Kit or expertly equipped if you have expertise in Mechanic's Kit.</span></p>"
+    },
+    "Weapon Overheat": {
+      "name": "Surchauffe des armes",
+      "description": "<p><em><strong>Prérequis :</strong> La capacité de lancer des techniques de pouvoir de niveau 2</em></p> <p>AEn bonus d'action, vous pouvez dépenser trois points technologiques pour renforcer une arme de vaisseau sur votre vaisseau. Pendant une heure maximum, tant que vous restez concentré, vous pouvez refroidir l'arme une fois par tour sans utiliser d'action, et comme bonus d'action à chacun de vos tours, vous pouvez effectuer une attaque avec l'arme.</p>"
+    },
+    "Persistent Interference": {
+      "name": "Persistent Interference",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 3 rangs chez l'opérateur</em></p><p>Lorsque vous effectuez l'action Interférer et réussissez le concours, la cible est désavantagée au prochain test de Charisme (Interférence) avant la fin de votre prochain tour.</p>"
+    },
+    "Force-Empowered Shooting": {
+      "name": "Force-Empowered Shooting",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 2 niveaux en sentinelle</em></p><p>Lorsque vous effectuez l'action Feu, vous pouvez dépenser 1 point de Force et utiliser votre bonus d'action pour effectuer une attaque supplémentaire. Cette attaque supplémentaire doit être effectuée avec une arme principale.</p>"
+    },
+    "Thread the Needle": {
+      "name": "Enfiler l'aiguille",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 3 rangs en pilote</em></p><p>Lorsque vous effectuez l'action Évasion, vous pouvez bénéficier des avantages de l'Évasion contre une seule cible afin d'éviter la pénalité de désavantage sur tout test de compétence ou jet d'attaque effectué par votre vaisseau ou n'importe qui à bord. it.</p>"
+    },
+    "Spacecasting, Improved": {
+      "name": "Spacecasting, Improved",
+      "description": "<p><em><strong>Condition préalable :</strong> Spacecasting venture</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous lancez une force ou une technique de pouvoir à bord de votre vaisseau et dans l'espace, la portée du pouvoir est multipliée par 10. Vous ne pouvez pas cibler une créature hostile avec un pouvoir à moins que vous ne soyez conscient de leur présence et de leur emplacement.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, lorsque vous lancez une technique de force ou de pouvoir à bord de votre vaisseau et dans l'espace qui affecte une zone, les dimensions de la zone sont multipliées par 2.</span></p>"
+    },
+    "Indomitable Starship": {
+      "name": "Indomitable Starship",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 9 niveaux en chasseur</em></p><p>Pendant son déploiement, lorsque votre vaisseau échoue à un jet de sauvegarde, vous pouvez utiliser votre classe Indomptable pour relancer le dé.</p>"
+    },
+    "Scanner Specialist": {
+      "name": "Scanner Specialist",
+      "description": "Lorsque vous effectuez l'action Rechercher, vous bénéficiez d'un avantage sur les tests de Sagesse (Scan) et d'Intelligence (Sonde) qui reposent sur le scanner."
+    },
+    "Keen Eye": {
+      "name": "Keen Eye",
+      "description": "<p><em><strong>Prérequis :</strong> 4ème rang</em></p><p>Lorsque vous effectuez l'action Rechercher et réussissez un test de Sagesse (Scan) ou d'Intelligence (Sonde) à l'aide des scanners de votre vaisseau, vous pouvez apprendre certaines informations sur une cible si vous en avez connaissance. Le MJ vous indique si le vaisseau est égal, supérieur ou inférieur à votre vaisseau en ce qui concerne l'une des caractéristiques suivantes de votre choix :</p><ul><li>N'importe quel score de capacité</li><li>Classe d'Armure</li><li>Coque et bouclier total actuels points</li><li>Type et nombre actuels de dés de bouclier et taux de régénération du bouclier</li><li>Niveaux totaux de navire (le cas échéant)</li><li>Rangs de déploiement totaux (le cas échéant)</li></ul><p><span style=\"font-family:'Open Sans', sans-serif\">Une fois que vous avez ciblé un vaisseau avec cette fonctionnalité, vous ne pouvez pas le cibler à nouveau tant que vous n'avez pas terminé une longue mise en pension.</span></p>"
+    },
+    "Multitasker": {
+      "name": "Multitasker",
+      "description": "When operating a ship, you gain a second réaction you can take with the ship."
+    },
+    "Protected by the Force": {
+      "name": "Protégé par la Force",
+      "description": "<p><em><strong>Prerequisite</strong>: at least 3 niveaus in consular</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">When your ship is hit by an attack, you can use your réaction to shroud your ship in Force energy. Until the start of your next turn, you have a bonus to AC equal to your Wisdom or Charisma modificateur (your choice, minimum of +1). This includes the triggering attack.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />You can use this feature un nombre de fois égal à your bonus de maîtrise, as shown in the consular table. Vous regagnez tous expended uses when you finish a repos long.</span></p>"
+    },
+    "Spacecasting, Greater": {
+      "name": "Spacecasting, Greater",
+      "description": "<p><em><strong>Prerequisite:</strong> Improved Spacecasting venture</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">When casting a force or pouvoir technique while aboard your ship and in space, the power's range is instead multiplied by 100. You can not target a hostile creature with a power unless you are aware of their presence and location.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, when casting a force or pouvoir technique while aboard your ship and in space that affects an area, the area's dimensions are instead multiplied by 10.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Lastly, when casting a force or pouvoir technique while aboard your ship and in space, you instead divide by 5 when scaling dégâts against Tiny ships.</span></p>"
+    },
+    "Multi-Roled, Legendary": {
+      "name": "Multi-Roled, Legendary",
+      "description": "<p><em><strong>Condition préalable :</strong> 5e rang, entreprise multi-rôles</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">Au cours d'une longue période de repos, vous pouvez changer un certain nombre de manœuvres de déploiement (collaboration, gambit, technique, perturbation, tactique ou stratagème) que vous connaissez. à votre modificateur d'intelligence (minimum de 1) pour un nombre égal de manœuvres provenant d'autres déploiements.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Si l'une des manœuvres que vous avez choisies est une technique, vous pouvez utiliser un dé de pouvoir depuis n'importe quel endroit au lieu d'un dé technologique pour cette technique.</span></p>"
+    },
+    "Counterslicer": {
+      "name": "Counterslicer",
+      "description": "When you are la cible of the Interfere action and are forced to make a Wisdom (Scan) check, si vous réussissez on the contest, you have avantage on the next Charisma (Interfere) check you make before the end of your next turn."
+    },
+    "Spacecasting, Master": {
+      "name": "Spacecasting, Master",
+      "description": "<p><em><strong>Prerequisite:</strong> Greater Spacecasting venture</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">When casting a force or pouvoir technique while aboard your ship and in space, the power's range is instead multiplied by 1,000. You can not target a hostile creature with a power unless you are aware of their presence and location.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, when casting a force or pouvoir technique while aboard your ship and in space that affects an area, the area's dimensions are instead multiplied by 100.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Lastly, when casting a force or pouvoir technique while aboard your ship and in space, you instead divide by 2 when scaling dégâts against Small and smaller ships.</span></p>"
+    },
+    "Precision Gunner": {
+      "name": "Precision Gunner",
+      "description": "<p>Lorsque vous effectuez un jet d'attaque avec une arme principale du navire alors que vous êtes à bord d'un navire de grande taille ou plus petit, vous pouvez utiliser votre modificateur de Dextérité, au lieu du modificateur de Sagesse du navire, pour les jets d'attaque.</p>"
+    },
+    "Strong Alone, Stronger Together": {
+      "name": "Strong Alone, Stronger Together",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 3 ranks in coordinator</em></p><p>When you take the Direct action, you have avantage on the next test de caractéristique or jet de sauvegarde you make before the start of your next turn.</p>"
+    },
+    "Reckless Ramming": {
+      "name": "Reckless Ramming",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 2 niveaus in berserker</em></p><p>When you take the Ram action, you can throw aside all concern for defense to attack with fierce desperation. La cible has disavantage on the Dexterity (Maneuver) check, and you deal additional dégâts equal to your rage dégâts bonus. The first attack roll made against your ship before the start of your next turn has avantage.</p>"
+    },
+    "Spacecasting": {
+      "name": "Spacecasting",
+      "description": "<p><em><strong>Condition préalable :</strong> La capacité de lancer des techniques de force ou de pouvoir</em></p><p>Lorsque vous lancez une technique de force ou de pouvoir à bord de votre vaisseau et dans l'espace, la portée du pouvoir est multipliée par 2. Vous ne pouvez pas cibler une créature hostile avec un pouvoir à moins d'être conscient de sa présence et emplacement.</p>"
+    },
+    "Space Explorer": {
+      "name": "Space Explorer",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 niveau en scout</em></p><p>Une fois déployées, certaines parties de votre fonctionnalité de classe Explorateur qualifié s'étendent à votre vaisseau :</p><ul><li>Votre vaisseau n'est pas ralenti par un terrain difficile.</li><li>Votre navire ne peut pas se perdre par des moyens non améliorés.</li><li>Votre navire peut se déplacer furtivement à un rythme normal.</li></ul><p></p>"
+    },
+    "Force-Empowered Blasting": {
+      "name": "Force-Empowered Blasting",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 2 niveaus in guardian</em></p><p>Une fois par tour, when you deal dégâts with a ship weapon, you can spend 1 point de Force to deal an additional [[/r 1d8]] dégâts to la cible. The dégâts is the same type as the weapon's dégâts.</p>"
+    },
+    "Pilot Adept": {
+      "name": "Pilot Adept",
+      "description": "<p><em><strong>Prérequis :</strong> 2e rang</em></p><p>Vous disposez d'une formation de pilote qui vous permet d'effectuer des tactiques de combat spéciales. Vous apprenez deux tactiques de votre choix parmi celles disponibles pour le déploiement pilote. </p>"
+    },
+    "Flurry of Fire": {
+      "name": "Flurry of Fire",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 2 niveaux en moine</em></p><p>Immédiatement après avoir effectué l'action Feu, vous pouvez dépenser 1 point de focus pour effectuer une attaque supplémentaire en guise de bonus d'action. Cette attaque supplémentaire doit être effectuée avec une arme principale.</p>"
+    },
+    "Slippery Pilot": {
+      "name": "Slippery Pilot",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 2 niveaux en fonctionnement</em></p> <p>Votre rapidité de réflexion et votre agilité vous permettent d'agir et de déplacer votre vaisseau rapidement. Vous pouvez bénéficier d'un bonus d'action à chacun de vos tours de combat. Cette action ne peut être utilisée que pour effectuer l'action Dissimulation, Evasion ou Vol.</p>"
+    },
+    "Lock on Target": {
+      "name": "Verrouiller la cible",
+      "description": "<p><em><strong>Prerequisite</strong>: The ability to cast pouvoir techniques and at least 1 rank in gunner</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">Une fois par tour, quand vous contactez a target with a ship attack from a primary or secondary weapon, you may use a réaction to spend one tech point to mark la cible. The next attack roll you make against the ship before the end of your next turn can't suffer from disavantage.</span></p>"
+    },
+    "Multi-Roled": {
+      "name": "Multi-Roled",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous prenez un double rôle, choisissez un déploiement secondaire. Lorsque vous avancez d'un rang dans votre déploiement principal, vous pouvez sélectionner une manœuvre de déploiement (collaboration, gambit, technique, perturbation, tactique ou stratagème) de votre déploiement secondaire au lieu de votre déploiement principal.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />Si votre déploiement secondaire choisi est Mécanicien, vous pouvez utiliser un dé de pouvoir depuis n'importe quel endroit au lieu d'un dé technologique pour cette technique.</span></p>"
+    },
+    "Furious Gunner": {
+      "name": "Furious Gunner",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 1 niveau in berserker</em></p><p>While raging and firing a primary wapon, you can take a penalty to your attack roll up to your rage dégâts bonus, adding twice the amount to the jet de dégâts on a hit.</p>"
+    },
+    "Cunning Operator": {
+      "name": "Cunning Operator",
+      "description": "Lorsque vous effectuez l'action Interférer et échouez au concours, vous pouvez utiliser votre bonus d'action pour répéter le test contre la même cible."
+    },
+    "Recurrent Repairs": {
+      "name": "Recurrent Repairs",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 3 ranks in mechanic</em></p><p>Quand vous réussissez on a Constitution (Patch) check as a part of a Patch action you take, you have avantage on the next Constitution (Patch) check you take as a part of the Patch action you take before the end of your next turn.</p>"
+    },
+    "Perceptive Techie": {
+      "name": "Perceptive Techie",
+      "description": "Lorsque vous effectuez un test de Sagesse (Scan) ou d'Intelligence (Sonde) à bord de votre vaisseau, vous pouvez utiliser votre modificateur de Sagesse au lieu du modificateur de Capacité de votre vaisseau."
+    },
+    "Dogfighter Superiority": {
+      "name": "Dogfighter Superiority",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 2 niveaus in fighter</em></p><p>When you expend a die granted by your Deployment, roll the die as normal, but you can instead subtract it from your pool of dés de supériorité.</p>"
+    },
+    "Multitasker, Legendary": {
+      "name": "Multitasker, Legendary",
+      "description": "<p><em><strong>Prérequis : </strong> Multitâche, amélioré ; Rang 5</em></p><p>Lorsque vous conduisez un navire, vous gagnez une deuxième action que vous pouvez effectuer avec le navire.</p>"
+    },
+    "Shield Tweaker": {
+      "name": "Shield Tweaker",
+      "description": "<p><strong>Prerequisite</strong>:<em> The Ability to Cast niveau 1 Tech Powers </em></p>\n<p>If your ship has 1 or more shield points remaining, as a réaction to your ship taking dégâts, you may spend two tech points to tweak your ship's shields to capture some of the incoming energy, lessening its effect on your ship and storing it for your ship's next primary attaque d'arme. Your ship gains resistance to the triggering type de dégâts until the start of your ship's next turn. Also, the first time your ship hits with a primary attaque d'arme on your ship's next turn, la cible takes an extra 1d6 dégâts of the triggering type, and the power ends.</p>"
+    },
+    "Technological Knowledge": {
+      "name": "Technological Knowledge",
+      "description": "<p><em><strong>Prérequis</strong> : au moins 3 niveaux en ingénieur</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">Les navires deviennent une cible valide de votre puissante aptitude.</span></p>"
+    },
+    "Trust in the Force": {
+      "name": "Faites confiance à la Force",
+      "description": "<p><em><strong>Prérequis</strong> : au moins 10 niveaux en sentinelle</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous effectuez l'action Dogfight, vous pouvez effectuer un test de Dextérité (Manœuvre) (DD = 10 + le nombre de navires ennemis que vous peut voir). En cas de succès, la prochaine attaque lancée contre votre vaisseau par n'importe quel vaisseau que vous pouvez voir ne bénéficiera pas de l'avantage de l'action Dogfight.</span></p>"
+    },
+    "Hot Wire": {
+      "name": "Hot Wire",
+      "description": "Lorsque vous effectuez un test de Constitution (Patch) à bord de votre navire, vous pouvez à la place effectuer un test d'Intelligence (Kit de mécanicien)."
+    },
+    "Tactical Superiority": {
+      "name": "Tactical Superiority",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 2 niveaus in scholar</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">When you expend a power die or another die granted by a Deployment, roll the die as normal, but you can instead subtract it from your pool of dés de supériorité.</span></p>"
+    },
+    "Gunning Stylist": {
+      "name": "Gunning Stylist",
+      "description": "<p><em><strong>Prerequisite:</strong> 3rd rank</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">You adopt a particular style of gunning as your specialty. Choose one of the Gunning Style options options, detailed below. You can select this venture multiple times. You can't take a Gunning Style option more than once, even if you later get to choose again.</span></p><h4>CANNONEER</h4><p>You are skilled with laser cannons. While you are firing a primary weapon, you gain a +2 bonus to jet de dégâtss and sauvegarde DDs.</p><h4>HEAVY GUNNER</h4><p>You are skilled with railguns and turbolasers. While you are firing a secondary weapon, you gain a +2 bonus to attack rolls and sauvegarde DDs.</p><h4>PAYLOAD DELIVERY</h4><p>You are skilled with mines, missiles, rockets, and other explosive weapons. When you roll a 1 or 2 on a dégâts die for a tertiary or quaternary weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.</p>"
+    },
+    "Diamond Deployment": {
+      "name": "Diamond Deployment",
+      "description": "<p><em><strong>Prérequis :</strong> au moins 14 niveaux en moine</em></p><p>Pendant son déploiement, lorsque votre vaisseau échoue à un jet de sauvegarde, vous pouvez dépenser 1 point de focalisation pour relancer le dé.</p>"
+    },
+    "Weapon Enhancement": {
+      "name": "Amélioration des armes",
+      "description": "<p><em><strong>Prerequisite:</strong> The ability to cast niveau 3 pouvoir techniques</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">As an action, you may contact an unenhanced ship weapon on your ship and spend four tech points, making it an enhanced weapon, for up to an hour, as long as you maintain concentration. De plus, choose one of these type de dégâtss: acid, cold, energy, fire, ion, kinetic, or lightning. The unenhanced ship weapon you contact has a +1 to attack rolls and deals an extra 1d4 dégâts of the chosen type for the duration.</span></p>"
+    },
+    "Resourceful Gambits": {
+      "name": "Resourceful Gambits",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang en artilleur</em></p><p>Une fois par tour, lorsque vous lancez un dé de puissance utilisé pour un gambit de tireur, vous pouvez lancer le dé deux fois et obtenir l'un ou l'autre résultat.</p>"
+    },
+    "Sneak Firing": {
+      "name": "Sneak Firing",
+      "description": "<p><em><strong>Prerequisite:</strong> at least 1 niveau in operative</em></p><p>Une fois par tour, you can deal an extra [[/r 1d6]] dégâts to one ship you hit with a ship attack if you have avantage on the attack roll. You can select this venture multiple times.</p>"
+    },
+    "Intuitive Gunner": {
+      "name": "Intuitive Gunner",
+      "description": "<p><em><strong>Prérequis :</strong> La capacité de lancer le pouvoir de la Forces</em></p><p>Lorsque vous déterminez le DD de sauvegarde pour une arme de vaisseau tertiaire sur un navire moyen ou plus petit, vous pouvez ajouter la moitié de votre modificateur de Sagesse ou de Charisme (votre choix) au DD de sauvegarde. </p>"
+    },
+    "Force Piloting": {
+      "name": "Force Piloting",
+      "description": "<p><em><strong>Prérequis :</strong> La capacité de lancer le pouvoir de la Forces</em></p><p>Lorsque vous effectuez un test de Dextérité (Manœuvre) à bord de votre navire, vous pouvez ajouter la moitié (arrondi au supérieur) de votre modificateur de Sagesse ou de Charisme (votre choix) à votre résultat. De plus, vous pouvez ajouter la moitié (arrondi au supérieur) de votre modificateur de Sagesse ou de Charisme (votre choix) à la CA de votre vaisseau pendant que vous êtes déployé en tant que pilote.</p>"
+    },
+    "Infiltration": {
+      "name": "Infiltration",
+      "description": "<p><em><strong>Prerequisite</strong>: at least 10 niveaus in scout</em><br /><br /><span style=\"font-family:'Open Sans', sans-serif\">You can take the Fly or Conceal actions as a action bonus on each of your turns.</span><span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>When you attempt to Conceal your ship, you can opt to not move your ship more than half its speed on that turn. If you do so, ships that attempt to detect you take a -10 penalty to their Wisdom (Scan) checks jusqu'au début de votre prochain tour. You lose this benefit if you move more than half your speed, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden.<span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>If you are still hidden on your next turn, you can continue to move up to half your speed and gain this benefit until you are detected.<span style=\"font-family:'Open Sans', sans-serif\"><br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" /></span>Finally, you can no longer be tracked by unenhanced means, unless you choose to leave a trail.</p>"
+    },
+    "Shrewd Interrogator": {
+      "name": "Shrewd Interrogator",
+      "description": "Lorsque vous effectuez un test de Sagesse (Perspicacité) ou de Charisme (Déception) à bord de votre vaisseau, vous pouvez utiliser votre modificateur d'Intelligence au lieu de votre modificateur de Sagesse ou de Charisme."
+    },
+    "Resourceful Technician": {
+      "name": "Resourceful Technician",
+      "description": "<p><em><strong>Condition préalable :</strong> au moins 1 rang en technicien</em></p><p>Une fois par tour, lorsque vous lancez un dé de pouvoir dans le cadre d'un stratagème de technicien, vous pouvez lancer le dé deux fois et obtenir l'un ou l'autre résultat.</p>"
+    },
+    "Storming Gunner": {
+      "name": "Storming Gunner",
+      "description": "<p>Vous pouvez utiliser votre immense force pour stabiliser les armes principales grâce aux fonctions d'éclatement, de rapidité ou de saturation. Lorsque vous effectuez un jet d'attaque avec une arme principale du navire ayant au moins une de ces caractéristiques alors que vous êtes sur un navire moyen ou plus petit, vous pouvez utiliser votre modificateur de Force, au lieu du modificateur de Sagesse du navire, pour les jets d'attaque ou définir le DD pour les sauvegardes des cibles.</p>"
+    }
+  },
+  "mapping": {
+    "atFlavorText": "system.atFlavorText.value",
+    "name": "name",
+    "description": "system.description.value",
+    "biography": "system.details.biography.value",
+    "advancements": {
+      "path": "system.advancement",
+      "converter": "sw5eAdvancements"
+    },
+    "chat": "system.description.chat",
+    "invocations": "system.invocations.value"
+  }
+}
