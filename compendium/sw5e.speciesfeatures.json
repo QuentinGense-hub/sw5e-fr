@@ -3,11 +3,11 @@
   "entries": {
     "Refinery Specialist": {
       "name": "Refinery Specialist",
-      "description": "<p>You have maîtrise in your choice of constructor's implements, scavenging kit, or surveyor's implements. De plus, whenever you make an Intelligence (Nature) check to identify a metal or mineral, you are considered to have expertise in the Nature skill.</p>"
+      "description": "<p>Vous maîtrisez votre choix d'outils de constructeur, de kit de vidange ou d'outils de géomètre. De plus, chaque fois que vous effectuez un test d'Intelligence (Nature) pour identifier un métal ou un minéral, vous êtes considéré comme possédant une expertise dans la compétence Nature.</p>"
     },
     "Knowledge Protocol": {
       "name": "Knowledge Protocol",
-      "description": "<p>You have maîtrise in the Lore skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Lore.</p>"
     },
     "Quick Learner": {
       "name": "Quick Learner",
@@ -15,51 +15,51 @@
     },
     "Way of the Warrior": {
       "name": "La voie du guerrier",
-      "description": "<p>You have maîtrise with light and medium armor as well as vibroblades and vibroswords.</p>"
+      "description": "<p>Vous maîtrisez les armures légères et moyennes ainsi que les vibroblades et vibroswords.</p>"
     },
     "Nomadic": {
       "name": "Nomadic",
-      "description": "<p>You are proficient in Survival.</p>"
+      "description": "<p>Vous maîtrisez Survival.</p>"
     },
     "Four-Armed": {
       "name": "Four-Armed",
-      "description": "<p>Xexto disposent de quatre bras qu'ils peuvent utiliser indépendamment les uns des autres. Vous ne pouvez bénéficier que des objets détenus par deux de vos bras à un moment donné, et une fois par tour, vous pouvez changer de bras dont vous bénéficiez (aucune action requise).</p>"
+      "description": "<p>Xexto disposant de quatre bras qu'ils peuvent utiliser indépendamment les uns des autres. Vous ne pouvez bénéficier que des objets détenus par deux de vos soutiens-gorge à un moment donné, et une fois par tour, vous pouvez changer de soutiens-gorge dont vous bénéficiez (aucune action requise).</p>"
     },
     "Natural Survivalist": {
       "name": "Natural Survivalist",
-      "description": "<p>You have maîtrise in Nature and Survival.</p>"
+      "description": "<p>Vous avez une maîtrise en Nature et Survie.</p>"
     },
     "Unsettling Visage": {
       "name": "Unsettling Visage",
-      "description": "<p>When a creature you can see makes an attack roll against you, you can use your réaction to impose disavantage on the roll. You must use this feature before knowing whether the attack hits or misses. Using this trait reveals your shapeshifting nature to any creature within 30 mètres that can see you. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Quand une créature que vous pouvez voir effectue un jet d'attaque contre vous, vous pouvez utiliser votre réaction pour imposer un désavantage sur le jet. Vous devez utiliser cette fonctionnalité avant de savoir si l'attaque réussit ou rate. L'utilisation de ce trait révèle votre nature métamorphe à toute créature dans un rayon de 30 mètres qui peut vous voir. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Wealthy": {
       "name": "Wealthy",
-      "description": "<p>During character creation, you start with additional credits equal to your niveau x your bonus de maîtrise x 1,000 cr.</p>"
+      "description": "<p>Lors de la création de personnage, vous démarrez avec des crédits supplémentaires égaux à votre niveau x votre bonus de maîtrise x 1 000 cr.</p>"
     },
     "Cold Adaptation": {
       "name": "Cold Adaptation",
-      "description": "<p>You have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme cold.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû au grand froid.</p>"
     },
     "Born Pilots": {
       "name": "Born Pilots",
-      "description": "<p>Nothoiins demonstrate seemingly innate piloting abilities from a very young age.  You have maîtrise in the Piloting skill.</p>"
+      "description": "Les <p>Nothoiins démontrent des capacités de pilotage apparemment innées dès leur plus jeune âge. Vous possédez une maîtrise dans la compétence Pilotage.</p>"
     },
     "Ink Cloud": {
       "name": "Ink Cloud",
-      "description": "<p>As an action, you can expel ink in a 10-foot cone. When you do so, chaque créature in the area of the exhalation must make a Constitution jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Constitution modificateur). On a failed sauvegarde, a creature is aveuglé until the end of its next turn. Cette capacité has no effect on constructs. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</p>"
+      "description": "<p>A Par une action, vous pouvez expulser l'encre dans un cône de 10 pieds. Ce faisant, chaque créature dans la zone de l'expiration doit effectuer un Jet de Sauvegarde de Constitution (DD = 8 + votre bonus de maîtrise + votre modificateur de Constitution). En cas d'échec de la sauvegarde, une créature est aveuglée jusqu'à la fin de son prochain tour. Cette capacité n'a aucun effet sur les constructions. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre bonus de maîtrise. Vous regagnez tous les usages dépensés lorsque vous effectuez un repos long.</p>"
     },
     "Curiosity": {
       "name": "Curiosity",
-      "description": "<p>You have maîtrise with Survival or Investigation (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise en Survie ou Enquête (au choix).</p>"
     },
     "Subsonic Bellow": {
       "name": "Subsonic Bellow",
-      "description": "<p>As an action, you can violently expel air in a cône de 4,5 mètres. When you do so, chaque créature in the area of the exhalation must make a Wisdom jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Constitution modificateur). A creature takes [[/r 2d6]] sonic dégâts on a failed sauvegarde, and half as much dégâts on a successful one. The dégâts increases to [[/r 4d6]] at niveau 5, [[/r 6d6]] at niveau 11, and [[/r 8d6]] at niveau 17. Cette capacité has no effect on constructs. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</p>"
+      "description": "<p>A Par action, vous pouvez expulser violemment de l'air dans un cône de 4,5 mètres. Ce faisant, chaque créature dans la zone de l'expiration doit effectuer un jet de sauvegarde de Sagesse (DD = 8 + votre bonus de maîtrise + votre modificateur de Constitution). Une créature subit [[/r 2d6]] dégâts soniques en cas d'échec d'une sauvegarde, et moitié moins de dégâts en cas de sauvegarde réussie. Les dégâts augmentent à [[/r 4d6]] au niveau 5, [[/r 6d6]] au niveau 11, et [[/r 8d6]] au niveau 17. Cette capacité n'a aucun effet sur les constructions. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre bonus de maîtrise. Vous regagnez tous les usages dépensés lorsque vous effectuez un repos long.</p>"
     },
     "Bo-rifle Training": {
       "name": "Bo-rifle Training",
-      "description": "<p>You have maîtrise with blaster rifles, bo-rifles, and vibrostaffs.</p>"
+      "description": "<p>Vous maîtrisez les fusils blaster, les bo-fusils et les vibrostaffs.</p>"
     },
     "Trance": {
       "name": "Trance",
@@ -71,15 +71,15 @@
     },
     "Heat Sensitivity": {
       "name": "Heat Sensitivity",
-      "description": "<p>You have disavantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme heat.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû à la chaleur extrême.</p>"
     },
     "Enforcer": {
       "name": "Enforcer",
-      "description": "<p>You are proficient in the Intimidation skill. When you take the Help action to give an ally avantage on an Intimidation check, they gain a bonus to the roll equal to your bonus de maîtrise.</p>"
+      "description": "<p>Vous maîtrisez la compétence Intimidation. Lorsque vous effectuez l'action Aide pour donner un avantage à un allié lors d'un test d'intimidation, il gagne un bonus au jet égal à votre bonus de maîtrise.</p>"
     },
     "Notorious Slavers": {
       "name": "Notorious Slavers",
-      "description": "<p>Whenever you make an test de caractéristique related to the buying, selling, or controlling of slaves, you are considered proficient in the check. If you would already be proficient, you instead have expertise.</p>"
+      "description": "<p>Chaque fois que vous effectuez un test de caractéristique lié à l'achat, à la vente ou au contrôle d'esclaves, vous êtes considéré comme compétent dans le contrôle. Si vous êtes déjà compétent, vous avez plutôt une expertise.</p>"
     },
     "Flexible Cheeks": {
       "name": "Flexible Cheeks",
@@ -91,19 +91,19 @@
     },
     "Stinger": {
       "name": "Stinger",
-      "description": "<p>Your stinger is a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d4]] kinetic dégâts.</p>"
+      "description": "<p>Votre dard est une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]].</p>"
     },
     "Sonic Sensitivity": {
       "name": "Sonic Sensitivity",
-      "description": "<p>Your powerful sense of hearing makes you especially vulnerable to deafening sounds. You have disavantage on jet de sauvegardes against effects that would deal sonic dégâts (explained in chapter 9).</p>"
+      "description": "<p>Votre sens auditif puissant vous rend particulièrement vulnérable aux sons assourdissants. Vous avez un désavantage sur les jets de sauvegardes contre les effets qui infligeraient des dégâts sonores (expliqués au chapitre 9).</p>"
     },
     "Natural Healer": {
       "name": "Natural Healer",
-      "description": "<p>You have maîtrise in the Medicine and Nature skills, and the bioanalysis kit.</p>"
+      "description": "<p>Vous maîtrisez les compétences Médecine et Nature, ainsi que le kit de bioanalyse.</p>"
     },
     "Geneticist": {
       "name": "Geneticist",
-      "description": "<p>You have maîtrise in the Medicine skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Médecine.</p>"
     },
     "Programmer": {
       "name": "Programmer",
@@ -111,19 +111,19 @@
     },
     "Regenerative": {
       "name": "Regenerative",
-      "description": "<p>When you take dégâts, you can use your réaction and expend a Hit Die to regain points de vie as long as the dégâts would not reduce your points de vie to 0.</p>"
+      "description": "<p>Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction et dépenser un dé de vie pour regagner des points de vie tant que les dégâts ne réduiraient pas vos points de vie à 0.</p>"
     },
     "Heightened Reflexes": {
       "name": "Heightened Reflexes",
-      "description": "<p>Whenever you make a Dexterity test de caractéristique, attack roll, or jet de sauvegarde, vous pouvez choisir to add [[/r 1d4]] to the result. You can use this before or after the roll, but before the GM determines the roll's outcome. Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
+      "description": "<p>A chaque fois que vous effectuez un test de Dextérité de caractéristique, un jet d'attaque ou un jet de sauvegarde, vous pouvez choisir d'ajouter [[/r 1d4]] au résultat. Vous pouvez l'utiliser avant ou après le lancer, mais avant que le MJ ne détermine le résultat du lancer. Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Impose Order": {
       "name": "Impose Order",
-      "description": "<p>As a action bonus, you can command each ally within 15 mètres of you to move up to half that ally's speed as a réaction. This movement does not provoke attacks of opportunity. Once you use this trait, you can—t use it again until you finish a short or repos long.</p>"
+      "description": "<p>AEn bonus d'action, vous pouvez ordonner à chaque allié dans un rayon de 15 mètres de vous de se déplacer jusqu'à la moitié de la vitesse de cet allié en guise de réaction. Ce mouvement ne provoque pas d'attaques d'opportunité. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Montral Reception": {
       "name": "Montral Reception",
-      "description": "<p>You have tremorsense out to 30 mètres. You can detect and pinpoint the origin of vibrations within a specific radius, provided that you and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures.</p>"
+      "description": "<p>Vous avez des tremblements jusqu'à 30 mètres. Vous pouvez détecter et localiser l'origine des vibrations dans un rayon précis, à condition que vous et la source des vibrations soyez en contact avec le même sol ou substance. Tremorssense ne peut pas être utilisé pour détecter des créatures volantes ou incorporelles.</p>"
     },
     "Nimble Reflexes": {
       "name": "Nimble Reflexes",
@@ -131,7 +131,7 @@
     },
     "Head Crest": {
       "name": "Head Crest",
-      "description": "<p>Your head crest is a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Votre crête de tête est une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Intimidating Roar": {
       "name": "Intimidating Roar",
@@ -139,35 +139,35 @@
     },
     "Naturalist": {
       "name": "Naturalist",
-      "description": "<p>You have maîtrise in the Nature skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Nature.</p>"
     },
     "Umbaran Specilization": {
       "name": "Umbaran Specilization",
-      "description": "<p>You have maîtrise in one of the following skills: Insight, Technology, Deception, or Perception.</p>"
+      "description": "<p>Vous maîtrisez l'une des compétences suivantes : perspicacité, technologie, tromperie ou perception.</p>"
     },
     "Gamorrean Toughness": {
       "name": "Gamorrean Toughness",
-      "description": "<p>Votre point de vie maximum augmente de 1, et il augmente de 1 à chaque fois que vous gagnez un niveau. De plus, vous bénéficiez d'un avantage sur Constitution jet de sauvegardes.</p>"
+      "description": "<p>Votre point de vie maximum augmenté de 1, et il augmente de 1 à chaque fois que vous gagnez un niveau. De plus, vous bénéficiez d'un avantage sur Constitution jet de sauvegardes.</p>"
     },
     "Navigators": {
       "name": "Navigators",
-      "description": "<p>You have maîtrise in surveyor's implements.</p>"
+      "description": "<p>Vous maîtrisez les outils de géomètre.</p>"
     },
     "Gank Training": {
       "name": "Gank Training",
-      "description": "<p>You have maîtrise in light and medium armor as well as two vibroweapons or blasters de votre choix.</p>"
+      "description": "<p>Vous maîtrisez les armures légères et moyennes ainsi que deux armes vibrantes ou blasters de votre choix.</p>"
     },
     "Voss Weapon Training": {
       "name": "Entraînement aux armes Voss",
-      "description": "<p>You have maîtrise with the blaster rifle and techblade.</p>"
+      "description": "<p>Vous maîtrisez le fusil blaster et le techblade.</p>"
     },
     "Watchful": {
       "name": "Watchful",
-      "description": "<p>You have maîtrise in the Perception skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Perception.</p>"
     },
     "Authoritative": {
       "name": "Authoritative",
-      "description": "<p>You have maîtrise in Persuasion or Intimidation (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise en Persuasion ou en Intimidation (au choix).</p>"
     },
     "Shrewd": {
       "name": "Shrewd",
@@ -175,15 +175,15 @@
     },
     "Cat's Claws": {
       "name": "Cat's Claws",
-      "description": "<p>Your unarmed strikes deal [[/r 1d6]] kinetic dégâts and have the finesse property.</p>"
+      "description": "<p>Vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]] et possèdent la propriété finesse.</p>"
     },
     "Slow Metabolism": {
       "name": "Slow Metabolism",
-      "description": "<p>You are able to go a number of days without food equal to 3 + twice your Constitution modificateur before suffering épuisement.</p>"
+      "description": "<p>Vous êtes capable de passer un nombre de jours sans nourriture égal à 3 + deux fois votre modificateur de Constitution avant de subir l'épuisement.</p>"
     },
     "Skill Protocol": {
       "name": "Skill Protocol",
-      "description": "<p>You have maîtrise in two skills de votre choix.</p>"
+      "description": "<p>Vous maîtrisez deux compétences de votre choix.</p>"
     },
     "Agricultural Exports": {
       "name": "Agricultural Exports",
@@ -191,11 +191,11 @@
     },
     "Racer's Reflexes": {
       "name": "Racer's Reflexes",
-      "description": "<p>Whenever you make a Dexterity test de caractéristique, attack roll, or jet de sauvegarde, vous pouvez choisir to add [[/r 1d4]] to the result. You cannot do so again until you complete a short or repos long.</p>"
+      "description": "<p>A chaque fois que vous effectuez un test de Dextérité de caractéristique, un jet d'attaque ou un jet de sauvegarde, vous pouvez choisir d'ajouter [[/r 1d4]] au résultat. Vous ne pouvez pas le faire à nouveau tant que vous n'avez pas terminé un short ou un repos long.</p>"
     },
     "Defensive Ball": {
       "name": "Defensive Ball",
-      "description": "<p>You are able to curl into a rolling ball for extra protection. When you take the Dash action while you aren't wielding a shield, you gain a bonus to AC equal to half your bonus de maîtrise jusqu'au début de votre prochain tour.</p>"
+      "description": "<p>Vous pouvez vous rouler en boule pour une protection supplémentaire. Lorsque vous effectuez l'action Dash alors que vous ne portez pas de bouclier, vous gagnez un bonus à la CA égal à la moitié de votre bonus de maîtrise jusqu'au début de votre prochaine tournée.</p>"
     },
     "Acute Smell": {
       "name": "Acute Smell",
@@ -203,11 +203,11 @@
     },
     "Changeling Instincts": {
       "name": "Changeling Instincts",
-      "description": "<p>You gain maîtrise with two of the following skills de votre choix: Deception, Intimidation, Insight, or Persuasion.</p>"
+      "description": "<p>Vous acquérez la maîtrise de deux des compétences suivantes de votre choix : Déception, Intimidation, Perspicacité ou Persuasion.</p>"
     },
     "Prediction": {
       "name": "Prediction",
-      "description": "<p>You can embrace the Force and use your advanced insight to predict likely outcomes, allowing you to turn failures into successes. When you roll a 1 on an attack roll, test de caractéristique, or jet de sauvegarde, you can reroll the die and must use the new roll.</p>"
+      "description": "<p>Vous pouvez adopter la Force et utiliser vos connaissances avancées pour prédire les résultats probables, vous permettant ainsi de transformer les échecs en succès. Lorsque vous obtenez un 1 sur un jet d'attaque, un test de caractéristique ou un jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau jet.</p>"
     },
     "Starship Specialists": {
       "name": "Starship Specialists",
@@ -215,15 +215,15 @@
     },
     "Cold Sensitivity": {
       "name": "Cold Sensitivity",
-      "description": "<p>You have disavantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme cold.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû au grand froid.</p>"
     },
     "Weapon Developers": {
       "name": "Développeurs d'armes",
-      "description": "<p>Baragwin are famous throughout the galaxy for their quality arms manufacturing. You have maîtrise with armstech's implements, munitions kits, or two weapons de votre choix.</p>"
+      "description": "<p>Baragwin est célèbre dans toute la galaxie pour sa fabrication d'armes de qualité. Vous maîtrisez les outils d'armstech, les kits de munitions ou deux armes de votre choix.</p>"
     },
     "Gamorrean Weaponry": {
       "name": "Gamorrean Weaponry",
-      "description": "<p>You have maîtrise with the vibroaxe, vibromace, and vibrosword.</p>"
+      "description": "<p>Vous maîtrisez la vibroaxe, la vibromace et le vibrosword.</p>"
     },
     "Keen Smell": {
       "name": "Keen Smell",
@@ -231,11 +231,11 @@
     },
     "Stalking Hunter": {
       "name": "Stalking Hunter",
-      "description": "<p>You have maîtrise in the Survival and Stealth skills.</p>"
+      "description": "<p>Vous maîtrisez les compétences Survie et Furtivité.</p>"
     },
     "Leonine Agility": {
       "name": "Leonine Agility",
-      "description": "<p>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 mètres on one of your turns.</p>"
+      "description": "<p>Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous utilisez ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas parcouru 0 mètre lors d'un de vos tours.</p>"
     },
     "Cannibalize": {
       "name": "Cannibalize",
@@ -243,19 +243,19 @@
     },
     "Memnii Transfer": {
       "name": "Memnii Transfer",
-      "description": "<p>As an action, while contacting a creature, you can initiate a memnii transfer. The creature must make an Intelligence jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Intelligence modificateur), a creature can choose to fail this jet de sauvegarde if it wishes. On a failed sauvegarde la cible is étourdi, and you can share vivid memories with la cible as if they were their own pendant 1 minute or until your concentration ends (as if you were concentrating on a power). The transfer ends if you stop contacting la cible. At the end of each of its turns, la créature can repeat the jet de sauvegarde to resist the transfer. On a success, the transfer ends. Otherwise, you may end the transfer on your turn (no action required). Once you've used this trait, you can't use it again until you finish a repos long. Cette aptitude has no effect on droids, constructs, or Force-Insensitive creatures.</p>"
+      "description": "<p>A Par une action, en contactant une créature, vous pouvez initier un transfert de memnii. La créature doit réaliser un jet de sauvegarde d'Intelligence (DD = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence), une créature peut choisir d'échouer ce jet de sauvegarde si elle le souhaite. En cas d'échec de la sauvegarde, la cible est étourdi, et vous pouvez partager des souvenirs vifs avec la cible comme s'il s'agissait de son propre pendentif 1 minute ou jusqu'à la fin de votre concentration (comme si vous vous concentriez sur un pouvoir). Le transfert prend fin si vous cessez de contacter la cible. A la fin de chacun de ses tours, la créature peut répéter le jet de sauvegarde pour résister au transfert. En cas de succès, le transfert se termine. Sinon, vous pouvez mettre fin au transfert à votre tour (aucune action requise). Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un dépôt long. Cette aptitude n'a aucun effet sur les droïdes, les constructions ou les créatures insensibles à la Force.</p>"
     },
     "Thieving": {
       "name": "Thieving",
-      "description": "<p>You have maîtrise in the Escamotage skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Escamotage.</p>"
     },
     "Arm Blades": {
       "name": "Arm Blades",
-      "description": "<p>Your retractable dewclaws are natural weapons, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Vos ergots rétractables sont des armes naturelles, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Silver Tongue": {
       "name": "Silver Tongue",
-      "description": "<p>You have maîtrise with Deception or Persuasion (your choice).</p>"
+      "description": "<p>Vous maîtrisez la tromperie ou la persuasion (au choix).</p>"
     },
     "Mechanical Memory": {
       "name": "Mechanical Memory",
@@ -263,15 +263,15 @@
     },
     "Size": {
       "name": "Size",
-      "description": "<p>Zygerrians normally stand between 5 to 6 mètres tall and weigh about 140 lbs. Regardless of your position in that range, your size is Medium.</p>"
+      "description": "<p>ZLes gygériens mesurent normalement entre 5 et 6 mètres de haut et pèsent environ 140 livres. Quelle que soit votre position dans cette gamme, votre taille est Medium.</p>"
     },
     "Industrial Hazards": {
       "name": "Industrial Hazards",
-      "description": "<p>You have resistance to acid dégâts.</p>"
+      "description": "<p>Vous avez une résistance aux dégâts acides.</p>"
     },
     "Predatory Talents": {
       "name": "Predatory Talents",
-      "description": "<p>You have maîtrise in one of the following skills: Acrobatics, Escamotage, Stealth, or Technology.</p>"
+      "description": "<p>Vous maîtrisez l'une des compétences suivantes : Acrobatie, Escamotage, Furtivité ou Technologie.</p>"
     },
     "Enthralling Hypnosis": {
       "name": "Enthralling Hypnosis",
@@ -283,11 +283,11 @@
     },
     "Luminescent Aura": {
       "name": "Luminescent Aura",
-      "description": "<p>À partir du niveau 3, you can use your action to amplify your radiant aura, causing a searing light to radiate from you. Your transformation lasts pendant 1 minute or until you end it as a action bonus. During it, you shed bright light in a rayon de 3 mètres and dim light for an additional 10 mètres, and at the end of each of your turns, you and chaque créature within 10 mètres of you take psychic dégâts equal to half your niveau (rounded up). De plus, une fois par chacun de vos tours, you can deal extra psychic dégâts to une cible when you deal dégâts to it with an attack or a power. The extra psychic dégâts equals your niveau.</p>"
+      "description": "<p>À partir du niveau 3, vous pouvez utiliser votre action pour amplifier votre aura rayonnante, provoquant l'émission d'une lumière brûlante autour de vous. Votre transformation dure pendant 1 minute ou jusqu'à ce que vous y mettiez fin sous forme de bonus d'action. Pendant ce temps, vous projetez une lumière vive dans un rayon de 3 mètres et une lumière tamisée pendant 10 mètres supplémentaires, et à la fin de chacun de vos tours, vous et chaque créature à moins de 10 mètres de vous subissez des dégâts psychiques égaux à la moitié de votre niveau (arrondi au supérieur). De plus, une fois par chacun de vos tours, vous pouvez infliger des dégâts psychiques supplémentaires à une cible lorsque vous lui infligez des dégâts avec une attaque ou un pouvoir. Les dégâts psychiques supplémentaires sont égaux à votre niveau.</p>"
     },
     "Keen Senses": {
       "name": "Keen Senses",
-      "description": "<p>You have maîtrise in the Perception skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Perception.</p>"
     },
     "Vigilant": {
       "name": "Vigilant",
@@ -295,35 +295,35 @@
     },
     "Acrobatic": {
       "name": "Acrobatic",
-      "description": "<p>You have maîtrise in Acrobatics.</p>"
+      "description": "<p>Vous avez une maîtrise en acrobatie.</p>"
     },
     "Hypersensitive Hearing": {
       "name": "Hypersensitive Hearing",
-      "description": "<p>Pau'ans possess incredibly receptive hearing, often to their detriment, so you wear special covers on your ears. Whenever you make a Wisdom (Perception) check involving hearing, you are considered to have expertise in the Perception skill, but if your hearing aids are removed, you have disavantage on jet de sauvegardes against effects that would deal sonic dégâts.</p>"
+      "description": "<p>Les Pau'ans possèdent une audition incroyablement réceptive, souvent à leur détriment, c'est pourquoi vous portez des cache-oreilles spéciaux. À chaque fois que vous effectuez un test de Sagesse (Perception) impliquant l'audition, vous êtes considéré comme possédant une expertise dans la compétence Perception, mais si vos aides auditives sont retirées, vous bénéficiez d'un désavantage en jet de sauvegarde contre les effets qui infligeraient des dégâts sonores.</p>"
     },
     "Mercenary Specialization": {
       "name": "Mercenary Specialization",
-      "description": "<p>You have maîtrise in one of the following skills: Intimidation, Persuasion, Stealth, or Perception.</p>"
+      "description": "<p>Vous maîtrisez l'une des compétences suivantes : Intimidation, Persuasion, Furtivité ou Perception.</p>"
     },
     "Sonic Resistance": {
       "name": "Sonic Resistance",
-      "description": "<p>Ithorians have resistance to sonic dégâts.</p>"
+      "description": "<p>Les Ithoriens ont une résistance aux dégâts soniques.</p>"
     },
     "Puny": {
       "name": "Puny",
-      "description": "<p>Zilkin are too small to pack much of a punch. You have disavantage on Strength jet de sauvegardes, and when determining your bonus to attack and jet de dégâtss for attaque d'armes using Strength, you can't add more than +3.</p>"
+      "description": "<p>Zilkin est trop petit pour avoir beaucoup de punch. Vous avez un désavantage sur les jets de sauvegardes de Force, et lors de la détermination de votre bonus d'attaque et de jets de dégâts pour les attaques d'armes utilisant la Force, vous ne pouvez pas ajouter plus de +3.</p>"
     },
     "Life in the Void": {
       "name": "La vie dans le vide",
-      "description": "<p>You have resistance to necrotic dégâts, and while exposed to the vacuum of space, you can survive for a number of hours equal to your Constitution modificateur (minimum 1 hour), instead of a number of rounds.</p>"
+      "description": "<p>Vous avez une résistance aux dégâts nécrotiques, et tant qu'il est exposé au vide de l'espace, vous pouvez survivre pendant un nombre d'heures égal à votre modificateur de Constitution (minimum 1 heure), au lieu d'un nombre de rounds.</p>"
     },
     "Two Brains": {
       "name": "Two Brains",
-      "description": "<p>When you make a Wisdom jet de sauvegarde, you can use your réaction to gain avantage on the roll. Once you've done so, you must complete a short or repos long before you can do so again.</p>"
+      "description": "<p>Lorsque vous effectuez un jet de sauvegarde Sagesse, vous pouvez utiliser votre réaction pour obtenir un avantage sur le lancer. Une fois que vous l'avez fait, vous devez terminer un short ou un repos bien avant de pouvoir le refaire.</p>"
     },
     "Mon Calamari Resistance": {
       "name": "Mon Calamari Resistance",
-      "description": "<p>You have avantage on jet de sauvegardes against effects that grant the slowed condition and you have resistance against cold dégâts (explained in chapter 9).</p>"
+      "description": "<p>Vous avez un avantage sur les jets de sauvegarde contre les effets qui confèrent la condition de ralentissement et vous avez une résistance contre les dégâts de froid (expliqués au chapitre 9).</p>"
     },
     "Sa'tosin Sense": {
       "name": "Sa'tosin Sense",
@@ -335,11 +335,11 @@
     },
     "Surgical Strikes": {
       "name": "Surgical Strikes",
-      "description": "<p>Your unarmed strikes deal [[/r 1d4]] kinetic dégâts. De plus, as a action bonus, you can perform a special pressure point attack. En cas de contacter, la cible suffers the attack—s normal effects, and it must make a Constitution jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Constitution modificateur). On a failed sauvegarde, la cible is étourdi until the end of its next turn, and you can—t use this feature again until you complete a short or repos long.</p>"
+      "description": "<p>Vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]]. De plus, en bonus d'action, vous pouvez effectuer une attaque spéciale par points de pression. En cas de contact, la cible subit les effets normaux de l'attaque, et elle doit faire un Jet de Sauvegarde de Constitution (DD = 8 + votre bonus de maîtrise + votre modificateur de Constitution). En cas d'échec de la sauvegarde, la cible est étourdi jusqu'à la fin de son prochain tour, et vous ne pouvez plus utiliser cette fonctionnalité tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Treeclimber": {
       "name": "Treeclimber",
-      "description": "<p>You have a climbing speed equal to your walking speed. You have avantage on Strength test de caractéristiques and jet de sauvegardes that involve climbing.</p>"
+      "description": "<p>Vous avez une vitesse de montée égale à votre vitesse de marche. Vous bénéficiez d'un avantage sur les tests de résistance de caractéristiques et de jet de sauvegardes impliquant l'escalade.</p>"
     },
     "Stealthy": {
       "name": "Stealthy",
@@ -347,27 +347,27 @@
     },
     "Droid Vulnerabilities": {
       "name": "Droid Vulnerabilities",
-      "description": "<p>You are vulnerable to ion dégâts. De plus, you have disavantage on jet de sauvegardes against effects that would deal ion or lightning dégâts.</p>"
+      "description": "<p>Vous êtes vulnérable aux dégâts ioniques. De plus, vous bénéficiez d'un désavantage sur les jets de sauvegarde contre les effets qui infligeraient des dégâts ioniques ou éclairs.</p>"
     },
     "Superior Memory": {
       "name": "Superior Memory",
-      "description": "<p>You can double your bonus de maîtrise for it quand vous faites an Intelligence (Lore) check to recall information you have learned, or to recall the details of your experiences.</p>"
+      "description": "<p>Vous pouvez doubler votre bonus de maîtrise lorsque vous effectuez un test d'Intelligence (Connaissance) pour vous rappeler des informations que vous avez apprises ou pour rappeler les détails de vos expériences.</p>"
     },
     "Cosmopolitan": {
       "name": "Cosmopolitan",
-      "description": "<p>You have maîtrise in Lore.</p>"
+      "description": "<p>Vous avez maîtrise en Lore.</p>"
     },
     "Hooves and Horns": {
       "name": "Sabots et cornes",
-      "description": "<p>Your hooves (and depending on your age, horns) are natural weapons, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Vos sabots (et selon votre âge, vos cornes) sont des armes naturelles, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Sonic Scream": {
       "name": "Sonic Scream",
-      "description": "<p>As an action, you can violently expel air in a cône de 4,5 mètres. When you do so, chaque créature in the area of the exhalation must make a Wisdom jet de sauvegarde (DD = 8 + your bonus de maîtrise + your Constitution modificateur). A creature takes [[/r 2d6]] sonic dégâts on a failed sauvegarde, and half as much dégâts on a successful one. The dégâts increases to [[/r 4d6]] at niveau 5, [[/r 6d6]] at niveau 11, and [[/r 8d6]] at niveau 17. Cette capacité has no effect on constructs. You can use this feature un nombre de fois égal à your bonus de maîtrise. Vous regagnez tous expended uses when you complete a repos long.</p>"
+      "description": "<p>A Par action, vous pouvez expulser violemment de l'air dans un cône de 4,5 mètres. Ce faisant, chaque créature dans la zone de l'expiration doit effectuer un jet de sauvegarde de Sagesse (DD = 8 + votre bonus de maîtrise + votre modificateur de Constitution). Une créature subit [[/r 2d6]] dégâts soniques en cas d'échec d'une sauvegarde, et moitié moins de dégâts en cas de sauvegarde réussie. Les dégâts augmentent à [[/r 4d6]] au niveau 5, [[/r 6d6]] au niveau 11, et [[/r 8d6]] au niveau 17. Cette capacité n'a aucun effet sur les constructions. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre bonus de maîtrise. Vous regagnez tous les usages dépensés lorsque vous effectuez un repos long.</p>"
     },
     "Elegant Dancers": {
       "name": "Elegant Dancers",
-      "description": "<p>You have maîtrise in the Performance skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Performance.</p>"
     },
     "Lungless": {
       "name": "Lungless",
@@ -375,7 +375,7 @@
     },
     "Six-Armed": {
       "name": "Six-Armed",
-      "description": "<p>Harch dispose de six bras qu'ils peuvent utiliser indépendamment les uns des autres. Vous ne pouvez bénéficier que des objets détenus par deux de vos bras à un moment donné, et une fois par tour, vous pouvez changer de bras dont vous bénéficiez (aucune action requise).</p>"
+      "description": "<p>Harch dispose de six soutiens-gorge qu'ils peuvent utiliser indépendamment les uns des autres. Vous ne pouvez bénéficier que des objets détenus par deux de vos soutiens-gorge à un moment donné, et une fois par tour, vous pouvez changer de soutiens-gorge dont vous bénéficiez (aucune action requise).</p>"
     },
     "Ability Score Increase": {
       "name": "Augmentation de caractéristiques",
@@ -387,31 +387,31 @@
     },
     "Coercive": {
       "name": "Coercive",
-      "description": "<p>You have maîtrise with Persuasion or Intimidation (your choice).</p>"
+      "description": "<p>Vous maîtrisez la persuasion ou l'intimidation (au choix).</p>"
     },
     "Fearless": {
       "name": "Fearless",
-      "description": "<p>You have avantage on jet de sauvegardes against being effrayé.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur le jet de sauvegardes contre l'effrayé.</p>"
     },
     "Claws": {
       "name": "Claws",
-      "description": "<p>Your unarmed strikes deal [[/r 1d4]] kinetic dégâts and have the finesse property.</p>"
+      "description": "<p>Vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]] et possèdent la propriété finesse.</p>"
     },
     "Law of Life": {
       "name": "Law of Life",
-      "description": "<p>Ithorians have a sacred respect for the natural world, taking great care to preserve and study it. You have maîtrise in the Nature skill and the bioanalysis kit.</p>"
+      "description": "<p>Les Ithoriens ont un respect sacré pour le monde naturel et prennent grand soin de le préserver et de l'étudier. Vous maîtrisez la compétence Nature et le kit de bioanalyse.</p>"
     },
     "Human Versatility": {
       "name": "Human Versatility",
-      "description": "<p>You gain maîtrise in one skill, one tool, and one weapon de votre choix.</p>"
+      "description": "<p>Vous maîtrisez une compétence, un outil et une arme de votre choix.</p>"
     },
     "Energy Sensors": {
       "name": "Energy Sensors",
-      "description": "<p>Gotals perceive the environment around them through use of electromagnetic sensors held in their cranial horns. You have blindsight out to 30 mètres. If another trait would grant you blindsight, the range is increased by half as many mètres.</p>"
+      "description": "<p>Gotals perçoit l'environnement qui l'entoure grâce à l'utilisation de capteurs électromagnétiques placés dans ses cornes crâniennes. Vous avez une vision aveugle jusqu'à 30 mètres. Si un autre trait vous confère la vue aveugle, la portée est augmentée de moitié de mètres.</p>"
     },
     "Tanned": {
       "name": "Tanned",
-      "description": "<p>You have tough, leathery skin. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modificateur. De plus, You have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme heat.</p>"
+      "description": "<p>Vous avez une peau dure et coriace. Tant que vous n'êtes pas armé ou portez une armure légère, votre CA est de 13 + votre modificateur de Dextérité. De plus, vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû à la chaleur extrême.</p>"
     },
     "Keen Sight": {
       "name": "Keen Sight",
@@ -419,7 +419,7 @@
     },
     "Spider Climb": {
       "name": "Spider Climb",
-      "description": "<p>You have a climbing speed of 30 mètres. You have avantage on Strength jet de sauvegardes and Strength (Athletics) checks that involve climbing, and while climbing you always have two hands free.</p>"
+      "description": "<p>Vous disposez d'une vitesse de montée de 30 mètres. Vous bénéficiez d'un avantage sur les jets de sauvegarde de force et les contrôles de force (athlétisme) qui impliquent l'escalade, et pendant l'escalade, vous avez toujours les deux mains libres.</p>"
     },
     "Organized": {
       "name": "Organized",
@@ -427,7 +427,7 @@
     },
     "Easily Addicted": {
       "name": "Easily Addicted",
-      "description": "<p>Arcona are susceptible to spice addiction, and as a result you are taught to identify it from an early age. De plus, consuming salt can cause them to hallucinate, potentially replicating the effects of spice. Whenever you make an test de caractéristique related to identifying salt or spice or seeing whether something contains salt or spice, you have avantage.</p>"
+      "description": "<p>Arcona est sensible à la dépendance aux épices et, par conséquent, on vous apprend à l'identifier dès le plus jeune âge. De plus, la consommation de sel peut provoquer des hallucinations, reproduisant potentiellement les effets des épices. Chaque fois que vous effectuez un test de caractéristique lié à l'identification du sel ou des épices ou pour voir si quelque chose contient du sel ou des épices, vous avez un avantage.</p>"
     },
     "Allies of the Force": {
       "name": "Alliés de la Force",
@@ -439,7 +439,7 @@
     },
     "Tail and Claw": {
       "name": "Queue et griffe",
-      "description": "<p>Your strong tail and razor-sharp claws are natural weapons, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Votre queue solide et vos griffes acérées comme des rasoirs sont des armes naturelles que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Natural Armor": {
       "name": "Armure naturelle",
@@ -447,19 +447,19 @@
     },
     "Savage Attacks": {
       "name": "Savage Attacks",
-      "description": "<p>When you score a critical hit with a attaque d'arme au corps à corps, you can roll one of the weapon's dégâts dice one additional time and add it to the extra dégâts of the critical hit.</p>"
+      "description": "<p>Lorsque vous réussissez un coup critique avec une attaque d'arme au corps à corps, vous pouvez lancer un dé de dégâts de l'arme une fois de plus et l'ajouter aux dégâts supplémentaires du coup critique.</p>"
     },
     "Smooth Talker": {
       "name": "Smooth Talker",
-      "description": "<p>You have maîtrise in Deception and Persuasion.</p>"
+      "description": "<p>Vous avez une maîtrise en Déception et Persuasion.</p>"
     },
     "Iron Will": {
       "name": "Iron Will",
-      "description": "<p>You have avantage on jet de sauvegardes against being charmé.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur le jet de sauvegardes contre être charmé.</p>"
     },
     "Integrated Engineering": {
       "name": "Integrated Engineering",
-      "description": "<p>You have maîtrise in one specialist's kit de votre choix. The chosen kit is integrated into your chassis, and can not be removed while you are conscious.</p>"
+      "description": "<p>Vous maîtrisez un kit spécialisé de votre choix. Le kit choisi est intégré à votre châssis, et ne peut être retiré lorsque vous êtes conscient.</p>"
     },
     "Exoskeleton": {
       "name": "Exoskeleton",
@@ -471,7 +471,7 @@
     },
     "Geonosian Weaponry": {
       "name": "Geonosian Weaponry",
-      "description": "<p>You have maîtrise in blasters that deal sonic dégâts.</p>"
+      "description": "<p>Vous maîtrisez les blasters qui infligent des dégâts soniques.</p>"
     },
     "Small and Nimble": {
       "name": "Petit et agile",
@@ -479,15 +479,15 @@
     },
     "Equine Build": {
       "name": "Equine Build",
-      "description": "<p>Your carrying capacity and the weight you can push, drag, or lift doubles. If it would already double, it instead triples. De plus, any climb that requires hands and mètres is especially difficult for you because of your hooves. When you make such a climb, each foot of movement costs you 4 extra mètres, instead of the normal 1 extra foot. Finally, a Medium or smaller creature can ride on your equine back if you allow it. In such a situation, you continue to act independently, not as a controlled mount.</p>"
+      "description": "<p>Votre capacité de charge et le poids que vous pouvez pousser, traîner ou soulever doublent. S’il devait déjà doubler, il triplerait. De plus, toute ascension qui demande des mains et des mètres est particulièrement difficile pour vous à cause de vos sabots. Lorsque vous effectuez une telle montée, chaque pied de mouvement vous coûte 4 mètres supplémentaires, au lieu du pied supplémentaire normal. Enfin, une créature de taille moyenne ou plus petite peut monter sur votre dos d'équidé si vous le permettez. Dans une telle situation, vous continuez à agir de manière indépendante, et non comme une monture contrôlée.</p>"
     },
     "Dexterous": {
       "name": "Dexterous",
-      "description": "<p>You have maîtrise in one of the following skills: Acrobatics, Piloting, or Escamotage.</p>"
+      "description": "<p>Vous maîtrisez l'une des compétences suivantes : Acrobatie, Pilotage ou Escamotage.</p>"
     },
     "Inquisitive": {
       "name": "Inquisitive",
-      "description": "<p>You have maîtrise in the Investigation skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Enquête.</p>"
     },
     "Nimbleness": {
       "name": "Nimbleness",
@@ -495,7 +495,7 @@
     },
     "Vacuum Sealed": {
       "name": "Vacuum Sealed",
-      "description": "<p>You can survive for one day within the vacuum of space. You still require oxygen to breathe. You have resistance to cold dégâts.</p>"
+      "description": "<p>Vous pouvez survivre une journée dans le vide de l'espace. Vous avez toujours besoin d’oxygène pour respirer. Vous disposez d'une résistance aux dégâts du froid.</p>"
     },
     "Mask of the Wild": {
       "name": "Masque de la nature",
@@ -515,7 +515,7 @@
     },
     "Rolling Agility": {
       "name": "Rolling Agility",
-      "description": "<p>As a lurmen, you can run on all fours, or curl into a ball, to move quickly along the ground. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 mètres on one of your turns.</p>"
+      "description": "<p>AEn tant que lurmen, vous pouvez courir à quatre pattes ou vous mettre en boule pour vous déplacer rapidement sur le sol. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous utilisez ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas parcouru 0 mètre lors d'un de vos tours.</p>"
     },
     "Inscrutable": {
       "name": "Inscrutable",
@@ -523,7 +523,7 @@
     },
     "Darkvision": {
       "name": "Darkvision",
-      "description": "<p>You have a cat's keen senses, especially in the dark. You can see in dim light within 60 mètres of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>"
+      "description": "<p>Vous avez les sens d'un chat, surtout dans l'obscurité. Vous pouvez voir dans une lumière faible à moins de 60 mètres de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.</p>"
     },
     "Relentless Endurance": {
       "name": "Relentless Endurance",
@@ -531,7 +531,7 @@
     },
     "Prehensile Tail and Feet": {
       "name": "Queue et pieds préhensiles",
-      "description": "<p>You have supreme control over your tail and mètres and can use them to manipulate objects as well as your hands.</p>"
+      "description": "<p>Vous avez un contrôle suprême sur votre queue et vos mètres et pouvez les utiliser pour manipuler des objets ainsi que vos mains.</p>"
     },
     "Natural Grappler": {
       "name": "Natural Grappler",
@@ -539,11 +539,11 @@
     },
     "Fisticuffs": {
       "name": "Fisticuffs",
-      "description": "<p>Your unarmed strikes deal [[/r 1d4]] kinetic dégâts and have the finesse property.</p>"
+      "description": "<p>Vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]] et possèdent la propriété finesse.</p>"
     },
     "Crafters": {
       "name": "Crafters",
-      "description": "<p>You have maîtrise with one set of artisan's implements de votre choix.</p>"
+      "description": "<p>Vous maîtrisez un ensemble d'outils d'artisan de votre choix.</p>"
     },
     "Arms Dealers": {
       "name": "Arms Dealers",
@@ -555,7 +555,7 @@
     },
     "Scholarly": {
       "name": "Scholarly",
-      "description": "<p>You have maîtrise in the Insight skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Insight.</p>"
     },
     "Snap Senses": {
       "name": "Snap Senses",
@@ -563,7 +563,7 @@
     },
     "Divination": {
       "name": "Divination",
-      "description": "<p>Whether through mystical divination or sheer luck, you can turn failures into successes. When you roll a 1 on the [[/r d20]] for an attack roll, test de caractéristique, or jet de sauvegarde, you can reroll the die and must use the new roll.</p>"
+      "description": "<p>Que ce soit par la divination mystique ou par pure chance, vous pouvez transformer les échecs en succès. Lorsque vous obtenez un 1 sur le [[/r d20]] pour un jet d'attaque, un test de caractéristique ou un jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau jet.</p>"
     },
     "Business Savvy": {
       "name": "Business Savvy",
@@ -583,7 +583,7 @@
     },
     "Tusken Weaponry": {
       "name": "Tusken Weaponry",
-      "description": "<p>You have maîtrise with the cycler rifle and vibroaxe.</p>"
+      "description": "<p>Vous maîtrisez le fusil cycler et la vibroaxe.</p>"
     },
     "Prehensile Tail": {
       "name": "Prehensile Tail",
@@ -603,11 +603,11 @@
     },
     "Slicer": {
       "name": "Slicer",
-      "description": "<p>You have maîtrise with the Technology skill and the slicer's kit.</p>"
+      "description": "<p>Vous maîtrisez la compétence Technologie et le kit trancheuse.</p>"
     },
     "Protective Membrane": {
       "name": "Protective Membrane",
-      "description": "<p>You have avantage on jet de sauvegardes against being aveuglé.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur le jet de sauvegardes contre l'aveuglé.</p>"
     },
     "Political Guile": {
       "name": "Political Guile",
@@ -615,11 +615,11 @@
     },
     "Miners": {
       "name": "Miners",
-      "description": "<p>You have maîtrise in scavenging kits.</p>"
+      "description": "<p>Vous maîtrisez les kits de récupération.</p>"
     },
     "Echani Art": {
       "name": "Echani Art",
-      "description": "<p>If a humanoid you can see makes a attaque d'arme au corps à corps, you can use your réaction to make a Wisdom (Insight) check against la cible's Charisma (Deception). On a success you learn one of the following traits about cette créature: it's Strength, Dexterity or Constitution score; bonus to Strength, Dexterity or Constitution jet de sauvegardes; classe d'armure; or current points de vie. On a failure, la cible becomes immune to this feature for one day. You can use this ability un nombre de fois égal à your Wisdom modificateur (a minimum of once). Vous regagnez tous expended uses on a repos long.</p>"
+      "description": "<p>Si un humanoïde que vous pouvez voir effectue une attaque d'arme au corps à corps, vous pouvez utiliser votre réaction pour effectuer un test de Sagesse (Perspicacité) contre le Charisme (Déception) de la cible. En cas de réussite, vous apprenez l'un des traits suivants sur cette créature : c'est son score de Force, de Dextérité ou de Constitution ; bonus aux jets de sauvegardes de Force, de Dextérité ou de Constitution ; classe d'armure; ou points de vie actuels. En cas d'échec, la cible devient immunisée contre cette fonctionnalité pendant une journée. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (au minimum une fois). Vous regagnez tous les usages dépensés sur un repos long.</p>"
     },
     "Force Sight": {
       "name": "Force Sight",
@@ -627,11 +627,11 @@
     },
     "Animal Handler": {
       "name": "Animal Handler",
-      "description": "<p>You have maîtrise in the Dressage skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Dressage.</p>"
     },
     "Combative Culture": {
       "name": "Combative Culture",
-      "description": "<p>You have maîtrise in Lore and Acrobatics.</p>"
+      "description": "<p>Vous avez une maîtrise en Lore et Acrobatie.</p>"
     },
     "Shadow People": {
       "name": "Shadow People",
@@ -639,27 +639,27 @@
     },
     "Natural Resilience": {
       "name": "Natural Resilience",
-      "description": "<p>You have resistance to poison dégâts, and you have avantage on jet de sauvegardes against poison.</p>"
+      "description": "<p>Vous avez une résistance aux dégâts de poison, et vous avez un avantage sur les jets de sauvegarde contre le poison.</p>"
     },
     "Radiation Resistant": {
       "name": "Radiation Resistant",
-      "description": "<p>The dying star nearby their homeworld makes nikto naturally used to radiation. You have resistance to necrotic dégâts.</p>"
+      "description": "<p>L'étoile mourante à proximité de leur monde natal rend Nikto naturellement habitué aux radiations. Vous avez une résistance aux dégâts nécrotiques.</p>"
     },
     "Powerful Charge": {
       "name": "Powerful Charge",
-      "description": "<p>If you move at least 10 mètres in a straight line before hitting with a attaque d'arme au corps à corps, you can attempt to trip la cible à terre as part of the same attack. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Si vous vous déplacez d'au moins 10 mètres en ligne droite avant de frapper avec une attaque d'arme au corps à corps, vous pouvez tenter de faire trébucher la cible à terre dans le cadre de la même attaque. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Hunter": {
       "name": "Hunter",
-      "description": "<p>You are proficient in Survival.</p>"
+      "description": "<p>Vous maîtrisez Survival.</p>"
     },
     "Major Miners": {
       "name": "Major Miners",
-      "description": "<p>Nothoiins have intimate knowledge of ur-diamond mining and refinement practices.  You gain maîtrise in your choice of jeweler's implements, scavenging kit, or archaeologist kit.</p>"
+      "description": "<p>Nothoiins ont une connaissance approfondie des pratiques d'extraction et de raffinage des diamants. Vous gagnez en maîtrise dans votre choix d'outils de bijoutier, de kit de récupération ou de kit d'archéologue.</p>"
     },
     "Swim": {
       "name": "Swim",
-      "description": "<p>You have a swimming speed of 20 mètres.</p>"
+      "description": "<p>Vous disposez d'une vitesse de nage de 20 mètres.</p>"
     },
     "Intuitive Initiative": {
       "name": "Intuitive Initiative",
@@ -667,43 +667,43 @@
     },
     "Anatomical Knowledge": {
       "name": "Anatomical Knowledge",
-      "description": "<p>You have maîtrise in the Medicine skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Médecine.</p>"
     },
     "Menacing": {
       "name": "Menacing",
-      "description": "<p>You have maîtrise in the Intimidation skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Intimidation.</p>"
     },
     "Galactic Traveler": {
       "name": "Galactic Traveler",
-      "description": "<p>You have maîtrise in the Lore skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Lore.</p>"
     },
     "Fury of the Small": {
       "name": "La fureur des petits",
-      "description": "<p>When you dégâts a creature with an attack or a power and la créature's size is larger than yours, you can cause the attack or power to deal extra dégâts to la créature. The extra dégâts equals your niveau. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Lorsque vous frappez une créature avec une attaque ou un pouvoir et que la taille de la créature est plus grande que la vôtre, vous pouvez faire en sorte que l'attaque ou le pouvoir inflige des dégâts supplémentaires à la créature. Les dégâts supplémentaires sont égaux à votre niveau. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Politically Minded": {
       "name": "Politically Minded",
-      "description": "<p>You have maîtrise in the Insight skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Insight.</p>"
     },
     "Hidden Step": {
       "name": "Hidden Step",
-      "description": "<p>As a action bonus, you can turn invisible jusqu'au début de votre prochain tour or until you attack, make a jet de dégâts, or force someone to make a jet de sauvegarde. Once you've used this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>AEn bonus d'action, vous pouvez devenir invisible jusqu'au début de votre prochaine tournée ou jusqu'à ce que vous attaquiez, fassiez un jet de dégâts ou forciez quelqu'un à faire un jet de sauvegarde. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Stargazer": {
       "name": "Stargazer",
-      "description": "<p>You have maîtrise in Piloting and Technology.</p>"
+      "description": "<p>Vous avez une maîtrise en Pilotage et Technologie.</p>"
     },
     "Split Mind": {
       "name": "Split Mind",
-      "description": "<p>When you make a Wisdom jet de sauvegarde, you can use your réaction to gain avantage on the roll. Once you've done so, you must complete a short or repos long before you can do so again.</p>"
+      "description": "<p>Lorsque vous effectuez un jet de sauvegarde Sagesse, vous pouvez utiliser votre réaction pour obtenir un avantage sur le lancer. Une fois que vous l'avez fait, vous devez terminer un short ou un repos bien avant de pouvoir le refaire.</p>"
     },
     "Climb": {
       "name": "Climb",
-      "description": "<p>You have a climbing speed of 35 mètres.</p>"
+      "description": "<p>Vous disposez d'une vitesse de montée de 35 mètres.</p>"
     },
     "Detail Oriented": {
       "name": "Detail Oriented",
-      "description": "<p>You are practiced at scouring for details. You have avantage on Intelligence (Investigation) checks within 5 mètres.</p>"
+      "description": "<p>Vous êtes habitué à rechercher des détails. Vous bénéficiez d'un avantage sur les contrôles de renseignement (enquête) dans un rayon de 5 mètres.</p>"
     },
     "Hardened Carapace": {
       "name": "Hardened Carapace",
@@ -711,11 +711,11 @@
     },
     "Art Obsession": {
       "name": "Art Obsession",
-      "description": "<p>Whenever you make an test de caractéristique related to the acquisition or location of art or valuables, you are considered proficient in the check. If you would already be proficient, you instead have expertise.</p>"
+      "description": "<p>Chaque fois que vous effectuez un test de caractéristique lié à l'acquisition ou à la localisation d'œuvres d'art ou d'objets de valeur, vous êtes considéré comme compétent en matière de contrôle. Si vous êtes déjà compétent, vous avez plutôt une expertise.</p>"
     },
     "Bite": {
       "name": "Bite",
-      "description": "<p>Your tusks are a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Vos défenses sont une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Kiffar Heritage": {
       "name": "Kiffar Heritage",
@@ -727,15 +727,15 @@
     },
     "Wild Hunters": {
       "name": "Wild Hunters",
-      "description": "<p>You have maîtrise in the Survival skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Survie.</p>"
     },
     "Heat Adaptation": {
       "name": "Heat Adaptation",
-      "description": "<p>You have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme heat.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû à la chaleur extrême.</p>"
     },
     "Spicer": {
       "name": "Spicer",
-      "description": "<p>You are proficient in spicer's kit.</p>"
+      "description": "<p>Vous maîtrisez le kit Spicer.</p>"
     },
     "Compound Eyes": {
       "name": "Compound Eyes",
@@ -743,7 +743,7 @@
     },
     "Stealthy Hunter": {
       "name": "Stealthy Hunter",
-      "description": "<p>You have maîtrise in the Survival and Stealth skills.</p>"
+      "description": "<p>Vous maîtrisez les compétences Survie et Furtivité.</p>"
     },
     "Oversized": {
       "name": "Oversized",
@@ -755,27 +755,27 @@
     },
     "Mystic Healing": {
       "name": "Mystic Healing",
-      "description": "<p>You have maîtrise in Medicine.</p>"
+      "description": "<p>Vous avez une maîtrise en médecine.</p>"
     },
     "Tooth and Nail": {
       "name": "Dent et ongle",
-      "description": "<p>Your sharp teeth and claws are natural weapons, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts. Lastly, as a action bonus, you can perform a special bite attack. En cas de contacter, la cible suffers the attack's normal effects, you gain points de vie temporaires equal to your Constitution modificateur (minimum of 1), and you can't use this trait again until you finish a short or repos long.</p>"
+      "description": "<p>Vos dents et griffes acérées sont des armes naturelles que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]]. Enfin, en bonus d'action, vous pouvez effectuer une attaque de morsure spéciale. En cas de contact, la cible subit les effets normaux de l'attaque, vous gagnez des points de vie temporaires égaux à votre modificateur de Constitution (minimum de 1), et vous ne pouvez plus utiliser ce trait tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Powerful Leap": {
       "name": "Powerful Leap",
-      "description": "<p>If you jump at least 10 mètres in a straight line before hitting with a attaque d'arme au corps à corps, you can attempt to trip la cible à terre as part of the same attack. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Si vous sautez au moins 10 mètres en ligne droite avant de frapper avec une attaque d'arme au corps à corps, vous pouvez tenter de faire trébucher la cible à terre dans le cadre de la même attaque. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Unarmed Combatant": {
       "name": "Unarmed Combatant",
-      "description": "<p>Your unarmed strikes deal [[/r 1d4]] kinetic dégâts and have the finesse property.</p>"
+      "description": "<p>Vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]] et possèdent la propriété finesse.</p>"
     },
     "Acute Senses": {
       "name": "Acute Senses",
-      "description": "<p>You have maîtrise in the Perception skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Perception.</p>"
     },
     "Tracker": {
       "name": "Tracker",
-      "description": "<p>You have maîtrise in the Survival skill. De plus, you are considered to have expertise in Wisdom (Survival) checks made to track a creature if cette créature has a scent.</p>"
+      "description": "<p>Vous maîtrisez la compétence Survie. De plus, vous êtes considéré comme ayant une expertise dans les tests de Sagesse (Survie) effectués pour traquer une créature si cette créature a une odeur.</p>"
     },
     "Closed Mind": {
       "name": "Closed Mind",
@@ -791,7 +791,7 @@
     },
     "Precognition": {
       "name": "Precognition",
-      "description": "<p>You see brief visions of the future, that allow you to turn failures into successes. When you roll a 1 on an attack roll, test de caractéristique, or jet de sauvegarde, you can reroll the die and must use the new roll.</p>"
+      "description": "<p>Vous voyez de brèves visions du futur, qui vous permettent de transformer les échecs en succès. Lorsque vous obtenez un 1 sur un jet d'attaque, un test de caractéristique ou un jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau jet.</p>"
     },
     "Age": {
       "name": "Age",
@@ -803,15 +803,15 @@
     },
     "Adept Climbers": {
       "name": "Adept Climbers",
-      "description": "<p>You have a climbing speed of 30 mètres.</p>"
+      "description": "<p>Vous disposez d'une vitesse de montée de 30 mètres.</p>"
     },
     "Nimble Agility": {
       "name": "Nimble Agility",
-      "description": "<p>Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the tum. Once you use this trait, you can—t use it again until you move 0 mètres on one of your turns.</p>"
+      "description": "<p>Vos réflexes et votre agilité vous permettent de vous déplacer à toute vitesse. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas parcouru 0 mètre lors d'un de vos tours.</p>"
     },
     "Con Artist": {
       "name": "Con Artist",
-      "description": "<p>You have maîtrise in one gaming set de votre choix.</p>"
+      "description": "<p>Vous maîtrisez un jeu de votre choix.</p>"
     },
     "Alignment": {
       "name": "Alignment",
@@ -819,19 +819,19 @@
     },
     "Tinker": {
       "name": "Tinker",
-      "description": "<p>You have maîtrise with tinker's implements. You can use these and spend 1 hour and 100 cr worth of materials to construct a Tiny Device (AC 5, 1 hp). You can take the Use an Object action to have your device cause one of the following effects: create a small explosion, create a repeating loud noise pendant 1 minute, create smoke pendant 1 minute, cause harmless tremors pendant 1 minute. You can maintain a number of these devices up to your bonus de maîtrise at once, and a device stops functioning after 24 hours away from you. You can dismantle the device to reclaim the materials used to create it.</p>"
+      "description": "<p>Vous maîtrisez les outils de bricolage. Vous pouvez les utiliser et dépenser 1 heure et 100 cr de matériaux pour construire un petit appareil (CA 5, 1 hp). Vous pouvez effectuer l'action Utiliser un objet pour que votre appareil provoque l'un des effets suivants : créer une petite explosion, créer un bruit fort et répétitif pendant 1 minute, créer de la fumée pendant 1 minute, provoquer des tremblements inoffensifs pendant 1 minute. Vous pouvez entretenir plusieurs de ces appareils à hauteur de votre bonus de maîtrise en une seule fois, et un appareil cesse de fonctionner après 24 heures loin de vous. Vous pouvez démonter l'appareil pour récupérer les matériaux utilisés pour le créer.</p>"
     },
     "Skill Versatility": {
       "name": "Skill Versatility",
-      "description": "<p>You gain maîtrise in one skill de votre choix.</p>"
+      "description": "<p>Vous gagnez en maîtrise dans une compétence de votre choix.</p>"
     },
     "Natural Resistance": {
       "name": "Natural Resistance",
-      "description": "<p>You have avantage on jet de sauvegardes against poison, and you have resistance against poison dégâts (explained in chapter 9).</p>"
+      "description": "<p>Vous avez un avantage sur les jets de sauvegarde contre le poison, et vous avez une résistance contre les dégâts de poison (expliqué au chapitre 9).</p>"
     },
     "Musical": {
       "name": "Musical",
-      "description": "<p>You have maîtrise in Performance and one musical instrument de votre choix.</p>"
+      "description": "<p>Vous avez une maîtrise en Performance et un instrument de musique de votre choix.</p>"
     },
     "Armored Plates": {
       "name": "Armored Plates",
@@ -847,11 +847,11 @@
     },
     "Arkanian Brilliance": {
       "name": "Arkanian Brilliance",
-      "description": "<p>Whenever you make an test de caractéristique, attack roll, or jet de sauvegarde using Intelligence, vous pouvez choisir to add [[/r 1d4]] to the result. Vous pouvez choisir to do this after the check is rolled, but before the DM determines if you've passed or failed the check. You cannot do so again until you complete a short or repos long.</p>"
+      "description": "<p>A chaque fois que vous effectuez un test de caractéristique, un jet d'attaque ou un jet de sauvegarde à l'aide d'Intelligence, vous pouvez choisir d'ajouter [[/r 1d4]] au résultat. Vous pouvez choisir de le faire après le lancer du chèque, mais avant que le DM ne détermine si vous avez réussi ou échoué le chèque. Vous ne pouvez pas le faire à nouveau tant que vous n'avez pas terminé un short ou un repos long.</p>"
     },
     "Superior Darkvision": {
       "name": "Superior Darkvision",
-      "description": "<p>You've lived most of your life without direct sunlight. You can see in dim light within 120 mètres of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>"
+      "description": "<p>Vous avez vécu la majeure partie de votre vie sans lumière directe du soleil. Vous pouvez voir dans la pénombre à moins de 120 mètres de vous comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière tamisée. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.</p>"
     },
     "Armor Integration": {
       "name": "Intégration d'armure",
@@ -859,7 +859,7 @@
     },
     "Natural Antitoxins": {
       "name": "Natural Antitoxins",
-      "description": "<p>You have avantage on jet de sauvegardes against poison and disease, and you have resistance against poison dégâts (explained in Chapter 9).</p>"
+      "description": "<p>Vous avez un avantage sur les jets de sauvegarde contre le poison et les maladies, et vous avez une résistance contre les dégâts de poison (expliqués au chapitre 9).</p>"
     },
     "Reptilian Senses": {
       "name": "Reptilian Senses",
@@ -875,7 +875,7 @@
     },
     "Telepathy": {
       "name": "Telepathy",
-      "description": "<p>You can communicate telepathically with creatures within 30 mètres of you. You must share a language with la cible in order to communicate in this way.</p>"
+      "description": "<p>Vous pouvez communiquer par télépathie avec des créatures à moins de 30 mètres de vous. Vous devez partager une langue avec la cible pour pouvoir communiquer de cette manière.</p>"
     },
     "Celestial Physiology": {
       "name": "Celestial Physiology",
@@ -883,11 +883,11 @@
     },
     "Tympanic Antennae": {
       "name": "Tympanic Antennae",
-      "description": "<p>You have tremorsense out to 30 mètres. You can detect and pinpoint the origin of vibrations within that radius, provided that monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures</p>"
+      "description": "<p>Vous avez des tremblements jusqu'à 30 mètres. Vous pouvez détecter et localiser l'origine des vibrations dans ce rayon, à condition que le monstre et la source des vibrations soient en contact avec le même sol ou substance. Tremorsense ne peut pas être utilisé pour détecter les créatures volantes ou incorporelles</p>"
     },
     "Primitive Nerves": {
       "name": "Primitive Nerves",
-      "description": "<p>Because of their primitive nervous systems, tognath are immune to most pain, letting them shrug off major injuries. When you take dégâts, you can use your réaction to roll a [[/r d12]]. Add your Constitution modificateur to the number rolled, and reduce the dégâts by that total. Once you've used this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>En raison de leur système nerveux primitif, les tognath sont immunisés contre la plupart des douleurs, ce qui leur permet d'ignorer les blessures majeures. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un [[/r d12]]. Ajoutez votre modificateur de Constitution au nombre obtenu et réduisez les dégâts de ce total. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Heat Dissipation": {
       "name": "Heat Dissipation",
@@ -895,7 +895,7 @@
     },
     "Droid Resistances": {
       "name": "Droid Resistances",
-      "description": "<p>You are resistant to necrotic, poison, and psychic dégâts, and are immune to poison and disease.</p>"
+      "description": "<p>Vous êtes résistant aux dégâts nécrotiques, empoisonnés et psychiques, et êtes immunisé contre le poison et les maladies.</p>"
     },
     "Tech Resistance": {
       "name": "Tech Resistance",
@@ -903,7 +903,7 @@
     },
     "Strong and Small": {
       "name": "Fort et petit",
-      "description": "<p>You have a climbing speed of 25 mètres.</p>"
+      "description": "<p>Vous disposez d'une vitesse de montée de 25 mètres.</p>"
     },
     "Rugged Survivalist": {
       "name": "Rugged Survivalist",
@@ -911,7 +911,7 @@
     },
     "Charismatic": {
       "name": "Charismatic",
-      "description": "<p>You have maîtrise with Deception or Persuasion (your choice).</p>"
+      "description": "<p>Vous maîtrisez la tromperie ou la persuasion (au choix).</p>"
     },
     "Type": {
       "name": "Type",
@@ -919,11 +919,11 @@
     },
     "Hide": {
       "name": "Hide",
-      "description": "<p>You have a thick hide. While you are unarmored or wearing light armor, your AC is 13 + your Dexterity modificateur. De plus, you have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme cold.</p>"
+      "description": "<p>Vous avez une peau épaisse. Tant que vous n'êtes pas armé ou portez une armure légère, votre CA est de 13 + votre modificateur de Dextérité. De plus, vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû au grand froid.</p>"
     },
     "Spiritual": {
       "name": "Spiritual",
-      "description": "<p>You have maîtrise in Lore. De plus, you are considered to have expertise in Intelligence (Lore) checks made to learn or recall something about a culture's religion.</p>"
+      "description": "<p>Vous avez une maîtrise en Lore. De plus, vous êtes considéré comme ayant une expertise en matière de tests d'intelligence (connaissances) destinés à apprendre ou à mémoriser quelque chose sur la religion d'une culture.</p>"
     },
     "Wisdom of the Elders": {
       "name": "La sagesse des aînés",
@@ -939,15 +939,15 @@
     },
     "Rapidly Regenerative": {
       "name": "Rapidly Regenerative",
-      "description": "<p>You heal quickly, both at will and in response to danger. As a action bonus, vous pouvez choisir to spend one of your Hit Dice to recover points de vie. De plus, when you take dégâts, you can use your réaction and expend a Hit Die to regain points de vie as long as the dégâts would not reduce your points de vie to 0.</p>"
+      "description": "<p>Vous guérissez rapidement, à la fois à volonté et en réponse au danger. En bonus d'action, vous pouvez choisir de dépenser un de vos Dés de Vie pour récupérer des points de vie. De plus, lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction et dépenser un dé de vie pour regagner des points de vie tant que les dégâts ne réduiraient pas vos points de vie à 0.</p>"
     },
     "Defiant": {
       "name": "Defiant",
-      "description": "<p>Humans are known to be stubborn and often refuse to give up, even against the worst odds. When you or a creature you can see that can see and understand you makes an test de caractéristique, attack roll, or jet de sauvegarde, you can roll a [[/r d4]] and add it to their roll (no action required). Once you've used this feature, you must complete a short or repos long before you can use it again.</p>"
+      "description": "<p>Les humains sont connus pour être têtus et refusent souvent d’abandonner, même contre les pires obstacles. Lorsque vous ou une créature que vous pouvez voir et qui peut vous voir et vous comprendre effectuez un test de caractéristique, un jet d'attaque ou un jet de sauvegarde, vous pouvez lancer un [[/r d4]] et l'ajouter à son jet (aucune action requise). Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Conniving": {
       "name": "Conniving",
-      "description": "<p>You have maîtrise in Deception or Stealth (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise en Déception ou en Furtivité (au choix).</p>"
     },
     "Rapid Reconstruction": {
       "name": "Rapid Reconstruction",
@@ -955,7 +955,7 @@
     },
     "Technological Affinity": {
       "name": "Technological Affinity",
-      "description": "<p>You have maîtrise in the Technology skill, one vibroweapon and one blaster de votre choix, and your choice of armstech's implements, biotech's implements, constructor's implements, mechanic's kits, or tinker's implements. De plus, you have avantage on Intelligence (Technology) checks made to understand, utilize, or modify technology that you are unaware of or have never seen before.</p>"
+      "description": "<p>Vous maîtrisez la compétence Technologie, une arme vibrante et un blaster de votre choix, ainsi que votre choix d'outils de technologie d'armes, d'outils de biotechnologie, d'outils de constructeur, de kits de mécanique ou d'outils de bricoleur. De plus, vous bénéficiez d'un avantage sur les contrôles d'intelligence (technologie) effectués pour comprendre, utiliser ou modificateur une technologie que vous ignorez ou que vous n'avez jamais vue auparavant.</p>"
     },
     "Foreign Biology": {
       "name": "Foreign Biology",
@@ -967,15 +967,15 @@
     },
     "Crude Weapon Specialists": {
       "name": "Spécialistes des armes brutes",
-      "description": "<p>Ewoks are used to making do with less. Vous pouvez dépenser 1 hour, which you can do over the course of a repos court, crafting a weapon out of loose materials. You can craft any simple kinetic weapon, but the weapon's dégâts suffers a -1 penalty.</p>"
+      "description": "<p>Ewoks sont habitués à se contenter de moins. Vous pouvez dépenser 1 heure, ce que vous pouvez faire au cours d'un dépôt, en fabriquant une arme à partir de matériaux en vrac. Vous pouvez fabriquer n'importe quelle arme cinétique simple, mais les dégâts de l'arme subissent une pénalité de -1.</p>"
     },
     "Horn": {
       "name": "Horn",
-      "description": "<p>Your sharp horn is a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d4]] kinetic dégâts.</p>"
+      "description": "<p>Votre corne tranchante est une arme naturelle que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]].</p>"
     },
     "Chameleon Skin": {
       "name": "Chameleon Skin",
-      "description": "<p>Your scales are translucent, allowing your color-shifting skin to help you blend into your surroundings. You have maîtrise in the Stealth skill. De plus, you can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>"
+      "description": "<p>Vos écailles sont translucides, ce qui permet à votre peau aux couleurs changeantes de vous aider à vous fondre dans votre environnement. Vous maîtrisez la compétence Furtivité. De plus, vous pouvez tenter de vous cacher même lorsque vous n'êtes que légèrement obscurci par le feuillage, les fortes pluies, les chutes de neige, la brume et d'autres phénomènes naturels.</p>"
     },
     "Mimicry": {
       "name": "Mimicry",
@@ -983,15 +983,15 @@
     },
     "Toxin Resistance": {
       "name": "Toxin Resistance",
-      "description": "<p>You have avantage on jet de sauvegardes against poison, and you have resistance against poison dégâts (explained in chapter 9).</p>"
+      "description": "<p>Vous avez un avantage sur les jets de sauvegarde contre le poison, et vous avez une résistance contre les dégâts de poison (expliqué au chapitre 9).</p>"
     },
     "Musical Culture": {
       "name": "Musical Culture",
-      "description": "<p>Ewoks incorporate music in their celebrations and rituals. You have maîtrise in an instrument de votre choix.</p>"
+      "description": "<p>Ewoks intègrent la musique dans leurs célébrations et rituels. Vous maîtrisez un instrument de votre choix.</p>"
     },
     "Silent Step": {
       "name": "Silent Step",
-      "description": "<p>You have maîtrise in the Stealth skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Furtivité.</p>"
     },
     "Reputation for Cruelty": {
       "name": "Réputation de cruauté",
@@ -999,19 +999,19 @@
     },
     "Bureaucratic": {
       "name": "Bureaucratic",
-      "description": "<p>You have maîtrise with Persuasion or Intimidation (your choice).</p>"
+      "description": "<p>Vous maîtrisez la persuasion ou l'intimidation (au choix).</p>"
     },
     "Athletic": {
       "name": "Athletic",
-      "description": "<p>You have maîtrise in the Athletics skill.</p>"
+      "description": "<p>Vous avez une maîtrise dans la compétence Athlétisme.</p>"
     },
     "Deft Hand": {
       "name": "Deft Hand",
-      "description": "<p>You have maîtrise in one of the following skills: Deception, Escamotage, or Stealth.</p>"
+      "description": "<p>Vous maîtrisez l'une des compétences suivantes : Déception, Escamotage ou Furtivité.</p>"
     },
     "Horns": {
       "name": "Horns",
-      "description": "<p>Your horns are a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Vos cornes sont une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Tech-Impaired": {
       "name": "Tech-Impaired",
@@ -1019,15 +1019,15 @@
     },
     "Crafter": {
       "name": "Crafter",
-      "description": "<p>Geonosian culture promotes artisanry. You have maîtrise in one set of artisan's implements de votre choix.</p>"
+      "description": "<p>La culture géonosienne promeut l'artisanat. Vous maîtrisez un ensemble d'outils d'artisan de votre choix.</p>"
     },
     "Charming": {
       "name": "Charming",
-      "description": "<p>You have maîtrise in Deception or Persuasion.</p>"
+      "description": "<p>Vous avez une maîtrise en Déception ou Persuasion.</p>"
     },
     "Gand Resilience": {
       "name": "Gand Resilience",
-      "description": "<p>You have avantage on jet de sauvegardes against poison, and you have resistance against poison dégâts (explained in chapter 9).</p>"
+      "description": "<p>Vous avez un avantage sur les jets de sauvegarde contre le poison, et vous avez une résistance contre les dégâts de poison (expliqué au chapitre 9).</p>"
     },
     "Sensitive Fur": {
       "name": "Sensitive Fur",
@@ -1035,15 +1035,15 @@
     },
     "Proficiency": {
       "name": "Proficiency",
-      "description": "<p>You gain maîtrise in one skill, one tool, and one weapon de votre choix.</p>"
+      "description": "<p>Vous maîtrisez une compétence, un outil et une arme de votre choix.</p>"
     },
     "Prehensile Feet": {
       "name": "Pieds préhensiles",
-      "description": "<p>You have supreme control over your mètres and can use them to manipulate objects as well as your hands.</p>"
+      "description": "<p>Vous avez un contrôle suprême sur vos compteurs et pouvez les utiliser pour manipuler des objets ainsi que vos mains.</p>"
     },
     "Expressive": {
       "name": "Expressive",
-      "description": "<p>You have maîtrise in your choice of artist's implements, disguise kits, synthweaver's implements, or one musical instrument de votre choix.</p>"
+      "description": "<p>Vous maîtrisez votre choix d'outils d'artiste, de kits de déguisement, d'outils de synthweaver ou d'un instrument de musique de votre choix.</p>"
     },
     "Hardened Exterior": {
       "name": "Hardened Exterior",
@@ -1051,23 +1051,23 @@
     },
     "Surprise Attack": {
       "name": "Attaque surprise",
-      "description": "<p>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra [[/r 2d6]] dégâts to it. You can use this trait only once per combat.</p>"
+      "description": "<p>Si vous surprenez une créature et la frappez avec une attaque lors de votre premier tour de combat, l'attaque lui inflige [[/r 2d6]] dégâts supplémentaires. Vous ne pouvez utiliser cette aptitude qu'une seule fois par combat.</p>"
     },
     "Martial Upbringing": {
       "name": "Martial Upbringing",
-      "description": "<p>You have maîtrise in light armor, and gain maîtrise with two martial vibroweapons de votre choix.</p>"
+      "description": "<p>Vous maîtrisez les armures légères, et gagnez en maîtrise avec deux armes martiales vibrantes de votre choix.</p>"
     },
     "Sadistic": {
       "name": "Sadistic",
-      "description": "<p>You have maîtrise with saberwhips, vibrowhips, and nets.</p>"
+      "description": "<p>Vous maîtrisez les fouets sabres, les vibrowhips et les filets.</p>"
     },
     "Amorphous Form": {
       "name": "Amorphous Form",
-      "description": "<p>You can squeeze through a space as narrow as 1 inch wide, provided you are wearing and carrying nothing. You also have avantage on test de caractéristiques you make to initiate or escape a grapple.</p>"
+      "description": "<p>Vous pouvez vous faufiler dans un espace aussi étroit que 1 pouce de large, à condition que vous ne portiez rien. Vous bénéficiez également d'un avantage sur les tests de caractéristiques que vous effectuez pour initier ou échapper à un grappin.</p>"
     },
     "Desert Protection": {
       "name": "Desert Protection",
-      "description": "<p>You have avantage on jet de sauvegardes against being aveuglé.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur le jet de sauvegardes contre l'aveuglé.</p>"
     },
     "Adaptation": {
       "name": "Adaptation",
@@ -1079,23 +1079,23 @@
     },
     "Cat's Talent": {
       "name": "Cat's Talent",
-      "description": "<p>You have maîtrise in the Perception and Stealth skills.</p>"
+      "description": "<p>Vous maîtrisez les compétences Perception et Furtivité.</p>"
     },
     "Martial Proficiency": {
       "name": "Martial Proficiency",
-      "description": "<p>You have maîtrise with light and medium armor as well as the techstaff and vibropike.</p>"
+      "description": "<p>Vous maîtrisez les armures légères et moyennes ainsi que le techstaff et le vibropike.</p>"
     },
     "Electrical Resistance": {
       "name": "Electrical Resistance",
-      "description": "<p>Patrolians are notably capable of shrugging off electricity. You have resistance to lightning dégâts.</p>"
+      "description": "<p>Les patrouilleurs sont notamment capables de se passer de l'électricité. Vous disposez d'une résistance aux dégâts de foudre.</p>"
     },
     "Saving Face": {
       "name": "Saving Face",
-      "description": "<p>Trandoshans are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an test de caractéristique or a jet de sauvegarde, you can gain a bonus to the roll equal to the number of allies you can see within 30 mètres of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Les Trandoshans font attention à ne pas montrer de faiblesse devant leurs alliés, de peur de perdre leur statut. Si vous ratez un jet d'attaque ou échouez à un test de caractéristique ou à un jet de sauvegarde, vous pouvez gagner un bonus au jet égal au nombre d'alliés que vous pouvez voir à moins de 30 mètres de vous (bonus maximum de +5). Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Grovel, Cower, and Beg": {
       "name": "Grovel, Cower et Beg",
-      "description": "<p>As an action on your turn, you can cower pathetically to distract nearby foes. Until the end of your next turn, your allies gain avantage on attack rolls against enemies within 10 mètres of you that can see you. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>A Par une action pendant votre tour, vous pouvez vous recroqueviller pathétiquement pour distraire les ennemis proches. Jusqu'à la fin de votre prochain tour, vos alliés bénéficient d'un avantage aux jets d'attaque contre les ennemis à moins de 10 mètres de vous qui peuvent vous voir. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Toughness": {
       "name": "Toughness",
@@ -1103,23 +1103,23 @@
     },
     "Thick Skull": {
       "name": "Thick Skull",
-      "description": "<p>Your skull is a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d6]] kinetic dégâts.</p>"
+      "description": "<p>Votre crâne est une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d6]].</p>"
     },
     "Pilot": {
       "name": "Pilot",
-      "description": "<p>You have maîtrise in Piloting.</p>"
+      "description": "<p>Vous avez une maîtrise en Pilotage.</p>"
     },
     "Weapon Training": {
       "name": "Entraînement aux armes",
-      "description": "<p>You have maîtrise in two vibroweapons or blasters de votre choix.</p>"
+      "description": "<p>Vous maîtrisez deux armes vibrantes ou blasters de votre choix.</p>"
     },
     "Shrewd Demeanor": {
       "name": "Shrewd Demeanor",
-      "description": "<p>You have maîtrise in two Intelligence, Wisdom, or Charisma skills de votre choix.</p>"
+      "description": "<p>Vous maîtrisez deux compétences d'Intelligence, de Sagesse ou de Charisme de votre choix.</p>"
     },
     "Blindsight": {
       "name": "Blindsight",
-      "description": "<p>Mikkian can perceive the world around them through heat and radiation. You have blindsight out to 30 mètres. If another trait would grant you blindsight, the range is increased by half as many mètres.</p>"
+      "description": "<p>Mikkian peut percevoir le monde qui l'entoure grâce à la chaleur et aux radiations. Vous avez une vision aveugle jusqu'à 30 mètres. Si un autre trait vous confère la vue aveugle, la portée est augmentée de moitié de mètres.</p>"
     },
     "Fearsome Roar": {
       "name": "Fearsome Roar",
@@ -1127,7 +1127,7 @@
     },
     "Two Livered": {
       "name": "Two Livered",
-      "description": "<p>Zeltron have two livers, which makes them adept at filtering toxins. You have avantage on jet de sauvegardes against poison, and you have resistance against poison dégâts (explained in chapter 9).</p>"
+      "description": "<p>Zeltron possède deux foies, ce qui les rend aptes à filtrer les toxines. Vous avez un avantage sur les jets de sauvegarde contre le poison, et vous avez une résistance contre les dégâts de poison (expliqué au chapitre 9).</p>"
     },
     "Proud Performer": {
       "name": "Proud Performer",
@@ -1139,7 +1139,7 @@
     },
     "Tech Savant": {
       "name": "Tech Savant",
-      "description": "<p>You have maîtrise in the Technology skill.</p>"
+      "description": "<p>Vous avez une maîtrise dans la compétence Technologie.</p>"
     },
     "Second Heart": {
       "name": "Second Heart",
@@ -1151,43 +1151,43 @@
     },
     "Intimidating": {
       "name": "Intimidating",
-      "description": "<p>You have maîtrise in Intimidation.</p>"
+      "description": "<p>Vous avez une maîtrise en Intimidation.</p>"
     },
     "Call for Peace": {
       "name": "Appel à la paix",
-      "description": "<p>As an action on your turn, you can emphatically demand that your foes embrace peace, thereby distracting them. Until the end of your next turn, enemies within 10 mètres of you that can see you gain disavantage on attack rolls against your allies. Once you use this trait, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>A Par une action durant votre tour, vous pouvez exiger avec insistance que vos ennemis adoptent la paix, les distrayant ainsi. Jusqu'à la fin de votre prochain tour, les ennemis à moins de 10 mètres de vous qui peuvent vous voir bénéficient d'un désavantage aux jets d'attaque contre vos alliés. Une fois que vous avez utilisé ce trait, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un court ou un repos long.</p>"
     },
     "Galactic Scavengers": {
       "name": "Galactic Scavengers",
-      "description": "<p>You have maîtrise in mechanic's kits or scavenging kits (your choice).</p>"
+      "description": "<p>Vous maîtrisez les kits de mécanique ou les kits de vidange (au choix).</p>"
     },
     "Finance Savvy": {
       "name": "Finance Savvy",
-      "description": "<p>Muun share a keen business sense and an ability to find value where others don't. Chaque fois que vous effectuez un test de Charisme (Persuasion) impliquant des finances, vous êtes considéré comme possédant une expertise dans la compétence Persuasion.</p>"
+      "description": "<p>Muun partage un sens aigu des affaires et une capacité à trouver de la valeur là où les autres ne le font pas. Chaque fois que vous effectuez un test de Charisme (Persuasion) impliquant des finances, vous êtes considéré comme possédant une expertise dans la compétence Persuasion.</p>"
     },
     "Shape Self": {
       "name": "Shape Self",
-      "description": "<p>If you are not incapacitated, you can reshape your body to give yourpersonnelle a head, one or two arms, one or two legs, and makeshift hands and mètres, or you can revert to a limbless blob (no action required). As a action bonus, you can extrude a pseudopod that is up to 6 inches wide and 10 mètres long or reabsorb it into your body. You can use this pseudopod to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour out the contents of a container. The pseudopod can—t attack, activate enhanced items, or carry more than 10 pounds.</p>"
+      "description": "<p>Si vous n'êtes pas incapable, vous pouvez remodeler votre corps pour donner à votre personnel une tête, un ou deux bras, une ou deux jambes et des mains et des mètres de fortune, ou vous pouvez redevenir une goutte sans membres (aucune action requise). En bonus d'action, vous pouvez extruder un pseudopode mesurant jusqu'à 6 pouces de large et 10 mètres de long ou le réabsorber dans votre corps. Vous pouvez utiliser ce pseudopode pour manipuler un objet, ouvrir une porte ou un conteneur déverrouillé, ranger ou récupérer un objet dans un conteneur ouvert ou vider le contenu d'un conteneur. Le pseudopode ne peut pas attaquer, activer des objets améliorés ou transporter plus de 10 livres.</p>"
     },
     "Specialist": {
       "name": "Specialist",
-      "description": "<p>You have maîtrise in one specialist's kit de votre choix.</p>"
+      "description": "<p>Vous avez la maîtrise dans un kit de spécialiste de votre choix.</p>"
     },
     "Climbing": {
       "name": "Climbing",
-      "description": "<p>You have a climbing speed of 30 mètres.</p>"
+      "description": "<p>Vous disposez d'une vitesse de montée de 30 mètres.</p>"
     },
     "Manual Laborer": {
       "name": "Manual Laborer",
-      "description": "<p>You have maîtrise in Athletics and one set of artisan's implements de votre choix.</p>"
+      "description": "<p>Vous possédez une maîtrise en Athlétisme et un outillage artisanal de votre choix.</p>"
     },
     "Eternal Nomads": {
       "name": "Eternal Nomads",
-      "description": "<p>You have maîtrise in Lore or Survival (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise en Lore ou en Survie (au choix).</p>"
     },
     "Lava Dweller": {
       "name": "Lava Dweller",
-      "description": "<p>Your body is well accustomed to extreme heat, giving you resistance to fire dégâts. De plus, your thick hide is naturally adapted to hot climates, as described in chapter 5 of the Dungeon Master's Guide.</p>"
+      "description": "<p>Votre corps est bien habitué à la chaleur extrême, vous offrant ainsi une résistance aux dégâts du feu. De plus, votre peau épaisse est naturellement adaptée aux climats chauds, comme décrit dans le chapitre 5 du Dungeon Master's Guide.</p>"
     },
     "Ultraviolet Sight": {
       "name": "Ultraviolet Sight",
@@ -1195,7 +1195,7 @@
     },
     "Diplomatic": {
       "name": "Diplomatic",
-      "description": "<p>You have maîtrise with Insight or Persuasion (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise avec Insight ou Persuasion (au choix).</p>"
     },
     "Force Insensitive": {
       "name": "Force Insensitive",
@@ -1203,7 +1203,7 @@
     },
     "Cultured": {
       "name": "Cultured",
-      "description": "<p>You have maîtrise in the Lore skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Lore.</p>"
     },
     "Keen Hearing": {
       "name": "Keen Hearing",
@@ -1215,15 +1215,15 @@
     },
     "Tribal Warrior": {
       "name": "Tribal Warrior",
-      "description": "<p>You have maîtrise with two vibroweapons de votre choix.</p>"
+      "description": "<p>Vous maîtrisez deux armes vibrantes de votre choix.</p>"
     },
     "Survivors of the Sands": {
       "name": "Survivants des Sables",
-      "description": "<p>You have maîtrise in the Survival skill. De plus, you don't treat desert terrain as difficult terrain. Lastly, you have avantage on Constitution jet de sauvegardes made to avoid épuisement due to extreme heat.</p>"
+      "description": "<p>Vous maîtrisez la compétence Survie. De plus, vous ne considérez pas les terrains désertiques comme des terrains difficiles. Enfin, vous bénéficiez d'un avantage sur la Constitution jet de sauvegardes conçue pour éviter l'épuisement dû à la chaleur extrême.</p>"
     },
     "Performer": {
       "name": "Performer",
-      "description": "<p>You have maîtrise in the Performance skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Performance.</p>"
     },
     "Honed Mind": {
       "name": "Honed Mind",
@@ -1231,19 +1231,19 @@
     },
     "Taung Weapon Training": {
       "name": "Entraînement aux armes Taung",
-      "description": "<p>You gain maîtrise in one vibroweapon and one blaster de votre choix.</p>"
+      "description": "<p>Vous gagnez en maîtrise une arme vibrante et un blaster de votre choix.</p>"
     },
     "Strong-Legged": {
       "name": "Strong-Legged",
-      "description": "<p>When you make a long jump, you can cover a number of mètres up to twice your Strength score. When you make a high jump, you can leap a number of mètres up into the air equal to 3 + twice your Strength modificateur.</p>"
+      "description": "<p>Lorsque vous effectuez un saut en longueur, vous pouvez parcourir un nombre de mètres allant jusqu'à deux fois votre score de Force. Lorsque vous effectuez un saut en hauteur, vous pouvez sauter un nombre de mètres dans les airs égal à 3 + deux fois votre modificateur de Force.</p>"
     },
     "Biological Specialists": {
       "name": "Biological Specialists",
-      "description": "<p>You have maîtrise with Medicine or Survival (your choice).</p>"
+      "description": "<p>Vous avez une maîtrise en médecine ou en survie (au choix).</p>"
     },
     "Slow and Lethargic": {
       "name": "Lent et léthargique",
-      "description": "<p>Hutts sont lents et généralement incapables de se déplacer rapidement. Vous avez un désavantage sur les jets de sauvegardes de Dextérité, et lors de la détermination de votre bonus à la CA de votre Dextérité, vous ne pouvez pas ajouter plus de +3.</p>"
+      "description": "Les <p>Hutts sont lents et généralement incapables de se déplacer rapidement. Vous avez un désavantage sur les jets de sauvegardes de Dextérité, et lors de la détermination de votre bonus à la CA de votre Dextérité, vous ne pouvez pas ajouter plus de +3.</p>"
     },
     "Nimble Escape": {
       "name": "Nimble Escape",
@@ -1251,19 +1251,19 @@
     },
     "Snout": {
       "name": "Snout",
-      "description": "<p>You have supreme control over your snout and can use it to manipulate objects as well as your hands. De plus, your snout is a natural weapon, which you can use to make unarmed strikes. De plus, your unarmed strikes deal [[/r 1d4]] kinetic dégâts.</p>"
+      "description": "<p>Vous avez un contrôle suprême sur votre museau et pouvez l'utiliser pour manipuler des objets ainsi que vos mains. De plus, votre museau est une arme naturelle, que vous pouvez utiliser pour effectuer des frappes à mains nues. De plus, vos frappes à mains nues infligent des dégâts cinétiques [[/r 1d4]].</p>"
     },
     "Thieves": {
       "name": "Thieves",
-      "description": "<p>You have maîtrise in Escamotage.</p>"
+      "description": "<p>Vous avez maîtrise en Escamotage.</p>"
     },
     "Courageous": {
       "name": "Courageous",
-      "description": "<p>You have avantage on jet de sauvegardes against being effrayé.</p>"
+      "description": "<p>Vous bénéficiez d'un avantage sur le jet de sauvegardes contre l'effrayé.</p>"
     },
     "Natural Empathy": {
       "name": "Natural Empathy",
-      "description": "<p>Zeltron's limited telepathy allow them to sense mood shifts in those around them. You have avantage on Wisdom (Insight) checks to determine emotions against humanoids and beasts within 10 mètres of you.</p>"
+      "description": "<p>Zeltron La télépathie limitée leur permet de ressentir les changements d'humeur de ceux qui les entourent. Vous bénéficiez d'un avantage aux tests de Sagesse (Insight) pour déterminer vos émotions face aux humanoïdes et aux bêtes à moins de 10 mètres de vous.</p>"
     },
     "Powerful Build": {
       "name": "Powerful Build",
@@ -1271,7 +1271,7 @@
     },
     "Fragile": {
       "name": "Fragile",
-      "description": "<p>Diathim are too weak to pack much of a punch. You have disavantage on Strength jet de sauvegardes, and when determining your bonus to attack and jet de dégâtss for attaque d'armes using Strength, you can—t add more than +3.</p>"
+      "description": "<p>Diathim est trop faible pour avoir beaucoup de punch. Vous avez un désavantage sur les jets de sauvegardes de Force, et lorsque vous déterminez votre bonus d'attaque et de jets de dégâts pour les attaques d'armes utilisant la Force, vous ne pouvez pas ajouter plus de +3.</p>"
     },
     "Mathematical Savants": {
       "name": "Mathematical Savants",
@@ -1279,11 +1279,11 @@
     },
     "Musician": {
       "name": "Musician",
-      "description": "<p>You are proficient in one musical instrument de votre choix.</p>"
+      "description": "<p>Vous maîtrisez un instrument de musique de votre choix.</p>"
     },
     "Long-Limbed": {
       "name": "Long-Limbed",
-      "description": "<p>When you make a attaque au corps à corps on your turn, your reach for it is 5 mètres greater than normal.</p>"
+      "description": "<p>Lorsque vous effectuez une attaque au corps à corps à votre tour, votre portée est de 5 mètres supérieure à la normale.</p>"
     },
     "Droid Systems": {
       "name": "Droid Systems",
@@ -1291,7 +1291,7 @@
     },
     "Ambusher": {
       "name": "Ambusher",
-      "description": "<p>You have maîtrise in the Stealth skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Furtivité.</p>"
     },
     "Pintsized": {
       "name": "Pintsized",
@@ -1303,7 +1303,7 @@
     },
     "Perceptive": {
       "name": "Perceptive",
-      "description": "<p>You have maîtrise in Perception.</p>"
+      "description": "<p>Vous avez une maîtrise en Perception.</p>"
     },
     "Force Symbiosis": {
       "name": "Force Symbiosis",
@@ -1319,11 +1319,11 @@
     },
     "Martial Protocol": {
       "name": "Martial Protocol",
-      "description": "<p>You have maîtrise with light and medium armor as well as two simple or martial blasters or vibroweapons de votre choix.</p>"
+      "description": "<p>Vous maîtrisez les armures légères et moyennes ainsi que deux blasters simples ou martiaux ou armes vibrantes de votre choix.</p>"
     },
     "Travelers": {
       "name": "Travelers",
-      "description": "<p>You have maîtrise in the Survival skill.</p>"
+      "description": "<p>Vous maîtrisez la compétence Survie.</p>"
     },
     "Speed": {
       "name": "Speed",
@@ -1335,7 +1335,7 @@
     },
     "Clever": {
       "name": "Clever",
-      "description": "<p>You have maîtrise in one Intelligence skill de votre choix.</p>"
+      "description": "<p>Vous maîtrisez une compétence Intelligence de votre choix.</p>"
     },
     "Hunters": {
       "name": "Hunters",
@@ -1343,7 +1343,7 @@
     },
     "Natural Instinct": {
       "name": "Natural Instinct",
-      "description": "<p>You have maîtrise with Nature or Perception (your choice).</p>"
+      "description": "<p>Vous maîtrisez Nature ou Perception (au choix).</p>"
     }
   },
   "mapping": {

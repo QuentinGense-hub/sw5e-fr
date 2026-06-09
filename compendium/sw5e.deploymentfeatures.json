@@ -2,283 +2,283 @@
   "label": "Deployment Features",
   "entries": {
     "Improved Interference": {
-      "name": "Improved Interference",
+      "name": "Interférence améliorée",
       "description": "<p>Également au 2ème rang, lorsque vous utilisez l'action Interférer, vous avez l'avantage sur le test Charisme (Interférer). Si vous avez déjà un avantage, vous pouvez relancer un des dés une fois.</p>"
     },
     "Brace for Impact": {
       "name": "Préparez-vous à l’impact",
-      "description": "<p><em><strong>Power Die Location:</strong> Shields</em><br />When you are reduced to zero shields, as a réaction, you can expend a power die to instead reduce your shields to one.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous êtes réduit à zéro boucliers, en tant que réaction, vous pouvez dépenser un dé de pouvoir pour réduire vos boucliers à un à la place.</p>"
     },
     "Paragon Operator": {
-      "name": "Paragon Operator",
+      "name": "Opérateur parangon",
       "description": "<p>A De 5ème rang, vous êtes un modèle de votre déploiement. Lorsque vous devez dépenser un dé de Pouvoir ou un dé de Perturbation du Système, vous pouvez utiliser un [[/r d4]] au lieu de dépenser un dé. Vous ne pouvez utiliser cette fonctionnalité qu'une fois par tour.</p><p>De plus, vous récupérez toutes les utilisations dépensées de votre fonction de perturbation du système lorsque vous terminez un court ou un repos long.</p><p>Enfin, lorsque vous effectuez une vérification d'interférence, de scan ou de sonde, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Brutal Critical": {
-      "name": "Brutal Critical",
-      "description": "<p>Also at 3rd rank, you can roll the weapon dégâts dice one additional time when determining the extra dégâts for a critical hit with a ship weapon.</p>"
+      "name": "Critique brutal",
+      "description": "<p>Également au 3ème rang, vous pouvez lancer les dés de dégâts de l'arme une fois de plus lorsque vous déterminez les dégâts supplémentaires pour un coup critique avec une arme de vaisseau.</p>"
     },
     "Call for Backup": {
       "name": "Appel à renfort",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />When a ship makes an attack roll against your ship, you can use your réaction and expend a power die and command another willing ally ship within 300 mètres of the enemy ship to intercede. A crew member on that allied ship manning a weapon station must use their réaction to do so. The enemy ship is then forced to make an attack on the ally ship instead. If the attack misses, the crew member can immediately make a attaque d'arme against the enemy ship as a part of that same réaction. Roll the power die, and add the result to the ally's attack roll.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsqu'un vaisseau effectue un jet d'attaque contre votre vaisseau, vous pouvez utiliser votre réaction et dépenser un dé de pouvoir et ordonner à un autre vaisseau allié consentant dans un rayon de 300 mètres du vaisseau ennemi d'intercéder. Un membre d'équipage sur ce vaisseau allié occupant une station d'arme doit utiliser sa réaction pour ce faire. Le vaisseau ennemi est alors forcé de faire une attaque contre le vaisseau allié à la place. Si l'attaque manque, le membre d'équipage peut immédiatement faire une attaque d'arme contre le vaisseau ennemi dans le cadre de cette même réaction. Lancez le dé de pouvoir et ajoutez le résultat au jet d'attaque de l'allié.</p>"
     },
     "Disturbed Defenses": {
-      "name": "Disturbed Defenses",
-      "description": "<p>At 3rd rank, the first time la cible of your System Disturbance takes dégâts each round, it takes additional dégâts equal to your System Disturbance die. The dégâts is of the same type dealt by the original attack.</p>"
+      "name": "Défenses perturbées",
+      "description": "<p>Au niveau 3, la première fois que la cible de votre Perturbation du Système subit des dégâts à chaque tour, elle subit des dégâts supplémentaires égaux à votre dé de Perturbation du Système. Ces dégâts sont du même type que ceux infligés par l'attaque initiale.</p>"
     },
     "Efficient Reroute": {
-      "name": "Efficient Reroute",
+      "name": "Redirection efficace",
       "description": "<p>Également au 4ème rang, lorsque vous redirigez l'énergie, vous ne réduisez que de moitié l'énergie vers un autre système de votre choix.</p>"
     },
     "Evasion": {
-      "name": "Evasion",
-      "description": "<p>Also at 4th rank, your instinctive agility lets you dodge out of the way of certain area effects. When your ship is subjected to an effect, such as a proton torpedo or a seismic charge, that allows your ship to make a Dexterity jet de sauvegarde to take only half dégâts, it instead takes no dégâts if it succeeds on a jet de sauvegarde, and only half dégâts if it fails.</p>"
+      "name": "Évasion",
+      "description": "<p>Également au 4ème rang, votre agilité instinctive vous permet d'éviter certains effets de zone. Lorsque votre vaisseau est soumis à un effet, comme une torpille à protons ou une charge sismique, qui permet à votre vaisseau de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, il ne subit aucun dégât en cas de réussite du jet de sauvegarde, et seulement la moitié des dégâts en cas d'échec.</p>"
     },
     "Overwhelming Presence": {
-      "name": "Overwhelming Presence",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />As an action, you can make a Charisma (Impress) or Charisma (Menace) skill check and expend one power die to attempt to charm or frighten a humanoid creature who can see and perceive your ship within 600 mètres. Add the power die to the roll. La cible makes a contested Intelligence (Probe) check. If your check succeeds, la cible is charmé by you if you used Impress, or effrayé of you if you used Menace, jusqu'à la fin de votre prochain tour.</p>"
+      "name": "Présence écrasante",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Par une action, vous pouvez effectuer un test de compétence Charisme (Impress) ou Charisme (Menace) et dépenser un dé de pouvoir pour tenter de charmer ou d'effrayer une créature humanoïde qui peut voir et percevoir votre vaisseau dans un rayon de 600 mètres. Ajoutez le dé de pouvoir au jet. La cible effectue un test d'Intelligence (Sonde) opposé. Si votre test réussit, la cible est charmée par vous si vous avez utilisé Impress, ou effrayée par vous si vous avez utilisé Menace, jusqu'à la fin de votre prochain tour.</p>"
     },
     "Defense Stratagems": {
-      "name": "Defense Stratagems",
-      "description": "<p>Also at 1st rank, you learn stratagems that are fueled by special dice called power dice.</p><h3>Stratagems</h3><p>You learn two stratagems de votre choix, which are detailed under \"Stratagems\" below. Many stratagems enhance a defense in some way. You can use only one gambit per attack, and you can only use each stratagem une fois par tour.</p><p>Vous apprenez un supplémentaire stratagem at 2nd, 3rd, 4th, and 5th rank in this deployment. Each time you learn a new stratagem, you can also replace one stratagem you know with a different one.</p><h3>Power Dice</h3><p>A power die is expended quand vous utilisez it. Your ship must have a power die at the required system in order to use the stratagem.</p><p>Your ship gains power dice based primarily on reactor production.  These power dice are stored in a central and/or system capacitors to power abilities of deployed crew members.  Your power die type is determined by your ship tier.</p>"
+      "name": "Stratagèmes défensifs",
+      "description": "<p>Également au 1er rang, vous apprenez des stratagèmes alimentés par des dés spéciaux appelés dés de pouvoir.</p><h3>Stratagèmes</h3><p>Vous apprenez deux stratagèmes de votre choix, décrits ci-dessous dans la section « Stratagèmes ». De nombreux stratagèmes améliorent une défense d'une manière ou d'une autre. Vous ne pouvez utiliser qu'un seul gambit par attaque, et vous ne pouvez utiliser chaque stratagème qu'une fois par tour.</p><p>Vous apprenez un stratagème supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez un nouveau stratagème, vous pouvez remplacer un stratagème que vous connaissez par un autre.</p><h3>Dés de pouvoir</h3><p>Un dé de pouvoir est dépensé lorsque vous l'utilisez. Votre vaisseau doit avoir un dé de pouvoir au système requis pour utiliser le stratagème.</p><p>Votre vaisseau obtient des dés de pouvoir principalement basés sur la production du réacteur. Ces dés de pouvoir sont stockés dans des condensateurs centraux et/ou systèmes pour alimenter les capacités des membres d'équipage déployés. Le type de votre dé de pouvoir est déterminé par le niveau de votre vaisseau.</p>"
     },
     "Enhance Scopes": {
-      "name": "Enhance Scopes",
-      "description": "<p><em><strong>Power Die Location:</strong> Sensors</em><br />As a action bonus, can expend one power die to increase the ranges of your ship's next primary or secondary attaque d'arme by 500 mètres. If it hits, you add the power die to the attack's jet de dégâts.</p>"
+      "name": "Viseurs améliorés",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Senseurs</em><br />Par une action bonus, vous pouvez dépenser un dé de pouvoir pour augmenter la portée de la prochaine attaque d'arme principale ou secondaire de votre vaisseau de 500 mètres. Si elle touche, vous ajoutez le dé de pouvoir au jet de dégâts de l'attaque.</p>"
     },
     "Quick Regen": {
-      "name": "Quick Regen",
+      "name": "Régénération rapide",
       "description": "<p>Au 2ème rang, lorsque vous effectuez l'action Boost Shields, vous avez l'avantage sur le test de Force (Boost). Si vous avez déjà un avantage, vous pouvez relancer un des dés une fois.</p>"
     },
     "Contingency Plan": {
-      "name": "Contingency Plan",
+      "name": "Plan de contingence",
       "description": "<p>Également au 4ème rang, à bord de votre navire, vous pouvez choisir deux alliés, au lieu d'un, lorsque vous effectuez l'action Direct.</p>"
     },
     "Close Blast Doors": {
-      "name": "Close Blast Doors",
-      "description": "<p><em><strong>Power Die Location:</strong> Shields</em><br />When you are hit by a ship attack, you can expend one power die as a réaction to mitigate some of the dégâts. Reduce the dégâts done to your hull by the amount rolled on the power die plus the ship's constitution modificateur.</p>"
+      "name": "Fermeture des sas",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous êtes touché par une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir en tant que réaction pour atténuer une partie des dégâts. Réduisez les dégâts subis par votre coque du montant obtenu sur le dé de pouvoir plus le modificateur de Constitution du vaisseau.</p>"
     },
     "Maximum Power": {
       "name": "Puissance maximale",
-      "description": "<p>Also at 5th rank, quand vous contactez a ship with a ship attack, you can deal maximum dégâts with that attack.</p><p>Once you've used this feature, you can't use it again until you finish a short or repos long.</p>"
+      "description": "<p>Également au 5ème rang, lorsque vous touchez un vaisseau avec une attaque de vaisseau, vous pouvez infliger le maximum de dégâts avec cette attaque.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos court ou long.</p>"
     },
     "Payload Mastery": {
-      "name": "Payload Mastery",
-      "description": "<p>You are the master of missiles, rockets, and other shipboard explosive weapons. While you are firing a tertiary or quaternary weapon, vous pouvez choisir to reduce the DD by an amount equal to your bonus de maîtrise. If you do, and la cible fails the jet de sauvegarde, they take additional dégâts equal to twice your bonus de maîtrise.</p>"
+      "name": "Maîtrise des explosifs",
+      "description": "<p>Vous maîtrisez les missiles, les roquettes et autres armes explosives de bord. Lorsque vous tirez avec une arme tertiaire ou quaternaire, vous pouvez choisir de réduire le DD d'un montant égal à votre bonus de maîtrise. Si vous faites ainsi et que la cible échoue au jet de sauvegarde, elle subit des dégâts supplémentaires égaux au double de votre bonus de maîtrise.</p>"
     },
     "Dependable Gunner": {
-      "name": "Dependable Gunner",
-      "description": "<p>À partir du 3rd rank, when you roll for dégâts with a ship weapon, you can reroll one of the dice, but you must use the new result.  You may use this feature un nombre de fois égal à your ranks in gunner.  Vous regagnez tous expended uses when you complete a repos long.</p>"
+      "name": "Tireur fiable",
+      "description": "<p>À partir du 3ème rang, lorsque vous lancez les dégâts avec une arme de vaisseau, vous pouvez relancer un des dés, mais vous devez utiliser le nouveau résultat. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre rang dans la spécialité de tireur. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>"
     },
     "Starship Charge": {
-      "name": "Starship Charge",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />When you take the Ram action, you can expend a power die to increase the dégâts. On a failed sauvegarde, la cible ship takes additional kinetic dégâts equal to the amount rolled on the die + your ship's Strength modificateur. Your ship has resistance to the additional dégâts dealt by this tactic.</p>"
+      "name": "Charge du vaisseau",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Lorsque vous effectuez l'action Éperonner, vous pouvez dépenser un dé de pouvoir pour augmenter les dégâts. En cas d'échec de la sauvegarde, le vaisseau cible subit des dégâts cinétiques supplémentaires égaux au montant obtenu sur le dé plus le modificateur de Force de votre vaisseau. Votre vaisseau a une résistance aux dégâts supplémentaires infligés par cette tactique.</p>"
     },
     "Remote Sensors": {
-      "name": "Remote Sensors",
-      "description": "<p><em><strong>Power Die Location:</strong> Sensors</em><br />Whenever you make a Wisdom (Scan) or an Intelligence (Probe) check, you can employ the aid of remote sensors by expending a power die, adding the number rolled to the check. You can use this maneuver before or after making the test de caractéristique, but before the results of the test de caractéristique are determined.</p>"
+      "name": "Capteurs à distance",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Senseurs</em><br />Lorsque vous effectuez un test de Sagesse (Scan) ou d'Intelligence (Sonde), vous pouvez employer l'aide de capteurs distants en dépensant un dé de pouvoir, ajoutant le nombre obtenu au test. Vous pouvez utiliser cette manœuvre avant ou après avoir effectué le test de caractéristique, mais avant que les résultats du test de caractéristique ne soient déterminés.</p>"
     },
     "Supreme Boost": {
-      "name": "Supreme Boost",
+      "name": "Boost suprême",
       "description": "<p>AEn tant que 5ème rang, vous apprenez à booster brièvement et massivement le système de votre vaisseau. Lorsque vous utilisez une technique qui utilise un bonus d'action, vous pouvez utiliser une autre technique différente qui utilise également un bonus d'action ce tour-ci. De plus, au lieu de lancer votre dé Tech pour ces utilisations, vous pouvez choisir d'en prendre le maximum.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un court ou un repos longtemps avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Distracting Shot": {
-      "name": "Distracting Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you hit a ship with a ship attack, you can expend one power die to give your allies an opening. You add the power die to the attack's jet de dégâts, and the next attack roll against la cible by someone other than you has avantage if the attack is made before the start of your next turn.</p>"
+      "name": "Tir de distraction",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous touchez un vaisseau avec une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir pour offrir une ouverture à vos alliés. Vous ajoutez le dé de pouvoir au jet de dégâts de l'attaque, et le prochain jet d'attaque contre la cible par quelqu'un d'autre que vous a un avantage si l'attaque est effectuée avant le début de votre prochain tour.</p>"
     },
     "Ship Technician": {
-      "name": "Ship Technician",
+      "name": "Technicien de vaisseau",
       "description": "<p>Également au 2ème rang, lors de l'installation de nouveaux équipements ou de mises à niveau, vous comptez pour deux membres d'effectif, au lieu d'un.</p>"
     },
     "Reactor Boost": {
-      "name": "Reactor Boost",
-      "description": "<p>As an action, you can roll your tech die.  Your reactor immediately produces that many power dice that must be stored immediately based on your ship's power coupling.  For any power dice produced in excess of your ship's capacity to store, your ship takes that many hull points in dégâts.</p><p>De plus, your ship must succeed on a Constitution (Regulation) check (DD = 10 + the number rolled on your tech die) or take hull dégâts equal to one hull die + your ship's strength modificateur.</p>"
+      "name": "Boost du réacteur",
+      "description": "<p>Par une action, vous pouvez lancer votre dé technologique. Votre réacteur produit immédiatement autant de dés de pouvoir qui doivent être stockés immédiatement en fonction du couplage énergétique de votre vaisseau. Pour tous les dés de pouvoir produits en excès de la capacité de stockage de votre vaisseau, votre vaisseau subit autant de points de coque en dégâts.</p><p>De plus, votre vaisseau doit réussir un test de Constitution (Régulation) (DD = 10 + le nombre obtenu sur votre dé technologique) ou subir des dégâts de coque égaux à un dé de coque + le modificateur de Force de votre vaisseau.</p>"
     },
     "Dependable Tech": {
-      "name": "Dependable Tech",
-      "description": "<p>À partir du 3rd rank, you can regain use of your starting tech die as a réaction.  Once you've used this feature, you must finish a short or repos long before you can use it again.</p>"
+      "name": "Technicien fiable",
+      "description": "<p>À partir du 3ème rang, vous pouvez récupérer l'utilisation de votre dé technologique de départ en tant que réaction. Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Paragon Pilot": {
-      "name": "Paragon Pilot",
+      "name": "Pilote parangon",
       "description": "<p>AEn tant que 5ème niveau, vous êtes un modèle de votre déploiement. Lorsque vous devez dépenser un dé de pouvoir, vous pouvez utiliser un [[/r d4]] au lieu de dépenser un dé. Vous ne pouvez utiliser cette fonctionnalité qu'une seule fois par tour.</p>"
     },
     "Paragon of Defense": {
-      "name": "Paragon of Defense",
+      "name": "Parangon de la défense",
       "description": "<p>A De 5ème rang, vous êtes un modèle de votre déploiement. Lorsque vous dépensez un dé de pouvoir, vous pouvez utiliser un [[/r d4]] au lieu de dépenser un dé. Vous ne pouvez utiliser cette fonctionnalité qu'une fois par tour.</p><p>De plus, lorsque vous effectuez l'action Boost Shields ou Patch, lorsque vous lancez un jet pour restaurer des points de coque ou des points de bouclier, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le lancer. Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Cannoneer": {
-      "name": "Cannoneer",
-      "description": "<p>You are skilled with laser cannons. While you are firing a primary weapon, you gain a +2 bonus to jet de dégâtss and sauvegarde DDs.</p>"
+      "name": "Canonnier",
+      "description": "<p>Vous maîtrisez les canons laser. Lorsque vous tirez avec une arme principale, vous obtenez un bonus de +2 aux jets de dégâts et aux DD de sauvegarde.</p>"
     },
     "Inspiring Display": {
-      "name": "Inspiring Display",
-      "description": "<p>Also at 2nd rank, you can inspire others through stirring words. You spend the next minute rallying your allies by giving an inspiring speech. You grant a number of ships up to your bonus de maîtrise temporary hull points equal to your Charisma modificateur. You also grant to a number of crew members up to your bonus de maîtrise from those ships one Inspiring Display die, a [[/r d6]]. Once within the next 10 minutes, la créature can roll the die and add the number rolled to one test de caractéristique, attack roll, or jet de sauvegarde it makes. The creature can wait until after it rolls the d20 before deciding to use the Inspiring Display die, but must decide before the GM says whether the roll succeeds or fails. Once the Inspiring Display die is rolled, it is lost. A creature can have only one Inspiring Display die at a time.</p><p>Once you've used this feature, you can't use it again until you finish a repos long.</p><p>Your Inspiring Display die changes when you reach certain ranks in this deployment. The die becomes a [[/r d8]] at 3rd rank, a [[/r d10]] at 4th rank, and a [[/r d12]] at 5th rank.</p>"
+      "name": "Discours inspirant",
+      "description": "<p>Également au 2ème rang, vous pouvez inspirer les autres par des paroles entraînantes. Vous passez la minute suivante à rallier vos alliés en faisant un discours inspirant. Vous accordez à un nombre de vaisseaux jusqu’à votre bonus de maîtrise des points de coque temporaires égaux à votre modificateur de Charisme. Vous accordez également à un nombre de membres d’équipage jusqu’à votre bonus de maîtrise de ces vaisseaux un dé d’Expression Inspirante, un [[/r d6]]. Une fois dans les 10 minutes suivantes, la créature peut lancer le dé et ajouter le nombre obtenu à un test de caractéristique, un jet d’attaque ou un jet de sauvegarde de son choix. La créature peut attendre d’avoir lancé le d20 avant de décider d’utiliser le dé d’Expression Inspirante, mais doit décider avant que le MJ ne déclare si le jet réussit ou échoue. Une fois que le dé d’Expression Inspirante est lancé, il est perdu. Une créature ne peut avoir qu’un seul dé d’Expression Inspirante à la fois.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l’utiliser avant d’avoir terminé un repos long.</p><p>Votre dé d’Expression Inspirante change lorsque vous atteignez certains rangs dans ce déploiement. Le dé devient un [[/r d8]] au 3ème rang, un [[/r d10]] au 4ème rang et un [[/r d12]] au 5ème rang.</p>"
     },
     "Penetrating Shot": {
-      "name": "Penetrating Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you hit a ship with a ship attack, you can expend one power die to attempt to dégâts another ship with the same attack. Choose a second ship within 150 mètres of and directly behind your initial target. If the original attack roll would hit the second ship, it takes dégâts equal to the number you roll on your power die. The dégâts is of the same type dealt by the original attack.</p>"
+      "name": "Tir pénétrant",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous touchez un vaisseau avec une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir pour tenter d'endommager un autre vaisseau avec la même attaque. Choisissez un second vaisseau dans un rayon de 150 mètres directement derrière votre cible initiale. Si le jet d'attaque original toucherait le second vaisseau, il subit des dégâts égaux au nombre obtenu sur votre dé de pouvoir. Les dégâts sont du même type que ceux infligés par l'attaque d'origine.</p>"
     },
     "Pilot Extraordinaire": {
-      "name": "Pilot Extraordinaire",
+      "name": "Pilote extraordinaire",
       "description": "<p>Également au 5ème rang, vous êtes un maître à la barre. En guise de bonus d'action, vous pouvez exploiter votre expérience dans une rafale brève mais impressionnante. Jusqu'à la fin de votre prochain tour, vous avez un avantage sur les tests de Dextérité (Manœuvres), votre vaisseau a un avantage sur les jets de sauvegarde de Force et de Dextérité, et les jets d'attaque contre votre vaisseau ont un désavantage.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser avant d'avoir terminé un court ou un repos long.</p>"
     },
     "Shield Reinforcement": {
-      "name": "Shield Reinforcement",
+      "name": "Renforcement des boucliers",
       "description": "<p>AEn bonus d'action, vous pouvez lancer votre dé technologique. Vos boucliers se régénèrent immédiatement grâce au résultat du dé.</p>"
     },
     "Precision Shot": {
-      "name": "Precision Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you make a ship attack roll against a ship, you can expend one power die to add it to the roll. If that attack hits, add the power die to the attack's jet de dégâts. You can use this power before or after making the attack roll, but before any effects of the attack are applied.</p>"
+      "name": "Tir de précision",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous effectuez un jet d'attaque de vaisseau contre un vaisseau, vous pouvez dépenser un dé de pouvoir pour l'ajouter au jet. Si cette attaque touche, ajoutez le dé de pouvoir au jet de dégâts de l'attaque. Vous pouvez utiliser ce pouvoir avant ou après avoir effectué le jet d'attaque, mais avant que les effets de l'attaque ne soient appliqués.</p>"
     },
     "Intensify Shields": {
-      "name": "Intensify Shields",
-      "description": "<p><em><strong>Power Die Location:</strong> Shields</em><br />When you are hit by a ship attack, you can expend one power die as a réaction. Until the start of your next turn, your ship has a bonus to AC equal to the amount rolled on the power die. This includes the triggering attack.</p>"
+      "name": "Intensifier les boucliers",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous êtes touché par une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir en tant que réaction. Jusqu'au début de votre prochain tour, votre vaisseau bénéficie d'un bonus à la CA égal au montant obtenu sur le dé de pouvoir. Cela inclut l'attaque déclencheuse.</p>"
     },
     "Sensor Blast": {
-      "name": "Sensor Blast",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />When a friendly ship, including your own, hits a ship with a attaque d'arme, you can expend one power die as a réaction to attempt to saturate la cible's sensors. You add the power die to the attack's jet de dégâts, and la cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible has disavantage on all attack rolls against targets other than your ship jusqu'à la fin de votre prochain tour.</p>"
+      "name": "Salve de capteurs",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsqu'un vaisseau allié, y compris le vôtre, touche un vaisseau avec une attaque d'arme, vous pouvez dépenser un dé de pouvoir en tant que réaction pour tenter de saturer les capteurs de la cible. Vous ajoutez le dé de pouvoir au jet de dégâts de l'attaque, et la cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec de la sauvegarde, la cible a un désavantage sur tous les jets d'attaque contre des cibles autres que votre vaisseau jusqu'à la fin de votre prochain tour.</p>"
     },
     "Heavy Gunner": {
-      "name": "Heavy Gunner",
+      "name": "Tireur lourd",
       "description": "<p>Vous maîtrisez les railguns et les turbolasers. Lorsque vous tirez avec une arme secondaire, vous bénéficiez d'un bonus de +2 aux jets d'attaque et de sauvegarde DD.</p>"
     },
     "Barrel Roll": {
       "name": "Rouleau de baril",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />When you are la cible of an attack roll, you can expend a power die and attempt to maneuver out of the line of fire. Roll the die, take the result, and multiply it by 50. You immediately move that many mètres in a direction de votre choix. The orientation of your ship does not change.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Lorsque vous êtes la cible d'un jet d'attaque, vous pouvez dépenser un dé de pouvoir et tenter de manœuvrer hors de la ligne de tir. Lancez le dé, prenez le résultat et multipliez-le par 50. Vous vous déplacez immédiatement de ce nombre de mètres dans une direction de votre choix. L'orientation de votre vaisseau ne change pas.</p>"
     },
     "Gunning Mastery": {
-      "name": "Gunning Mastery",
+      "name": "Maîtrise du tir",
       "description": "<p>Au 4ème rang, vous maîtrisez un style de tir particulier. Choisissez l'une des options de maîtrise du tir, détaillées au chapitre 6. Vous ne pouvez pas choisir une option de maîtrise du tir plus d'une fois, même si vous devez choisir à nouveau plus tard. MASTERY</span></h4><h4 style=\"box-sizing:inherit;user-select:text;margin:0px 0px 0.5rem;padding:0px;font-weight:400;font-family:'Russo One';font-size:17px;letter-spacing:0.5px;color:rgb(196, 15, 15);font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"font-family:'Russo One'\">PAYLOAD MASTERY</span></h4>"
     },
     "Gunner Techniques": {
-      "name": "Gunner Techniques",
-      "description": "<p>Also at 1st rank, you learn gambits that are fueled by special dice called power dice.</p><h3>Gambits</h3><p>You learn two gambits de votre choix, which are detailed under \"Gambits\" below. Many gambits enhance an attack in some way. You can use only one gambit per attack, and you can only use each gambit une fois par tour.</p><p>Vous apprenez un supplémentaire gambit at 2nd, 3rd, 4th, and 5th rank in this deployment. Each time you learn a new gambit, you can also replace one gambit you know with a different one.</p><h3>Power Dice</h3><p>A power die is expended quand vous utilisez it. Your ship must have a power die at the required system in order to use the gambit.</p><p>Your ship gains power dice based primarily on reactor production.  These power dice are stored in a central and/or system capacitors to power abilities of deployed crew members.  Your power die type is determined by your ship tier.</p>"
+      "name": "Techniques de tireur",
+      "description": "<p>Également au 1er rang, vous apprenez des gambits alimentés par des dés spéciaux appelés dés de pouvoir.</p><h3>Gambits</h3><p>Vous apprenez deux gambits de votre choix, décrits ci-dessous dans la section « Gambits ». De nombreux gambits améliorent une attaque d'une manière ou d'une autre. Vous ne pouvez utiliser qu'un seul gambit par attaque, et vous ne pouvez utiliser chaque gambit qu'une fois par tour.</p><p>Vous apprenez un gambit supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez un nouveau gambit, vous pouvez remplacer un gambit que vous connaissez par un autre.</p><h3>Dés de pouvoir</h3><p>Un dé de pouvoir est dépensé lorsque vous l'utilisez. Votre vaisseau doit avoir un dé de pouvoir au système requis pour utiliser le gambit.</p><p>Votre vaisseau obtient des dés de pouvoir principalement basés sur la production du réacteur. Ces dés de pouvoir sont stockés dans des condensateurs centraux et/ou systèmes pour alimenter les capacités des membres d'équipage déployés. Le type de votre dé de pouvoir est déterminé par le niveau de votre vaisseau.</p>"
     },
     "Powerful Patch": {
-      "name": "Powerful Patch",
+      "name": "Réparation puissante",
       "description": "<h3>Patch puissant</h3><p><em><strong>Emplacement du dé de puissance :</strong> Boucliers</em><br />A Par une action, vous pouvez dépenser un dé de pouvoir pour utiliser un dé de coque et récupérer des points de coque. Vous gagnez des points de coque supplémentaires égaux au montant obtenu sur le dé de pouvoir.</p>"
     },
     "Supreme Save": {
       "name": "Sauvegarde suprême",
-      "description": "<p>As of 5th rank, you learn how to quickly isolate massive dégâts on your ship. As a réaction, when you would otherwise be reduced to zero hull points, you can instead reduce your hull points to one.</p><p>Once you've used this feature, you must finish a repos long before you can use it again.</p>"
+      "description": "<p>À partir du 5ème rang, vous apprenez à isoler rapidement les dégâts massifs sur votre vaisseau. En tant que réaction, lorsque vous devriez autrement être réduit à zéro points de coque, vous pouvez à la place réduire vos points de coque à un.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Coordinating Leadership": {
-      "name": "Coordinating Leadership",
-      "description": "<p>Also at 1st rank, you learn collaborations that are fueled by special dice called power dice.</p><h3>Collaborations</h3><p>You learn two collaborations de votre choix, which are detailed under \"Collaborations\" below. You can use only one collaboration per turn, and you can only use each collaboration once per round.</p><p>Vous apprenez un supplémentaire collaboration at 2nd, 3rd, 4th, and 5th rank in this deployment. Each time you learn a new collaboration, you can also replace one collaboration you know with a different one.</p><h3>Power Dice</h3><p>A power die is expended quand vous utilisez it. Your ship must have a power die at the required system in order to use the collaboration.</p><p>Your ship gains power dice based primarily on reactor production.  These power dice are stored in a central and/or system capacitors to power abilities of deployed crew members.  Your power die type is determined by your ship tier.</p>"
+      "name": "Commandement coordonné",
+      "description": "<p>Également au 1er rang, vous apprenez des collaborations alimentées par des dés spéciaux appelés dés de pouvoir.</p><h3>Collaborations</h3><p>Vous apprenez deux collaborations de votre choix, décrites ci-dessous dans la section « Collaborations ». Vous ne pouvez utiliser qu'une seule collaboration par tour, et vous ne pouvez utiliser chaque collaboration qu'une fois par round.</p><p>Vous apprenez une collaboration supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez une nouvelle collaboration, vous pouvez remplacer une collaboration que vous connaissez par une autre.</p><h3>Dés de pouvoir</h3><p>Un dé de pouvoir est dépensé lorsque vous l'utilisez. Votre vaisseau doit avoir un dé de pouvoir au système requis pour utiliser la collaboration.</p><p>Votre vaisseau obtient des dés de pouvoir principalement basés sur la production du réacteur. Ces dés de pouvoir sont stockés dans des condensateurs centraux et/ou systèmes pour alimenter les capacités des membres d'équipage déployés. Le type de votre dé de pouvoir est déterminé par le niveau de votre vaisseau.</p>"
     },
     "Masterful Directive": {
-      "name": "Masterful Directive",
-      "description": "<p>Also at 3rd rank, when you roll your uplifting directive number as a part of the Direct action, you can use your action bonus to increase your uplifting directive number by an amount equal to your bonus de maîtrise. If this would increase the value of your uplifting directive number to more than 20, it instead becomes 20.</p>"
+      "name": "Directive magistrale",
+      "description": "<p>Également au 3ème rang, lorsque vous obtenez votre numéro de directive stimulante dans le cadre de l'action Direct, vous pouvez utiliser votre action bonus pour augmenter votre numéro de directive stimulante d'un montant égal à votre bonus de maîtrise. Si cela devait augmenter la valeur de votre numéro de directive stimulante à plus de 20, elle devient 20 à la place.</p>"
     },
     "System Disturbance": {
-      "name": "System Disturbance",
-      "description": "<p>At 2nd rank, as a action bonus while deployed as an operator, vous pouvez choisir a ship that you can see within 1,000 mètres and target its systems for disturbance. For the next minute, or until you disturb another target, you have avantage on any Wisdom (Scan) or Intelligence (Probe) check you make to find it.</p><p>De plus, when the ship makes an test de caractéristique, attack roll, or jet de sauvegarde, you can use your réaction to disturb the ship's functions. Roll a System Disturbance die, which is a [[/r d6]], and subtract it from the test de caractéristique, attack roll, or jet de sauvegarde. Vous pouvez choisir to use this feature after the ship makes its roll, but before the GM says whether the roll succeeds or fails. You can use this feature twice. You gain another use of this feature at 3rd, 4th, and 5th rank in this deployment. You regain any expended uses when you finish a repos long.</p><p>Your System Disturbance die changes when you reach certain ranks in this deployment. The die becomes a [[/r d8]] at 3rd rank, a [[/r d10]] at 4th rank, and a [[/r d12]] at 5th rank.</p>"
+      "name": "Perturbation du système",
+      "description": "<p>Au 2ème rang, par une action bonus lorsque vous êtes déployé en tant qu’opérateur, vous pouvez choisir un vaisseau que vous pouvez voir dans un rayon de 1 000 mètres et cibler ses systèmes pour les perturber. Pour la minute suivante, ou jusqu’à ce que vous perturbiez une autre cible, vous avez un avantage sur tout test de Sagesse (Scan) ou d’Intelligence (Sonde) que vous effectuez pour le trouver.</p><p>De plus, lorsque le vaisseau effectue un test de caractéristique, un jet d’attaque ou un jet de sauvegarde, vous pouvez utiliser votre réaction pour perturber les fonctions du vaisseau. Lancez un dé de Perturbation du Système, qui est un [[/r d6]], et soustrayez-le du test de caractéristique, du jet d’attaque ou du jet de sauvegarde. Vous pouvez choisir d’utiliser cette fonctionnalité après que le vaisseau a effectué son jet, mais avant que le MJ ne déclare si le jet réussit ou échoue. Vous pouvez utiliser cette fonctionnalité deux fois. Vous gagnez une utilisation supplémentaire de cette fonctionnalité aux 3ème, 4ème et 5ème rangs de ce déploiement. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p><p>Votre dé de Perturbation du Système change lorsque vous atteignez certains rangs dans ce déploiement. Le dé devient un [[/r d8]] au 3ème rang, un [[/r d10]] au 4ème rang et un [[/r d12]] au 5ème rang.</p>"
     },
     "Threat Assessment": {
-      "name": "Threat Assessment",
-      "description": "<p>Also at 3rd rank, as a action bonus, you can learn certain information about the capabilities of la cible of your System Disturbance. The GM tells you if the ship is your ship's equal, superior, or inferior in regard to two of the following characteristics de votre choix:</p>\n<ul>\n<li>An score de caractéristique</li>\n<li>Classe d'Armure</li>\n<li>Current total hull and shield points</li>\n<li>Total ship tiers (if any)</li>\n<li>Total deployment ranks (if any)</li>\n</ul>"
+      "name": "Évaluation des menaces",
+      "description": "<p>Également au 3ème rang, par une action bonus, vous pouvez apprendre certaines informations sur les capacités de la cible de votre Perturbation du Système. Le MJ vous indique si le vaisseau est égal, supérieur ou inférieur à votre vaisseau en ce qui concerne deux des caractéristiques suivantes de votre choix :</p>\n<ul>\n<li>Un score de caractéristique</li>\n<li>Classe d’Armure</li>\n<li>Total actuel des points de coque et de bouclier</li>\n<li>Niveaux de vaisseau totaux (le cas échéant)</li>\n<li>Rangs de déploiement totaux (le cas échéant)</li>\n</ul>"
     },
     "Ship Mechanic": {
-      "name": "Ship Mechanic",
+      "name": "Mécanicien de vaisseau",
       "description": "<p>Également au 2ème rang, lors de l'installation de nouveaux équipements ou de mises à niveau, vous comptez pour deux membres d'effectif, au lieu d'un.</p>"
     },
     "Reroute Power": {
       "name": "Rediriger l'alimentation",
-      "description": "<p>De plus, when your ship's shields are fully depleted, you can use your réaction to immediately restore a number of shield points equal to your Intelligence modificateur. Once you've used this feature, you must finish a repos long before you can use it again.</p>"
+      "description": "<p>De plus, lorsque les boucliers de votre vaisseau sont complètement épuisés, vous pouvez utiliser votre réaction pour restaurer immédiatement un nombre de points de bouclier égal à votre modificateur d'Intelligence. Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Piloting Procedure": {
-      "name": "Piloting Procedure",
-      "description": "<p>Also at 1st rank, you learn tactics that are fueled by special dice called power dice.</p><h3>Tactics</h3><p>You learn two tactics de votre choix, which are detailed under \"Tactics\" below. You can use only one tactic per turn, and you can only use each tactic once per round.</p><p>Vous apprenez un supplémentaire tactic at 2nd, 3rd, 4th, and 5th rank in this deployment. Each time you learn a new tactic, you can also replace one tactic you know with a different one.</p><h3>Power Dice</h3><p>A power die is expended quand vous utilisez it. Your ship must have a power die at the required system in order to use the tactic.</p><p>Your ship gains power dice based primarily on reactor production.  These power dice are stored in a central and/or system capacitors to power abilities of deployed crew members.  Your power die type is determined by your ship tier.</p>"
+      "name": "Procédure de pilotage",
+      "description": "<p>Également au 1er rang, vous apprenez des tactiques alimentées par des dés spéciaux appelés dés de pouvoir.</p><h3>Tactiques</h3><p>Vous apprenez deux tactiques de votre choix, décrites ci-dessous dans la section « Tactiques ». Vous ne pouvez utiliser qu'une seule tactique par tour, et vous ne pouvez utiliser chaque tactique qu'une fois par round.</p><p>Vous apprenez une tactique supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez une nouvelle tactique, vous pouvez remplacer une tactique que vous connaissez par une autre.</p><h3>Dés de pouvoir</h3><p>Un dé de pouvoir est dépensé lorsque vous l'utilisez. Votre vaisseau doit avoir un dé de pouvoir au système requis pour utiliser la tactique.</p><p>Votre vaisseau obtient des dés de pouvoir principalement basés sur la production du réacteur. Ces dés de pouvoir sont stockés dans des condensateurs centraux et/ou systèmes pour alimenter les capacités des membres d'équipage déployés. Le type de votre dé de pouvoir est déterminé par le niveau de votre vaisseau.</p>"
     },
     "Protean Gunner": {
-      "name": "Protean Gunner",
-      "description": "<p>Also at 4th rank, vous pouvez choisir a second Gunning Style option.</p>"
+      "name": "Tireur protéiforme",
+      "description": "<p>Également au 4ème rang, vous pouvez choisir une seconde option de style de tir.</p>"
     },
     "Weapon Overload": {
       "name": "Surcharge d'armes",
-      "description": "<p>As a action bonus, you can roll your tech die.  The next time a ship weapon deals dégâts before the end of your next turn, it deals additional dégâts equal to the result of the die. The dégâts is of the same type dealt by the original attack.</p>"
+      "description": "<p>Par une action bonus, vous pouvez lancer votre dé technologique. La prochaine fois qu'une arme de vaisseau inflige des dégâts avant la fin de votre prochain tour, elle inflige des dégâts supplémentaires égaux au résultat du dé. Les dégâts sont du même type que ceux infligés par l'attaque d'origine.</p>"
     },
     "Uncanny Dodge": {
-      "name": "Uncanny Dodge",
-      "description": "<p>Also at 2nd rank, when an attacker that you can see hits your ship with an attack, you can use your réaction to halve the attack's dégâts against your ship.</p>"
+      "name": "Esquive surnaturelle",
+      "description": "<p>Également au 2ème rang, lorsqu'un attaquant que vous pouvez voir touche votre vaisseau avec une attaque, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts de l'attaque contre votre vaisseau.</p>"
     },
     "System Boost": {
-      "name": "System Boost",
-      "description": "<p>Also at 1st rank, you learn techniques to quickly augment different systems on your ship that are fueled by special dice called tech dice.</p><h3>Techniques</h3><p>You learn two techniques de votre choix, which are detailed under \"Techniques\" below. You can use only one technique per turn, and you can only use each technique once per round.</p><p>Vous apprenez un supplémentaire technique at 2nd, 3rd, 4th and 5th rank in this deployment. Each time you learn a new technique, you can also replace one technique you know with a different one.</p><h3>Tech Dice</h3><p>Your techniques are represented by your tech die, the starting size of which is a d4. Using your tech die does not expend it.</p><p>Your tech die changes when you reach certain ranks in this deployment. The die becomes a d6 at 2nd rank, a d8 at 3rd rank, a d10 at 4th rank, and a d12 at 5th rank.</p><h3>Creative Thinking</h3><p>If you roll a 1 on your tech die, it decreases by one die size jusqu'à la fin de votre prochain tour. This represents you burning through your creativity. For example, if the die is a d6 and you roll a 1, it becomes a d4. If it's a d4 and you roll a 1, it becomes unusable jusqu'à la fin de votre prochain tour.</p><p>Conversely, if you roll the maximum number on your tech die, it increases by one die size jusqu'à la fin de votre prochain tour, up to a d12. This represents you having a creative break-through. For example, if you roll a 4 on a d4, the die then becomes a d6. If it's a d12 and you roll a 12, on future rolls jusqu'à la fin de votre prochain tour, you can roll an extra die and choose which die to use.</p>"
+      "name": "Boost du système",
+      "description": "<p>Également au 1er rang, vous apprenez des techniques pour augmenter rapidement différents systèmes de votre vaisseau, alimentées par des dés spéciaux appelés dés technologiques.</p><h3>Techniques</h3><p>Vous apprenez deux techniques de votre choix, décrites ci-dessous dans la section « Techniques ». Vous ne pouvez utiliser qu'une seule technique par tour, et vous ne pouvez utiliser chaque technique qu'une fois par round.</p><p>Vous apprenez une technique supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez une nouvelle technique, vous pouvez remplacer une technique que vous connaissez par une autre.</p><h3>Dés technologiques</h3><p>Vos techniques sont représentées par votre dé technologique, dont la taille de départ est un d4. L'utilisation de votre dé technologique ne le dépense pas.</p><p>Votre dé technologique change lorsque vous atteignez certains rangs dans ce déploiement. Le dé devient un d6 au 2ème rang, un d8 au 3ème rang, un d10 au 4ème rang et un d12 au 5ème rang.</p><h3>Pensée créative</h3><p>Si vous obtenez un 1 sur votre dé technologique, il diminue d'une taille de dé jusqu'à la fin de votre prochain tour. Cela représente l'épuisement de votre créativité. Par exemple, si le dé est un d6 et que vous obtenez un 1, il devient un d4. S'il s'agit d'un d4 et que vous obtenez un 1, il devient inutilisable jusqu'à la fin de votre prochain tour.</p><p>Inversement, si vous obtenez le nombre maximum sur votre dé technologique, il augmente d'une taille de dé jusqu'à la fin de votre prochain tour, jusqu'à un d12. Cela représente une avancée créative. Par exemple, si vous obtenez un 4 sur un d4, le dé devient alors un d6. S'il s'agit d'un d12 et que vous obtenez un 12, lors des prochains jets jusqu'à la fin de votre prochain tour, vous pouvez lancer un dé supplémentaire et choisir quel dé utiliser.</p>"
     },
     "Venture": {
-      "name": "Venture",
+      "name": "Aventure",
       "description": "<p>À partir du moment où vous choisissez ce déploiement comme spécialité, au 1er rang, puis de nouveau aux 2e, 3e, 4e et 5e rangs, vous pouvez choisir une aventure (voir le chapitre 6 de <u>Starships of the Galaxy</u> pour une liste d'aventures).</p>"
     },
     "Battle Stations": {
-      "name": "Battle Stations",
-      "description": "<p><em><strong>Power Die Emplacement:</strong> Comms</em><br />Si vous êtes surpris au début du combat et n'êtes pas incapable d'agir, vous pouvez dépenser un dé de pouvoir pour agir normalement. De plus, lors de votre premier tour de combat, en bonus d'action vous pouvez choisir un nombre de créatures égal au nombre obtenu sur le dé de pouvoir qui peuvent vous voir ou vous entendre pour agir normalement lors de leur premier tour.</p>"
+      "name": "Postes de combat",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Si vous êtes surpris au début du combat et n'êtes pas incapable d'agir, vous pouvez dépenser un dé de pouvoir pour agir normalement. De plus, lors de votre premier tour de combat, en bonus d'action vous pouvez choisir un nombre de créatures égal au nombre obtenu sur le dé de pouvoir qui peuvent vous voir ou vous entendre pour agir normalement lors de leur premier tour.</p>"
     },
     "Hacked Communications": {
-      "name": "Hacked Communications",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />As an action, you may expend a power die, and choose any number of ships that you can see within 600 mètres of you. Each ship must succeed on a Wisdom jet de sauvegarde or take ionic dégâts equal to the number rolled on the die + your ship's Charisma modificateur (minimum of one). De plus, on a failed sauvegarde, the ship's communication devices are disabled until rebooted.</p>"
+      "name": "Communications piratées",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Par une action, vous pouvez dépenser un dé de pouvoir et choisir un nombre quelconque de vaisseaux que vous pouvez voir dans un rayon de 600 mètres. Chaque vaisseau doit réussir un jet de sauvegarde de Sagesse ou subir des dégâts ioniques égaux au nombre obtenu sur le dé plus le modificateur de Charisme de votre vaisseau (minimum un). De plus, en cas d'échec de la sauvegarde, les dispositifs de communication du vaisseau sont désactivés jusqu'à ce qu'ils soient redémarrés.</p>"
     },
     "Angle Deflector Shields": {
-      "name": "Angle Deflector Shields",
-      "description": "<p><em><strong>Power Die Location:</strong> Shields</em><br />When you are hit by a ship attack, you can expend one power die as a réaction to redirect some of the impact. Reduce the dégâts absorbed by your shields by the amount rolled on the power die plus the ship's intelligence modificateur.</p>"
+      "name": "Boucliers déflecteurs inclinés",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous êtes touché par une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir en tant que réaction pour rediriger une partie de l'impact. Réduisez les dégâts absorbés par vos boucliers du montant obtenu sur le dé de pouvoir plus le modificateur d'intelligence du vaisseau.</p>"
     },
     "Head's Up": {
-      "name": "Head's Up",
-      "description": "<p><em><strong>Power Die Emplacement:</strong> Comms</em><br />Lorsque vous lancez l'initiative et que vous n'êtes pas surpris, vous pouvez dépenser un dé de pouvoir et ajouter le nombre obtenu à l'initiative de n'importe quel navire ami, y compris le vôtre.</p>"
+      "name": "Attention",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsque vous lancez l'initiative et que vous n'êtes pas surpris, vous pouvez dépenser un dé de pouvoir et ajouter le nombre obtenu à l'initiative de n'importe quel navire ami, y compris le vôtre.</p>"
     },
     "Countermeasures": {
-      "name": "Countermeasures",
-      "description": "<p><em><strong>Power Die Location:</strong> Shields</em><br />Quand vous échouez a Dexterity Saving throw forced by a Ship weapon, you can expend one power die as a réaction. Until the start of your next turn, your ship has a bonus to dexterity jet de sauvegardes equal to the amount rolled on the power die. This includes the triggering sauvegarde.</p>"
+      "name": "Contre-mesures",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous échouez à un jet de sauvegarde de Dextérité forcé par une arme de vaisseau, vous pouvez dépenser un dé de pouvoir en tant que réaction. Jusqu'au début de votre prochain tour, votre vaisseau bénéficie d'un bonus aux jets de sauvegarde de Dextérité égal au montant obtenu sur le dé de pouvoir. Cela inclut la sauvegarde déclencheuse.</p>"
     },
     "Rapid Repairman": {
-      "name": "Rapid Repairman",
-      "description": "<p>At 4th rank, when you take the Patch action, vous pouvez choisir to forgo your proficiently equipped bonus. Si vous réussissez on the check, you can expend 2 Hull Dice, instead of one. For each Hull Die spent in this way, roll the die and add the ship's Constitution modificateur to it.</p>"
+      "name": "Réparateur rapide",
+      "description": "<p>Au 4ème rang, lorsque vous effectuez l'action Patch, vous pouvez choisir de renoncer à votre bonus de maîtrise. Si vous réussissez le test, vous pouvez dépenser 2 dés de coque au lieu d'un. Pour chaque dé de coque dépensé de cette manière, lancez le dé et ajoutez le modificateur de Constitution du vaisseau.</p>"
     },
     "Uplifting Directive": {
-      "name": "Uplifting Directive",
-      "description": "<p>At 2nd rank, when you take the Direct action, roll a d20. Note the number on the d20. This becomes your uplifting directive number.</p><p>While you have an uplifting directive number, when an ally makes an test de caractéristique or attack roll affected by your Direct action, you can replace the result of a d20 roll with the value of the uplifting directive roll. You can use this feature before or after making the roll, but before any effects of the roll are determined. You can only have one uplifting directive roll at a time, and you lose any unused uplifting directive rolls when you complete a short or repos long.</p>"
+      "name": "Directive édifiante",
+      "description": "<p>Au 2ème rang, lorsque vous effectuez l'action Direct, lancez un d20. Notez le nombre sur le d20. Cela devient votre numéro de directive stimulante.</p><p>Tant que vous avez un numéro de directive stimulante, lorsqu'un allié effectue un test de caractéristique ou un jet d'attaque affecté par votre action Direct, vous pouvez remplacer le résultat du jet de d20 par la valeur du jet de directive stimulante. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Vous ne pouvez avoir qu'un seul jet de directive stimulante à la fois, et vous perdez tout jet de directive stimulante non utilisé lorsque vous terminez un repos court ou long.</p>"
     },
     "Targeted Strike": {
-      "name": "Targeted Strike",
-      "description": "<p><em><strong>Power Die Location:</strong> Sensors</em><br />When a friendly ship, including your own, makes an attack against a target, you can use your réaction to expend a power die. You add the power die to the attack roll, and the jet de dégâts if it hits. You can use this maneuver before or after the attack roll, but before the GM determines whether or not the attack hits.</p>"
+      "name": "Frappe ciblée",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Senseurs</em><br />Lorsqu'un vaisseau allié, y compris le vôtre, effectue une attaque contre une cible, vous pouvez utiliser votre réaction pour dépenser un dé de pouvoir. Vous ajoutez le dé de pouvoir au jet d'attaque et au jet de dégâts s'il touche. Vous pouvez utiliser cette manœuvre avant ou après le jet d'attaque, mais avant que le MJ ne détermine si l'attaque touche ou non.</p>"
     },
     "Paragon Tech": {
-      "name": "Paragon Tech",
+      "name": "Tech parangon",
       "description": "<p>AEn tant que 5ème niveau, vous êtes un modèle de votre déploiement. Lorsque vous effectuez un test de Force (Boost) ou un test de Constitution (Régulation), vous pouvez prendre le maximum au lieu de lancer les dés. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Attack Pattern Delta": {
       "name": "Delta du modèle d'attaque",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />When your ship makes a ship attack while there is a friendly ship within 100 mètres of you, you can expend a power die to grant avantage to the roll. If the attack hits, add the result of the die to the attack's jet de dégâts.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Lorsque votre vaisseau effectue une attaque de vaisseau alors qu'il y a un vaisseau allié dans un rayon de 100 mètres de vous, vous pouvez dépenser un dé de pouvoir pour accorder un avantage au jet. Si l'attaque touche, ajoutez le résultat du dé au jet de dégâts de l'attaque.</p>"
     },
     "Haywire": {
-      "name": "Haywire",
-      "description": "<p>Également au 4ème rang, lorsque vous ciblez un vaisseau avec votre fonction System Disturbance, il doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre bonus aux tests d'Interférence). Lors d'un échec de sauvegarde, alors qu'elle est la cible de votre fonction de perturbation du système, la première fois qu'elle effectue un jet d'attaque ou un jet de sauvegarde à chaque tour, la cible doit lancer un d4 et soustraire le chiffre obtenu au jet d'attaque ou au jet de sauvegarde.</p>"
+      "name": "Déchaîné",
+      "description": "<p>Également au 4ème rang, lorsque vous ciblez un vaisseau avec votre fonction Perturbation du système, il doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre bonus aux tests d'Interférence). Lors d'un échec de sauvegarde, alors qu'elle est la cible de votre fonction de perturbation du système, la première fois qu'elle effectue un jet d'attaque ou un jet de sauvegarde à chaque tour, la cible doit lancer un d4 et soustraire le chiffre obtenu au jet d'attaque ou au jet de sauvegarde.</p>"
     },
     "Cunning Avoidance": {
-      "name": "Cunning Avoidance",
+      "name": "Évitement rusé",
       "description": "<p>Également au 3e rang, une fois par tour, lorsque votre vaisseau est touché par une attaque de navire ou échoue à un jet de sauvegarde, vous pouvez effectuer un test de Dextérité (Manœuvre) et utiliser cette valeur pour votre CA ou votre jet de sauvegarde.</p>"
     },
     "Crippling Shot": {
-      "name": "Crippling Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you hit a ship with a ship attack, you can expend one power die to cripple it. Add the power die to the attack's jet de dégâts, and la cible ship's flying speed is reduced by half until the end of their next turn.</p>"
+      "name": "Tir handicapant",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous touchez un vaisseau avec une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir pour le paralyser. Ajoutez le dé de pouvoir au jet de dégâts de l'attaque, et la vitesse de vol du vaisseau cible est réduite de moitié jusqu'à la fin de son prochain tour.</p>"
     },
     "Rallying Cry": {
-      "name": "Rallying Cry",
-      "description": "<p>At 3rd rank, as a action bonus, you can extend a rallying cry to those that can hear you. Choose a number of friendly creatures up to twice your Charisma modificateur that can see or hear you. Each of those creatures gains an Inspiring Display die that lasts jusqu'à la fin de votre prochain tour.</p><p>Once you've used this feature, you can't use it again until you finish a repos long.</p>"
+      "name": "Cri de ralliement",
+      "description": "<p>Au 3ème rang, par une action bonus, vous pouvez lancer un cri de ralliement pour ceux qui peuvent vous entendre. Choisissez un nombre de créatures amicales jusqu'au double de votre modificateur de Charisme qui peuvent vous voir ou vous entendre. Chacune de ces créatures gagne un dé d'Expression Inspirante qui dure jusqu'à la fin de votre prochain tour.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos long.</p>"
     },
     "Expose Weakness": {
-      "name": "Expose Weakness",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you hit a ship with a ship attack, you can expend a power die and deal additional dégâts equal to the number rolled. This dégâts cannot be reduced in any way.</p>"
+      "name": "Exposer la faiblesse",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous touchez un vaisseau avec une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir et infliger des dégâts supplémentaires égaux au nombre obtenu. Ces dégâts ne peuvent être réduits d'aucune manière.</p>"
     },
     "Snap Roll": {
       "name": "Rouleau instantané",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />When you are hit by a ship attack, you can expend a power die and attempt to roll to mitigate the dégâts. When you do so, the dégâts you take from the attack is reduced by the amount rolled on the die.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Lorsque vous êtes touché par une attaque de vaisseau, vous pouvez dépenser un dé de pouvoir et tenter de faire un roulis pour atténuer les dégâts. Lorsque vous faites ainsi, les dégâts que vous subissez de l'attaque sont réduits du montant obtenu sur le dé.</p>"
     },
     "Dependable Damage Control": {
       "name": "Contrôle fiable des dommages",
-      "description": "<p>À partir du 3rd rank, when your ship would make a Constitution Saving throw, you can take the maximum instead of rolling. You can use this feature before or after making the roll, but before any effects of the roll are determined. You may use this feature once before completing a short or repos long.</p>"
+      "description": "<p>À partir du 3ème rang, lorsque votre vaisseau devrait effectuer un jet de sauvegarde de Constitution, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Vous pouvez utiliser cette fonctionnalité une fois avant de terminer un repos court ou long.</p>"
     },
     "Gunning Style": {
-      "name": "Gunning Style",
+      "name": "Style de tir",
       "description": "<p>Au 2ème rang, vous adoptez un style de tir particulier comme spécialité. Choisissez l'une des options de style de tir, détaillées au chapitre 6. Vous ne pouvez pas choisir une option de style de tir plus d'une fois, même si vous devez la choisir à nouveau plus tard. GUNNER</span></h4><h4 style=\"box-sizing:inherit;user-select:text;margin:0px 0px 0.5rem;padding:0px;font-weight:400;font-family:'Russo One';font-size:17px;letter-spacing:0.5px;color:rgb(196, 15, 15);font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><span style=\"font-family:'Russo One'\">LIVRAISON DE CHARGES UTILE</span></h4>"
     },
     "Power Distribution": {
@@ -286,147 +286,147 @@
       "description": "<p>AEn guise de bonus d'action, vous pouvez lancer votre dé technologique et déplacer ce nombre de dés de pouvoir de leur emplacement actuel vers un autre emplacement.</p>"
     },
     "Payload Delivery": {
-      "name": "Payload Delivery",
-      "description": "<p>You are skilled with mines, missiles, rockets, and other explosive weapons. When you roll a 1 or 2 on a dégâts die for a tertiary or quaternary weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.</p>"
+      "name": "Livraison de charge utile",
+      "description": "<p>Vous maîtrisez les mines, les missiles, les roquettes et autres armes explosives. Lorsque vous obtenez un 1 ou un 2 sur un dé de dégâts pour une arme tertiaire ou quaternaire, vous pouvez relancer le dé et devez utiliser le nouveau résultat, même si le nouveau résultat est un 1 ou un 2.</p>"
     },
     "I'll Try Spinning": {
-      "name": "I'll Try Spinning",
+      "name": "Je vais essayer de tourner",
       "description": "<p>Au 2ème rang, lorsque vous utilisez l'action Dogfight, vous pouvez choisir que toutes les attaques contre vous du navire cible soient désavantagées jusqu'au début du prochain tour de votre navire.</p> <p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un repos long.</p>"
     },
     "Reactor Vulnerability": {
-      "name": "Reactor Vulnerability",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />When a friendly ship, including your own, hits a ship with a attaque d'arme, you can expend a power die as a réaction to temporarily destabilize the ship's reactor. Add the number rolled to the dégâts of the attaque d'arme and the ship must succeed on a Constitution jet de sauvegarde or be shocked until the end of its next turn.</p>"
+      "name": "Vulnérabilité du réacteur",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsqu'un vaisseau allié, y compris le vôtre, touche un vaisseau avec une attaque d'arme, vous pouvez dépenser un dé de pouvoir en tant que réaction pour déstabiliser temporairement le réacteur du vaisseau. Ajoutez le nombre obtenu aux dégâts de l'attaque d'arme et le vaisseau doit réussir un jet de sauvegarde de Constitution ou être étourdi jusqu'à la fin de son prochain tour.</p>"
     },
     "Comms Boost": {
-      "name": "Comms Boost",
+      "name": "Boost des communications",
       "description": "<p>AEn guise de bonus d'action, vous pouvez lancer un dé technologique et l'ajouter au prochain test de Charisme (Interférence) effectué par votre vaisseau avant la fin de votre prochain tour.</p>"
     },
     "Systems Block": {
-      "name": "Systems Block",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />When a friendly ship, including your own, makes an attack roll, you can use your réaction and expend a power die and add it to the attack roll. En cas de contacter, la cible's next attack has disavantage and it cannot regain shield points jusqu'au début de votre prochain tour.</p>"
+      "name": "Blocage des systèmes",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsqu'un vaisseau allié, y compris le vôtre, effectue un jet d'attaque, vous pouvez utiliser votre réaction et dépenser un dé de pouvoir et l'ajouter au jet d'attaque. En cas de contact, la prochaine attaque de la cible a un désavantage et elle ne peut pas regagner de points de bouclier jusqu'au début de votre prochain tour.</p>"
     },
     "Heavy Gun Mastery": {
-      "name": "Heavy Gun Mastery",
-      "description": "<p>You are the master of railguns and turbolasers. While you are firing a secondary weapon, before you make an attack, vous pouvez choisir to double your bonus de maîtrise. If the attack hits, you reduce the dégâts dealt by an amount equal to your bonus de maîtrise.</p>"
+      "name": "Maîtrise des canons lourds",
+      "description": "<p>Vous maîtrisez parfaitement les railguns et les turbolasers. Lorsque vous tirez avec une arme secondaire, avant de faire une attaque, vous pouvez choisir de doubler votre bonus de maîtrise. Si l'attaque touche, vous réduisez les dégâts infligés d'un montant égal à votre bonus de maîtrise.</p>"
     },
     "Incite": {
-      "name": "Incite",
-      "description": "<h3>Incite</h3><p><em><strong>Power Die Location:</strong> Comms</em><br />On your turn, you can use an action and expend one Power die to bolster the resolve of a crew on your or another allied ship who can see or hear you. The allied ship can add your ship's Charisma modificateur to a number of jet de dégâtss they make jusqu'au début de votre prochain tour equal to the number rolled on the die.</p>"
+      "name": "Inciter",
+      "description": "<h3>Incite</h3><p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lors de votre tour, vous pouvez utiliser une action et dépenser un dé de pouvoir pour renforcer la résolution d'un équipage sur votre vaisseau ou un autre vaisseau allié qui peut vous voir ou vous entendre. Le vaisseau allié peut ajouter le modificateur de Charisme de votre vaisseau à un nombre de jets de dégâts qu'il effectue jusqu'au début de votre prochain tour égal au nombre obtenu sur le dé.</p>"
     },
     "Watch Out": {
-      "name": "Watch Out",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />When a friendly ship, including your own, who can see or hear you makes a jet de sauvegarde, you can use your réaction and expend a power die, adding the number rolled to the result of the jet de sauvegarde. You can use this collaboration before or after making the jet de sauvegarde, but before any effects of the jet de sauvegarde are determined.</p>"
+      "name": "Attention",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Lorsqu'un vaisseau allié, y compris le vôtre, qui peut vous voir ou vous entendre effectue un jet de sauvegarde, vous pouvez utiliser votre réaction et dépenser un dé de pouvoir, ajoutant le nombre obtenu au résultat du jet de sauvegarde. Vous pouvez utiliser cette collaboration avant ou après avoir effectué le jet de sauvegarde, mais avant que les effets du jet de sauvegarde ne soient déterminés.</p>"
     },
     "Explosive Shot": {
-      "name": "Explosive Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you reduce a ship to 0 points de vie, you can expend one power die and use a action bonus on your turn to make one additional ship attack against a different ship within range. If that attack hits, add the power die to the attack's jet de dégâts.</p>"
+      "name": "Tir explosif",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous réduisez un vaisseau à 0 points de vie, vous pouvez dépenser un dé de pouvoir et utiliser une action bonus lors de votre tour pour effectuer une attaque de vaisseau supplémentaire contre un autre vaisseau à portée. Si cette attaque touche, ajoutez le dé de pouvoir au jet de dégâts de l'attaque.</p>"
     },
     "Paragon Coordinator": {
-      "name": "Paragon Coordinator",
+      "name": "Coordinateur parangon",
       "description": "<p>AEn tant que 5ème niveau, vous êtes un modèle de votre déploiement. Lorsque vous devez dépenser un dé de Pouvoir ou un dé d'Expression Inspirante, vous pouvez utiliser un [[/r d4]] au lieu de dépenser un dé. Vous ne pouvez utiliser cette fonctionnalité qu'une seule fois par tour.</p>"
     },
     "Feinting Shot": {
-      "name": "Feinting Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />You can expend one power die and use a action bonus on your turn to feint, choosing one ship within your primary weapon's normal range as your target. You have avantage on your next attack roll against that ship. If that attack hits, add the power die to the attack's jet de dégâts.</p>"
+      "name": "Tir de feinte",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Vous pouvez dépenser un dé de pouvoir et utiliser une action bonus lors de votre tour pour feinter, choisissant un vaisseau dans la portée normale de votre arme principale comme cible. Vous avez un avantage sur votre prochain jet d'attaque contre ce vaisseau. Si cette attaque touche, ajoutez le dé de pouvoir au jet de dégâts de l'attaque.</p>"
     },
     "Defense Screen": {
-      "name": "Defense Screen",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />As a action bonus, you can expend a power die and take a defensive formation as long as there is a friendly ship within 100 mètres of you. When you do so, your AC increases by the amount rolled on the die jusqu'au début de votre prochain tour.</p>"
+      "name": "Écran défensif",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Par une action bonus, vous pouvez dépenser un dé de pouvoir et prendre une formation défensive tant qu'il y a un vaisseau allié dans un rayon de 100 mètres de vous. Lorsque vous faites ainsi, votre CA augmente du montant obtenu sur le dé jusqu'au début de votre prochain tour.</p>"
     },
     "I Need More Power!": {
       "name": "J'ai besoin de plus de puissance !",
       "description": "<p><em><strong>Emplacement du dé de puissance :</strong> Boucliers</em><br />Lorsque vous utilisez votre action pour régénérer les boucliers de votre vaisseau, vous pouvez utiliser un bonus d'action pour dépenser un dé de pouvoir et ajouter son résultat au montant régénéré.</p>"
     },
     "Operational Control": {
-      "name": "Operational Control",
-      "description": "<p>Also at 1st rank, you learn disruptions that are fueled by special dice called power dice.</p><h3>Disruptions</h3><p>You learn two disruptions de votre choix, which are detailed under \"Disruptions\" below. You can use only one disruption per turn, and you can only use each disruption once per round.</p><p>Vous apprenez un supplémentaire disruption at 2nd, 3rd, 4th, and 5th rank in this deployment. Each time you learn a new disruption, you can also replace one disruption you know with a different one.</p><h3>Power Dice</h3><p>A power die is expended quand vous utilisez it. Your ship must have a power die at the required system in order to use the disruption.</p><p>Your ship gains power dice based primarily on reactor production.  These power dice are stored in a central and/or system capacitors to power abilities of deployed crew members.  Your power die type is determined by your ship tier.</p><h3>Saving Throws</h3><p>Some of your Disruptions require your target to make a jet de sauvegarde to resist the disruption's effects. The jet de sauvegarde DD is calculated as follows:</p><p><strong>Disruption sauvegarde DD</strong> = 8 + your bonus de maîtrise + your ship's Charisma modificateur</p>"
+      "name": "Contrôle opérationnel",
+      "description": "<p>Également au 1er rang, vous apprenez des perturbations alimentées par des dés spéciaux appelés dés de pouvoir.</p><h3>Perturbations</h3><p>Vous apprenez deux perturbations de votre choix, décrites ci-dessous dans la section « Perturbations ». Vous ne pouvez utiliser qu'une seule perturbation par tour, et vous ne pouvez utiliser chaque perturbation qu'une fois par round.</p><p>Vous apprenez une perturbation supplémentaire aux 2ème, 3ème, 4ème et 5ème rangs de ce déploiement. Chaque fois que vous apprenez une nouvelle perturbation, vous pouvez remplacer une perturbation que vous connaissez par une autre.</p><h3>Dés de pouvoir</h3><p>Un dé de pouvoir est dépensé lorsque vous l'utilisez. Votre vaisseau doit avoir un dé de pouvoir au système requis pour utiliser la perturbation.</p><p>Votre vaisseau obtient des dés de pouvoir principalement basés sur la production du réacteur. Ces dés de pouvoir sont stockés dans des condensateurs centraux et/ou systèmes pour alimenter les capacités des membres d'équipage déployés. Le type de votre dé de pouvoir est déterminé par le niveau de votre vaisseau.</p><h3>Jets de sauvegarde</h3><p>Certaines de vos Perturbations nécessitent que votre cible effectue un jet de sauvegarde pour résister aux effets de la perturbation. Le DD du jet de sauvegarde est calculé comme suit :</p><p><strong>DD de sauvegarde de Perturbation</strong> = 8 + votre bonus de maîtrise + le modificateur de Charisme de votre vaisseau</p>"
     },
     "Disarming Shot": {
-      "name": "Disarming Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Sensors</em><br />As an action, you can expend one power die to attempt to disarm la cible. You add the power die to your ship's next attack roll.  En cas de contacter, in addition to the normal dégâts taken, la cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, you disable a weapon of la cible ship de votre choix until the ship recharges.</p>"
+      "name": "Tir de désarmement",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Senseurs</em><br />Par une action, vous pouvez dépenser un dé de pouvoir pour tenter de désarmer la cible. Vous ajoutez le dé de pouvoir au prochain jet d'attaque de votre vaisseau. En cas de contact, en plus des dégâts normaux subis, la cible doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous désactivez une arme du vaisseau cible de votre choix jusqu'à ce que le vaisseau se rechargera.</p>"
     },
     "Cannon Mastery": {
-      "name": "Cannon Mastery",
-      "description": "<p>You are the master of laser cannons. While you are firing a primary weapon, when you take the Attack action, vous pouvez choisir to fire rapidly at the expense of accuracy. Your attacks are made without the aid of your bonus de maîtrise, but you use your action bonus to make an additional attack, also without your bonus de maîtrise.</p>"
+      "name": "Maîtrise des canons",
+      "description": "<p>Vous maîtrisez parfaitement les canons laser. Lorsque vous tirez avec une arme principale, lorsque vous effectuez l'action Attaquer, vous pouvez choisir de tirer rapidement au détriment de la précision. Vos attaques sont effectuées sans l'aide de votre bonus de maîtrise, mais vous utilisez votre action bonus pour effectuer une attaque supplémentaire, également sans votre bonus de maîtrise.</p>"
     },
     "Disabling Shot": {
-      "name": "Disabling Shot",
-      "description": "<p><em><strong>Power Die Location:</strong> Weapons</em><br />When you make a ship attack roll against a ship, you can expend one power die to add it to the roll. En cas de contacter, the ship has disavantage on the next test de caractéristique or attack roll it makes before the end of your next turn.</p>"
+      "name": "Tir incapacitant",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Armes</em><br />Lorsque vous effectuez un jet d'attaque de vaisseau contre un vaisseau, vous pouvez dépenser un dé de pouvoir pour l'ajouter au jet. En cas de contact, le vaisseau a un désavantage sur le prochain test de caractéristique ou jet d'attaque qu'il effectue avant la fin de votre prochain tour.</p>"
     },
     "Steady As She Goes": {
-      "name": "Steady As She Goes",
-      "description": "<p><em><strong>Power Die Location:</strong> Comms</em><br />As an action, you can expend one power die to strengthen your allies' defenses. Roll a power die. Until the end of your next turn, your ship and all allied ships within 500 mètres of you quand vous utilisez this action have a bonus to any jet de sauvegardes they make equal to the amount rolled.</p>"
+      "name": "Tout droit",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />Par une action, vous pouvez dépenser un dé de pouvoir pour renforcer les défenses de vos alliés. Lancez un dé de pouvoir. Jusqu'à la fin de votre prochain tour, votre vaisseau et tous les vaisseaux alliés dans un rayon de 500 mètres de vous lorsque vous utilisez cette action ont un bonus à tous les jets de sauvegarde qu'ils effectuent égal au montant obtenu.</p>"
     },
     "Dependable Pilot": {
-      "name": "Dependable Pilot",
-      "description": "<p>À partir du 3rd rank, when you would make a Dexterity (Maneuvering) check while assigned as a pilot, you can take the maximum instead of rolling. You can use this feature before or after making the roll, but before any effects of the roll are determined. You may use this feature un nombre de fois égal à your ranks in piloting.  Vous regagnez tous expended uses when you complete a repos long.</p>"
+      "name": "Pilote fiable",
+      "description": "<p>À partir du 3ème rang, lorsque vous devriez effectuer un test de Dextérité (Manœuvres) en tant que pilote, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre rang dans la spécialité de pilotage. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>"
     },
     "Bolster": {
-      "name": "Bolster",
-      "description": "<p><em><strong>Power Die Emplacement:</strong> Comms</em><br />À votre tour, vous pouvez utiliser votre action et dépenser un dé de pouvoir pour renforcer la résolution de l'équipage de votre navire ou d'un autre navire allié. Ce vaisseau gagne des points de vie temporaires égaux au jet de pouvoir + votre modificateur de Charisme.</p>"
+      "name": "Renforcer",
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Comms</em><br />À votre tour, vous pouvez utiliser votre action et dépenser un dé de pouvoir pour renforcer la résolution de l'équipage de votre navire ou d'un autre navire allié. Ce vaisseau gagne des points de vie temporaires égaux au jet de pouvoir + votre modificateur de Charisme.</p>"
     },
     "Break the Lock": {
       "name": "Briser le verrou",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />When the ship fails a Strength, Dexterity, or Constitution jet de sauvegarde, as a réaction, you can expend a power die to attempt to recover. Roll the die and add the result to the jet de sauvegarde.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Lorsque le vaisseau échoue à un jet de sauvegarde de Force, Dextérité ou Constitution, en tant que réaction, vous pouvez dépenser un dé de pouvoir pour tenter de vous rétablir. Lancez le dé et ajoutez le résultat au jet de sauvegarde.</p>"
     },
     "Skim the Surface": {
       "name": "Écrémer la surface",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />As a action bonus, you can expend a power die and attempt to fly through the space of a hostile ship. Roll the die, take the result, and multiply it by 50. Your ship's flying speed increases by that amount jusqu'à la fin de votre tour. De plus, moving through a hostile ship's space does not count as hostile terrain this turn.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Par une action bonus, vous pouvez dépenser un dé de pouvoir et tenter de voler à travers l'espace d'un vaisseau hostile. Lancez le dé, prenez le résultat et multipliez-le par 50. La vitesse de vol de votre vaisseau augmente de ce montant jusqu'à la fin de votre tour. De plus, se déplacer dans l'espace d'un vaisseau hostile n'est pas considéré comme un terrain hostile ce tour-ci.</p>"
     },
     "Improved Critical": {
-      "name": "Improved Critical",
-      "description": "<p>Also at 2nd rank, your critical hit range with primary and secondary weapons increases by 1, and when a ship rolls a 1 on a jet de sauvegarde against a tertiary or quaternary weapon that you control, they treat the effect's dégâts as if it had rolled the maximum.</p>"
+      "name": "Critique amélioré",
+      "description": "<p>Également au 2ème rang, votre plage de coup critique avec les armes principales et secondaires augmente de 1, et lorsqu'un vaisseau obtient un 1 sur un jet de sauvegarde contre une arme tertiaire ou quaternaire que vous contrôlez, il traite les dégâts de l'effet comme s'il avait obtenu le maximum.</p>"
     },
     "Bring 'Em Back Up!": {
-      "name": "Bring 'Em Back Up!",
+      "name": "Remettez-les en ligne !",
       "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Boucliers</em><br />Lorsque vous n'avez pas de bouclier, en tant qu'action, vous pouvez dépenser un dé de pouvoir pour dépenser un dé de bouclier afin de remettre vos boucliers en ligne avec une valeur égale au taux de régénération de votre vaisseau plus le montant lancé sur le dé de pouvoir.</p>"
     },
     "Sensor Boost": {
-      "name": "Sensor Boost",
-      "description": "<p>AEn guise de bonus d'action, vous pouvez lancer un dé technologique et l'ajouter au prochain test de Sagesse (Scan) ou d'Intelligence (Sonde) effectué par votre vaisseau avant la fin de votre prochain tour.</p>"
+      "name": "Boost des capteurs",
+      "description": "<p>En guise de bonus d'action, vous pouvez lancer un dé technologique et l'ajouter au prochain test de Sagesse (Scan) ou d'Intelligence (Sonde) effectué par votre vaisseau avant la fin de votre prochain tour.</p>"
     },
     "That's a Good Trick": {
       "name": "C'est un bon truc",
-      "description": "<p>At 4th rank, you can take a réaction to give disavantage to an attack declared against your ship.</p><p>Once you've used this feature, you can't use it again until you finish a repos long.</p>"
+      "description": "<p>Au 4ème rang, vous pouvez prendre une réaction pour donner un désavantage à une attaque déclarée contre votre vaisseau.</p><p>Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser avant d'avoir terminé un repos long.</p>"
     },
     "Quick Fixer": {
-      "name": "Quick Fixer",
+      "name": "Réparateur rapide",
       "description": "<p>Au 2ème rang, lorsque vous effectuez l'action Patch ou effectuez des réparations de vaisseau pendant la recharge, vous avez un avantage sur le test de Constitution (Patch). Si vous avez déjà un avantage, vous pouvez relancer un des dés une fois.</p>"
     },
     "Masterful Interference": {
-      "name": "Masterful Interference",
-      "description": "<p>At 4th rank, when you take the Interfere action, vous pouvez choisir to forgo your bonus de maîtrise. Si vous réussissez on the check, la cible has disavantage on all test de caractéristiques or attack rolls it makes before the start of your next turn, instead of one.</p>"
+      "name": "Interférence magistrale",
+      "description": "<p>Au 4ème rang, lorsque vous effectuez l'action Interférer, vous pouvez choisir de renoncer à votre bonus de maîtrise. Si vous réussissez le test, la cible a un désavantage sur tous les tests de caractéristique ou jets d'attaque qu'elle effectue avant le début de votre prochain tour, au lieu d'un seul.</p>"
     },
     "Engine Tuning": {
-      "name": "Engine Tuning",
-      "description": "<p>As an action, you can roll your tech die.  Take the result of the die and multiply it by 50. The flying speed of your ship increases by this amount jusqu'à la fin de votre prochain tour.</p>"
+      "name": "Réglage du moteur",
+      "description": "<p>Par une action, vous pouvez lancer votre dé technologique. Prenez le résultat du dé et multipliez-le par 50. La vitesse de vol de votre vaisseau augmente de ce montant jusqu'à la fin de votre prochain tour.</p>"
     },
     "Quiet Electronics": {
-      "name": "Quiet Electronics",
-      "description": "<p>AEn guise de bonus d'action, vous pouvez lancer un dé technologique et l'ajouter au prochain test de Dextérité (Furtivité) effectué par votre vaisseau avant la fin de votre prochain tour.</p>"
+      "name": "Électronique silencieuse",
+      "description": "<p>En guise de bonus d'action, vous pouvez lancer un dé technologique et l'ajouter au prochain test de Dextérité (Furtivité) effectué par votre vaisseau avant la fin de votre prochain tour.</p>"
     },
     "Target Acquired": {
       "name": "Cible acquise",
-      "description": "<p><em><strong>Power Die Location:</strong> Engines</em><br />As a action bonus, you can expend a power die and hone in on a target you can see. The next attack roll made by your ship has avantage, and if the attack hits, add the result of the die to the attack's jet de dégâts.</p>"
+      "description": "<p><em><strong>Emplacement du dé de pouvoir :</strong> Moteurs</em><br />Par une action bonus, vous pouvez dépenser un dé de pouvoir et verrouiller une cible que vous pouvez voir. Le prochain jet d'attaque effectué par votre vaisseau a un avantage, et si l'attaque touche, ajoutez le résultat du dé au jet de dégâts de l'attaque.</p>"
     },
     "Commanding Presence": {
-      "name": "Commanding Presence",
-      "description": "<p>At 4th rank, you learn a new way to use your Inspiring Display. While aboard your ship, when a creature that can see or hear you fails an test de caractéristique, attack roll, or jet de sauvegarde, you can use use your réaction to aid cette créature provided it did not already have or use an Inspiring Display die this turn. The creature can then roll the die and add it to the result.</p><p>You can use this feature un nombre de fois égal à your bonus de maîtrise. You regain any expended uses when you finish a repos long.</p>"
+      "name": "Présence imposante",
+      "description": "<p>Au 4ème rang, vous apprenez une nouvelle façon d'utiliser votre Expression Inspirante. À bord de votre vaisseau, lorsqu'une créature qui peut vous voir ou vous entendre échoue à un test de caractéristique, un jet d'attaque ou un jet de sauvegarde, vous pouvez utiliser votre réaction pour aider cette créature, à condition qu'elle n'ait pas déjà eu ou utilisé un dé d'Expression Inspirante ce tour-ci. La créature peut alors lancer le dé et l'ajouter au résultat.</p><p>Vous pouvez utiliser cette fonctionnalité un nombre de fois égal à votre bonus de maîtrise. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.</p>"
     },
     "Paragon Gunner": {
-      "name": "Paragon Gunner",
+      "name": "Tireur parangon",
       "description": "<p>Au 5ème rang, lorsque vous devez dépenser un dé de pouvoir, vous pouvez utiliser un [[/r d4]] au lieu de dépenser un dé. Vous ne pouvez utiliser cette fonctionnalité qu'une fois par round.</p><p>De plus, lorsque vous effectuez un jet d'attaque en étant déployé en tant que tireur, vous pouvez choisir de faire de ce jet un coup critique. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Une fois que vous avez utilisé cette fonctionnalité, vous devez effectuer un short ou un repos bien avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Last Resort": {
-      "name": "Last Resort",
+      "name": "Dernier recours",
       "description": "<p>Également au 4ème rang, lorsque votre vaisseau effectue un jet de sauvegarde de destruction, il ajoute son modificateur de Constitution au jet (minimum de +1). De plus, lorsque vous lancez le dé de coque d'un navire pour récupérer des points de coque ou un dé de bouclier pour récupérer des points de bouclier, le nombre minimum de points qu'il peut récupérer grâce au lancer est égal à deux fois le modificateur de constitution du navire (minimum de 2).</p>"
     },
     "Overload Systems": {
-      "name": "Overload Systems",
-      "description": "<p>Also at 5th rank, you learn how to overload the systems of a ship remotely. As an action, you can attempt to breach the systems of la cible of your System Disturbance. The ship must make a Constitution jet de sauvegarde (DD = 8 + your bonus to Interfere checks). On a failed sauvegarde, la cible's flying speed reduced by half, it's turning speed is doubled, it takes a -2 penalty to AC and Dexterity jet de sauvegardes, it's shields no longer regenerate, and it can't use réactions. On its turn, it can use either an action or a action bonus, not both. Regardless of the ship's abilities, crew, or equipment, it can't make more than one attack during its turn.</p>\n<p>The ship's pilot makes another Constitution jet de sauvegarde at the end of its turns. On a successful sauvegarde, the effect ends.</p>\n<p>Once you've use this feature, you must finish a short or repos long before you can use it again.</p>"
+      "name": "Surcharge des systèmes",
+      "description": "<p>Également au 5ème rang, vous apprenez à surcharger les systèmes d'un vaisseau à distance. Par une action, vous pouvez tenter de pénétrer les systèmes de la cible de votre Perturbation du Système. Le vaisseau doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, il subit 8d10 dégâts ioniques, ou la moitié en cas de réussite. Ces dégâts ignorent les boucliers. Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.</p>"
     },
     "Leader Extraordinaire": {
-      "name": "Leader Extraordinaire",
+      "name": "Leader extraordinaire",
       "description": "<p>Vous récupérez toutes les utilisations dépensées de vos fonctionnalités Inspiring Display, Rallying Cry et Commanding Presence lorsque vous terminez un court ou un repos long.</p><p>De plus, lorsque vous obtenez un numéro de directive édifiante, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un court ou un repos bien avant de pouvoir l'utiliser à nouveau.</p><p>Enfin, lorsqu'une créature utilise un dé d'affichage inspirant, elle prend le maximum au lieu de lancer. Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un short ou un repos long.</p>"
     }
   },

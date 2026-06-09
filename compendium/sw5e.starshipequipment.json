@@ -27,11 +27,11 @@
     },
     "Power Core Reactor": {
       "name": "Réacteur à noyau de puissance",
-      "description": "Les réacteurs à cœur <p>Power ont des capacités de puissance de sortie très variables, mais sacrifient l'économie de carburant et, par conséquent.</p>"
+      "description": "<p>Les réacteurs à cœur ont des capacités de puissance de sortie très variables, mais sacrifient l'économie de carburant et, par conséquent.</p>"
     },
     "Hub & Spoke Power Coupling": {
       "name": "Couplage de puissance Hub & Spoke",
-      "description": "Le système de couplage moyeu-rayon <p>A combine les attributs des deux autres systèmes, offrant une certaine flexibilité et une capacité de stockage d'énergie accrue.</p>"
+      "description": "<p>Le système de couplage moyeu-rayon <p>A combine les attributs des deux autres systèmes, offrant une certaine flexibilité et une capacité de stockage d'énergie accrue.</p>"
     },
     "Hyperdrive, Class 3": {
       "name": "Hyperdrive, classe 3",

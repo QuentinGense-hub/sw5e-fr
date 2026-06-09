@@ -16,7 +16,17 @@ Module de traduction française pour le module Foundry VTT [SW5E](https://github
 - `sw5e.ammo`
 - `sw5e.archetypefeatures`
 - `sw5e.archetypes`
-
+- `sw5e.ventures`
+- `sw5e.vibroweapons`
+- `sw5e.weaponproperties`
+- `sw5e.armorproperties`
+- `sw5e.deploymentfeatures`
+- `sw5e.blasters`
+- `sw5e.classes`
+- `sw5e.conditions`
+- `sw5e.consumables`
+- `sw5e.starshipequipment`
+- `sw5e.tables`
 
 ## Installation locale
 

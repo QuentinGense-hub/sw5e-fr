@@ -5,9 +5,9 @@
       "name": "Aveuglé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A blinded creature can't see and automatically fails any ability check that requires sight.</p>\n<ul>\n<li>Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li></ul>",
-          "name": "Blinded",
-          "text": "<p>A blinded creature can't see and automatically fails any ability check that requires sight.</p>\n<ul>\n<li>Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li></ul>"
+          "tooltip": "<p>Une créature aveuglée ne peut pas voir et échoue automatiquement à tout test de caractéristique nécessitant la vue.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont avantagés, et les jets d'attaque de la créature sont désavantagés.</li></ul>",
+          "name": "Aveuglé",
+          "text": "<p>Une créature aveuglée ne peut pas voir et échoue automatiquement à tout test de caractéristique nécessitant la vue.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont avantagés, et les jets d'attaque de la créature sont désavantagés.</li></ul>"
         }
       }
     },
@@ -15,9 +15,9 @@
       "name": "Incapacité",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>An incapacitated creature can't take actions or reactions.</p>",
-          "name": "Incapacitated",
-          "text": "<p>An incapacitated creature can't take actions or reactions.</p>"
+          "tooltip": "<p>Une créature incapacitée ne peut pas effectuer d'actions ou de réactions.</p>",
+          "name": "Incapacité",
+          "text": "<p>Une créature incapacitée ne peut pas effectuer d'actions ou de réactions.</p>"
         }
       }
     },
@@ -25,9 +25,9 @@
       "name": "Épuisement",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>Some special abilities and environmental hazards, such as and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description. Exhaustion Level</p>\n<p>|Level|Effect|</p>\n<p>|:--:|:--|</p>\n<p>|1|Disadvantage on ability checks|</p>\n<p>|2|Speed halved|</p>\n<p>|3|Disadvantage on attack rolls and saving throws|</p>\n<p>|4|Hit point maximum halved|</p>\n<p>|5|Speed reduced to 0|</p>\n<p>|6|Death|</p>\n<p>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</p>\n<p>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</p>\n<p>An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</p>\n<p>Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.</p>",
-          "name": "Exhaustion",
-          "text": "<p>Some special abilities and environmental hazards, such as and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description. Exhaustion Level</p>\n<p>|Level|Effect|</p>\n<p>|:--:|:--|</p>\n<p>|1|Disadvantage on ability checks|</p>\n<p>|2|Speed halved|</p>\n<p>|3|Disadvantage on attack rolls and saving throws|</p>\n<p>|4|Hit point maximum halved|</p>\n<p>|5|Speed reduced to 0|</p>\n<p>|6|Death|</p>\n<p>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.</p>\n<p>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.</p>\n<p>An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.</p>\n<p>Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.</p>"
+          "tooltip": "<p>Certaines capacités spéciales et dangers environnementaux, comme les effets à long terme du gel ou des températures brûlantes, peuvent conduire à un état spécial appelé épuisement. L'épuisement se mesure en six niveaux. Un effet peut donner à une créature un ou plusieurs niveaux d'épuisement, comme spécifié dans la description de l'effet. Niveau d'Épuisement</p>\n<p>|Niveau|Effet|</p>\n<p>|:--:|:--|</p>\n<p>|1|Désavantage aux tests de caractéristique|</p>\n<p>|2|Vitesse réduite de moitié|</p>\n<p>|3|Désavantage aux jets d'attaque et aux jets de sauvegarde|</p>\n<p>|4|Maximum de points de vie réduit de moitié|</p>\n<p>|5|Vitesse réduite à 0|</p>\n<p>|6|Mort|</p>\n<p>Si une créature déjà épuisée subit un autre effet qui cause de l'épuisement, son niveau d'épuisement actuel augmente du montant spécifié dans la description de l'effet.</p>\n<p>Une créature subit les effets de son niveau d'épuisement actuel ainsi que de tous les niveaux inférieurs. Par exemple, une créature subissant un épuisement de niveau 2 voit sa vitesse réduite de moitié et a un désavantage aux tests de caractéristique.</p>\n<p>Un effet qui supprime l'épuisement réduit son niveau comme spécifié dans la description de l'effet, tous les effets d'épuisement prenant fin si le niveau d'épuisement d'une créature est réduit en dessous de 1.</p>\n<p>Terminer un repos long réduit le niveau d'épuisement d'une créature de 1, à condition que la créature ait également ingéré de la nourriture et de la boisson.</p>",
+          "name": "Épuisement",
+          "text": "<p>Certaines capacités spéciales et dangers environnementaux, comme les effets à long terme du gel ou des températures brûlantes, peuvent conduire à un état spécial appelé épuisement. L'épuisement se mesure en six niveaux. Un effet peut donner à une créature un ou plusieurs niveaux d'épuisement, comme spécifié dans la description de l'effet. Niveau d'Épuisement</p>\n<p>|Niveau|Effet|</p>\n<p>|:--:|:--|</p>\n<p>|1|Désavantage aux tests de caractéristique|</p>\n<p>|2|Vitesse réduite de moitié|</p>\n<p>|3|Désavantage aux jets d'attaque et aux jets de sauvegarde|</p>\n<p>|4|Maximum de points de vie réduit de moitié|</p>\n<p>|5|Vitesse réduite à 0|</p>\n<p>|6|Mort|</p>\n<p>Si une créature déjà épuisée subit un autre effet qui cause de l'épuisement, son niveau d'épuisement actuel augmente du montant spécifié dans la description de l'effet.</p>\n<p>Une créature subit les effets de son niveau d'épuisement actuel ainsi que de tous les niveaux inférieurs. Par exemple, une créature subissant un épuisement de niveau 2 voit sa vitesse réduite de moitié et a un désavantage aux tests de caractéristique.</p>\n<p>Un effet qui supprime l'épuisement réduit son niveau comme spécifié dans la description de l'effet, tous les effets d'épuisement prenant fin si le niveau d'épuisement d'une créature est réduit en dessous de 1.</p>\n<p>Terminer un repos long réduit le niveau d'épuisement d'une créature de 1, à condition que la créature ait également ingéré de la nourriture et de la boisson.</p>"
         }
       }
     },
@@ -35,9 +35,9 @@
       "name": "Électrocuté",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A shocked creature's speed is reduced by half.</p>\n<ul>\n<li>The creature can't take reactions.</li></ul>",
-          "name": "Shocked",
-          "text": "<p>A shocked creature's speed is reduced by half.</p>\n<ul>\n<li>The creature can't take reactions.</li></ul>"
+          "tooltip": "<p>La vitesse d'une créature électrocutée est réduite de moitié.</p>\n<ul>\n<li>La créature ne peut pas utiliser de réactions.</li></ul>",
+          "name": "Électrocuté",
+          "text": "<p>La vitesse d'une créature électrocutée est réduite de moitié.</p>\n<ul>\n<li>La créature ne peut pas utiliser de réactions.</li></ul>"
         }
       }
     },
@@ -45,9 +45,9 @@
       "name": "À Terre",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition. </p>\n<ul>\n<li>The creature has disadvantage on melee attack rolls.</li>\n<li>The creature has disadvantage on ranged attack rolls against targets within 30 feet.</li>\n<li>An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</li></ul>",
-          "name": "Prone",
-          "text": "<p>A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition. </p>\n<ul>\n<li>The creature has disadvantage on melee attack rolls.</li>\n<li>The creature has disadvantage on ranged attack rolls against targets within 30 feet.</li>\n<li>An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</li></ul>"
+          "tooltip": "<p>La seule option de déplacement d'une créature à terre est de ramper, à moins qu'elle ne se relève et mette ainsi fin à l'état.</p>\n<ul>\n<li>La créature a un désavantage aux jets d'attaque de corps à corps.</li>\n<li>La créature a un désavantage aux jets d'attaque à distance contre les cibles dans un rayon de 9 mètres.</li>\n<li>Un jet d'attaque contre la créature est avantagé si l'attaquant se trouve à 1,50 mètre ou moins de la créature. Sinon, le jet d'attaque est désavantagé.</li></ul>",
+          "name": "À Terre",
+          "text": "<p>La seule option de déplacement d'une créature à terre est de ramper, à moins qu'elle ne se relève et mette ainsi fin à l'état.</p>\n<ul>\n<li>La créature a un désavantage aux jets d'attaque de corps à corps.</li>\n<li>La créature a un désavantage aux jets d'attaque à distance contre les cibles dans un rayon de 9 mètres.</li>\n<li>Un jet d'attaque contre la créature est avantagé si l'attaquant se trouve à 1,50 mètre ou moins de la créature. Sinon, le jet d'attaque est désavantagé.</li></ul>"
         }
       }
     },
@@ -55,9 +55,9 @@
       "name": "Empoisonné",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A poisoned creature has disadvantage on attack rolls and ability checks.</p>",
-          "name": "Poisoned",
-          "text": "<p>A poisoned creature has disadvantage on attack rolls and ability checks.</p>"
+          "tooltip": "<p>Une créature empoisonnée a un désavantage aux jets d'attaque et aux tests de caractéristique.</p>",
+          "name": "Empoisonné",
+          "text": "<p>Une créature empoisonnée a un désavantage aux jets d'attaque et aux tests de caractéristique.</p>"
         }
       }
     },
@@ -65,9 +65,9 @@
       "name": "Charmé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A charmed creature can't attack the charmer or target the charmer with harmful abilities or enhanced effects.</p>\n<ul>\n<li>The charmer has advantage on any ability check to interact socially with the creature.</li></ul>",
-          "name": "Charmed",
-          "text": "<p>A charmed creature can't attack the charmer or target the charmer with harmful abilities or enhanced effects.</p>\n<ul>\n<li>The charmer has advantage on any ability check to interact socially with the creature.</li></ul>"
+          "tooltip": "<p>Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des capacités nuisibles ou des effets améliorés.</p>\n<ul>\n<li>Le charmeur a un avantage sur tout test de caractéristique pour interagir socialement avec la créature.</li></ul>",
+          "name": "Charmé",
+          "text": "<p>Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des capacités nuisibles ou des effets améliorés.</p>\n<ul>\n<li>Le charmeur a un avantage sur tout test de caractéristique pour interagir socialement avec la créature.</li></ul>"
         }
       }
     },
@@ -75,9 +75,9 @@
       "name": "Assourdi",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A deafened creature can't hear and automatically fails any ability check that requires hearing.</p>",
-          "name": "Deafened",
-          "text": "<p>A deafened creature can't hear and automatically fails any ability check that requires hearing.</p>"
+          "tooltip": "<p>Une créature assourdie ne peut pas entendre et échoue automatiquement à tout test de caractéristique nécessitant l'ouïe.</p>",
+          "name": "Assourdi",
+          "text": "<p>Une créature assourdie ne peut pas entendre et échoue automatiquement à tout test de caractéristique nécessitant l'ouïe.</p>"
         }
       }
     },
@@ -85,9 +85,9 @@
       "name": "Agrippé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</p>\n<ul>\n<li>The condition ends if the grappler is incapacitated (see the condition).</li>\n<li>The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect.</li></ul>",
-          "name": "Grappled",
-          "text": "<p>A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.</p>\n<ul>\n<li>The condition ends if the grappler is incapacitated (see the condition).</li>\n<li>The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect.</li></ul>"
+          "tooltip": "<p>La vitesse d'une créature agrippée devient 0, et elle ne peut pas bénéficier de bonus à sa vitesse.</p>\n<ul>\n<li>L'état prend fin si l'agrippeur est incapacité (voir l'état).</li>\n<li>L'état prend également fin si un effet retire la créature agrippée de la portée de l'agrippeur ou de l'effet d'agrippement.</li></ul>",
+          "name": "Agrippé",
+          "text": "<p>La vitesse d'une créature agrippée devient 0, et elle ne peut pas bénéficier de bonus à sa vitesse.</p>\n<ul>\n<li>L'état prend fin si l'agrippeur est incapacité (voir l'état).</li>\n<li>L'état prend également fin si un effet retire la créature agrippée de la portée de l'agrippeur ou de l'effet d'agrippement.</li></ul>"
         }
       }
     },
@@ -95,9 +95,9 @@
       "name": "Invisible",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>An invisible creature is impossible to see without the aid of powers or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</p>\n<ul>\n<li>Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</li></ul>",
+          "tooltip": "<p>Une créature invisible est impossible à voir sans l'aide de pouvoirs ou d'un sens spécial. Dans le but de se cacher, la créature est considérée comme dans un terrain très obscur. L'emplacement de la créature peut être détecté par le bruit qu'elle fait ou les traces qu'elle laisse.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont désavantagés, et les jets d'attaque de la créature sont avantagés.</li></ul>",
           "name": "Invisible",
-          "text": "<p>An invisible creature is impossible to see without the aid of powers or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.</p>\n<ul>\n<li>Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.</li></ul>"
+          "text": "<p>Une créature invisible est impossible à voir sans l'aide de pouvoirs ou d'un sens spécial. Dans le but de se cacher, la créature est considérée comme dans un terrain très obscur. L'emplacement de la créature peut être détecté par le bruit qu'elle fait ou les traces qu'elle laisse.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont désavantagés, et les jets d'attaque de la créature sont avantagés.</li></ul>"
         }
       }
     },
@@ -105,9 +105,9 @@
       "name": "Pétrifié",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A petrified creature is transformed, along with any object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.</p>\n<ul>\n<li>The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.</li>\n<li>Attack rolls against the creature have advantage. </li>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>The creature has resistance to all damage.</li>\n<li>The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.</li></ul>",
-          "name": "Petrified",
-          "text": "<p>A petrified creature is transformed, along with any object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.</p>\n<ul>\n<li>The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.</li>\n<li>Attack rolls against the creature have advantage. </li>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>The creature has resistance to all damage.</li>\n<li>The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.</li></ul>"
+          "tooltip": "<p>Une créature pétrifiée est transformée, avec tout objet qu'elle porte ou transporte, en une substance inanimée solide (généralement de la pierre). Son poids est multiplié par dix, et elle cesse de vieillir.</p>\n<ul>\n<li>La créature est incapacitée (voir l'état), ne peut pas se déplacer ni parler, et n'a pas conscience de son environnement.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>La créature résiste à tous les dégâts.</li>\n<li>La créature est immunisée contre le poison et la maladie, bien qu'un poison ou une maladie déjà présent dans son système soit suspendu, pas neutralisé.</li></ul>",
+          "name": "Pétrifié",
+          "text": "<p>Une créature pétrifiée est transformée, avec tout objet qu'elle porte ou transporte, en une substance inanimée solide (généralement de la pierre). Son poids est multiplié par dix, et elle cesse de vieillir.</p>\n<ul>\n<li>La créature est incapacitée (voir l'état), ne peut pas se déplacer ni parler, et n'a pas conscience de son environnement.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>La créature résiste à tous les dégâts.</li>\n<li>La créature est immunisée contre le poison et la maladie, bien qu'un poison ou une maladie déjà présent dans son système soit suspendu, pas neutralisé.</li></ul>"
         }
       }
     },
@@ -115,9 +115,9 @@
       "name": "Inconscient",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings</p>\n<ul>\n<li>The creature drops whatever it's holding and falls prone.</li>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>Attack rolls against the creature have advantage.</li>\n<li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li></ul>",
-          "name": "Unconscious",
-          "text": "<p>An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings</p>\n<ul>\n<li>The creature drops whatever it's holding and falls prone.</li>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>Attack rolls against the creature have advantage.</li>\n<li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li></ul>"
+          "tooltip": "<p>Une créature inconsciente est incapacitée (voir l'état), ne peut pas se déplacer ni parler, et n'a pas conscience de son environnement.</p>\n<ul>\n<li>La créature lâche tout ce qu'elle tient et tombe à terre.</li>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li>\n<li>Toute attaque qui touche la créature est un coup critique si l'attaquant se trouve à 1,50 mètre ou moins de la créature.</li></ul>",
+          "name": "Inconscient",
+          "text": "<p>Une créature inconsciente est incapacitée (voir l'état), ne peut pas se déplacer ni parler, et n'a pas conscience de son environnement.</p>\n<ul>\n<li>La créature lâche tout ce qu'elle tient et tombe à terre.</li>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li>\n<li>Toute attaque qui touche la créature est un coup critique si l'attaquant se trouve à 1,50 mètre ou moins de la créature.</li></ul>"
         }
       }
     },
@@ -125,9 +125,9 @@
       "name": "Effrayé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</p>\n<ul>\n<li>The creature can't willingly move closer to the source of its fear.</li></ul>",
-          "name": "Frightened",
-          "text": "<p>A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.</p>\n<ul>\n<li>The creature can't willingly move closer to the source of its fear.</li></ul>"
+          "tooltip": "<p>Une créature effrayée a un désavantage aux tests de caractéristique et aux jets d'attaque tant que la source de sa peur est dans son champ de vision.</p>\n<ul>\n<li>La créature ne peut pas se rapprocher volontairement de la source de sa peur.</li></ul>",
+          "name": "Effrayé",
+          "text": "<p>Une créature effrayée a un désavantage aux tests de caractéristique et aux jets d'attaque tant que la source de sa peur est dans son champ de vision.</p>\n<ul>\n<li>La créature ne peut pas se rapprocher volontairement de la source de sa peur.</li></ul>"
         }
       }
     },
@@ -135,9 +135,9 @@
       "name": "Entravé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</p>\n<ul>\n<li>Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li>\n<li>The creature has disadvantage on Dexterity saving throws.</li></ul>",
-          "name": "Restrained",
-          "text": "<p>A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.</p>\n<ul>\n<li>Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.</li>\n<li>The creature has disadvantage on Dexterity saving throws.</li></ul>"
+          "tooltip": "<p>La vitesse d'une créature entravée devient 0, et elle ne peut pas bénéficier de bonus à sa vitesse.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont avantagés, et les jets d'attaque de la créature sont désavantagés.</li>\n<li>La créature a un désavantage aux jets de sauvegarde de Dextérité.</li></ul>",
+          "name": "Entravé",
+          "text": "<p>La vitesse d'une créature entravée devient 0, et elle ne peut pas bénéficier de bonus à sa vitesse.</p>\n<ul>\n<li>Les jets d'attaque contre la créature sont avantagés, et les jets d'attaque de la créature sont désavantagés.</li>\n<li>La créature a un désavantage aux jets de sauvegarde de Dextérité.</li></ul>"
         }
       }
     },
@@ -145,9 +145,9 @@
       "name": "Paralysé",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A paralyzed creature is incapacitated (see the condition) and can't move or speak.</p>\n<ul>\n<li>The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.</li>\n<li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li></ul>",
-          "name": "Paralyzed",
-          "text": "<p>A paralyzed creature is incapacitated (see the condition) and can't move or speak.</p>\n<ul>\n<li>The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.</li>\n<li>Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.</li></ul>"
+          "tooltip": "<p>Une créature paralysée est incapacitée (voir l'état) et ne peut pas se déplacer ni parler.</p>\n<ul>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité. Les jets d'attaque contre la créature sont avantagés.</li>\n<li>Toute attaque qui touche la créature est un coup critique si l'attaquant se trouve à 1,50 mètre ou moins de la créature.</li></ul>",
+          "name": "Paralysé",
+          "text": "<p>Une créature paralysée est incapacitée (voir l'état) et ne peut pas se déplacer ni parler.</p>\n<ul>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité. Les jets d'attaque contre la créature sont avantagés.</li>\n<li>Toute attaque qui touche la créature est un coup critique si l'attaquant se trouve à 1,50 mètre ou moins de la créature.</li></ul>"
         }
       }
     },
@@ -155,9 +155,9 @@
       "name": "Étourdi",
       "pages": {
         "0000000000000000": {
-          "tooltip": "<p>A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.</p>\n<ul>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>Attack rolls against the creature have advantage.</li></ul>",
-          "name": "Stunned",
-          "text": "<p>A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.</p>\n<ul>\n<li>The creature automatically fails Strength and Dexterity saving throws.</li>\n<li>Attack rolls against the creature have advantage.</li></ul>"
+          "tooltip": "<p>Une créature étourdie est incapacitée (voir l'état), ne peut pas se déplacer, et ne peut parler qu'avec difficulté.</p>\n<ul>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li></ul>",
+          "name": "Étourdi",
+          "text": "<p>Une créature étourdie est incapacitée (voir l'état), ne peut pas se déplacer, et ne peut parler qu'avec difficulté.</p>\n<ul>\n<li>La créature échoue automatiquement aux jets de sauvegarde de Force et de Dextérité.</li>\n<li>Les jets d'attaque contre la créature sont avantagés.</li></ul>"
         }
       }
     }
