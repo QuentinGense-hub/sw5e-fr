@@ -930,16 +930,5 @@
       "description": "<p>Une sphère d'énergie chatoyante surgit et enferme une créature ou un objet de grande taille ou plus petite à portée. Une créature réticente doit réaliser un jet de sauvegarde de Dextérité. En cas d'échec de la sauvegarde, la créature est enfermée pour toute la durée.</p> <p>Rien (pas d'objets physiques, d'énergie ou d'autres effets de pouvoir) ne peut traverser la barrière, à l'intérieur ou à l'extérieur, bien qu'une créature dans la sphère puisse respirer. La sphère est immunisée contre tous les dégâts, et une créature ou un objet à l'intérieur ne peut pas être touché par des attaques ou des effets provenant de l'extérieur, et une créature à l'intérieur de la sphère ne peut pas non plus détruire quoi que ce soit à l'extérieur.</p> <p>La sphère est en apesanteur et juste assez grande pour contenir la créature ou l'objet à l'intérieur. Une créature enfermée peut utiliser son action pour pousser contre les parois de la sphère et ainsi faire rouler la sphère jusqu'à la moitié de la vitesse de la créature. De même, le globe peut être ramassé et déplacé par d'autres créatures.</p> <p>A le pouvoir de désintégration ciblant le globe le détruit sans rien endommager à l'intérieur.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

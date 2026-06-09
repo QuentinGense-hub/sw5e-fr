@@ -82,16 +82,5 @@
       "description": "<p>Jusqu'au début de votre prochain tour, vous bénéficiez d'une réaction spéciale. Lorsqu'une créature entre dans votre portée ou se déplace à portée, vous pouvez utiliser cette réaction spéciale pour sauter vers un espace inoccupé visible à moins de 10 mètres sans provoquer d'attaque d'opportunité de sa part.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

@@ -466,16 +466,5 @@
       "description": "<p><em><strong>Éclaireur:</strong> niveau 1</em></p>\n<p>Vous êtes doué pour naviguer dans la nature sauvage. Vous ignorez les terrains difficiles et lorsque vous voyagez pendant une heure ou plus, vous bénéficiez des avantages suivants:</p> <ul> <li>Les terrains difficiles ne ralentissent pas votre groupe, à condition qu'ils puissent vous voir et vous entendre.</li> <li>Vous ne pouvez pas vous perdre par des moyens non améliorés.</li> <li>Même lorsque vous l'êtes. engagé dans une autre activité pendant le voyage (comme la recherche de nourriture, la navigation ou le suivi), vous restez attentif au danger.</li> <li>Si vous voyagez seul, vous pouvez vous déplacer furtivement à un rythme normal.</li> <li>Lorsque vous recherchez de la nourriture, vous trouvez deux fois plus de nourriture.</li> <li>Vous avez un avantage sur la survie chèques.</li></ul>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

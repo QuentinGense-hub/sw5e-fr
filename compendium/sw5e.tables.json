@@ -83,8 +83,6 @@
     }
   },
   "mapping": {
-    "description": "description",
-    "name": "name",
     "results": {
       "path": "results",
       "converter": "sw5eTableResults"

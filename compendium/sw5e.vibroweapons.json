@@ -270,16 +270,5 @@
       "description": "<h3>Double ([[/r 1d6]] kinetic)</h3>\n<p>Une arme possédant cette propriété peut être utilisée à une ou deux mains. Une valeur de dégâts entre parenthèses accompagne cette propriété : il s’agit des dégâts infligés lorsque l’arme est utilisée en combat à deux armes. Consultez les règles du combat à deux armes au chapitre 9.</p>\n<h3>Finesse</h3>\n<p>Lorsqu'on effectue une attaque avec une arme possédant cette propriété, on utilise au choix le modificateur de Force ou de Dextérité pour l'attaque et le jet de dégâts. Le même modificateur doit être utilisé pour les deux jets.</p>\n<h3>Légère</h3>\n<p>Une arme possédant cette propriété est petite et maniable, ce qui la rend idéale pour le combat à deux armes. Consultez les règles du combat à deux armes au chapitre 9.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

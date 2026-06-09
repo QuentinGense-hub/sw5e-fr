@@ -130,16 +130,5 @@
       "description": "<p>Vous êtes doué pour aider vos alliés. Vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous pouvez effectuer l'action Aide en tant que bonus d'action. Si vous pouviez déjà effectuer l'action Aide comme bonus d'action, vous pouvez l'effectuer comme réaction à votre tour.</li>\n<li>Les créatures bénéficiant de votre action Aide ne peuvent pas avoir de désavantage sur le test de caractéristique ou le jet d'attaque affecté.</li></ul>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

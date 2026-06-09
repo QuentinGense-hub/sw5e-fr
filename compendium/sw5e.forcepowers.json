@@ -934,16 +934,5 @@
       "description": "<p><em><strong>Prérequis</strong> : Linceul des ténèbres</em></p> <p>Des ténèbres terrifiantes se propagent à partir d'un point que vous choisissez à portée pour remplir une sphère de 60 pieds de rayon jusqu'à la fin du pouvoir. L’obscurité s’étend dans les pièces. Une créature dotée de la vision dans le noir ne peut pas voir à travers ces ténèbres. Une lumière non améliorée, ainsi que la lumière créée par des puissances de niveau 8 ou inférieur, ne peuvent pas éclairer la zone.</p> <p>Des cris, des bavardages et des rires fous peuvent être entendus dans la sphère. Chaque fois qu'une créature commence son tour dans la sphère, elle doit effectuer un jet de sauvegarde de Sagesse, subissant [[/r 8d8]] dégâts psychiques en cas d'échec de la sauvegarde, ou la moitié de dégâts en cas de réussite.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

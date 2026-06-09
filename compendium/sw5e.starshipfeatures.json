@@ -318,16 +318,5 @@
       "description": "<p>Également au 4ème niveau, la capacité de toutes vos suites est doublée. Si la capacité d'un type de suite a déjà été doublée, sa taille est triple par rapport à sa taille standard. De plus, la capacité de votre vaisseau en carburant et en consommables double, et les civils, les membres d'équipage et les soldats maximum à bord de votre vaisseau bénéficient d'un avantage sur les jets de sauvegarde Constitution conçue pour éviter l'épuisement. Si la capacité en carburant et/ou consommables était déjà le double de sa quantité standard, elle est désormais le triple de sa capacité d'origine.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

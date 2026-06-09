@@ -430,16 +430,5 @@
       "description": "<p>Vous récupérez toutes les utilisations dépensées de vos fonctionnalités Inspiring Display, Rallying Cry et Commanding Presence lorsque vous terminez un court ou un repos long.</p><p>De plus, lorsque vous obtenez un numéro de directive édifiante, vous pouvez prendre le maximum au lieu de lancer. Vous pouvez utiliser cette fonctionnalité avant ou après avoir effectué le jet, mais avant que les effets du jet ne soient déterminés. Une fois que vous avez utilisé cette fonctionnalité, vous devez terminer un court ou un repos bien avant de pouvoir l'utiliser à nouveau.</p><p>Enfin, lorsqu'une créature utilise un dé d'affichage inspirant, elle prend le maximum au lieu de lancer. Une fois que vous avez utilisé cette fonctionnalité, vous ne pouvez plus l'utiliser tant que vous n'avez pas terminé un short ou un repos long.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

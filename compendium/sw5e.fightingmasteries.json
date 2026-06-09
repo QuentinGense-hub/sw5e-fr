@@ -130,16 +130,5 @@
       "description": "<p>Vous maîtrisez les manœuvres sur le champ de bataille, en vous glissant à travers des ouvertures que d'autres pourraient ne pas voir. Vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous pouvez vous déplacer dans l'espace d'une créature hostile quelle que soit la taille de cette créature.</li>\n<li>Lorsque vous contactez une créature avec une attaque d'opportunité, vous pouvez vous déplacer jusqu'à la moitié de votre vitesse (aucune action requise) sans provoquer d'attaque d'opportunités de la part de cette créature.</li>\n<li>Lorsqu'une créature hostile se déplace à moins de 5 mètres de vous, vous pouvez utiliser votre réaction pour vous désengager et vous déplacer jusqu'à la moitié de votre vitesse. </li>\n<li>Une fois par tour, lorsque vous contactez une créature avec une attaque d'arme, qu'un autre ennemi de la créature se trouve à moins de 5 mètres d'elle, et que cet ennemi n'est pas neutralisé, vous pouvez infliger des dégâts supplémentaires égaux à deux fois votre bonus de maîtrise.</li></ul>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

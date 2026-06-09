@@ -414,16 +414,5 @@
       "description": "<h3>Cellule de puissance (portée 80/320)</h3>\n<p>Les armes dotées de cette propriété sont alimentées par des cellules de puissance, qui doivent être chargées pour pouvoir tirer. Une cellule de puissance alimente un nombre d'attaques égal au nombre de rechargement de l'arme.</p>\n<h3>Puissant</h3>\n<p>Quand vous faites une attaque avec une arme puissante, vous utilisez votre choix de modificateur de Force ou de Dextérité pour l'attaque et le jet de dégâts. Vous devez utiliser le même modificateur pour les deux jets.</p>\n<h3>Rechargement 4</h3>\n<p>Un nombre de tirs égal au nombre de rechargement peut être effectué avec une arme possédant cette propriété. Un personnage doit ensuite la recharger en utilisant une action ou une action bonus (au choix). Vous devez avoir une main libre pour recharger.</p>\n<h3>À deux mains</h3>\n<p>Une arme avec cette propriété nécessite deux mains pour être utilisée.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

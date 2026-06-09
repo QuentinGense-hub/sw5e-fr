@@ -1906,16 +1906,5 @@
       "description": "<p><em><strong>Prérequis :</strong> niveau 15, Prototype Cryo Amplifier</em></p> <p>Vous affinez davantage votre Cryo Amplifier. Lorsque vous activez cet amplificateur, la créature est entravée jusqu'à la fin de votre prochaine tournée.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

@@ -66,16 +66,5 @@
       "description": "<p>Le Raava est une liqueur traditionnelle fabriquée à partir de baies de zsajhira. Par une action, vous pouvez appliquer cette substance sur une créature dans un rayon de 5 mètres. Pendant la minute suivante, la créature subit un high qui lui permet de lancer un [[/r d3]] supplémentaire lors d'un test de caractéristique, d'un jet d'attaque ou d'un jet de sauvegarde utilisant la Dextérité. À la fin du high, la créature doit réussir un jet de sauvegarde de Constitution DD 14 ou subir une descente qui dure 10 minutes, pendant laquelle elle doit lancer un [[/r d3]] et soustraire le résultat lors d'un test de caractéristique, d'un jet d'attaque ou d'un jet de sauvegarde utilisant la Dextérité. À la fin de la descente, la créature doit faire un jet de sauvegarde de Sagesse DD 14 pour résister à l'addiction.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

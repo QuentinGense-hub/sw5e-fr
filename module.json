@@ -13,14 +13,14 @@
     }
   ],
   "esmodules": [
-    "scripts/register-babele.mjs",
-    "scripts/status-effects.mjs"
+    "register-babele.mjs",
+    "status-effects.mjs"
   ],
   "languages": [
     {
       "lang": "fr",
       "name": "Français",
-      "path": "lang/fr.json"
+      "path": "fr.json"
     }
   ],
   "relationships": {
@@ -51,9 +51,6 @@
       }
     ]
   },
-  "system": [
-    "dnd5e"
-  ],
-  "url": "https://github.com/sw5e-foundry/sw5e-module",
+  "url": "https://github.com/QuentinGense-hub/sw5e-fr",
   "readme": "README.md"
 }

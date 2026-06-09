@@ -3194,16 +3194,5 @@
       "description": "<p><em><strong>Zoologist poursuite:</strong> niveau 9</em></p>\n<p>Les réflexes et l'agilité de votre bête lui permettent de se déplacer avec une accélération de vitesse. Lorsque votre bête se déplace à son tour en combat, elle peut doubler sa Vitesse jusqu'à la fin du tour. Une fois cette fonctionnalité utilisée, il ne peut plus l'utiliser à nouveau jusqu'à ce qu'il se déplace de 0 mètres lors d'un de ses tours.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

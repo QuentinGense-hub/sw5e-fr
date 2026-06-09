@@ -102,16 +102,5 @@
       "description": "<h3>Volumineux</h3>\n<p>Tant que vous portez une armure dotée de cette propriété, vous avez le désavantage aux tests de Dextérité (Discrétion) qui reposent sur le son.</p>\n<h3>Renforcé</h3>\n<p>Lorsque vous effectuez un saut en longueur en portant une armure dotée de cette propriété, vous pouvez parcourir un nombre de mètres allant jusqu'à deux fois votre valeur de Force. Lorsque vous effectuez un saut en hauteur, vous pouvez bondir dans les airs d'un nombre de mètres égal à 3 + deux fois votre modificateur de Force.</p>\n<h3>Rigide</h3>\n<p>Tant que vous portez une armure dotée de cette propriété, vous ajoutez la moitié de votre modificateur de Dextérité, arrondie à l'inférieur, au lieu de votre modificateur de Dextérité complet aux jets de sauvegarde de Dextérité que vous effectuez. Si votre modificateur de Dextérité est négatif, vous soustrayez à la place le modificateur complet.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

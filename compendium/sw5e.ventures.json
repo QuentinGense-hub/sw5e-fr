@@ -19,7 +19,8 @@
     },
     "Analytical Coordinator": {
       "name": "Coordinateur analytique",
-      "description": "<p><em><strong>Prérequis :</strong> au moins 1 niveau en érudit</em></p><p>Lorsqu'un allié effectue un test de caractéristique ou un jet d'attaque affecté par votre action directe, et qu'il est également la cible de votre capacité de classe Analyse critique, il peut également lancer un [[/r 1d6]] et l'ajouter au test de caractéristique ou au jet d'attaque.</p>"    },
+      "description": "<p><em><strong>Prérequis :</strong> au moins 1 niveau en érudit</em></p><p>Lorsqu'un allié effectue un test de caractéristique ou un jet d'attaque affecté par votre action directe, et qu'il est également la cible de votre capacité de classe Analyse critique, il peut également lancer un [[/r 1d6]] et l'ajouter au test de caractéristique ou au jet d'attaque.</p>"
+    },
     "Spacecasting, Legendary": {
       "name": "Spacecasting, Légendaire",
       "description": "<p><em><strong>Prérequis :</strong> Maître Spacecasting requis</em></p><p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous lancez une technique de force ou de pouvoir à bord de votre vaisseau et dans l'espace qui affecte une zone, les dimensions de la zone sont multipliées par 1 000.<br style=\"background-repeat:no-repeat;box-sizing:inherit;padding:0px;margin:0px;color:rgba(0, 0, 0, 0.87);font-family:'Open Sans', sans-serif;font-size:16px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:center;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\" />De plus, lorsque vous lancez une technique de force ou de pouvoir à bord de votre vaisseau et dans l'espace, vous ignorez l'échelle de dégâts contre les vaisseaux moyens et plus petits.</span></p>"
@@ -269,16 +270,5 @@
       "description": "<p>Vous pouvez utiliser votre immense force pour stabiliser les armes principales grâce aux fonctions d'éclatement, de rapidité ou de saturation. Lorsque vous effectuez un jet d'attaque avec une arme principale du navire ayant au moins une de ces caractéristiques alors que vous êtes sur un navire moyen ou plus petit, vous pouvez utiliser votre modificateur de Force, au lieu du modificateur de Sagesse du navire, pour les jets d'attaque ou définir le DD pour les sauvegardes des cibles.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

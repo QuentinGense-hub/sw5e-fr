@@ -1030,16 +1030,5 @@
       "description": "<p>Cette suite comprend des pièces séparées pour abriter un nombre de créatures égal à la capacité de la suite du vaisseau en termes de taille, comme indiqué dans le tableau Capacité des suites de taille du vaisseau. Chaque chambre est entièrement meublée et comprend une station de rafraîchissement commune pour quatre pièces (minimum une).</p><p>Lorsqu'une créature termine une longue période de repos impliquant cette suite, son niveau d'épuisement est réduit de 2, au lieu de seulement 1.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

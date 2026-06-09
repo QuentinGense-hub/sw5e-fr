@@ -110,16 +110,5 @@
       "description": "<p>Les grenades peuvent être configurées pour exploser à l'impact ou avec une minuterie qui les fait exploser au compte d'initiative 20 (perdant toutes les égalités d'initiative). En action, vous pouvez amorcer et lancer une grenade en un point visible à moins de 30 mètres + votre modificateur de Force x 5. Chaque créature à moins de 10 mètres doit réaliser un jet de sauvegarde DD 14 Constitution. Une créature prend [[/r 2d6]] dégâts à froid sur une sauvegarde ratée, soit moitié moins que sur une sauvegarde réussie. De plus, en cas d'échec de la sauvegarde, une créature gagne 1 niveau ralenti pendant 1 minute. À la fin du tour d'une créature affectée, elle peut répéter cette sauvegarde, mettant fin à l'effet en cas de réussite.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }

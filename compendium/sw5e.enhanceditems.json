@@ -3162,16 +3162,5 @@
       "description": "<h4>Consommable (munitions)</h4> <p>Lorsqu'elle est touchée par cette munition de lanceur de poignet, une créature de taille moyenne ou plus petite est entraînée jusqu'à ce qu'elle soit libérée. Un piège n'a aucun effet sur les créatures sans forme ou de grande taille ou plus grandes. Une créature peut utiliser son action pour réaliser un DD 18 Force ou un test de Dextérité (la cible choisit la capacité à utiliser), libérant ainsi son personnel ou une autre créature à sa portée en cas de réussite. Le piège a une CA de 14, 25 points de vie, une immunité à tous les dégâts non infligés par les armes de mêlée et une résistance aux dégâts infligés par des armes de mêlée non améliorées. Détruire le piège libère la créature sans lui faire de mal et met immédiatement fin aux effets du piège. </p> <p> </p> <h2>Snare</h2> <p>Lorsqu'elle est touchée par cette munition de lanceur de poignet, une créature de taille moyenne ou plus petite est entraînée jusqu'à ce qu'elle soit libérée. Un piège n'a aucun effet sur les créatures sans forme ou de grande taille ou plus grandes. Une créature peut utiliser son action pour réaliser un DD 13 Force ou un test de Dextérité (la cible choisit la capacité à utiliser), libérant ainsi son personnel ou une autre créature à sa portée en cas de réussite. Le piège a une CA de 10, 5 points de vie et une immunité à tous les dégâts non infligés par les armes de mêlée. Détruire le piège libère la créature sans lui faire de mal et met immédiatement fin aux effets du piège.</p>"
     }
   },
-  "mapping": {
-    "atFlavorText": "system.atFlavorText.value",
-    "name": "name",
-    "description": "system.description.value",
-    "biography": "system.details.biography.value",
-    "advancements": {
-      "path": "system.advancement",
-      "converter": "sw5eAdvancements"
-    },
-    "chat": "system.description.chat",
-    "invocations": "system.invocations.value"
-  }
+  "mapping": {}
 }
