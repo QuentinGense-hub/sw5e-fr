@@ -1,138 +1,138 @@
 {
-  "label": "Armor Properties",
+  "label": "Propriétés de l'armure",
   "entries": {
     "Obtrusive": {
-      "name": "Obtrusive",
+      "name": "Indiscret",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Obtrusive</h3>\n<p>While wielding a shield with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sight.</p>",
-          "name": "Obtrusive"
+          "text": "<h3>Indiscret</h3>\n<p>Lorsque vous maniez un bouclier doté de cette propriété, vous avez un désavantage aux tests de Dextérité (Discrétion) qui reposent sur la vue.</p>",
+          "name": "Indiscret"
         }
       }
     },
     "Anchor": {
-      "name": "Anchor",
+      "name": "Ancre",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Anchor</h3>\n<p>A shield with this property can be used to provide cover. As an action, you can anchor or recover the shield. While anchored, you gain no benefit from a shield, and it does not require the use of a hand. Instead, while anchored, a light shield provides one-quarter cover, a medium shield provides half cover, and a heavy shield provides three-quarters cover.</p>",
-          "name": "Anchor"
+          "text": "<h3>Ancre</h3>\n<p>Un bouclier avec cette propriété peut être utilisé pour fournir une protection. En tant qu’action, vous pouvez ancrer ou récupérer le bouclier. Lorsqu’il est ancré, vous ne bénéficiez d’aucun avantage d’un bouclier, et il ne nécessite pas l’utilisation d’une main. À la place, tandis qu’il est ancré, un bouclier léger fournit un quart de couverture, un bouclier moyen fournit la moitié de la couverture, et un bouclier lourd fournit trois quarts de couverture.</p>",
+          "name": "Ancre"
         }
       }
     },
     "Imbalanced": {
-      "name": "Imbalanced",
+      "name": "Déséquilibré",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Imbalanced</h3>\n<p>When you are critically hit while wielding a shield with this property, you can't take reactions until the start of your next turn, and you gain no AC benefit from your shield against the next attack against you before the start of your next turn.</p>",
-          "name": "Imbalanced"
+          "text": "<h3>Déséquilibré</h3>\n<p>Lorsque vous êtes critiquement touché tout en tenant un bouclier avec cette propriété, vous ne pouvez pas prendre de réactions jusqu'au début de votre prochain tour, et vous n'obtenez aucun avantage d'AC de votre bouclier contre l'attaque suivante contre vous avant le début de votre prochain tour.</p>",
+          "name": "Déséquilibré"
         }
       }
     },
     "Insulated": {
-      "name": "Insulated",
+      "name": "Isolée",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Insulated</h3>\n<p>When you make a saving throw against an effect that would deal ion or lightning damage while wearing armor or wielding a shield with this property, you can treat a [[/r d20]] roll of below the insulated number as the insulated number.</p>",
-          "name": "Insulated"
+          "text": "<h3>Isolée</h3>\n<p>Lorsque vous effectuez un jet de sauvegarde contre un effet qui infligerait des dégâts de foudre ou d'ion en portant une armure ou en tenant un bouclier avec cette propriété, vous pouvez traiter un lancer de [[/r d20]] inférieur au nombre isolé comme le nombre isolé.</p>",
+          "name": "Isolée"
         }
       }
     },
     "Cumbersome": {
-      "name": "Cumbersome",
+      "name": "Lourd",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Cumbersome</h3>\n<p>While wearing armor or wielding a shield with this property, your speed is reduced by 5.</p>",
-          "name": "Cumbersome"
+          "text": "<h3>Lourd</h3>\n<p>Lorsque vous portez une armure ou que vous maniez un bouclier possédant cette propriété, votre vitesse est réduite de 5.</p>",
+          "name": "Lourd"
         }
       }
     },
     "Absorptive": {
-      "name": "Absorptive",
+      "name": "Absorbant",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Absorptive</h3>\n<p>When you are wearing armor or wielding a shield with this property, damage that you take from weapons is reduced by an amount equal to the absorptive number. If this would reduce the damage to 0, the damage is instead reduced to 1.</p>",
-          "name": "Absorptive"
+          "text": "<h3>Absorbant</h3>\n<p>Lorsque vous portez une armure ou que vous maniez un bouclier possédant cette propriété, les dégâts que vous subissez d'armes sont réduits d'un montant égal au nombre absorbant. Si cela réduit les dégâts à 0, les dégâts sont plutôt réduits à 1.</p>",
+          "name": "Absorbant"
         }
       }
     },
     "Barbed": {
-      "name": "Barbed",
+      "name": "Barbelé",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Barbed</h3>\n<p>When you succeed on a Strength (Athletics) check to initiate or maintain a grapple while wearing armor with this property, the creature takes kinetic damage using the barbed damage (which appears in parentheses with the property) + your Strength modifier.</p>",
-          "name": "Barbed"
+          "text": "<h3>Barbelé</h3>\n<p>Lorsque vous réussissez un jet de Force (Athlétisme) pour initier ou maintenir un combat rapproché tout en portant une armure avec cette propriété, la créature subit des dégâts cinétiques en utilisant les dégâts barbelés (qui apparaissent entre parenthèses avec la propriété) + votre modificateur de Force.</p>",
+          "name": "Barbelé"
         }
       }
     },
     "Concealing": {
-      "name": "Concealing",
+      "name": "Occultation",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Concealing</h3>\n<p>While wielding a shield with this property, you have advantage on Dexterity (Stealth) checks that rely on sight.</p>",
-          "name": "Concealing"
+          "text": "<h3>Occultation</h3>\n<p>Lorsque vous maniez un bouclier doté de cette propriété, vous bénéficiez d'un avantage aux tests de Dextérité (Discrétion) qui reposent sur la vue.</p>",
+          "name": "Occultation"
         }
       }
     },
     "Strength": {
-      "name": "Strength",
+      "name": "Force",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Strength</h3>\n<p>While wearing armor or wielding a shield with this property, your speed is reduced by 10 unless your Strength score meets or exceeds the strength number. </p>",
-          "name": "Strength"
+          "text": "<h3>Force</h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier possédant cette propriété, votre vitesse est réduite de 10, sauf si votre score de Force atteint ou dépasse le seuil de Force. </p>",
+          "name": "Force"
         }
       }
     },
     "Regulated": {
-      "name": "Regulated",
+      "name": "Réglementé",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Regulated</h3>\n<p>When you are wearing armor or wielding a shield with this property and a creature rolls the maximum on a weapon damage die against you, they must reroll and use the new roll, even if the new roll is the maximum on the weapon damage die.</p>",
-          "name": "Regulated"
+          "text": "<h3>Réglementé</h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier possédant cette propriété et qu'une créature lance le maximum d'un dé de dégâts d'arme contre vous, elle doit relancer et utiliser le nouveau lancer, même si le nouveau lancer est le maximum sur le dé de dégâts d'arme.</p>",
+          "name": "Réglementé"
         }
       }
     },
     "Versatile": {
-      "name": "Versatile",
+      "name": "Polyvalent",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Versatile</h3>\n<p>A shield with this property can be used with one or two hands. While wielded in two hands, you gain an additional bonus to AC equal to the versatile number.</p>",
-          "name": "Versatile"
+          "text": "<h3>Polyvalent</h3>\n<p>Un bouclier doté de cette propriété peut être utilisé à une ou deux mains. Lorsqu'il est manié à deux mains, vous bénéficiez d'un bonus supplémentaire à la CA égal à la valeur de polyvalence.</p>",
+          "name": "Polyvalent"
         }
       }
     },
     "Spiked": {
-      "name": "Spiked",
+      "name": "Épiné",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Spiked</h3>\n<p>When you succeed on a Strength (Athletics) check to shove or trip a creature while wielding a shield with this property, the creature takes kinetic damage using the spiked damage (which appears in parentheses with the property) + your Strength modifier. If you use a shield with this property as an improvised weapon, the damage increases by one step (from [[/r d4]] to [[/r d6]], [[/r d6]] to [[/r d8]], or [[/r d8]] to [[/r 2d4]]).</p>",
-          "name": "Spiked"
+          "text": "<h3>Épiné</h3>\n<p>Lorsque vous réussissez un jet de Force (Athlétisme) pour pousser ou faire chuter une créature tout en maniant un bouclier possédant cette propriété, la créature subit des dégâts cinétiques en utilisant les dégâts épinés (qui apparaissent entre parenthèses avec la propriété) + votre modificateur de Force. Si vous utilisez un bouclier possédant cette propriété comme arme improvisée, les dégâts augmentent d'une étape (de [[/r d4]] à [[/r d6]], [[/r d6]] à [[/r d8]], ou [[/r d8]] à [[/r 2d4]]).</p>",
+          "name": "Épiné"
         }
       }
     },
     "Bulky": {
-      "name": "Bulky",
+      "name": "Volumineux",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Bulky</h3>\n<p>While wearing armor with this property, you have disadvantage on Dexterity (Stealth) checks that rely on sound.</p>",
-          "name": "Bulky"
+          "text": "<h3>Volumineux</h3>\n<p>Lorsque vous portez une armure possédant cette propriété, vous subissez un désavantage aux jets de Dextérité (Discrétion) basés sur le son.</p>",
+          "name": "Volumineux"
         }
       }
     },
     "Lightweight": {
-      "name": "Lightweight",
+      "name": "Léger",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Lightweight</h3>\n<p>Armor and shields with this property have their weight reduced by half.</p>",
-          "name": "Lightweight"
+          "text": "<h3>Léger</h3>\n<p>Les armures et les boucliers avec cette propriété ont leur poids réduit de moitié.</p>",
+          "name": "Léger"
         }
       }
     },
     "Charging": {
-      "name": "Charging",
+      "name": "Chargement",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Charging</h3>\n<p>When you take damage while wearing armor or wielding a shield with this property, you gain a charge. You can store a maximum number of charges equal to the charging number, and the charges last for 1 minute. The next time you hit with a melee weapon attack while you have charges, you deal additional damage of the same type as the weapon's damage equal to the number of charges stored, and the charges are expended.</p>",
-          "name": "Charging"
+          "text": "<h3>Chargement</h3>\n<p>Lorsque vous subissez des dégâts en portant une armure ou en maniant un bouclier possédant cette propriété, vous gagnez une charge. Vous pouvez stocker un nombre maximum de charges égal au nombre de chargement, et les charges durent 1 minute. La prochaine fois que vous touchez avec une attaque d'arme de mélée pendant que vous avez des charges, vous infligez des dégâts supplémentaires du même type que les dégâts de l'arme, égaux au nombre de charges stockées, et les charges sont dépensées.</p>",
+          "name": "Chargement"
         }
       }
     },
@@ -140,134 +140,134 @@
       "name": "Agile",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Agile</h3>\n<p>While wearing armor or wielding a shield with this property, your Dexterity score becomes equal to the agile number. If your Dexterity is already equal to or greater than the agile number, it has no effect on you.</p>",
+          "text": "<h3>Agile</h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier doté de cette propriété, votre score de Dextérité devient égal à votre score d'agilité. Si votre Dextérité est déjà égale ou supérieure à votre score d'agilité, cet effet est négligeable.</p>",
           "name": "Agile"
         }
       }
     },
     "Lambent": {
-      "name": "Lambent",
+      "name": "Lumineux",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Lambent</h3>\n<p>While wielding a shield with this property, you can use a bonus action to activate or deactivate the shield's light. While active, the shield sheds bright light in a 5-foot radius and dim light for an additional 5 feet. Additionally, Dexterity (Stealth) checks made while the shield's light is active that rely on sight have disadvantage.</p>",
-          "name": "Lambent"
+          "text": "<h3>Lumineux</h3>\n<p>Lorsque vous maniez un bouclier doté de cette propriété, vous pouvez utiliser une action bonus pour activer ou désactiver son éclairage. Lorsqu'il est actif, le bouclier projette une lumière vive dans un rayon de 1,5 mètre et une lumière faible dans un rayon supplémentaire de 1,5 mètre. De plus, les jets de Dextérité (Discrétion) effectués lorsque l'éclairage du bouclier est actif et qui reposent sur la vue sont effectués avec désavantage.</p>",
+          "name": "Lumineux"
         }
       }
     },
     "Steadfast": {
-      "name": "Steadfast",
+      "name": "Ferme",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Steadfast </h3>\n<p>While wearing armor or wielding a shield with this property, you have advantage on Strength checks and Strength saving throws to avoid being moved.</p>",
-          "name": "Steadfast"
+          "text": "<h3>Ferme </h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier possédant cette propriété, vous bénéficiez d'un avantage aux tests de Force et aux jets de sauvegarde de Force pour éviter d'être déplacé.</p>",
+          "name": "Ferme"
         }
       }
     },
     "Reinforced": {
-      "name": "Reinforced",
+      "name": "Renforcé",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Reinforced</h3>\n<p>When you make a long jump while wearing armor with this property, you can cover a number of feet up to twice your Strength score. When you make a high jump, you can leap a number of feet up into the air equal to 3 + twice your Strength modifier.</p>",
-          "name": "Reinforced"
+          "text": "<h3>Renforcé</h3>\n<p>Lorsque vous effectuez un saut en longueur tout en portant une armure avec cette propriété, vous pouvez parcourir un nombre de pieds jusqu'à deux fois votre score de Force. Lorsque vous effectuez un saut en hauteur, vous pouvez bondir à une hauteur équivalente à 3 + deux fois votre modificateur de Force.</p>",
+          "name": "Renforcé"
         }
       }
     },
     "Obscured": {
-      "name": "Obscured",
+      "name": "Obscurci",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Obscured</h3>\n<p>While wearing armor or wielding a shield with this property, electronic sensors and cameras have disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks against you that rely on sight.</p>",
-          "name": "Obscured"
+          "text": "<h3>Obscurci</h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier possédant cette propriété, les capteurs électroniques et les caméras ont un désavantage sur les jets de sauvegarde de Sagesse (Perception) et d'Intelligence (Investigation) contre vous qui reposent sur la vue.</p>",
+          "name": "Obscurci"
         }
       }
     },
     "Impermeable": {
-      "name": "Impermeable",
+      "name": "Imperméable",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Impermeable 2</h3>\n<p>Armor with this property includes the limited functions of a number of enviromental suits equal the impermeable number from the list below, which are either included in parentheses with the property or determined by the GM. Additionally, it includes 4 hours' capacity of oxygen, which can be replenished by oxygen tanks.</p>\n<ul>\n<li><strong>Chemical Suit:</strong> You are immune to the corroded condition.</li>\n<li><strong>Conductive Suit:</strong> You are immune to the shocked condition.</li>\n<li><strong>Dampening Suit:</strong> You are immune to the deafened condition, and you can't have disadvantage on Wisdom (Perception) and Intelligence (Investigation) checks that rely on sound.</li>\n<li><strong>Diving Suit:</strong> You are protected from the hazards associated with high pressure environments.</li>\n<li><strong>Flame-Proof Suit:</strong> You are immune to the ignited condition.</li>\n<li><strong>Hazard Suit:</strong> You are immune to the poisoned condition.</li>\n<li><strong>Mind-Shielding Suit:</strong> You have advantage on saving throws to avoid being frightened, and you have advantage on saving throws to avoid having your mind read or affected.</li>\n<li><strong>Space Suit:</strong> You are protected from the hazards associated with low pressure environments.</li>\n<li><strong>Stabilizer Suit:</strong> You have advantage on ability checks and saving throws to avoid being moved.</li></ul>",
-          "name": "Impermeable"
+          "text": "<h3>Imperméable</h3>\n<p>Les armures dotées de cette propriété offrent les fonctions limitées d'un certain nombre de combinaisons environnementales, correspondant au nombre d'armures imperméables indiqué dans la liste ci-dessous (entre parenthèses ou déterminé par le MJ). Elles disposent également d'une réserve d'oxygène de 4 heures, rechargeable grâce à des bouteilles.</p>\n<ul>\n<li><strong>Combinaison chimique :</strong> Vous êtes immunisé contre la corrosion.</li>\n<li><strong>Combinaison conductrice :</strong> Vous êtes immunisé contre la décharge électrique.</li>\n<li><strong>Combinaison d'amortissement :</strong> Vous êtes immunisé contre la condition de sourdine, et vous ne pouvez pas avoir un désavantage sur les jets de sauvegarde de Sagesse (Perception) et d'Intelligence (Investigation) qui reposent sur le son.</li>\n<li><strong>Combinaison de plongée :</strong> Vous êtes protégé contre les dangers associés aux environnements de haute pression.</li>\n<li><strong>Combinaison ignifugée :</strong> Vous êtes immunisé contre la condition embrasée.</li>\n<li><strong>Combinaison de danger :</strong> Vous êtes immunisé contre la condition empoisonnée.</li>\n<li><strong>Combinaison de protection mentale :</strong> Vous avez l'avantage sur les jets de sauvegarde pour éviter d'être effrayé, et vous avez l'avantage sur les jets de sauvegarde pour éviter que votre esprit ne soit lu ou affecté.</li>\n<li><strong>Combinaison spatiale :</strong> Vous êtes protégé contre les dangers associés aux environnements de basse pression.</li>\n<li><strong>Combinaison de stabilisation :</strong> Vous avez l'avantage sur les tests d'aptitude et les jets de sauvegarde pour éviter d'être déplacé.</li></ul>",
+          "name": "Imperméable"
         }
       }
     },
     "Reactive": {
-      "name": "Reactive",
+      "name": "Réactif",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Reactive</h3>\n<p>When you are wearing armor with this property and a creature hits you with an attack roll, you gain a bonus to AC against the next attack from that creature before the start of your next turn equal to the reactive number.</p>",
-          "name": "Reactive"
+          "text": "<h3>Réactif</h3>\n<p>Lorsque vous portez une armure possédant cette propriété et qu'une créature vous touche avec un jet d'attaque, vous obtenez un bonus à la CA contre la prochaine attaque de cette créature avant le début de votre prochain tour, égal au nombre réactif.</p>",
+          "name": "Réactif"
         }
       }
     },
     "Powered": {
-      "name": "Powered",
+      "name": "Alimenté",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Powered</h3>\n<p>While wearing armor with this property, your Strength score becomes equal to the powered number. If your Strength is already equal to or greater than the powered number, it has no effect on you.</p>",
-          "name": "Powered"
+          "text": "<h3>Alimenté</h3>\n<p>Lorsque vous portez une armure possédant cette propriété, votre score de Force devient égal au nombre alimenté. Si votre Force est déjà égale ou supérieure au nombre alimenté, cela n'a aucun effet sur vous.</p>",
+          "name": "Alimenté"
         }
       }
     },
     "Responsive": {
-      "name": "Responsive",
+      "name": "Réactive",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Responsive</h3>\n<p>While you are wielding a shield with this property and an attack misses you by an amount less than or equal to your bonus to AC from your shield, you gain a bonus to AC against the next attack from that creature before the start of your next turn equal to the responsive number.</p>",
-          "name": "Responsive"
+          "text": "<h3>Réactive</h3>\n<p>Lorsque vous utilisez un bouclier possédant cette propriété et qu'une attaque vous rate de moins de ou égal à votre bonus à la CA provenant de votre bouclier, vous gagnez un bonus à la CA contre la prochaine attaque de cette créature avant le début de votre prochain tour, égal au nombre réactif.</p>",
+          "name": "Réactive"
         }
       }
     },
     "Gauntleted": {
-      "name": "Gauntleted",
+      "name": "Ganté",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Gauntleted</h3>\n<p>While wearing armor with this property, your unarmed strikes deal kinetic damage using the gauntleted damage (which appears in parentheses with the property) + your Strength modifier.</p>",
-          "name": "Gauntleted"
+          "text": "<h3>Ganté</h3>\n<p>Lorsque vous portez une armure possédant cette propriété, vos attaques à mains nues infligent des dégâts cinétiques en utilisant les dégâts des gants (qui apparaissent entre parenthèses avec la propriété) + votre modificateur de Force.</p>",
+          "name": "Ganté"
         }
       }
     },
     "Silent": {
-      "name": "Silent",
+      "name": "Silencieux",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Silent</h3>\n<p>While wearing armor with this property, you have advantage on Dexterity (Stealth) checks that rely on sound.</p>",
-          "name": "Silent"
+          "text": "<h3>Silencieux</h3>\n<p>Lorsque vous portez une armure possédant cette propriété, vous avez l'avantage sur les jets de Dextérité (Discrétion) qui dépendent du son.</p>",
+          "name": "Silencieux"
         }
       }
     },
     "Interlocking": {
-      "name": "Interlocking",
+      "name": "Imbrication",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Interlocking</h3>\n<p>While wielding a shield with this property within 5 feet of a friendly creature who is also wielding a shield with this property, you can both use your reactions on either of your turns to interlock the shields. While interlocked, both creatures gain a bonus to AC equal to the interlocking number. If at any point the creatures are more than 5 feet from each other, the shields immediately de-interlock, and this effect ends.</p>",
-          "name": "Interlocking"
+          "text": "<h3>Imbrication</h3>\n<p>Tant que vous maniez un bouclier doté de cette propriété à moins de 1,5 mètre d'une créature alliée qui manie également un bouclier doté de cette propriété, vous pouvez tous deux utiliser vos réactions, à l'un ou l'autre de vos tours, pour entrelacer vos boucliers. Une fois entrelacés, les deux créatures bénéficient d'un bonus à la CA égal au nombre d'entrelacement. Si, à un moment donné, les créatures se trouvent à plus de 1,5 mètre l'une de l'autre, les boucliers se désentrelacent immédiatement et cet effet prend fin.</p>",
+          "name": "Imbrication"
         }
       }
     },
     "Rigid": {
-      "name": "Rigid",
+      "name": "Rigide",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Rigid</h3>\n<p>While wearing armor with this property, you add half your Dexterity modifier (rounded down), instead of your full Dexterity modifier, to Dexterity saving throws you make. If your Dexterity modifier is negative, you instead subtract the full modifier.</p>",
-          "name": "Rigid"
+          "text": "<h3>Rigide</h3>\n<p>Lorsque vous portez une armure possédant cette propriété, vous ajoutez la moitié de votre modificateur de Dextérité (arrondie à l'inférieur) à vos jets de sauvegarde de Dextérité, au lieu de votre modificateur entier. Si votre modificateur de Dextérité est négatif, vous soustrayez son montant entier.</p>",
+          "name": "Rigide"
         }
       }
     },
     "Avoidant": {
-      "name": "Avoidant",
+      "name": "Évitant",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Avoidant</h3>\n<p>When wearing armor or wielding a shield with this property and a creature makes an attack against you, the critical hit range decreases by an amount equal to the avoidant number, to a minimum of 1.</p>",
-          "name": "Avoidant"
+          "text": "<h3>Évitant</h3>\n<p>Lorsque vous portez une armure ou maniez un bouclier possédant cette propriété et qu'une créature vous attaque, la portée de critique diminue de amount égal au nombre évitant, à un minimum de 1.</p>",
+          "name": "Évitant"
         }
       }
     },
     "Magnetic": {
-      "name": "Magnetic",
+      "name": "Magnétique",
       "pages": {
         "0000000000000000": {
-          "text": "<h3>Magnetic </h3>\n<p>While you are wielding a shield with this property and a melee weapon attack misses you by an amount less than or equal to your bonus to AC from your shield, the attacking creature must make a Strength check, DC equal to the magnetic number. On a failed save, the creature's weapon adheres to the shield. As an action, a creature can repeat this check. On a success, the weapon is freed.</p>",
-          "name": "Magnetic"
+          "text": "<h3>Magnétique </h3>\n<p>Lorsque vous maniez un bouclier doté de cette propriété et qu'une attaque d'arme de corps à corps vous manque d'une distance inférieure ou égale à votre bonus de CA conféré par le bouclier, la créature attaquante doit effectuer un test de Force, DD égal à la valeur magnétique. En cas d'échec, l'arme de la créature adhère au bouclier. Par une action, la créature peut retenter ce test. En cas de réussite, l'arme est libérée.</p>",
+          "name": "Magnétique"
         }
       }
     }
