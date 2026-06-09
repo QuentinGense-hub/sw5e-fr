@@ -1,53 +1,53 @@
 {
-  "label": "Artisan's Implements",
+  "label": "Outils d'artisan",
   "entries": {
     "Astrotech's implements": {
-      "name": "Astrotech's implements"
+      "name": "Outils d'Astrotech"
     },
     "Constructor's implements": {
-      "name": "Constructor's implements"
+      "name": "Outils de constructeur"
     },
     "Gadgeteer's implements": {
-      "name": "Gadgeteer's implements"
+      "name": "Outils de Gadgets"
     },
     "Biotech's implements": {
-      "name": "Biotech's implements"
+      "name": "Outils de Biotech"
     },
     "Geneticist's implements": {
-      "name": "Geneticist's implements"
+      "name": "Outils de Génétitien"
     },
     "Cybertech's implements": {
-      "name": "Cybertech's implements"
+      "name": "Outils de Cybertech"
     },
     "Armstech's implements": {
-      "name": "Armstech's implements"
+      "name": "outils d'Armstech"
     },
     "Armormech's implements": {
-      "name": "Armormech's implements"
+      "name": "outils d'Armormech"
     },
     "Surveyor's implements": {
-      "name": "Surveyor's implements"
+      "name": "Outils de Géométre"
     },
     "Artificer's implements": {
-      "name": "Artificer's implements"
+      "name": "Outils d'Artificier"
     },
     "Writer's implements": {
-      "name": "Writer's implements"
+      "name": "Outils d'écrivain"
     },
     "Audiotech's implements": {
-      "name": "Audiotech's implements"
+      "name": "Outils d'Audiotech"
     },
     "Artist's implements": {
-      "name": "Artist's implements"
+      "name": "Outils d'Artiste"
     },
     "Jeweler's implements": {
-      "name": "Jeweler's implements"
+      "name": "Outils de Joalier"
     },
     "Tinker's implements": {
-      "name": "Tinker's implements"
+      "name": "Outils de Bricoleur"
     },
     "Synthweaver's implements": {
-      "name": "Synthweaver's implements"
+      "name": "Outils de Synthweaver"
     }
   },
   "mapping": {

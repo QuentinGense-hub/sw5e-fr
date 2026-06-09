@@ -2,584 +2,584 @@
   "label": "Monster Traits",
   "entries": {
     "Vines": {
-      "name": "Vines",
-      "description": "<section id=\"secret-uZoCINajuNksClKc\" class=\"secret\"><p><em>Melee Weapon Attack </em>+6, Reach 15 ft., One target. <em>Hit : </em>22 (4d8+4) kinetic dégâts.</p><p>La cible is Grappled (escape DD 14). Until this grapple ends, la créature is entravé, and the vines can't constrict another target.</p></section><p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature} attacks with vines.</span></p>"
+      "name": "Vignes",
+      "description": "<section id=\"secret-uZoCINajuNksClKc\" class=\"secret\"><p><em>Attaque avec arme de mêlée </em>+6, atteignez 15 pieds, une cible. <em>Tit : </em>22 (4d8+4) dégâts cinétiques.</p><p>La cible est Grapplée (évasion DD 14). Jusqu'à ce que ce grappin se termine, la créature est entravée et les vignes ne peuvent pas resserrer une autre cible.</p></section><p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature} attaque avec des vignes.</span></p>"
     },
     "Disruptive": {
-      "name": "Disruptive",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">When a creature is forced to make a Constitution jet de sauvegarde to maintain concentration due to taking dégâts from the {creature}, the DD for the check equals 10 or the full dégâts taken, whichever number is higher, instead of only half.</span></p>"
+      "name": "Perturbateur",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsqu'une créature est obligée d'effectuer un jet de sauvegarde de Constitution pour maintenir sa concentration en raison des dégâts subis par la {créature}, le DD pour le test est égal à 10 ou à la totalité des dégâts subis, selon le nombre le plus élevé, au lieu de seulement la moitié.</span></p>"
     },
     "Tusks": {
-      "name": "Tusks",
-      "description": "<section id=\"secret-s4nxKGwZTZvx86jb\" class=\"secret\"><p><em>Melee Weapon Attack </em>+8, Reach 5 ft., One target. <em>Hit : </em>13 (2d8+4) kinetic dégâts</p></section><p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature} attacks using its tusks.</span></p>"
+      "name": "Défenses",
+      "description": "<section id=\"secret-s4nxKGwZTZvx86jb\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+8, atteignez 1,50 m, une cible. <em>Tit : </em>13 (2d8+4) dégâts cinétiques</p></section><p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature} attaque à l'aide de ses défenses.</span></p>"
     },
     "Echolocation": {
-      "name": "Echolocation",
+      "name": "Écholocation",
       "description": "<p>La {créature} ne peut pas utiliser sa vue aveugle lorsqu'elle est assourdi.</p>"
     },
     "Brutal Critical": {
-      "name": "Brutal Critical",
-      "description": "<p>When the {creature}s scores a critical hit with a attaque d'arme au corps à corps, roll one of the weapon's dégâts dice one additional time and add it to the extra dégâts of the critical hit.</p>"
+      "name": "Critique brutale",
+      "description": "<p>Lorsque la {créature} obtient un coup critique avec une attaque d'arme au corps à corps, lancez une fois de plus un des dés de dégâts de l'arme et ajoutez-le aux dégâts supplémentaires du coup critique.</p>"
     },
     "Reactive": {
-      "name": "Reactive",
-      "description": "<p>The {creature} can take one réaction each turn.</p>"
+      "name": "Réactif",
+      "description": "<p>La {créature} peut subir une réaction à chaque tour.</p>"
     },
     "Aura of Command": {
-      "name": "Aura of Command",
-      "description": "<p>Friendly creatures that it can see and hear the {creature} within 30 mètres of it add a +1 bonus to their attack and jet de dégâtss. Cet effet ends if the {creature} is incapacitated.</p>"
+      "name": "Aura de commandement",
+      "description": "<p>Les créatures amies qui peuvent voir et entendre la {créature} à moins de 30 mètres d'elle ajoutent un bonus de +1 à leur attaque et jet de dégâts. Cet effet prend fin si la {créature} est incapable d'agir.</p>"
     },
     "Enhanced Sensors": {
-      "name": "Enhanced Sensors",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'ouïe ou la vue.</p>"
+      "name": "Capteurs améliorés",
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur l'ouïe ou la vue.</p>"
     },
     "Troop Transport": {
-      "name": "Troop Transport",
-      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> peut transporter un maximum de X {passagers} et X {véhicules}, qu'il peut déployer à l'aide de son action légendaire Déployer, ou qui peuvent être combattus par des créatures à l'intérieur du <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span>.</p>"
+      "name": "Transport de troupes",
+      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> peut transporter un maximum de X {passagers} et X {véhicules}, qu'il peut déployer à l'aide de son action légendaire Déployer, ou qui peuvent être combattus par des créatures à l'intérieur du <span style=\"font-family:'Open Sans', sans-serif\">{créature></span>.</p>"
     },
     "Relentless Fortitude": {
-      "name": "Relentless Fortitude",
+      "name": "Force d'âme implacable",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Si la {créature} devait être réduite à 0 point de vie, elle lance un [[/r 1d6]], sur un jet de 5 ou 6, la {créature} n'est à la place réduite qu'à 1.</span></p>"
     },
     "Superior Camouflage": {
-      "name": "Superior Camouflage",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} devient invisible jusqu'à ce que sa concentration prenne fin (comme si elle se concentrait sur un pouvoir).</span></p>"
+      "name": "Camouflage supérieur",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} devient invisible jusqu'à ce que sa concentration prend fin (comme si elle se concentre sur un pouvoir).</span></p>"
     },
     "Charge": {
       "name": "Charge",
-      "description": "<p>If the {creature} moves at least 20 mètres toward a target and hits it with a {natural weapon} attack on that turn, la cible takes an extra 7 (2d6) kinetic dégâts. If la cible is a creature, it must succeed on a DD 13 Strength jet de sauvegarde or be knocked à terre.</p>"
+      "description": "<p>Si la {créature} se déplace d'au moins 20 mètres vers une cible et la touche avec une attaque d'{arme naturelle} à ce tour, la cible subit 7 (2d6) dégâts cinétiques supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde DD 13 Force ou être projetée à terre.</p>"
     },
     "Keen Hearing and Sight": {
       "name": "Une ouïe et une vue excellentes",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'ouïe ou la vue. </p>"
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur l'ouïe ou la vue. >"
     },
     "Ball Form": {
-      "name": "Ball Form",
+      "name": "Forme de boule",
       "description": "<p>AEn guise de bonus d'action, la {créature} peut se transformer en boule ou hors de sa forme. Sous forme de boule, la {créature} a augmenté sa vitesse, mais elle ne peut pas attaquer.</p>"
     },
     "Targeting Systems": {
-      "name": "Targeting Systems",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> uses its Intelligence modificateur for attack, dégâts, and intitiative rolls.</p>"
+      "name": "Systèmes de ciblage",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> utilise son modificateur d'Intelligence pour les attaques, les dégâts et les jets d'initiation.</p>"
     },
     "Throw Boulder": {
       "name": "Lancer un rocher",
-      "description": "<section id=\"secret-YGXcpiDtyKq68DJY\" class=\"secret\"><p><em>Ranged Weapon Attack </em>+8, Range 60/240 ft., One target. <em>Hit : </em>21 (3d10+5) kinetic dégâts.</p></section><p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature} attacks by throwing a boulder.</span></p>"
+      "description": "<section id=\"secret-YGXcpiDtyKq68DJY\" class=\"secret\"><p><em>Attaque avec arme à distance </em>+8, portée 60/240 pieds, une cible. <em>Hit : </em>21 (3d10+5) dégâts cinétiques.</p></section><p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature} attaque en lançant un rocher.</span></p>"
     },
     "Teleport": {
-      "name": "Teleport",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> teleports up to 120 mètres into an unoccupied space it can see.</p><p></p>"
+      "name": "Téléportation",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> se téléporte jusqu'à 120 mètres dans un espace inoccupé qu'elle peut voir.</p><p></p>"
     },
     "Swarm": {
-      "name": "Swarm",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">L'essaim peut occuper l'espace d'une autre créature et vice versa, et l'essaim peut se déplacer à travers n'importe quelle ouverture suffisamment grande pour une {créature} de taille moyenne. L'essaim ne peut pas regagner de points de vie ni gagner de points de vie temporaires.</span></p>"
+      "name": "Essaim",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">L'essaim peut occuper l'espace d'une autre créature et vice versa, et l'essaim peut se déplacer à travers n'importe quelle ouverture suffisamment grande pour une {créature} de taille moyenne. L'essai ne peut pas regagner de points de vie ni gagner de points de vie temporaires.</span></p>"
     },
     "Legendary Resistance (3/Day)": {
-      "name": "Legendary Resistance (3/Day)",
+      "name": "Résistance légendaire (3/jour)",
       "description": "<p>Si la {créature} échoue à un jet de sauvegarde, elle peut choisir de réussir à la place.</p>"
     },
     "Keen Sight and Smell": {
       "name": "Vue et odorat aiguisés",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur la vue et l'odorat.</p>"
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur la vue et l'odorat.</p>"
     },
     "Air Form": {
-      "name": "Air Form",
+      "name": "Forme aérienne",
       "description": "<p>La {créature} peut entrer dans l'espace d'une créature hostile et s'y arrêter. Il peut se déplacer dans un espace aussi étroit que 1 pouce de large sans se presser.</p>"
     },
     "Ram": {
-      "name": "Ram",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Any creature within the {creature}'s movement path must make a DD 17 Dexterity jet de sauvegarde, taking 26 (4d12) kinetic dégâts on a failed sauvegarde and is knocked à terre, or half as much dégâts on a successful one</span></p>"
+      "name": "Bélier",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Toute créature se trouvant sur le chemin de déplacement de la {créature} doit effectuer un jet de sauvegarde de DD 17 en Dextérité, subissant 26 (4d12) dégâts cinétiques en cas d'échec d'une sauvegarde et est projetée à terre, soit la moitié de ces dégâts en cas de réussite</span></p>"
     },
     "Gunner": {
-      "name": "Gunner",
+      "name": "Canonnier",
       "description": "<p>La construction nécessite qu'un tireur actif entreprenne des actions, et si le tireur est soumis à des conditions contre lesquelles la construction n'est pas immunisée, la construction est également soumise à ces conditions. Le tireur peut effectuer sa propre action ou l'une des actions accordées par la construction.</p>"
     },
     "Constrict": {
-      "name": "Constrict",
-      "description": "<p></p><section id=\"secret-XmgDZgs9F7aXYVal\" class=\"secret\"><p><em>Melee Weapon Attack </em>+9, Reach 10 ft., One target. <em>Hit : </em>9 (1d8+5) kinetic dégâts.</p><p>If la cible is a Large or smaller creature is Grappled (escape DD 16).</p></section><p>The {creature} uses its appendages to constrict its opponent.</p>"
+      "name": "Contraindre",
+      "description": "<p></p><section id=\"secret-XmgDZgs9F7aXYVal\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+9, atteignez 10 pieds, une cible. <em>Hit : </em>9 (1d8+5) dégâts cinétiques.</p><p>Si la cible est une créature de taille L ou inférieure, elle est agrippée (évasion DD 16).</p></section><p>La {créature} utilise ses appendices pour resserrer son adversaire.</p>"
     },
     "Set Mine": {
-      "name": "Set Mine",
-      "description": "<p>After setting this mine, a laser line imperceptible to normal vision extends up to 15 mètres out. When the laser is tripped, the mine explodes, and chaque créature within 15 mètres of it must make a DD 13 Dexterity jet de sauvegarde. On a failed sauvegarde, a creature takes 3d6 kinetic dégâts, or half as much on a successful one.</p><p></p>"
+      "name": "Définir le mien",
+      "description": "<p>Après avoir posé cette mine, une ligne laser imperceptible à la vision normale s'étend jusqu'à 15 mètres. Lorsque le laser se déclenche, la mine explose, et chaque créature à moins de 15 mètres d'elle doit réaliser un jet de sauvegarde DD 13 Dextérité. En cas d'échec d'une sauvegarde, une créature subit 3d6 dégâts cinétiques, soit la moitié de ce montant en cas de réussite.</p><p></p>"
     },
     "Energy Absorption": {
-      "name": "Energy Absorption",
-      "description": "<p>Whenever the {creature} is subjected to energy dégâts, it takes no dégâts and instead regains a number of points de vie equal to the energy dégâts dealt.</p>"
+      "name": "Absorption d'énergie",
+      "description": "<p>Chaque fois que la {créature} est soumise à des dégâts énergétiques, elle ne subit aucun dégâts et récupère à la place un nombre de points de vie égal aux dégâts énergétiques infligés.</p>"
     },
     "Advanced Telepathy": {
-      "name": "Advanced Telepathy",
-      "description": "<p>The {creature} can perceive the content of any telepathic communication used within 60 mètres of it, and it can't be surprised by creatures with any form of telepathy.</p><p></p>"
+      "name": "Télépathie avancée",
+      "description": "<p>La {créature} peut percevoir le contenu de toute communication télépathique utilisée dans un rayon de 60 mètres autour d'elle, et elle ne peut pas être surprise par des créatures dotées d'une quelconque forme de télépathie.</p><p></p>"
     },
     "Unhindered Movement": {
-      "name": "Unhindered Movement",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span>'s vitesse de déplacement is not reduced while moving with a agrippé creature.</p>"
+      "name": "Mouvement sans entrave",
+      "description": "<p>La vitesse de déplacement de la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> n'est pas réduite lorsqu'elle se déplace avec une créature agrippée.</p>"
     },
     "Relentless": {
-      "name": "Relentless",
+      "name": "Sans relâche",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque la {créature} est réduite à 0 point de vie, elle est réduite à 1 point de vie à la place.</span></p>"
     },
     "Jetpack": {
       "name": "Jetpack",
-      "description": "<p>Activating or deactivating the jetpack requires a action bonus and, while active, the {creature} has a flying speed of 30 mètres. The jetpack lasts for a maximum of 10 minutes.</p>"
+      "description": "<p>Activer ou désactiver le jetpack nécessite un bonus d'action et, lorsqu'elle est active, la {créature} a une vitesse de vol de 30 mètres. Le jetpack dure 10 minutes maximum.</p>"
     },
     "Sunlight Sensitivity": {
-      "name": "Sunlight Sensitivity",
+      "name": "Sensibilité à la lumière du soleil",
       "description": "<p> Lorsqu'elle est exposée au soleil, la {créature} a un désavantage aux jets d'attaque, ainsi qu'aux tests de Sagesse (Perception) qui reposent sur la vue.</p>"
     },
     "Keen Hearing": {
-      "name": "Keen Hearing",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'audition.</p>"
+      "name": "Une ouïe passionnée",
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur l'audition.</p>"
     },
     "Martial Advantage": {
-      "name": "Martial Advantage",
-      "description": "<p>Une fois par tour, the {creature} can deal an extra 14 (4d6) dégâts to a creature it hits with a attaque d'arme if cette créature is within 5 mètres of an ally of the {creature} that isn't incapacitated.</p>"
+      "name": "Avantage martial",
+      "description": "<p>Une fois par tour, la {créature} peut infliger 14 (4d6) dégâts supplémentaires à une créature qu'elle frappe avec une attaque d'arme si cette créature se trouve à moins de 5 mètres d'un allié de la {créature} qui n'est pas incapable d'agir.</p>"
     },
     "Regeneration": {
-      "name": "Regeneration",
+      "name": "Régénération",
       "description": "<p>La {créature} récupère 10 points de vie au début de son tour si elle possède au moins 1 point de vie.</p>"
     },
     "Damage Transfer": {
       "name": "Transfert de dommages",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">While attached to a creature, the {creature} takes only half the dégâts dealt to it (rounded down), and cette créature takes the other half.</span></p>"
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsqu'elle est attachée à une créature, la {créature} ne subit que la moitié des dégâts qui lui sont infligés (arrondis à l'inférieur), et cette créature prend l'autre moitié.</span></p>"
     },
     "Pack Tactics": {
-      "name": "Pack Tactics",
-      "description": "<p>The {creature} has avantage on an attack roll against a creature if it is agrippé by at least one of the {creature}'s allies.</p>"
+      "name": "Tactiques de meute",
+      "description": "<p>La {créature} a un avantage sur un jet d'attaque contre une créature si elle est agrippée par au moins un des alliés de la {créature}.</p>"
     },
     "Sunlight Hypersensitivity": {
-      "name": "Sunlight Hypersensitivity",
-      "description": "<p>The {creature} takes 5 fire dégâts when it starts its turn in sunlight. While in sunlight, it has disavantage on attack rolls and test de caractéristiques.</p>"
+      "name": "Hypersensibilité au soleil",
+      "description": "<p>La {créature} subit 5 dégâts de feu lorsqu'elle commence son tour au soleil. Lorsqu'il est exposé au soleil, il présente un désavantage lors des jets d'attaque et des tests de caractéristiques.</p>"
     },
     "Limited Amphibiousness": {
-      "name": "Limited Amphibiousness",
+      "name": "Amphibie limitée",
       "description": "<p>La {créature} peut respirer de l'air et de l'eau, mais elle doit être immergée au moins une fois toutes les 4 heures pour éviter de suffoquer.</p>"
     },
     "Keen Hearing and Smell": {
       "name": "Ouïe et odorat aiguisés",
-      "description": "<p>La {créature} a un avantage sur les tests de Sagesse (Perception) qui reposent sur l'ouïe et l'odorat.</p>"
+      "description": "<p>La {créature} a un avantage sur les tests de Sagesse (Perception) qui repose sur l'ouïe et l'odorat.</p>"
     },
     "Wounded Fury": {
-      "name": "Wounded Fury",
-      "description": "<p>While it has 10 points de vie or fewer, the {creature} has avantage on attack rolls. De plus, it deals an extra 7 [[/r 2d6]] dégâts to any target it hits with a attaque au corps à corps.</p>"
+      "name": "Fureur blessée",
+      "description": "<p>Bien qu'elle ait 10 points de vie ou moins, la {créature} a un avantage aux jets d'attaque. De plus, il inflige 7 [[/r 2d6]] dégâts supplémentaires à toute cible touchée avec une attaque au corps à corps.</p>"
     },
     "Surprise Attack": {
       "name": "Attaque surprise",
-      "description": "<p>If the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> surprises a creature and hits it with an attack during the first round of combat, la cible takes an extra 10 (3d6) dégâts from the attack.</p>"
+      "description": "<p>Si la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> surprend une créature et la frappe avec une attaque lors du premier round de combat, la cible subit 10 (3d6) dégâts supplémentaires dus à l'attaque.</p>"
     },
     "Detect Force": {
-      "name": "Detect Force",
-      "description": "<p>The {creature} can sense the presence and direction of a creature who can cast pouvoir de la Forces within 120 mètres.</p>"
+      "name": "Détecter la force",
+      "description": "<p>La {créature} peut sentir la présence et la direction d'une créature qui peut lancer pouvoir de la Forces dans un rayon de 120 mètres.</p>"
     },
     "Stock Strike": {
-      "name": "Stock Strike",
-      "description": "<section id=\"secret-h3cB314coxEnBlFc\" class=\"secret\"><p><em>Melee Weapon Attack </em>+4, Reach 5 ft., One target. <em>Hit : </em>4 (1d4+2) kinetic dégâts</p></section><p>The stock of a blaster is hard and unyielding.</p>"
+      "name": "Grève boursière",
+      "description": "<section id=\"secret-h3cB314coxEnBlFc\" class=\"secret\"><p><em>Attaque avec arme de mêlée </em>+4, atteignez 1,50 m, une cible. <em>Hit : </em>4 (1d4+2) dégâts cinétiques</p></section><p>La crosse d'un blaster est dure et inflexible.</p>"
     },
     "Volley": {
-      "name": "Volley",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> makes one attaque à distance against every enemy within 10 mètres of a point it can see.</p><section id=\"secret-UgdQSJ6IF2H3gIao\" class=\"secret\"><p><span style=\"font-family:'Open Sans'\"><em style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:'Open Sans';font-size:12px\">Ranged Weapon Attack </em>+6, Range 100/400 ft., One target. <em style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:'Open Sans';font-size:12px\">Hit : </em>8 (1d8+4) energy dégâts</span></p></section>"
+      "name": "Volée",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> effectue une attaque à distance contre tout ennemi à moins de 10 mètres d'un point qu'elle peut voir.</p><section id=\"secret-UgdQSJ6IF2H3gIao\" class=\"secret\"><p><span style=\"font-family:'Open Sans'\"><em style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:'Open Sans';font-size:12px\">Attaque avec arme à distance </em>+6, portée 100/400 ft., Une cible. <em style=\"box-sizing:inherit;user-select:text;color:#1c1c1c;font-family:'Open Sans';font-size:12px\">Touché : </em>8 (1d8+4) dégâts d'énergie</span></p></section>"
     },
     "Locked Saddle": {
-      "name": "Locked Saddle",
-      "description": "<p>The {creature} cannot be knocked à terre, dismounted, or moved against it's will while mounted.</p>"
+      "name": "Selle verrouillée",
+      "description": "<p>La {créature} ne peut pas être renversée, démontée ou déplacée contre sa volonté lorsqu'elle est montée.</p>"
     },
     "Towering": {
-      "name": "Towering",
-      "description": "<p>Les créatures de grande taille ou plus petites peuvent se tenir dans l'espace de <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span>.</p>"
+      "name": "Imposant",
+      "description": "<p>Les créatures de grande taille ou plus petites peuvent se tenir dans l'espace de <span style=\"font-family:'Open Sans', sans-serif\">{créature></span>.</p>"
     },
     "Weapons Tech Enhancements": {
-      "name": "Weapons Tech Enhancements",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> has the following weapon enhancements:</p><p>Accuracy Scope. <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> gains a +2 to attack rolls (included). Amplifying Barrel. Specialist gains a +2 to dégâts (included). Bayonet. <span style=\"font-family:'Open Sans', sans-serif\">{creature} </span>can make attaque au corps à corpss with the finesse property utilizing his sniper rifle.</p><p>Booming Strikes. Une fois par tour, when the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> hits with the weapon, he can deal an additional 1d6 dégâts (included). The weapon makes a loud boom which can be heard 100 mètres away. If the <span style=\"font-family:'Open Sans', sans-serif\">{creature} </span>is hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have avantage.</p><p>Overcharge Weapon. The <span style=\"font-family:'Open Sans', sans-serif\">{creature} </span>can expend one tech slot to deal additional dégâts to la cible. The extra dégâts is 1d6 for a 1st-niveau tech slot, plus 1d6 for each slot niveau higher than 1st, to a maximum of 5d6. The dégâts is the same type as the weapon dégâts. Vous pouvez ajouter this dégâts to the extra dégâts of your Booming Strikes.</p>"
+      "name": "Améliorations techniques des armes",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> possède les améliorations d'armes suivantes :</p><p>Portée de précision. <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> gagne +2 aux jets d'attaque (inclus). Baril amplificateur. Le spécialiste gagne un +2 aux dégâts (inclus). Baïonnette. <span style=\"font-family:'Open Sans', sans-serif\">{créature} </span>peut effectuer des attaques au corps à corps avec la propriété finesse en utilisant son fusil de sniper.</p><p>Booming Strikes. Une fois par tour, lorsque la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> frappe avec l'arme, elle peut infliger 1d6 dégâts supplémentaires (inclus). L'arme fait un grand bruit qui peut être entendu à 100 mètres. Si la <span style=\"font-family:'Open Sans', sans-serif\">{créature} </span>est cachée, les tests d'Intelligence (Enquête) et de Sagesse (Perception) effectués pour vous localiser qui s'appuient sur le son ont un avantage.</p><p>Surcharge d'arme. La <span style=\"font-family:'Open Sans', sans-serif\">{créature} </span>peut dépenser un emplacement technologique pour infliger des dégâts supplémentaires à la cible. Les dégâts supplémentaires sont de 1d6 pour un emplacement technologique de 1er niveau, plus 1d6 pour chaque niveau d'emplacement supérieur au 1er, jusqu'à un maximum de 5d6. Les dégâts sont du même type que les dégâts des armes. Vous pouvez ajouter ces dégâts aux dégâts supplémentaires de vos Booming Strikes.</p>"
     },
     "Fixed": {
-      "name": "Fixed",
+      "name": "Fixé",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque la {créature} effectue un chèque ou un jet de sauvegarde pour éviter d'être déplacée, elle le fait avec avantage et ajoute +10 au jet.</span></p>"
     },
     "Sneak Attack (1/Turn)": {
       "name": "Attaque sournoise (1/tour)",
-      "description": "<p>The {creature} deals an extra 7 (2d6) dégâts when it hits a target with a attaque d'arme and has avantage on the attack roll, or when la cible is within 5 mètres of an ally of the {creature} that isn't incapacitated and the assassin doesn't have disavantage on the roll.</p>"
+      "description": "<p>La {créature} inflige 7 (2d6) dégâts supplémentaires lorsqu'elle touche une cible avec une attaque d'arme et a un avantage au jet d'attaque, ou lorsque la cible est à moins de 5 mètres d'un allié de la {créature} qui n'est pas incapable d'agir et que l'assassin n'a pas de désavantage au jet.</p>"
     },
     "Multiattack": {
-      "name": "Multiattack",
+      "name": "Multi-attaque",
       "description": "<p>La {créature} effectue deux attaques avec son canon blaster.</p><p></p>"
     },
     "Blood Rage": {
-      "name": "Blood Rage",
-      "description": "<p>When a creature within 5 mètres of the {creature} hits it with an attack, the {creature} may use its réaction to immediately make a attaque d'arme au corps à corps with avantage against cette créature.</p>"
+      "name": "Rage de sang",
+      "description": "<p>Lorsqu'une créature à moins de 5 mètres de la {créature} la frappe avec une attaque, la {créature} peut utiliser sa réaction pour effectuer immédiatement une attaque d'arme au corps à corps avec avantage contre cette créature.</p>"
     },
     "Tentacle": {
-      "name": "Tentacle",
-      "description": "<section id=\"secret-a53vOWfDPGF56iPR\" class=\"secret\"><p><em>Melee Weapon Attack </em>+14, Reach 60 ft., One target. <em>Hit : </em>26 (4d8+8) kinetic dégâts.</p><p>La cible is agrippé (escape DD 16). Until this grapple ends, la cible is entravé. The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> has X tentacles, each of which can grapple une cible.</p></section><p></p>"
+      "name": "Tentacule",
+      "description": "<section id=\"secret-a53vOWfDPGF56iPR\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+14, atteignez 60 pieds, une cible. <em>Hit : </em>26 (4d8+8) dégâts cinétiques.</p><p>La cible est agrippée (évasion DD 16). Jusqu'à la fin de ce grappin, la cible est entravée. La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> possède X tentacules, dont chacun peut agripper une cible.</p></section><p></p>"
     },
     "Grasping Tendrils": {
-      "name": "Grasping Tendrils",
-      "description": "<p>The {creature} can have up to seven at a time. Each tentacle can be attacked (AC 20; 10 points de vie; immunity to poison and psychic dégâts). Destroying a tentacle deals no dégâts to the {creature}, which can extrude a replacement tentacle on its next turn. A tentacle can also be broken if a creature takes an action and succeeds on a DD 16 test de Force against it.</p>"
+      "name": "Vrilles saisissantes",
+      "description": "<p>La {créature} peut en avoir jusqu'à sept à la fois. Chaque tentacule peut être attaqué (CA 20 ; 10 points de vie ; immunité au poison et aux dégâts psychiques). Détruire un tentacule n'inflige aucun dommage à la {créature}, qui peut extruder un tentacule de remplacement lors de son prochain tour. Un tentacule peut également être brisé si une créature entreprend une action et réussit un test de Force DD 16 contre elle.</p>"
     },
     "Vulnerable Interior": {
-      "name": "Vulnerable Interior",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span>'s interior is vulnerable to dégâts done by grenades, mines and charges, unless it is immune to that dégâts. It also automatically fails all Dexterity jet de sauvegardes from such effects that occur in its interior.</p>"
+      "name": "Intérieur vulnérable",
+      "description": "<p>L'intérieur de la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> est vulnérable aux dégâts causés par les grenades, les mines et les charges, à moins qu'il ne soit immunisé contre ces dégâts. Il échoue également automatiquement à tous les jets de sauvegarde de Dextérité suite à de tels effets qui se produisent à l'intérieur.</p>"
     },
     "Dive Attack": {
       "name": "Attaque en plongée",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">If the {creature} is flying and dives at least 30 mètres straight toward a target and then hits it with a talon attack, the attack deals an extra 2 [[/r 1d4]] dégâts to la cible.</span></p>"
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Si la {créature} vole et plonge d'au moins 30 mètres directement vers une cible puis la frappe avec une attaque de serre, l'attaque inflige 2 [[/r 1d4]] dégâts supplémentaires à la cible.</span></p>"
     },
     "Trampling Charge": {
-      "name": "Trampling Charge",
-      "description": "<p>If the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> moves at least 20 mètres straight toward a creature and then hits it with a bite attack on the same turn, cette cible must succeed on a DD 16 Strength jet de sauvegarde or be knocked à terre. If la cible is à terre, the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> can make one {weapon} attack against it as a action bonus.</p>"
+      "name": "Charge de piétinement",
+      "description": "<p>Si la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> se déplace d'au moins 20 mètres tout droit vers une créature puis la frappe avec une attaque de morsure dans le même tour, cette cible doit réussir un jet de sauvegarde DD 16 Force ou être projetée à terre. Si la cible est à terre, la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> peut effectuer une attaque {weapon} contre elle en bonus d'action.</p>"
     },
     "Mounted Warrior": {
-      "name": "Mounted Warrior",
-      "description": "<p>While the {creature} is mounted, the mount cannot be charmé or effrayé.</p>"
+      "name": "Guerrier monté",
+      "description": "<p>Tant que la {créature} est montée, la monture ne peut pas être charmée ou effrayée.</p>"
     },
     "Blood Frenzy": {
-      "name": "Blood Frenzy",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} has avantage on attaque au corps à corps rolls against any creature that doesn't have all its points de vie.</span></p>"
+      "name": "Frénésie de sang",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} a un avantage aux jets d'attaque au corps à corps contre toute créature qui n'a pas tous ses points de vie.</span></p>"
     },
     "War Casting": {
-      "name": "War Casting",
-      "description": "<p>Lorsque le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> utilise une action pour lancer un pouvoir, il peut utiliser un bonus d'action pour effectuer une attaque {arme de mêlée}.</p>"
+      "name": "Casting de guerre",
+      "description": "<p>Lorsque le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> utilise une action pour lancer un pouvoir, il peut utiliser un bonus d'action pour effectuer une attaque {arme de mêlée}.</p>"
     },
     "Onslaught": {
-      "name": "Onslaught",
+      "name": "Assaut",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">AEn bonus d'action, la {créature} peut effectuer une attaque poussée.</span></p>"
     },
     "Spiked Hide": {
-      "name": "Spiked Hide",
-      "description": "<section id=\"secret-znk06GzuFanVajXb\" class=\"secret\"><p>Any creature that grapples the {creature} takes 3 (1d6) kinetic dégâts at the end of its turn.</p></section><p>The spikes are a natural defense.</p>"
+      "name": "Peau à pointes",
+      "description": "<section id=\"secret-znk06GzuFanVajXb\" class=\"secret\"><p>Toute créature qui agrippe la {créature} subit 3 (1d6) dégâts cinétiques à la fin de son tour.</p></section><p>Les pointes sont une défense naturelle.</p>"
     },
     "Stench": {
-      "name": "Stench",
-      "description": "<p>Any creature other than a {creature} that starts its turn within 10 mètres of the {creature} must succeed on a DD 15 Constitution jet de sauvegarde or be empoisonné until the start of la créature's next turn. On a successful jet de sauvegarde, la créature is immune to the stench of any {creature} for 1 hour.</p>"
+      "name": "Puanteur",
+      "description": "<p>Toute créature autre qu'une {créature} qui commence son tour à moins de 10 mètres de la {créature} doit réussir un jet de sauvegarde DD 15 Constitution sous peine d'être empoisonné jusqu'au début du prochain tour de la créature. Lors d'un jet de sauvegarde réussi, la créature est immunisée contre la puanteur de toute {créature} pendant 1 heure.</p>"
     },
     "Venom Spray": {
-      "name": "Venom Spray",
-      "description": "<p>The dragon spits poison in a cône de 18 mètres. </p><section id=\"secret-LTU0xPVS1cTNtnoe\" class=\"secret\"><p>Each creature in that area must make a DD 18 Constitution jet de sauvegarde, taking 56 (16d6) poison dégâts dégâts on a failed sauvegarde, or half as much dégâts on a successful one.</p></section><p></p>"
+      "name": "Vaporisateur de venin",
+      "description": "<p>Le dragon crache du poison dans un cône de 18 mètres. </p><section id=\"secret-LTU0xPVS1cTNtnoe\" class=\"secret\"><p>Chaque créature dans cette zone doit effectuer un jet de sauvegarde de Constitution DD 18, subissant 56 (16d6) dégâts dégâts de poison en cas d'échec d'une sauvegarde, ou la moitié de ces dégâts en cas de sauvegarde réussie.</p></section><p></p>"
     },
     "Villainous Exhaustion": {
-      "name": "Villainous Exhaustion",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> rolls initiative with avantage. </p><p><span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> starts with a number of villainous actions equal to one less than it's villainous multiplier. If a point de vie pool is depleted, <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> also loses one villainous action. <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> may use a villainous action after any other creature takes a turn. If <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> does so, it regains its réaction. A villainous action is a complete turn. They have an action, action bonus and may move up to their full speed. The villainous actions refresh at the start of <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span>'s turn and any remaining actions from the previous turn are lost.</p>"
+      "name": "Épuisement méchant",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">{creature></span> lance l'initiative avec avantage. </p><p><span style=\"font-family:'Open Sans', sans-serif\">{créature></span> commence avec un nombre d'actions crapuleuses égal à une de moins que son multiplicateur crapuleux. Si une réserve de points de vie est épuisée, <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> perd également une action méchante. <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> peut utiliser une action crapuleuse après qu'une autre créature ait joué son tour. Si <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> le fait, elle retrouve sa réaction. Une action crapuleuse est un tour complet. Ils disposent d'une action, d'un bonus d'action et peuvent se déplacer jusqu'à leur pleine vitesse. Les actions méchantes sont actualisées au début du tour de <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> et toutes les actions restantes du tour précédent sont perdues.</p>"
     },
     "Forcecasting": {
       "name": "Forcecasting",
-      "description": "<p>La {créature} est un lanceur de force du Xème niveau. Sa capacité de lancement de force est {ability} (Power sauvegarde DD X, +X pour frapper avec des attaques de force) et il a X point de Forces. La {créature} connaît le pouvoir de la Forces suivant :</p><p>At-will : </p><p>1st-niveau : </p><p>2nd-niveau:</p>"
+      "description": "<p>La {créature} est un lanceur de force du Xème niveau. Sa capacité de lancement de force est {ability} (Power sauvegarde DD X, +X pour frapper avec des attaques de force) et il a X point de Forces. La {créature} connaît le pouvoir de la Forces suivante :</p><p>At-will : </p><p>1er niveau : </p><p>2ème-niveau:</p>"
     },
     "Atmosphere Agnostic": {
-      "name": "Atmosphere Agnostic",
+      "name": "Indépendant de l’atmosphère",
       "description": "<p>La {créature} peut survivre dans n'importe quel type d'atmosphère ou de vide.</p>"
     },
     "Snow Camouflage": {
-      "name": "Snow Camouflage",
+      "name": "Camouflage de neige",
       "description": "<p>La {créature} a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher sur un terrain enneigé.</p>"
     },
     "Magnetic Lock": {
-      "name": "Magnetic Lock",
-      "description": "<p>The {creature} can climb difficult surfaces, including upside down on ceilings, without needing to make an test de caractéristique.</p>"
+      "name": "Serrure magnétique",
+      "description": "<p>La {créature} peut escalader des surfaces difficiles, y compris la tête en bas sur les plafonds, sans avoir besoin de faire un test de caractéristique.</p>"
     },
     "Avoidance": {
-      "name": "Avoidance",
-      "description": "<p>If the {creature} is subjected to an effect that allows it to make a jet de sauvegarde to take only half dégâts, it instead takes no dégâts if it succeeds on the jet de sauvegarde, and only half dégâts if it fails.</p>"
+      "name": "Évitement",
+      "description": "<p>Si la {créature} est soumise à un effet qui lui permet d'effectuer un jet de sauvegarde pour ne subir que la moitié des dégâts, elle ne subit en revanche aucun dommage si elle réussit son jet de sauvegarde, et seulement la moitié des dégâts s'il échoue.</p>"
     },
     "Squad": {
-      "name": "Squad",
+      "name": "Équipe",
       "description": "<p>L'escouade peut occuper l'espace d'une autre créature et vice versa, et peut se déplacer à travers des ouvertures suffisamment grandes pour un humanoïde de taille M. L'escouade est immunisée contre tout pouvoir ou effet susceptible de modifier sa forme.</p>"
     },
     "Force Resistance": {
-      "name": "Force Resistance",
-      "description": "<p>The {creature} has avantage on jet de sauvegardes against pouvoir de la Forces and resistance to dégâts dealt by pouvoir de la Forces.</p>"
+      "name": "Résistance aux forces",
+      "description": "<p>La {créature} a un avantage en jet de sauvegardes contre le pouvoir de la Forces et en résistance aux dégâts infligés par le pouvoir de la Forces.</p>"
     },
     "Mud Camouflage": {
-      "name": "Mud Camouflage",
+      "name": "Camouflage de boue",
       "description": "<p>La {créature} a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher dans un terrain boueux.</p>"
     },
     "Rooted": {
-      "name": "Rooted",
+      "name": "Enraciné",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} est enracinée sur place et ne peut pas bouger.</span></p>"
     },
     "Enhanced Weapons": {
-      "name": "Enhanced Weapons",
+      "name": "Armes améliorées",
       "description": "<p>Les attaques d'armes {créature} sont améliorées.</p>"
     },
     "Detect Sentience": {
-      "name": "Detect Sentience",
-      "description": "<p>The {creature} can sense the presence and location of any creature within 300 mètres of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless la créature is protected by a mind blank pouvoir de la Force.</p>"
+      "name": "Détecter la sensibilité",
+      "description": "<p>La {créature} peut détecter la présence et l'emplacement de toute créature à moins de 300 mètres d'elle qui a une Intelligence de 3 ou plus, quelles que soient les barrières interposées, à moins que la créature ne soit protégée par un pouvoir de la Force vide d'esprit.</p>"
     },
     "Whirlpool (Costs 2 Actions)": {
-      "name": "Whirlpool (Costs 2 Actions)",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} creates a whirlpool in the water at a point it can see within 30 mètres. The whirlpool is a 30-mètres deep cylinder with a rayon de 3 mètres centered on that point. On subsequent turns, the {creature} can use its Whirlpool action again to maintain and move the whirlpool up to 30 mètres in any direction along the surface of the water. The whirlpool sucks up any medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">A creature must make a DD 21 Dexterity jet de sauvegarde when it enters the whirlpool's area for the first time on a turn or starts its turn there. A creature takes 27 (6d8) kinetic dégâts on a failed sauvegarde, or half as much dégâts on a successful one. De plus, a Large or smaller creature that fails the sauvegarde must succeed on a DD 21 Strength jet de sauvegarde or become entravé in the whirlpool until the power ends.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">When a creature starts its turn entravé by the whirlpool, la créature is pulled 5 mètres deeper inside it, unless la créature is at the bottom. A entravé creature moves with the whirlpool and is submerged when the effect ends, unless la créature has some means to stay afloat. A entravé creature can use an action to make a DD 21 Strength or test de Dextérité. If successful, la créature is no longer entravé by the whirlpool and is hurled [[/r 3d6x10]] mètres away from it in a random direction. The whirlpool lasts for one round. The aqua monster can repeat the legendary action again to maintain the whirlpool.</span></p>"
+      "name": "Tourbillon (coûte 2 actions)",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} crée un tourbillon dans l'eau à un point qu'elle peut voir à moins de 30 mètres. Le bain à remous est un cylindre de 30 mètres de profondeur avec un rayon de 3 mètres centré sur ce point. Lors des tours suivants, la {créature} peut à nouveau utiliser son action Tourbillon pour entretenir et déplacer le tourbillon jusqu'à 30 mètres dans n'importe quelle direction le long de la surface de l'eau. Le tourbillon aspire tous les objets de taille moyenne ou plus petite qui ne sont fixés à rien et qui ne sont portés ou portés par personne.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">Une créature doit effectuer un jet de sauvegarde DD 21 Dextérité lorsqu'elle entre dans la zone du tourbillon pour la première fois lors d'un tour ou qu'elle y commence son tour. Une créature subit 27 (6d8) dégâts cinétiques en cas d'échec d'une sauvegarde, ou la moitié de ces dégâts en cas de réussite. De plus, une créature de taille G ou plus petite qui échoue à la sauvegarde doit réussir un jet de sauvegarde de Force DD 21 ou devenir entravée dans le tourbillon jusqu'à la fin du pouvoir.</span></p><p><span style=\"font-family:'Open Sans', sans-serif\">Quand une créature commence son tour entraînée par le tourbillon, la créature est entraînée 5 mètres plus profondément à l'intérieur, sauf si la créature est au fond. Une créature entravée se déplace avec le tourbillon et est submergée à la fin de l'effet, à moins que la créature n'ait un moyen de rester à flot. Une créature entravée peut utiliser une action pour réaliser un DD 21 Force ou un test de Dextérité. En cas de réussite, la créature n'est plus entraînée par le tourbillon et est projetée [[/r 3d6x10]] mètres loin de lui dans une direction aléatoire. Le bain à remous dure un tour. Le monstre aquatique peut répéter l'action légendaire pour entretenir le tourbillon.</span></p>"
     },
     "Amphibious": {
-      "name": "Amphibious",
+      "name": "Amphibie",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} peut respirer de l'air et de l'eau</span></p>"
     },
     "Brute": {
       "name": "Brute",
-      "description": "<p>The {creature} deals an extra 3 (1d6) dégâts when it hits with a attaque d'arme au corps à corps (include in the attack's dégâts).</p>"
+      "description": "<p>La {créature} inflige 3 (1d6) dégâts supplémentaires lorsqu'elle frappe avec une attaque d'arme au corps à corps (à inclure dans les dégâts de l'attaque).</p>"
     },
     "Web Sense": {
-      "name": "Web Sense",
-      "description": "<p>En contact avec une toile, le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> connaît l'emplacement exact de toute autre créature en contact avec la même toile.</p>"
+      "name": "Sens du Web",
+      "description": "<p>En contact avec une toile, le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> connaît l'emplacement exact de toute autre créature en contact avec la même toile.</p>"
     },
     "Creature Sense": {
       "name": "Sens de la créature",
       "description": "<p>La {créature} est consciente de la présence de créatures à moins de 1,6 km d'elle qui ont un score d'Intelligence de 4 ou plus. Il connaît la distance et la direction de chacune de ces créatures, ainsi que le score d'intelligence de chacune de ces créatures, mais il ne peut rien ressentir d'autre à son sujet. Les droïdes et les créatures protégées par un pouvoir de vide mental ou tout autre pouvoir similaire ne peuvent pas être perçus de cette manière.</p>"
     },
     "Hold Breath": {
-      "name": "Hold Breath",
+      "name": "Retenir son souffle",
       "description": "<p>La {créature} peut retenir sa respiration pendant 30 minutes.</p>"
     },
     "Tech Resistance": {
-      "name": "Tech Resistance",
-      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> a un avantage sur les jets de sauvegarde contre les techniques de pouvoir.</p>"
+      "name": "Résistance technologique",
+      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> a un avantage sur les jets de sauvegarde contre les techniques de pouvoir.</p>"
     },
     "Stone Camouflage": {
-      "name": "Stone Camouflage",
+      "name": "Camouflage de pierre",
       "description": "<p>La {créature} a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher dans un terrain rocheux.</p>"
     },
     "Stealthy": {
-      "name": "Stealthy",
+      "name": "Furtif",
       "description": "<p>La {créature} peut effectuer l'action Cacher comme bonus d'action.</p>"
     },
     "Operated": {
-      "name": "Operated",
+      "name": "Exploité",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La construction nécessite une opération à la fois par un pilote et un tireur. Un opérateur actif agit de sa propre initiative.</span></p>"
     },
     "Incorporeal Movement": {
-      "name": "Incorporeal Movement",
-      "description": "<p>The {creature} can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force dégâts if it ends its turn inside an object.</p>"
+      "name": "Mouvement incorporel",
+      "description": "<p>La {créature} peut se déplacer à travers d'autres créatures et objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.</p>"
     },
     "Reckless": {
-      "name": "Reckless",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">At the start of its turn, the {creature} can gain avantage on all attaque d'arme au corps à corps rolls during that turn, but attack rolls against it have avantage until the start of its next turn.</span></p>"
+      "name": "Téméraire",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Au début de son tour, la {créature} peut gagner un avantage sur tous les jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque contre elle ont un avantage jusqu'au début de son tour suivant.</span></p>"
     },
     "Innate Forcecasting": {
-      "name": "Innate Forcecasting",
+      "name": "Lancement de force inné",
       "description": "La capacité de forçage de <p>{creature} est {ability} (force sauvegarde DD X). {créature} peut lancer de manière innée</p><p>les pouvoirs suivants :</p><p>À volonté :</p><p>3/jour chacun : </p><p>1/jour chacun : </p>"
     },
     "Rocket Boost": {
-      "name": "Rocket Boost",
-      "description": "<p>The {creature} leaps up to 40 mètres in any direction.</p>"
+      "name": "Boost de fusée",
+      "description": "<p>La {créature} saute jusqu'à 40 mètres dans n'importe quelle direction.</p>"
     },
     "Shadow Stealth": {
-      "name": "Shadow Stealth",
+      "name": "Furtivité de l'ombre",
       "description": "<p>Quand elle est légèrement ou fortement obscurcie, la {créature} peut effectuer l'action Cacher comme bonus d'action.</p>"
     },
     "Brave": {
-      "name": "Brave",
-      "description": "<p>The {creature} has avantage on jet de sauvegardes against being effrayé.</p>"
+      "name": "Courageux",
+      "description": "<p>La {créature} a un avantage sur les jets de sauvegardes contre l'effrayé.</p>"
     },
     "Beast of Burden": {
-      "name": "Beast of Burden",
+      "name": "Bête de somme",
       "description": "<p>La {créature} est considérée comme un animal énorme aux fins de déterminer sa capacité de charge.</p>"
     },
     "Pounce": {
-      "name": "Pounce",
-      "description": "<p>If the {creature} moves at least 20 mètres straight toward a creature and then hits it with a claw attack on the same turn, cette cible must succeed on a DD 15 Strength jet de sauvegarde or be knocked à terre. If la cible is à terre, the {creature} can make one bite attack against it as a action bonus.</p>"
+      "name": "Bondir",
+      "description": "<p>Si la {créature} se déplace d'au moins 20 mètres tout droit vers une créature puis la frappe avec une attaque de griffes dans le même tour, cette cible doit réussir un jet de sauvegarde DD 15 Force ou être projetée à terre. Si la cible est à terre, la {créature} peut effectuer une attaque de morsure contre elle en bonus d'action.</p>"
     },
     "Poisonous Skin": {
-      "name": "Poisonous Skin",
-      "description": "<p>Any creature that grapples the {creature} or otherwise comes into direct contact with the {creature}'s skin must succeed on a DD 14 Constitution jet de sauvegarde or be étourdi pendant 1 minute. La cible can repeat the jet de sauvegarde at the end of each of its turns, ending the effect on a success.</p>"
+      "name": "Peau venimeuse",
+      "description": "<p>Toute créature qui agrippe la {créature} ou entre autrement en contact direct avec la peau de la {créature} doit réussir un jet de sauvegarde DD 14 Constitution ou être étourdi pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet sur une réussite.</p>"
     },
     "Diving Ambush": {
-      "name": "Diving Ambush",
-      "description": "<p>If the {creature} drops on to target from above and hits it with a bite attack on the same turn, la cible takes an extra 3 [[/r 1d6]] kinetic dégâts per 10 mètres fallen, up to 14 (4d6). If the {creature} misses, it takes half normal falling dégâts for distance fallen.</p>"
+      "name": "Embuscade de plongée",
+      "description": "<p>Si la {créature} tombe sur la cible par le dessus et la frappe avec une attaque de morsure au cours du même tour, la cible subit 3 [[/r 1d6]] dégâts cinétiques supplémentaires tous les 10 mètres tombés, jusqu'à 14 (4d6). Si la {créature} manque, elle subit la moitié des dégâts de chute normaux pour la distance parcourue.</p>"
     },
     "Flyby": {
-      "name": "Flyby",
-      "description": "<p>The {creature} doesn't provoke attaque d'opportunités when it flies out of an enemy's reach.</p>"
+      "name": "Survol",
+      "description": "<p>La {créature} ne provoque pas d'attaque d'opportunités lorsqu'elle vole hors de portée d'un ennemi.</p>"
     },
     "Fortified Mind": {
-      "name": "Fortified Mind",
-      "description": "<p>The {creature} has avantage on jet de sauvegardes against being charmé and effrayé, and it can't be put to sleep.</p>"
+      "name": "Esprit Fortifié",
+      "description": "<p>La {créature} a un avantage sur les jets de sauvegarde contre le charme et l'effrayé, et elle ne peut pas être endormie.</p>"
     },
     "Nimble Escape": {
-      "name": "Nimble Escape",
+      "name": "Évasion agile",
       "description": "<p>La {créature} peut effectuer l'action Se désengager ou Se cacher comme bonus d'action à chacun de ses tours.</p>"
     },
     "Keen Striking": {
-      "name": "Keen Striking",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} scores a critical hit on a roll of 19 or 20. If at least one of the {creature}'s allies is within 5 mètres of its target and the ally isn't incapacitated, the {creature} instead scores a critical hit on a roll of 18-20.</span></p>"
+      "name": "Passionné de frappe",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} réussit un coup critique sur un jet de 19 ou 20. Si au moins un des alliés de la {créature} se trouve à moins de 5 mètres de sa cible et que l'allié n'est pas neutralisé, la {créature} réussit à la place un coup critique sur un jet de 18-20.</span></p>"
     },
     "Stomp": {
-      "name": "Stomp",
-      "description": "<section id=\"secret-oIXdjm5fHHVjikhK\" class=\"secret\"><p><em>Melee Weapon Attack </em>+8, Reach 5 ft., One à terre creature. <em>Hit : </em>22 (3d10+6) kinetic dégâts.</p></section><p>A large appendage slams down.</p>"
+      "name": "Piétiner",
+      "description": "<section id=\"secret-oIXdjm5fHHVjikhK\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+8, atteignez 1,50 m, une créature à terre. <em>Tit : </em>22 (3d10+6) dégâts cinétiques.</p></section><p>Un gros appendice claque.</p>"
     },
     "Telepathy": {
-      "name": "Telepathy",
+      "name": "Télépathie",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} peut communiquer par télépathie avec d'autres créatures dans son champ de vision.</span></p>"
     },
     "Howdah": {
       "name": "Howdah",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} carries a fortified platform on its back. Up to six Medium creatures can ride on the platform without squeezing. Creatures on the platform have three-quarters cover against attacks and effects from outside it. If the {creature} dies, creatures on the platform are placed in occupied spaces within 10 mètres of the {creature}.</span></p>"
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} porte une plateforme fortifiée sur son dos. Jusqu'à six créatures de taille moyenne peuvent monter sur la plate-forme sans se serrer. Les créatures sur la plate-forme bénéficient d'une couverture aux trois quarts contre les attaques et les effets extérieurs. Si la {créature} meurt, les créatures sur la plateforme sont placées dans des espaces occupés à moins de 10 mètres de la {créature}.</span></p>"
     },
     "Blood Thirsty": {
-      "name": "Blood Thirsty",
+      "name": "Assoiffé de sang",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Si la {créature} touche la même créature avec deux attaques d'{arme} en un tour, elle peut effectuer une attaque d'{arme} en guise de bonus d'action.</span></p>"
     },
     "Turtle": {
-      "name": "Turtle",
-      "description": "<p>The first time the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> would drop to zero points de vie, the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> can instead remain at one point de vie and temporarily deactivate and fold up into a tougher, immobile form. While turtled, the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> has an AC of 14, and is considered paralysé. The creature interfaced with this <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> can use a action bonus to restore this <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> to it's unturtled condition.</p>"
+      "name": "Tortue",
+      "description": "<p>La première fois que la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> tombait à zéro point de vie, la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> pouvait à la place rester à un point de vie et se désactiver temporairement et se replier sous une forme plus résistante et immobile. Lorsqu'elle est tortue, la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> a une CA de 14, et est considérée comme paralysée. La créature interfacée avec cette <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> peut utiliser un bonus d'action pour restaurer cette <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> dans son état non-tortué.</p>"
     },
     "Spider Climb": {
-      "name": "Spider Climb",
-      "description": "<p>The {creature} can climb difficult surfaces, including upside down on ceilings, without needing to make an test de caractéristique.</p>"
+      "name": "Escalade d'araignée",
+      "description": "<p>La {créature} peut escalader des surfaces difficiles, y compris la tête en bas sur les plafonds, sans avoir besoin de faire un test de caractéristique.</p>"
     },
     "Tail": {
-      "name": "Tail",
-      "description": "<section id=\"secret-UeM7gW4TzawbkR4Z\" class=\"secret\"><p><em>Melee Weapon Attack </em>+17, Reach 15 ft., One target. <em>Hit : </em>19 (2d8+10) kinetic dégâts</p></section><p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> attacks with its tail.</p>"
+      "name": "Queue",
+      "description": "<section id=\"secret-UeM7gW4TzawbkR4Z\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+17, atteignez 15 pieds, une cible. <em>Tit : </em>19 (2d8+10) dégâts cinétiques</p></section><p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> attaque avec sa queue.</p>"
     },
     "Cunning Action": {
       "name": "Action astucieuse",
       "description": "<p>À chacun de ses tours, {créature} peut utiliser un bonus d'action pour effectuer l'action Se précipiter, Se désengager ou Se cacher.</p>"
     },
     "Aggressive": {
-      "name": "Aggressive",
+      "name": "Agressif",
       "description": "<p>AEn bonus d'action, la {créature} peut se déplacer à sa vitesse vers un ennemi qu'elle peut voir ou entendre.</p>"
     },
     "Watery Stealth (Liquid Form Only)": {
-      "name": "Watery Stealth (Liquid Form Only)",
-      "description": "<p> Sous l'eau, le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher, et il peut effectuer l'action Se cacher comme bonus d'action.</p>"
+      "name": "Discrétion aqueuse (sous forme liquide uniquement)",
+      "description": "<p> Sous l'eau, le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher, et il peut effectuer l'action Se cacher comme bonus d'action.</p>"
     },
     "Bite": {
-      "name": "Bite",
-      "description": "<section id=\"secret-Eoe3wXIsACzqhcWP\" class=\"secret\"><p><em>Melee Weapon Attack </em>+11, Reach 5 ft., One target. <em>Hit : </em>19 (2d12+6) kinetic dégâts.</p></section><p>The {creature} attacks using its bite.</p><p></p>"
+      "name": "Mordre",
+      "description": "<section id=\"secret-Eoe3wXIsACzqhcWP\" class=\"secret\"><p><em>Attaque avec arme au corps à corps </em>+11, atteignez 1,50 m, une cible. <em>Tit : </em>19 (2d12+6) dégâts cinétiques.</p></section><p>La {créature} attaque en utilisant sa morsure.</p><p></p>"
     },
     "Piloted": {
-      "name": "Piloted",
+      "name": "Piloté",
       "description": "<p>La construction nécessite qu'un pilote actif entreprenne des actions, et si le pilote est soumis à des conditions contre lesquelles la construction n'est pas immunisée, la construction est également soumise à ces conditions. Mouvement des commandes pilotes, action Ram et lance-roquettes</p>"
     },
     "Standing Leap": {
-      "name": "Standing Leap",
-      "description": "<p>The {creature}'s long jump is up to 20 mètres and its high jump is up to 10 ft., with or without a running start.</p>"
+      "name": "Saut debout",
+      "description": "<p>Le saut en longueur de la {créature} peut atteindre 20 mètres et son saut en hauteur peut atteindre 10 pieds, avec ou sans départ en courant.</p>"
     },
     "Aura of Blood Thirst": {
-      "name": "Aura of Blood Thirst",
-      "description": "<p>If the {creature} isn't incapacitated, any other {creature of the same species} can make a attaque au corps à corps as a action bonus while within 10 mètres of the {creature}.</p>"
+      "name": "Aura de soif de sang",
+      "description": "<p>Si la {créature} n'est pas incapable d'agir, toute autre {créature de la même espèce} peut effectuer une attaque au corps à corps en guise de bonus d'action à moins de 10 mètres de la {créature}.</p>"
     },
     "Battery Drainer": {
-      "name": "Battery Drainer",
+      "name": "Draineur de batterie",
       "description": "<p>Si la {créature} l'attache personnellement à une pièce d'équipement qui a besoin d'énergie pour fonctionner, cette pièce cessera de fonctionner jusqu'à ce que la {créature} soit retirée.</p>"
     },
     "Droid Synergy": {
-      "name": "Droid Synergy",
-      "description": "<p>Une fois par tour, the {creature} can deal an extra 7 (2d6) dégâts to a creature it hits with a attaque d'arme if cette créature is within 5 mètres of an ally of the {creature} that isn't incapacitated.</p>"
+      "name": "Synergie droïde",
+      "description": "<p>Une fois par tour, la {créature} peut infliger 7 (2d6) dégâts supplémentaires à une créature qu'elle frappe avec une attaque d'arme si cette créature se trouve à moins de 5 mètres d'un allié de la {créature} qui n'est pas incapable d'agir.</p>"
     },
     "Mimicry": {
-      "name": "Mimicry",
-      "description": "<p>La {créature} peut imiter des sons simples qu'elle a entendus, comme une personne qui chuchote, un bébé qui pleure ou un animal qui gazouille. Une créature qui entend les sons peut dire qu'il s'agit d'imitations en réussissant un test de Sagesse (Perspicacité) DD 10.</p>"
+      "name": "Mimétisme",
+      "description": "<p>La {créature} peut imiter des fils simples qu'elle a entendus, comme une personne qui chuchote, un bébé qui pleure ou un animal qui gazouille. Une créature qui entend les sons peut dire qu'il s'agit d'imitations en réussissant un test de Sagesse (Perspicacité) DD 10.</p>"
     },
     "Siege Monster": {
-      "name": "Siege Monster",
-      "description": "<p>The {creature} deals double dégâts to objects and structures.</p>"
+      "name": "Monstre de siège",
+      "description": "<p>La {créature} inflige des doubles dégâts aux objets et aux structures.</p>"
     },
     "Rocky Camouflage": {
-      "name": "Rocky Camouflage",
+      "name": "Camouflage rocheux",
       "description": "<p>La {créature} a un avantage sur les tests de Dextérité (Discrétion) effectués pour se cacher dans un terrain rocheux.</p>"
     },
     "Assassinate": {
-      "name": "Assassinate",
-      "description": "<p>Pendant son premier tour, la {créature} a un avantage aux jets d'attaque contre toute créature qui n'a pas pris de tour. Tout coup porté par la {créature} contre une créature surprise est un coup critique.</p>"
+      "name": "Assassiner",
+      "description": "<p>Pendentif son premier tour, la {créature} a un avantage aux jets d'attaque contre toute créature qui n'a pas pris de tour. Tout coup porté par la {créature} contre une créature surprise est un coup critique.</p>"
     },
     "Water Torrent": {
-      "name": "Water Torrent",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> exhales a torrent of water in a 120 foot cone. Each creature in the area must make a DD 24 Dexterity jet de sauvegarde, taking 42 (12d6) kinetic dégâts and 42 (12d6) cold dégâts on a failed sauvegarde, or half as much on a successful one.</p><p></p>"
+      "name": "Torrent d'eau",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> exhale un torrent d'eau dans un cône de 120 pieds. Chaque créature présente dans la zone doit réaliser un jet de sauvegarde DD 24 Dextérité, subissant 42 (12d6) dégâts cinétiques et 42 (12d6) dégâts froids en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite.</p><p></p>"
     },
     "Powerful Build": {
-      "name": "Powerful Build",
+      "name": "Construction puissante",
       "description": "<p>La {créature} compte comme une taille de plus pour déterminer la capacité de charge et le poids qu'elle peut pousser, traîner ou soulever.</p>"
     },
     "Unstable": {
-      "name": "Unstable",
-      "description": "<p>The construct requires a successful pilot skill check (DD 15) for the pilot to take an action, action bonus, or réaction while piloting the vehicle. On a failure, the pilot does not succeed in performing the desired action or réaction. If the roll fails by 10 or more, the pilot immediately loses control of the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> and crashes.</p>"
+      "name": "Instable",
+      "description": "<p>La construction nécessite un test de compétence de pilote réussi (DD 15) pour que le pilote puisse effectuer une action, un bonus d'action ou une réaction tout en pilotant le véhicule. En cas d'échec, le pilote ne parvient pas à réaliser l'action ou la réaction souhaitée. Si le jet échoue de 10 ou plus, le pilote perd immédiatement le contrôle de la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> et s'écrase.</p>"
     },
     "Innate Techcasting": {
-      "name": "Innate Techcasting",
+      "name": "Techcasting inné",
       "description": "La capacité de techasting de <p>{creature} est {capacité} (forcer la sauvegarde DD 23). {créature} peut lancer de manière innée</p><p>les pouvoirs suivants :</p><p>À volonté : </p><p>3/jour chacun : </p><p>1/jour chacun : </p>"
     },
     "Sith-born": {
-      "name": "Sith-born",
+      "name": "Né Sith",
       "description": "<p>Les lanceurs de force sombres et les Sith (espèces) ont un avantage aux tests de dressage contre {créature}.</p>"
     },
     "Tunneler": {
-      "name": "Tunneler",
-      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> peut creuser dans la roche solide à la moitié de sa vitesse de fouille et laisse dans son sillage un tunnel de 1,50 m de diamètre.</p>"
+      "name": "Tunnelier",
+      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> peut creuser dans la roche solide à la moitié de sa vitesse de fouille et laisser dans son sillage un tunnel de 1,50 m de diamètre.</p>"
     },
     "Sure-Footed": {
-      "name": "Sure-Footed",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\"> {creature}</span> has avantage on Strength and Dexterity jet de sauvegardes made against effects that would shove it or knock it à terre.</p>"
+      "name": "Au pied sûr",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\"> {créature></span> a un avantage sur les jets de sauvegardes de Force et de Dextérité réalisés contre les effets qui la pousseraient ou la renverseraient à terre.</p>"
     },
     "Many-Eyed": {
-      "name": "Many-Eyed",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} has avantage on jet de sauvegardes made against being aveuglé.</span></p>"
+      "name": "Aux yeux multiples",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} a un avantage sur les jets de sauvegardes effectués contre être aveuglé.</span></p>"
     },
     "Rage": {
       "name": "Rage",
-      "description": "<p>On it's turn, the {creature} can enter a rage as a action bonus in combat. The rage lasts pendant 1 minute and can be used once per day, gaining the following abilities: </p><ul><li><p>+2 dégâts on all attaque au corps à corpss. </p></li><li><p>Resistance to kinetic dégâts.</p></li></ul>"
+      "description": "<p>À son tour, la {créature} peut entrer en rage en guise de bonus d'action en combat. La rage dure pendant 1 minute et peut être utilisée une fois par jour, gagnant les capacités suivantes : </p><ul><li><p>+2 dégâts sur toutes les attaques au corps à corps. </p></li><li><p>Résistance aux dégâts cinétiques.</p></li></ul>"
     },
     "Talons": {
-      "name": "Talons",
-      "description": "<section id=\"secret-X7EcYqJK8ETtpt6z\" class=\"secret\"><p><em>Melee Weapon Attack </em>+5, Reach 5 ft., One target. <em>Hit : </em>5 (1d4+3) kinetic dégâts</p></section><p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature} attacks with its talons</span></p>"
+      "name": "Serres",
+      "description": "<section id=\"secret-X7EcYqJK8ETtpt6z\" class=\"secret\"><p><em>Attaque avec arme de mêlée </em>+5, atteignez 1,50 m, une cible. <em>Hit : </em>5 (1d4+3) dégâts cinétiques</p></section><p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature} attaque avec ses serres</span></p>"
     },
     "Circuitry": {
-      "name": "Circuitry",
-      "description": "<p>The {creature} has disavantage on jet de sauvegardes against effects that would deal ion or lightning dégâts.</p>"
+      "name": "Circuits",
+      "description": "<p>La {créature} a un désavantage sur les jets de sauvegarde contre les effets qui infligeraient des dégâts ioniques ou éclairs.</p>"
     },
     "Squad Tactics": {
-      "name": "Squad Tactics",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">The {creature} has avantage on an attack roll against a creature if at least one of the {creature}'s allies is within 5 ft. of la créature and the ally isn't incapacitated.</span></p>"
+      "name": "Tactiques d'équipe",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">La {créature} a un avantage sur un jet d'attaque contre une créature si au moins un des alliés de la {créature} se trouve à moins de 1,50 m de la créature et que l'allié n'est pas incapable d'agir.</span></p>"
     },
     "False Appearance": {
-      "name": "False Appearance",
+      "name": "Fausse apparence",
       "description": "<p>Bien que la {créature} reste immobile, elle est impossible à distinguer d'un {objet} normal.</p>"
     },
     "Keen Sight": {
-      "name": "Keen Sight",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur la vue.</p>"
+      "name": "Vue vive",
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur la vue.</p>"
     },
     "Keen Senses": {
-      "name": "Keen Senses",
+      "name": "Sens aiguisés",
       "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception).</p>"
     },
     "Psychic Link": {
-      "name": "Psychic Link",
-      "description": "<p>The {creature} can establish a psychic link with any creature that it successfully grapples with its tentacles. Until the psychic link ends, the {creature} can perceive everything la cible senses. La cible is aware that its mind is linked, and the {creature} can terminate the link at any time (no action required). La cible can use an action on its turn to attempt to break the psychic link, doing so with a successful DD 18 Intelligence jet de sauvegarde. On a successful sauvegarde, la cible takes 10 (3d6) psychic dégâts. The psychic link also ends if la cible and the {creature} are more than 1 mile apart, with no consequences to la cible. The {creature} can form psychic links with up to ten creatures at a time.</p>"
+      "name": "Lien psychique",
+      "description": "<p>La {créature} peut établir un lien psychique avec n'importe quelle créature qu'elle parvient à maîtriser avec ses tentacules. Jusqu'à la fin du lien psychique, la {créature} peut percevoir tout ce que la cible ressent. La cible est consciente que son esprit est lié, et la {créature} peut mettre fin au lien à tout moment (aucune action requise). La cible peut utiliser une action à son tour pour tenter de rompre le lien psychique, en réussissant un jet de sauvegarde DD 18 Intelligence. Lors d'une sauvegarde réussie, la cible subit 10 (3d6) dégâts psychiques. Le lien psychique prend également fin si la cible et la {créature} sont distantes de plus de 1,6 km, sans conséquences pour la cible. La {créature} peut former des liens psychiques avec jusqu'à dix créatures à la fois.</p>"
     },
     "Techcasting": {
-      "name": "Techcasting",
-      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> est un techcaster du Xème niveau. Sa capacité de techcasting est Intelligence (tech sauvegarde DD X, +X pour frapper avec les techniques de pouvoir).</p><p>Il possède X points tech et connaît les techniques de pouvoir suivantes :</p><p>À volonté : </p><p>1er-niveau : </p><p>2ème niveau : </p><p>3ème niveau : </p>"
+      "name": "Diffusion technique",
+      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> est un techcaster du Xème niveau. Sa capacité de techcasting est Intelligence (tech sauvegarde DD X, +X pour frapper avec les techniques de pouvoir).</p><p>Il possède X points tech et connaît les techniques de pouvoir suivantes :</p><p>À volonté : </p><p>1er-niveau : </p><p>2ème niveau : </p><p>3ème niveau : </p>"
     },
     "Villainous Hit Points": {
       "name": "Points de vie des méchants",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> dispose de plusieurs pools de points de vie, dont chacun est suivi séparément. Les dégâts et les soins ne s'appliquent qu'au pool de points de vie actuellement actif. Lorsqu’un pool est épuisé de tous ses points de vie, il devient inactif. Un seul pool peut être actif à la fois. Si un pool de points de vie est épuisé, le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> sauvegarde immédiatement toutes les conditions et effets en cours. Toutes les capacités pouvant être réinitialisées le font. Si toutes les réserves de points de vie sont inactives, <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> est tué. </p><p>Si <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> prend un repos long, il guérit complètement le pool actuellement actif et guérit complètement un pool épuisé.</p>"
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">{créature></span> dispose de plusieurs pools de points de vie, dont chacun est suivi séparément. Les dégâts et les soins ne s'appliquent qu'au pool de points de vie actuellement actif. Lorsqu’un pool est épuisé de tous ses points de vie, il devient inactif. Un seul pool peut être actif à la fois. Si un pool de points de vie est épuisé, le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> sauvegarde immédiatement toutes les conditions et effets en cours. Toutes les capacités pouvant être réinitialisées la police. Si toutes les réserves de points de vie sont inactives, <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> est tuée. </p><p>Si <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> prend un repos long, il guérit complètement le pool actuellement actif et guérit complètement un pool épuisé.</p>"
     },
     "Web Walker": {
-      "name": "Web Walker",
-      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature}</span> ignore les restrictions de mouvement causées par la sangle.</p>"
+      "name": "Marcheur Web",
+      "description": "<p>Le <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> ignore les restrictions de mouvement provoquées par la sangle.</p>"
     },
     "Battle Droid Swarm": {
-      "name": "Battle Droid Swarm",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">When an ally of the {creature} hits a hostile creature that it can see with a attaque d'arme, the {creature} can use its réaction to make one attaque d'arme, with disavantage, against cette créature.</span></p>"
+      "name": "Essaim de droïdes de combat",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Quand un allié de la {créature} frappe une créature hostile qu'elle peut voir avec une attaque d'arme, la {créature} peut utiliser son pour faire une attaque d'arme réaction, avec désavantage, contre cette créature.</span></p>"
     },
     "Tongue": {
-      "name": "Tongue",
-      "description": "<p>The <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span> targets one Small or smaller creature that it can see within 15 mètres of it. La cible must make a DD 12 Strength jet de sauvegarde. On a failed sauvegarde, la cible is pulled into an unoccupied space within 5 mètres of the <span style=\"font-family:'Open Sans', sans-serif\">{creature}</span>, and the <span style=\"font-family:'Open Sans', sans-serif\">{creature} </span>can make a bite attack against it as a action bonus.</p><p></p>"
+      "name": "Langue",
+      "description": "<p>La <span style=\"font-family:'Open Sans', sans-serif\">{créature></span> cible une créature de taille Petite ou plus petite qu'elle peut voir à moins de 15 mètres d'elle. La cible doit réaliser un jet de sauvegarde DD 12 Strength. En cas d'échec de la sauvegarde, la cible est attirée dans un espace inoccupé à moins de 5 mètres de la <span style=\"font-family:'Open Sans', sans-serif\">{créature></span>, et la <span style=\"font-family:'Open Sans', sans-serif\">{créature} </span>peut effectuer une attaque de morsure contre elle en guise de bonus d'action.</p><p></p>"
     },
     "Ambusher": {
-      "name": "Ambusher",
+      "name": "Embusqué",
       "description": "<p>Au premier round d'un combat, la {créature} a un avantage aux jets d'attaque contre toute créature qu'elle a surprise.</p>"
     },
     "Freedom of Movement": {
-      "name": "Freedom of Movement",
+      "name": "Liberté de mouvement",
       "description": "<p>La {créature} ignore les terrains difficiles et peut traverser les espaces hostiles occupés.</p>"
     },
     "Superior Aura of Command": {
-      "name": "Superior Aura of Command",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Friendly creatures that can see and hear the {creature} within 30 mètres of it add a +2 bonus to their attack and jet de dégâtss. Cet effet ends if the </span><span style=\"font-family:'Open Sans', sans-serif\"> {creature}</span><span style=\"font-family:'Open Sans', sans-serif\"> is incapacitated.</span></p>"
+      "name": "Aura de commandement supérieure",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Les créatures amies qui peuvent voir et entendre la {créature} à moins de 30 mètres d'elle ajoutent un bonus de +2 à leur attaque et à leur jet de dégâts. Cet effet prend fin si la </span><span style=\"font-family:'Open Sans', sans-serif\"> {créature></span><span style=\"font-family:'Open Sans', sans-serif\"> est frappée d'incapacité.</span></p>"
     },
     "Bioluminescent": {
       "name": "Bioluminescent",
-      "description": "<p>The {creature} either emits dim light in a rayon de 3 mètres, or bright light in a rayon de 3 mètres and dim light for an additional 10 ft.. It can switch between the options as a action bonus.</p>"
+      "description": "<p>La {créature} émet soit une lumière faible dans un rayon de 3 mètres, soit une lumière vive dans un rayon de 3 mètres et une lumière faible sur 10 pieds supplémentaires. Elle peut basculer entre les options en guise de bonus d'action.</p>"
     },
     "Keen Smell": {
-      "name": "Keen Smell",
-      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui reposent sur l'odorat.</p>"
+      "name": "Odeur vive",
+      "description": "<p>La {créature} a un avantage aux tests de Sagesse (Perception) qui repose sur l'odorat.</p>"
     }
   },
   "mapping": {

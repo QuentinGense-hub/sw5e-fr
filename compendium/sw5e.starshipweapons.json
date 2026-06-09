@@ -3,14 +3,14 @@
   "entries": {
     "Conner Net (mine)": {
       "name": "Conner Net (mine)",
-      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Upon detonation, a conner net deploys on la cible, which must make a Constitution jet de sauvegarde (DD 15). On a failed sauvegarde, the ship is étourdi pendant 1 minute. As an action on each of their turns, a crew member can have the ship repeat the jet de sauvegarde, ending the effect on a success.</p>"
+      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Lors de la détonation, un filet conner se déploie sur la cible, qui doit effectuer un jet de sauvegarde de Constitution (DD 15). Sur une sauvegarde ratée, le navire est étourdi pendant 1 minute. Par une action à chacun de ses tours, un membre de l'équipage peut faire répéter au navire le jet de sauvegarde, mettant ainsi fin à l'effet en cas de réussite.</p>"
     },
     "Heavy slug railgun": {
-      "name": "Heavy slug railgun",
+      "name": "Canon à rail à obus lourds",
       "description": "Puissance (plage 2400/9600), con. 17, surchauffe 2"
     },
     "Assault laser cannon": {
-      "name": "Assault laser cannon",
+      "name": "Canon laser d'assaut",
       "description": "Puissance (plage 1200/4800), constitution 15, surchauffe 2"
     },
     "Ordnance point-defense": {
@@ -18,35 +18,35 @@
       "description": "Puissance (plage 300/1200), explosive, saturée, zone"
     },
     "Proton Bomb": {
-      "name": "Proton Bomb",
-      "description": "<p>2100 (4200) cr</p><p>32 (65) lb</p><p>When a proton bomb detonates, each ship within 100 [200] mètres must make a Dexterity jet de sauvegarde (DD 15). A ship takes 4d10 [8d10] energy dégâts on a failed sauvegarde, or half as much on a successful one.</p>"
+      "name": "Bombe à protons",
+      "description": "<p>2100 (4200) cr</p><p>32 (65) lb</p><p>Lorsqu'une bombe à protons explose, chaque navire à moins de 100 [200] mètres doit effectuer un jet de sauvegarde de Dextérité (DD 15). Un vaisseau subit 4d10 [8d10] dégâts d'énergie en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite.</p>"
     },
     "Adv. Cluster Missile": {
-      "name": "Adv. Cluster Missile",
+      "name": "Missile à fragmentation av.",
       "description": "<p> (portée 600/2 400), automatique, rafale 6, explosif, rapide 6</p> <p>20 (40) lb</p> <p>3d6 (6d6) cinétique</p>"
     },
     "Conner Net (missile)": {
       "name": "Conner Net (missile)",
-      "description": "<p>(Range 600/2400), special</p>\n<p>85 (170) lb</p>\n<p>On a failed jet de sauvegarde for a missile, a conner net deploys on la cible, which must make a Constitution jet de sauvegarde (DD 15). On a failed sauvegarde, the ship is étourdi pendant 1 minute. As an action on each of their turns, a crew member can have the ship repeat the jet de sauvegarde, ending the effect on a success.</p>"
+      "description": "<p>(Gamme 600/2400), spécial</p>\n<p>85 (170) lb</p>\n<p>Sur un jet de sauvegarde de missile défaillant, un conner net se déploie sur la cible, qui doit réaliser un jet de sauvegarde Constitution (DD 15). Sur une sauvegarde ratée, le navire est étourdi pendant 1 minute. Par une action à chacun de ses tours, un membre de l'équipage peut faire répéter au navire le jet de sauvegarde, mettant ainsi fin à l'effet en cas de réussite.</p>"
     },
     "Rapid-fire turbolaser battery": {
-      "name": "Rapid-fire turbolaser battery",
+      "name": "Batterie turbolaser à tir rapide",
       "description": "Puissance (plage 400/1600), automatique, rafale 16, surchauffe 16, rapide 4"
     },
     "Burst laser cannon": {
-      "name": "Burst laser cannon",
+      "name": "Canon laser éclaté",
       "description": "<p>Puissance (plage 200/800), automatique, rafale 2, surchauffe 2, saturation</p>"
     },
     "Heavy blaster cannon": {
-      "name": "Heavy blaster cannon",
+      "name": "Canon blaster lourd",
       "description": "Puissance (plage 600/2400), lourde, surchauffe 12"
     },
     "Ion railgun": {
-      "name": "Ion railgun",
+      "name": "Canon à rail ionique",
       "description": "Puissance (plage 1000/4000), constitution 17, ionisante, surchauffe 4"
     },
     "Heavy laser cannon": {
-      "name": "Heavy laser cannon",
+      "name": "Canon laser lourd",
       "description": "Puissance (plage 1200/4800), constitution 15, lourde, surchauffe 2"
     },
     "Turbolaser": {
@@ -54,87 +54,87 @@
       "description": "Puissance (plage 1000/4000), constitution 13, surchauffe 4"
     },
     "Twin auto-blaster": {
-      "name": "Twin auto-blaster",
+      "name": "Double auto-blaster",
       "description": "Puissance (plage 250/1000), automatique, rafale 10, cachée, surchauffe 20, rapide 5"
     },
     "S-Thread Tracer": {
-      "name": "S-Thread Tracer",
+      "name": "Traceur S-Thread",
       "description": "<p>(Portée 1200/4800), spécial</p> <p>50 (100) lb</p> <p>Sur un jet de sauvegarde en panne, le missile verrouille un traceur S-thread sur la cible. Lors d'un test d'Intelligence (Sonde) pour détecter le déplacement hyperspatial du vaisseau à filetage S, son angle de départ peut être détecté sur un jet de 15 au lieu de 25.</p>"
     },
     "Adv. Concussion Missile": {
-      "name": "Adv. Concussion Missile",
+      "name": "Missile de commotion av.",
       "description": "<p> (Plage 800/3 200), automatique, rafale 1, explosif, rapide 1</p> <p>125 (250) lb</p> <p>2d10 (4d10) énergie</p>"
     },
     "Torpedo launcher": {
-      "name": "Torpedo launcher",
-      "description": "Ammunition reload 4"
+      "name": "Lance-torpilles",
+      "description": "Rechargement de munitions 4"
     },
     "Light ion battery": {
-      "name": "Light ion battery",
+      "name": "Batterie aux ions légers",
       "description": "Puissance (plage 800/3200), surchauffe 16"
     },
     "Long-range turbolaser battery": {
       "name": "Batterie turbolaser longue portée",
-      "description": "Puissance (plage 2400/9600), con. 15, surchauffe 2"
+      "description": "Puissance (plage 2400/9600), con. 15, chauffe 2"
     },
     "Seismic Charge": {
-      "name": "Seismic Charge",
-      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>When a seismic charge detonates, each ship within 150 [300] mètres must make a Dexterity jet de sauvegarde (DD 15). A ship takes 1d10 [2d10] kinetic dégâts on a failed sauvegarde, or half as much on a successful one.</p>"
+      "name": "Charge sismique",
+      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Lorsqu'une charge sismique explose, chaque navire à moins de 150 [300] mètres doit effectuer un jet de sauvegarde de Dextérité (DD 15). Un vaisseau subit 1d10 [2d10] dégâts cinétiques en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite.</p>"
     },
     "Slug cannon": {
-      "name": "Slug cannon",
+      "name": "Canon à obus",
       "description": "Puissance (plage 600/2400), constitution 11, dire 1, surchauffe 4"
     },
     "Ion battery": {
-      "name": "Ion battery",
+      "name": "Batterie ionique",
       "description": "Puissance (plage 800/3200), con. 13, ionisant, surchauffe 8"
     },
     "Heavy thermite railgun": {
-      "name": "Heavy thermite railgun",
+      "name": "Canon à rail thermite lourd",
       "description": "Puissance (plage 2400/9600), con. 19, fondre, surchauffer 2"
     },
     "Slug railgun": {
-      "name": "Slug railgun",
+      "name": "Canon à rail à obus",
       "description": "Puissance (plage 1200/4800), constitution 15, surchauffe 2"
     },
     "Twin turbolaser battery": {
-      "name": "Twin turbolaser battery",
+      "name": "Batterie double turbolaser",
       "description": "Puissance (plage 600/2400), con. 11, rapide 3, surchauffe 12"
     },
     "Heavy turbolaser battery": {
-      "name": "Heavy turbolaser battery",
+      "name": "Batterie turbolaser lourde",
       "description": "Puissance (plage 1200/4800), con. 15, lourd, surchauffe 2"
     },
     "Cluster pod launcher": {
-      "name": "Cluster pod launcher",
-      "description": "Ammunition, reload 12"
+      "name": "Lanceur de modules de cluster",
+      "description": "Munitions, rechargement 12"
     },
     "Double laser cannon": {
-      "name": "Double laser cannon",
+      "name": "Canon laser double",
       "description": "Puissance (plage 800/3200), surchauffe 8"
     },
     "Quad pulse laser": {
-      "name": "Quad pulse laser",
+      "name": "Laser à quatre impulsions",
       "description": "Puissance (plage 400/1600), surchauffe 16, rapide 4"
     },
     "Heavy ion cannon": {
-      "name": "Heavy ion cannon",
+      "name": "Canon ionique lourds",
       "description": "Puissance (plage 1000/4000), constitution 17, lourde, ionisante, surchauffe 4"
     },
     "Heavy gun battery": {
-      "name": "Heavy gun battery",
+      "name": "Batterie de canons lourds",
       "description": "Puissance (plage 400/1600), con. 17, surchauffe 1, vicieux 1"
     },
     "Light laser cannon": {
-      "name": "Light laser cannon",
+      "name": "Canon laser léger",
       "description": "Puissance (plage 800/3200), surchauffe 16"
     },
     "Homing Cluster Missile": {
-      "name": "Homing Cluster Missile",
+      "name": "Missile à grappes à tête chercheuse",
       "description": "<p> (portée 600/2 400), automatique, rafale 6, explosif, à tête chercheuse, rapide 6</p> <p>15 (30) lb</p> <p>3d4 (6d4) cinétique</p>"
     },
     "Plasburst turbolaser battery": {
-      "name": "Plasburst turbolaser battery",
+      "name": "Batterie turbolaser Plasburst",
       "description": "Puissance (plage 600/2400), rafale 12, surchauffe 12"
     },
     "Laser cannon point-defense": {
@@ -142,119 +142,119 @@
       "description": "Puissance (plage 300/1200), saturation, zone"
     },
     "Ion cannon": {
-      "name": "Ion cannon",
+      "name": "Canon ionique",
       "description": "Puissance (plage 800/3200), constitution 13, ionisante, surchauffe 8"
     },
     "Thermite battery": {
-      "name": "Thermite battery",
+      "name": "Batterie thermite",
       "description": "Puissance (plage 1200/4800), con. 17, fondre, surchauffer 2"
     },
     "Light ion cannon": {
-      "name": "Light ion cannon",
+      "name": "Canon ionique légers",
       "description": "Puissance (plage 800/3200), surchauffe 16"
     },
     "Burst turbolaser battery": {
-      "name": "Burst turbolaser battery",
+      "name": "Batterie turbolaser éclatée",
       "description": "<p>Puissance (plage 200/800), automatique, rafale 2, surchauffe 2, saturation</p>"
     },
     "Plasma Torpedo": {
-      "name": "Plasma Torpedo",
+      "name": "Torpille à plasma",
       "description": "<p>(Plage 1200/4800), vicieux 1</p> <p>70 (140) lb</p> <p>2d12 (4d12) ion</p>"
     },
     "Quad pulse turbolaser battery": {
-      "name": "Quad pulse turbolaser battery",
+      "name": "Batterie turbolaser à quatre impulsions",
       "description": "Puissance (plage 400/1600), surchauffe 16, rapide 4"
     },
     "Plasburst laser cannon": {
-      "name": "Plasburst laser cannon",
+      "name": "Canon laser Plasburst",
       "description": "Puissance (plage 600/2400), rafale 12, surchauffe 12"
     },
     "Heavy ion railgun": {
-      "name": "Heavy ion railgun",
+      "name": "Canon à rail à ions lourds",
       "description": "Puissance (plage 2000/8000), con. 19, ionisant, surchauffe 4"
     },
     "Flechette Torpedo": {
-      "name": "Flechette Torpedo",
-      "description": "<p>(Range 600/2400), special</p>\n<p>85 (170) lb</p>\n<p>A Flechette torpedo detonates at a point within range, creating a 200 (400) foot cube of difficult terrain. Any ship entering or starting their turn in this area must succeed at a Dexterity jet de sauvegarde (DD 15) or take 1d8 [2d8] kinetic dégâts.</p>"
+      "name": "Torpille Fléchette",
+      "description": "<p>(Gamme 600/2400), spécial</p>\n<p>85 (170) lb</p>\n<p>Une torpille Fléchette explose à un point à portée, créant un cube de 200 (400) pieds de terrain difficile. Tout navire entrant ou commençant son tour dans cette zone doit réussir un jet de sauvegarde de Dextérité (DD 15) ou subir 1d8 [2d8] dégâts cinétiques.</p>"
     },
     "Assault cluster pod launcher": {
-      "name": "Assault cluster pod launcher",
-      "description": "Ammunition, reload 24"
+      "name": "Lanceur de pods de cluster d'assaut",
+      "description": "Munitions, rechargement 24"
     },
     "Sparkler ion cannon": {
-      "name": "Sparkler ion cannon",
+      "name": "Canon ionique Sparkler",
       "description": "<p>Puissance (plage 200/800), automatique, rafale 2, ionisante, surchauffe 1, saturation</p>"
     },
     "Pulse Bomb": {
-      "name": "Pulse Bomb",
-      "description": "<p>2300 (4600) cr</p><p>35 (70) lb</p><p>When a pulse bomb detonates, each ship within 200 [400] mètres must make a Constitution jet de sauvegarde (DD 15). A ship takes 2d10 [4d10] ion dégâts on a failed sauvegarde, or half as much on a successful one. De plus, on a failed sauvegarde, it is ionized pendant 1 minute. As an action on each of their turns, a crew member can have the ship repeat the jet de sauvegarde, ending the effect on a success. Ships larger than you have avantage on their jet de sauvegarde.</p>"
+      "name": "Bombe à impulsion",
+      "description": "<p>2300 (4600) cr</p><p>35 (70) lb</p><p>Lorsqu'une bombe à impulsion explose, chaque navire à moins de 200 [400] mètres doit effectuer un jet de sauvegarde Constitution (DD 15). Un vaisseau subit 2d10 [4d10] dégâts ioniques en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite. De plus, sur une sauvegarde ratée, il est ionisé pendant 1 minute. Par une action à chacun de ses tours, un membre de l'équipage peut demander au navire de répéter le jet de sauvegarde, mettant ainsi fin à l'effet en cas de réussite. Les navires plus gros que vous bénéficient d’un avantage sur leur jet de sauvegarde.</p>"
     },
     "Pulse turbolaser battery": {
-      "name": "Pulse turbolaser battery",
+      "name": "Batterie turbolaser à impulsions",
       "description": "Puissance (plage 500/2000), vif 1, perçant 1, surchauffe 20"
     },
     "Adv. Homing Cluster Missile": {
-      "name": "Adv. Homing Cluster Missile",
+      "name": "Missile à grappes autoguidé av.",
       "description": "<p> (portée 600/2 400), automatique, rafale 6, explosif, à tête chercheuse, rapide 6</p> <p>25 (50) lb</p> <p>3d6 (6d6) cinétique</p>"
     },
     "Discord Missile": {
-      "name": "Discord Missile",
-      "description": "<p>(Range 600/2400), special</p>\n<p>85 (170) lb</p>\n<p>On a failed jet de sauvegarde, the missile deploys pistoeka sabotage or \"buzz\" droids on la cible. At the end of each of la cible ship's turns, la cible ship gains one niveau of system dégâts. As an action on each of their turns, a crew member can have the ship attempt their choice of a dexterity or constitution jet de sauvegarde (DD 15), ending the effect on a success.</p>"
+      "name": "Missile Discorde",
+      "description": "<p>(Gamme 600/2400), spécial</p>\n<p>85 (170) lb</p>\n<p>Sur un jet de sauvegarde en panne, le missile déploie des droïdes de sabotage pistoeka ou \"buzz\" sur la cible. A la fin de chacun des tours du navire cible, le navire cible gagne un niveau de dégâts du système. Par une action à chacun de ses tours, un membre de l'équipage peut faire tenter au navire un jet de sauvegarde de dextérité ou de constitution (DD 15) de son choix, mettant fin à l'effet en cas de réussite.</p>"
     },
     "EMP Bomb": {
-      "name": "EMP Bomb",
-      "description": "<p>2300 (4600) cr</p><p>45 (90) lb</p><p>When an EMP bomb detonates, each ship within 150 [300] mètres must make a Constitution jet de sauvegarde (DD 15). On a failed sauvegarde, a ship is étourdi pendant 1 minute. As an action on each of their turns, a crew member can have the ship repeat the jet de sauvegarde, ending the effect on a success.</p>"
+      "name": "Bombe EMP",
+      "description": "<p>2300 (4600) cr</p><p>45 (90) lb</p><p>Lorsqu'une bombe EMP explose, chaque navire à moins de 150 [300] mètres doit effectuer un jet de sauvegarde Constitution (DD 15). Sur une sauvegarde ratée, un navire est étourdi pendant 1 minute. Par une action à chacun de ses tours, un membre de l'équipage peut faire répéter au navire le jet de sauvegarde, mettant ainsi fin à l'effet en cas de réussite.</p>"
     },
     "Rocket pod launcher": {
-      "name": "Rocket pod launcher",
-      "description": "<p>Ammunition, reload 12</p>"
+      "name": "Lance-roquettes",
+      "description": "<p>Munitions, rechargement 12</p>"
     },
     "Turbolaser battery": {
-      "name": "Turbolaser battery",
-      "description": "Puissance (plage 1000/4000), con. 11, surchauffe 4"
+      "name": "Batterie turbolaser",
+      "description": "Puissance (plage 1000/4000), con. 11, chauffe 4"
     },
     "Twin laser cannon": {
-      "name": "Twin laser cannon",
+      "name": "Canon laser double",
       "description": "Puissance (plage 600/2400), constitution 11, rapide 3, surchauffe 12"
     },
     "Particle cannon": {
-      "name": "Particle cannon",
-      "description": "Puissance (plage 1600/6400), con. 13, surchauffe 4"
+      "name": "Canon à particules",
+      "description": "Puissance (plage 1600/6400), con. 13, chauffe 4"
     },
     "Thermite railgun": {
-      "name": "Thermite railgun",
+      "name": "Canon à rail à thermite",
       "description": "Puissance (plage 1200/4800), constitution 17, fusion, surchauffe 2"
     },
     "Pulse laser cannon": {
-      "name": "Pulse laser cannon",
+      "name": "Canon laser à impulsion",
       "description": "Puissance (plage 500/2000), vif 1, perçant 1, surchauffe 20"
     },
     "Particle beam": {
-      "name": "Particle beam",
+      "name": "Faisceau de particules",
       "description": "Puissance (plage 800/3200), constitution 11, surchauffe 4"
     },
     "Blaster cannon": {
-      "name": "Blaster cannon",
+      "name": "Canon blaster",
       "description": "Puissance (plage 600/2400), cachée, surchauffe 18, rapide 9"
     },
     "Silent Thunder Missile": {
-      "name": "Silent Thunder Missile",
+      "name": "Missile Tonnerre Silencieux",
       "description": "<p> (Gamme 1 200/4 800), explosif</p> <p>150 (300) lb</p> <p>4d10 (8d10) énergie</p>"
     },
     "Assault missile launcher": {
-      "name": "Assault missile launcher",
-      "description": "Ammunition, reload 8"
+      "name": "Lanceur de missiles d'assaut",
+      "description": "Munitions, rechargement 8"
     },
     "Quad laser cannon": {
-      "name": "Quad laser cannon",
+      "name": "Canon laser quadruple",
       "description": "Puissance (plage 800/3200), constitution 13, surchauffe 8, rapide 2"
     },
     "Cluster Missile": {
-      "name": "Cluster Missile",
+      "name": "Missile à fragmentation",
       "description": "<p> (portée 600/2 400), automatique, rafale 6, explosif, rapide 6</p> <p>10 (20) lb</p> <p>3d4 (6d4) cinétique</p>"
     },
     "Thermite cannon": {
-      "name": "Thermite cannon",
+      "name": "Canon à thermite",
       "description": "Puissance (plage 1200/4800), constitution 17, fusion, surchauffe 2"
     },
     "Ion cannon point-defense": {
@@ -262,11 +262,11 @@
       "description": "Puissance (plage 300/1200), ionisante, saturée, zone"
     },
     "Heavy ion battery": {
-      "name": "Heavy ion battery",
+      "name": "Batterie aux ions lourds",
       "description": "Puissance (plage 1000/4000), con. 17, lourd, ionisant, surchauffe 4"
     },
     "Ion Pulse Missile": {
-      "name": "Ion Pulse Missile",
+      "name": "Missile à impulsion ionique",
       "description": "<p> (plage 1 000/4 000), ionisant</p> <p>70 (140) lb</p> <p>2d10 (4d10) ion</p>"
     },
     "Blaster point-defense": {
@@ -274,96 +274,96 @@
       "description": "Puissance (plage 200/800), saturation, zone"
     },
     "Gravity Mine": {
-      "name": "Gravity Mine",
-      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Rather than exploding on contact, gravity mines detonate any time a ship comes within range of it. When a gravity mine detonates, it creates a mass shadow centered on the point of detonation with a radius of 50 [100] mètres that lasts for 10 minutes. Any ships contacting this mass shadow are unable to activate their hyperdrives.</p>"
+      "name": "Mine gravitationnelle",
+      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Plutôt que d'exploser au contact, les mines à gravité explosent à chaque fois qu'un navire s'approche d'elles. Lorsqu'une mine à gravité explose, elle crée une ombre massive centrée sur le point de détonation avec un rayon de 50 [100] mètres qui dure 10 minutes. Tous les vaisseaux entrant en contact avec cette ombre de masse sont incapables d'activer leurs hyperpropulseurs.</p>"
     },
     "Thermite Torpedo": {
-      "name": "Thermite Torpedo",
-      "description": "<p>(Plage 1200/4800), fondre, vif 1</p> <p>70 (140) lb</p> <p>2d10 (4d10) fire</p>"
+      "name": "Torpille de thermite",
+      "description": "<p>(Plage 1200/4800), fondre, vif 1</p> <p>70 (140) lb</p> <p>2d10 (4d10) feu</p>"
     },
     "Homing Torpedo": {
-      "name": "Homing Torpedo",
-      "description": "<p> (portée 1 200/4 800), explosif, à tête chercheuse</p> <p>25 (50) lb</p> <p>1d12 (2d12) énergie</p>"
+      "name": "Torpille à tête chercheuse",
+      "description": "<p> (portée 1 200/4 800), explosive, à tête chercheuse</p> <p>25 (50) lb</p> <p>1d12 (2d12) énergie</p>"
     },
     "Rapid-fire laser cannon": {
-      "name": "Rapid-fire laser cannon",
+      "name": "Canon laser à tir rapide",
       "description": "Puissance (plage 400/1600), automatique, rafale 16, surchauffe 16, rapide 4"
     },
     "Assault turbolaser battery": {
-      "name": "Assault turbolaser battery",
-      "description": "Puissance (plage 1200/4800), con. 15, surchauffe 2"
+      "name": "Batterie turbolaser d'assaut",
+      "description": "Puissance (plage 1200/4800), con. 15, chauffe 2"
     },
     "Light turbolaser battery": {
-      "name": "Light turbolaser battery",
+      "name": "Batterie turbolaser légère",
       "description": "Puissance (plage 800/3200), surchauffe 16"
     },
     "Quad turbolaser battery": {
-      "name": "Quad turbolaser battery",
+      "name": "Batterie quadruple turbolaser",
       "description": "Puissance (plage 800/3200), con. 13, surchauffe 8, rapide 2"
     },
     "Assault rocket pod launcher": {
-      "name": "Assault rocket pod launcher",
-      "description": "<p>Ammunition, reload 24</p>"
+      "name": "Lanceur de fusées d'assaut",
+      "description": "<p>Munitions, rechargement 24</p>"
     },
     "Glop Bomb": {
-      "name": "Glop Bomb",
-      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>When a glop bomb detonates, each ship within 50 [100] mètres must make a Dexterity jet de sauvegarde (DD 15). On a failed sauvegarde, a ship is aveuglé pendant 1 minute. As an action on each of their turns, a crew member can have the ship repeat the jet de sauvegarde, ending the effect on a success. Ships larger than you have avantage on their jet de sauvegarde.</p>"
+      "name": "Bombe Glop",
+      "description": "<p>2000 (4000) cr</p><p>30 (60) lb</p><p>Lorsqu'une bombe glop explose, chaque navire à moins de 50 [100] mètres doit effectuer un jet de sauvegarde de Dextérité (DD 15). Sur une sauvegarde ratée, un navire est aveuglé pendant 1 minute. Par une action à chacun de ses tours, un membre de l'équipage peut demander au navire de répéter le jet de sauvegarde, mettant ainsi fin à l'effet en cas de réussite. Les navires plus gros que vous bénéficient d’un avantage sur leur jet de sauvegarde.</p>"
     },
     "Bomblet": {
-      "name": "Bomblet",
-      "description": "<p>1200 (2400) cr</p><p>16 (32) lb</p><p>When a bomblet detonates, each ship within 50 [100] mètres must make a Dexterity jet de sauvegarde (DD 15). A ship takes 1d10 [2d10] energy dégâts on a failed sauvegarde, or half as much on a successful one.</p>"
+      "name": "Bombelette",
+      "description": "<p>1200 (2400) cr</p><p>16 (32) lb</p><p>Lorsqu'une bombette explose, chaque navire à moins de 50 [100] mètres doit effectuer un jet de sauvegarde de Dextérité (DD 15). Un vaisseau subit 1d10 [2d10] dégâts d'énergie en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite.</p>"
     },
     "Nano Cluster Rocket": {
-      "name": "Nano Cluster Rocket",
+      "name": "Fusée à nano-amas",
       "description": "<p> (portée 800/3 200), explosif, autodirecteur</p> <p>10 (20) lb</p> <p>1d4 (2d4) cinétique</p>"
     },
     "Concussion Missile": {
-      "name": "Concussion Missile",
+      "name": "Missile de commotion",
       "description": "<p> (portée 600/2 400), automatique, rafale 1, explosif, rapide 1</p> <p>75 (150) lb</p> <p>2d8 (4d8) énergie</p>"
     },
     "Proton Torpedo": {
-      "name": "Proton Torpedo",
+      "name": "Torpille à protons",
       "description": "<p>(Gamme 1200/4800), explosif, vif 1</p><p>65 (130) lb</p><p>2d10 (4d10) énergie</p>"
     },
     "Gravity Bomb": {
-      "name": "Gravity Bomb",
-      "description": "<p>2200 (4400) cr</p><p>40 (80) lb</p><p>Rather than exploding on contact, gravity bombs detonate any time a ship comes within range of it. When a gravity bomb detonates, it attaches itpersonnelle to the closest ship hull within 50 [100] mètres, creating a mass shadow centered on the ship with a radius of 50 mètres that lasts for 10 minutes. A ship can attempt to dislodge the gravity bomb at the beginning of each ship turn by making a Strength jet de sauvegarde (DD 15). Any Large or smaller [Gargantuan or smaller] ships with an attached gravity bomb are unable to activate their hyperdrives.</p>"
+      "name": "Bombe gravitationnelle",
+      "description": "<p>2200 (4400) cr</p><p>40 (80) lb</p><p>Plutôt que d'exploser au contact, les bombes gravitationnelles explosent à chaque fois qu'un vaisseau arrive à sa portée. Lorsqu'une bombe gravitationnelle explose, elle l'attache personnellement à la coque du navire la plus proche dans un rayon de 50 [100] mètres, créant une ombre de masse centrée sur le navire avec un rayon de 50 mètres qui dure 10 minutes. Un navire peut tenter de déloger la bombe gravitationnelle au début de chaque tour du navire en effectuant un jet de sauvegarde de Force (DD 15). Tous les vaisseaux de grande taille ou plus petits [Gargantuesque ou plus petits] équipés d'une bombe gravitationnelle attachée ne peuvent pas activer leurs hyperpropulseurs.</p>"
     },
     "Bomb deployer": {
-      "name": "Bomb deployer",
-      "description": "Ammunition, reload 4"
+      "name": "Déployeur de bombes",
+      "description": "Munitions, rechargement 4"
     },
     "Assault torpedo launcher": {
-      "name": "Assault torpedo launcher",
-      "description": "Ammunition reload 8"
+      "name": "Lance-torpilles d'assaut",
+      "description": "Rechargement de munitions 8"
     },
     "Double turbolaser battery": {
-      "name": "Double turbolaser battery",
+      "name": "Batterie double turbolaser",
       "description": "Puissance (plage 800/3200), surchauffe 8"
     },
     "Proton Rocket": {
-      "name": "Proton Rocket",
+      "name": "Fusée à protons",
       "description": "<p>(Portée 200/800), explosif, vicieux 1</p> <p>95 (190) lb</p> <p>10d4 (20d4) cinétique</p>"
     },
     "Proximity Mine": {
-      "name": "Proximity Mine",
-      "description": "<p>2200 (4400) cr</p><p>32 (65) lb</p><p>Rather than exploding on contact, proximity mines detonate any time a ship comes within range of it. When a proximity mine detonates, each ship within 100 [200] mètres must make a Dexterity jet de sauvegarde (DD 15). A ship takes 2d10 [4d10] fire dégâts on a failed sauvegarde, or half as much on a successful one.</p>"
+      "name": "Mine de proximité",
+      "description": "<p>2200 (4400) cr</p><p>32 (65) lb</p><p>Plutôt que d'exploser au contact, les mines de proximité explosent chaque fois qu'un navire arrive à leur portée. Lorsqu'une mine de proximité explose, chaque navire dans un rayon de 100 [200] mètres doit effectuer un jet de sauvegarde de Dextérité (DD 15). Un vaisseau subit 2d10 [4d10] dégâts de feu en cas d'échec d'une sauvegarde, ou la moitié en cas de réussite.</p>"
     },
     "Advanced Proton Torpedo": {
-      "name": "Advanced Proton Torpedo",
+      "name": "Torpille à protons avancée",
       "description": "<p>(Gamme 800/3200), explosif, vif 1</p> <p>85 (170) lb</p> <p>2d12 (4d12) énergie</p>"
     },
     "Laser cannon": {
-      "name": "Laser cannon",
+      "name": "Canon laser",
       "description": "Puissance (plage 1000/4000), constitution 11, surchauffe 4"
     },
     "Bomb layer": {
-      "name": "Bomb layer",
-      "description": "Ammunition, reload 8"
+      "name": "Poseur de bombes",
+      "description": "Munitions, rechargement 8"
     },
     "Missile launcher": {
-      "name": "Missile launcher",
-      "description": "Ammunition, reload 4"
+      "name": "Lanceur de missiles",
+      "description": "Munitions, rechargement 4"
     }
   },
   "mapping": {

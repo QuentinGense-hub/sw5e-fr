@@ -1,23 +1,23 @@
 {
-  "label": "Gaming Sets",
+  "label": "Jeux de société",
   "entries": {
     "Pazaak deck": {
-      "name": "Pazaak deck"
+      "name": "Jeux de société"
     },
     "Dejarik set": {
-      "name": "Dejarik set"
+      "name": "Jeu de Dejarik"
     },
     "Kirgatz set": {
-      "name": "Kirgatz set"
+      "name": "Jeu de Kirgatz"
     },
     "Chatta-ragul set": {
-      "name": "Chatta-ragul set"
+      "name": "Jeu de Chatta-ragul"
     },
     "Sabacc deck": {
-      "name": "Sabacc deck"
+      "name": "Paquet de Sabacc"
     },
     "Chance cubes": {
-      "name": "Chance cubes"
+      "name": "Cubes de chance"
     }
   },
   "mapping": {

@@ -14,7 +14,7 @@
       "description": "<p>L'hyperdrive est un système de propulsion qui permet à un vaisseau spatial d'atteindre l'hypervitesse et de traverser le vide entre les étoiles dans la dimension alternative de l'hyperespace. Pour qu'un vaisseau spatial ait un hyperdrive, il doit avoir une modification d'emplacement d'hyperdrive vacant.</p>"
     },
     "Ionization Reactor": {
-      "name": "Ionization Reactor",
+      "name": "Réacteurs d'ionisation",
       "description": "<p>Les réacteurs d'ionisation sont des réacteurs très économes en carburant qui échangent la puissance de sortie contre des économies de carburant.</p>"
     },
     "Hyperdrive, Class 2": {

@@ -2,73 +2,57 @@
   "label": "Starship Actions",
   "entries": {
     "Boost Weapons": {
-      "name": "Boost Weapons",
-      "description": "<p>You can attempt to boost your weapon output. When you take the Boost Weapons action, the next time this turn your ship deals dégâts, you make a DD 10 Strength (Boost) check. On a success, you have avantage on the jet de dégâts.</p>"
-    },
+      "name": "Boost d'armes",
+      "description": "<p>Vous pouvez tenter d'augmenter la puissance de vos armes. Lorsque vous utilisez l'action Augmenter les armes, la prochaine fois que votre vaisseau inflige des dégâts pendant ce tour, vous effectuez un test de Force (Augmentation) DD 10. En cas de réussite, vous avez l'avantage au jet de dégâts.</p>"},
     "Boost Shields": {
-      "name": "Boost Shields",
-      "description": "<p>Vous pouvez tenter de renforcer vos boucliers. Lorsque vous effectuez l'action Boost Shields, vous effectuez un test de Force (Boost) DD 10. En cas de réussite, vous lancez un dé de bouclier, sans le dépenser, et gagnez des points de bouclier temporaires égaux au résultat qui durent jusqu'au début du prochain tour de votre vaisseau.</p>"
-    },
+      "name": "Boost de bouclier",
+      "description": "<p>Vous pouvez tenter de renforcer vos boucliers. Lorsque vous effectuez l'action Boost Shields, vous effectuez un test de Force (Boost) DD 10. En cas de réussite, vous lancez un dé de bouclier, sans le dépenser, et gagnez des points de boucliers temporaires égaux au résultat qui durent jusqu'au début du prochain tour de votre vaisseau.</p>" },
     "Boost Engines": {
-      "name": "Boost Engines",
-      "description": "<p>Vous pouvez tenter d'augmenter votre vitesse. Lorsque vous effectuez l'action Boost Engines, vous effectuez un test de Force (Boost) DD 10. En cas de réussite, vous augmentez votre vitesse de 50 jusqu'à la fin du prochain tour de votre vaisseau.</p>"
-    },
+      "name": "Boost des moteurs",
+      "description": "<p>Vous pouvez tenter d'augmenter votre vitesse. Lorsque vous effectuez l'action Boost Engines, vous effectuez un test de Force (Boost) DD 10. En cas de réussite, vous augmentez votre vitesse de 50 jusqu'à la fin du prochain tour de votre vaisseau.</p>"   },
     "Interfere": {
-      "name": "Interfere",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">You can attempt to interfere with another creature within 1,000 mètres, in the attempt of a task. When you take the Interfere action, you make a Charisma (Interfere) check contested by la cible's Wisdom (Scan) check. Si vous réussissez, the subject has disavantage on the next test de caractéristique or attack roll it makes before the start of your next turn. The Interfere action can be taken multiple times on a ship's turn.</span></p>"
-    },
+      "name": "Interférance",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Vous pouvez tenter d'interférer avec une autre créature située à moins de 1 000 mètres, dans le cadre d'une tâche. Lorsque vous utilisez l'action Interférer, vous effectuez un test de Charisme (Interférer) opposé à un test de Sagesse (Analyse) de la cible. En cas de succès, la cible subit un désavantage au prochain test de caractéristique ou jet d'attaque qu'elle effectue avant le début de votre prochain tour. L'action Interférer peut être utilisée plusieurs fois pendant le tour d'un navire.</span></p>" },
     "Hard Turn": {
       "name": "Virage dur",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous effectuez l'action Hard Turn, vous incitez votre vaisseau à effectuer une manœuvre serrée, en le faisant pivoter de 90 degrés sans dépenser aucune de votre vitesse de vol.</span></p>"
-    },
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous effectuez l'action Hard Turn, vous incitez votre vaisseau à effectuer une manœuvre serrée, en le faisant pivoter de 90 degrés sans perdre aucune de votre vitesse de vol.</span></p>"   },
     "Dogfight": {
       "name": "Dogfight",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous engagez un seul ennemi, vous vous esquivez et vous esquivez, rivalisant pour obtenir un bon tir tout en évitant le leur. Vous choisissez une cible et effectuez un test de Dextérité (Manœuvre) opposé. En cas de réussite, vous faites subir un désavantage à la prochaine attaque effectuée contre votre vaisseau par la cible, mais vous accordez un avantage à la prochaine attaque effectuée contre votre vaisseau par une cible différente. De plus, vous pouvez effectuer une attaque d'arme primaire ou tertiaire à partir d'un arc de tir limité orienté vers l'avant contre ce navire sans subir le désavantage normal.</span></p>"
-    },
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous engagez un seul ennemi, vous vous esquivez et vous esquivez, rivalisant pour obtenir un bon tir tout en mémorable le leur. Vous choisissez une cible et effectuez un test de Dextérité (Manœuvre) opposée. En cas de réussite, vous faites subir un désavantage à la prochaine attaque effectuée contre votre vaisseau par la cible, mais vous accordez un avantage à la prochaine attaque effectuée contre votre vaisseau par une cible différente. De plus, vous pouvez effectuer une attaque d'arme primaire ou tertiaire à partir d'un arc de tir limité orienté vers l'avant contre ce navire sans subir le désavantage normal.</span></p>"    },
     "Harass": {
       "name": "Harass",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">You can harass an enemy and lock them into a series of close-combat maneuvers in order to prevent their escape. When you take the harass action, make an opposed Dexterity (Maneuvering) check against a target within one size category of you and within normal range of at least one of your forward facing primary weapons. This weapon cannot be Fired this turn. On a success, if la cible voluntarily leaves it's square before the beginning of your next turn, it takes dégâts as though it suffered a critical hit with the primary weapon used to harass.</span></p>"
-    },
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Vous pouvez harceler un ennemi et l'immobiliser dans une série de manœuvres de combat rapproché afin de l'empêcher de fuir. Lorsque vous utilisez l'action de harcèlement, effectuez un test de Dextérité (Manœuvre) opposé contre une cible située dans une catégorie de taille inférieure à la vôtre et à portée normale d'au moins une de vos armes principales pointées vers l'avant. Cette arme ne peut pas être utilisée pendant ce tour. En cas de réussite, si la cible quitte volontairement sa case avant le début de votre prochain tour, elle subit des dégâts comme si elle avait subi un coup critique avec l'arme principale utilisée pour le harcèlement.</span></p>"    },
     "Regenerate Shields": {
-      "name": "Regenerate Shields",
+      "name": "Régénération de bouclier",
       "description": "<p>Vous pouvez tenter de régénérer vos boucliers plus rapidement, en utilisant l'un de ses dés de bouclier. Lorsque vous effectuez l'action Régénérer les boucliers, vous effectuez un test de Force (Boost) (DD = 10 ou la moitié des points de bouclier manquants du vaisseau, selon le nombre le plus élevé). En cas d'échec, vous lancez le dé de bouclier deux fois et prenez le moins. En cas de réussite, vous lancez normalement le dé de bouclier. <span style=\"font-family:'Open Sans', sans-serif\">L'action Régénérer les boucliers ne peut être effectuée qu'une fois par tour de navire.</span></p>"
     },
     "Fire": {
-      "name": "Fire",
-      "description": "<p>L'action la plus courante à entreprendre en combat est l'action de Feu. Avec cette action, vous pouvez effectuer une (ou des) attaque(s) avec une seule arme du vaisseau. Voir la section « Réaliser une attaque » pour les règles qui régissent les attaques. L'action Tir peut être effectuée plusieurs fois au cours du tour d'un navire, mais normalement une seule fois par arme. <span style=\"font-family:'Open Sans', sans-serif\">A membre d'équipage Le tir depuis la barre présente un désavantage lors des jets d'attaque avec les armes principales et secondaires.</span></p>"
-    },
+      "name": "Tirer",
+      "description": "<p>L'action la plus courante à entreprendre en combat est l'action de Feu. Avec cette action, vous pouvez effectuer une (ou des) attaque(s) avec une seule arme du vaisseau. Voir la section « Réaliser une attaque » pour les règles qui régissent les attaques. L'action Tir peut être effectuée plusieurs fois au cours du tour d'un navire, mais normalement une seule fois par arme. <span style=\"font-family:'Open Sans', sans-serif\">A membre d'équipage Le tir depuis la barre présente un désavantage lors des jets d'attaque avec les armes principales et secondaires.</span></p>"    },
     "Evade": {
-      "name": "Evade",
-      "description": "<p>When you take the Evade action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack made against you has disavantage if you can see the attacker on your instruments, and you make Dexterity Saving Throws with avantage.</p><p><span style=\"font-family:'Open Sans', sans-serif\">This action affects your entire ship: any test de caractéristique or attack made by your ship or anyone on it has </span>disavantage until the end of your ship's next turn. The effects of Evade end if you are Incapacitated or if your speed drops to 0.</p>"
-    },
+      "name": "Evasion",
+      "description": "<p>Lorsque vous utilisez l'action Esquive, vous vous concentrez entièrement sur l'évitement des attaques. Jusqu'au début de votre prochain tour, toute attaque portée contre vous est effectuée avec désavantage si vous pouvez voir l'attaquant sur vos instruments, et vous effectuez vos jets de sauvegarde de Dextérité avec avantage.</p><p><span style=\"font-family:'Open Sans', sans-serif\">Cette action affecte l'ensemble de votre navire : tout test de caractéristique ou attaque effectué par votre navire ou l'un de ses membres est effectué avec désavantage jusqu'à la fin du prochain tour de votre navire. Les effets d'Esquive prennent fin si vous êtes incapable d'agir ou si votre vitesse tombe à 0.</p>"    },
     "Patch": {
-      "name": "Patch",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">You can attempt to patch up dégâts a ship has taken, using one of its Hull Dice. When you take the Patch action, you make a Constitution (Patch) check (DD = 10 or half the ship's missing hull points, whichever number is higher). On a failure, you roll the Hull Die twice and take the lesser amount. On a success you roll the Hull Die normally. The Patch action can be taken multiple times on a ship's turn.</span></p>"
-    },
+      "name": "Réparation",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Vous pouvez tenter de réparer les dégâts subis par un navire en utilisant l'un de ses dés de coque. Lorsque vous effectuez l'action Réparation, vous effectuez un test de Constitution (Réparation) (DD = 10 ou la moitié des points de coque manquants du navire, selon la valeur la plus élevée). En cas d'échec, vous lancez le dé de coque deux fois et conservez le résultat le plus faible. En cas de réussite, vous lancez le dé de coque normalement. L'action Réparation peut être effectuée plusieurs fois pendant le tour d'un navire.</span></p>"    },
     "Fly": {
-      "name": "Fly",
-      "description": "<p>When you take the Fly action, you gain extra Movement for the current turn. The increase equals your speed, after applying any modificateurs. With a speed of 300 mètres, for example, your ship can move up to 600 mètres on its turn if you Fly. Any increase or decrease to your speed changes this additional Movement by the same amount. If your ship's speed of 300 mètres is reduced to 150 mètres, for instance, your ship can move up to 300 mètres this turn if you Fly.</p><p><span style=\"font-family:'Open Sans', sans-serif\">This action affects your ship's ability to stay on target: any test de caractéristique or attack made by your ship or anyone on it has disavantage until the end of your ship's next turn.</span></p>"
-    },
+      "name": "Vol",
+      "description": "<p>Lorsque vous utilisez l'action Voler, vous gagnez un déplacement supplémentaire pour le tour en cours. Ce déplacement supplémentaire est égal à votre vitesse, après application des modificateurs. Par exemple, avec une vitesse de 300 mètres, votre vaisseau peut se déplacer jusqu'à 600 mètres pendant son tour si vous Volez. Toute augmentation ou diminution de votre vitesse modifie ce déplacement supplémentaire d'autant. Par exemple, si la vitesse de votre vaisseau est réduite de 300 à 150 mètres, il ne pourra se déplacer que jusqu'à 300 mètres pendant ce tour si vous Volez.</p><p><span style=\"font-family:'Open Sans', sans-serif\">Cette action affecte la capacité de votre vaisseau à rester sur sa cible : tout test de caractéristique ou attaque effectué par votre vaisseau ou l'un de ses membres d'équipage est effectué avec désavantage jusqu'à la fin du prochain tour de votre vaisseau.</span></p>"    },
     "Attack Run": {
       "name": "Course d'attaque",
-      "description": "<p>When you move at least 150 mètres towards a target, you may declare an Attack Run as an action. You must have a clear path towards your target, and nothing should hinder your path (such as difficult terrain or obstacles). If you finish this movement within range of your target, you may follow it with one of these options:</p><p><strong>Fire</strong>. You may make a ship attaque d'arme from a forward-facing limited arc without suffering the normal disavantage. If you attack with a tertiary or quaternary weapon, the attack deals additional dégâts equal to the distance of your attack run divided by 50, up to your ship's Strength modificateur (minimum of 1).</p><p><strong>Ram</strong>. You may make a Ram attempt with avantage on your Strength (Ram) check. Si vous réussissez, la cible ship takes additional dégâts equal to the distance of your Attack Run divided by 50, up to your ship's Constitution modificateur (minimum of +1).</p>"
-    },
+      "description": "<p>Lorsque vous vous déplacez d'au moins 150 mètres vers une cible, vous pouvez effectuer une Course d'Attaque. Vous devez avoir une voie dégagée vers votre cible et rien ne doit entraver votre progression (terrain difficile, obstacles, etc.). Si vous terminez ce déplacement à portée de votre cible, vous pouvez ensuite choisir l'une des options suivantes :</p><p><strong>Feu</strong>. Vous pouvez effectuer une attaque d'arme navale depuis un arc limité face à l'avant sans subir le désavantage habituel. Si vous attaquez avec une arme tertiaire ou quaternaire, l'attaque inflige des dégâts supplémentaires égaux à la distance de votre Course d'Attaque divisée par 50, jusqu'à votre modificateur de Force (minimum de 1).</p><p><strong>Éperonnage</strong>. Vous pouvez tenter un éperonnage avec avantage à votre test de Force (Éperonnage). En cas de succès, le navire cible subit des dégâts supplémentaires égaux à la distance de votre Course d'Attaque divisée par 50, jusqu'à votre modificateur de Constitution (minimum de +1).</p>"    },
     "Direct": {
       "name": "Direct",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">When you take the Direct action, la créature gains avantage on the next test de caractéristique it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn. Alternatively, you can direct a friendly creature that can hear you in attacking another target. If your ally attacks la cible before the start of your next turn, the first attack roll is made with avantage. The Direct action can be taken multiple times on a ship's turn.</span></p>"
-    },
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous utilisez l'action Directe, la créature bénéficie d'un avantage au prochain test de caractéristique qu'elle effectue pour accomplir la tâche à laquelle vous contribuez, à condition qu'elle effectue ce test avant le début de votre prochain tour. Vous pouvez également ordonner à une créature alliée qui peut vous entendre d'attaquer une autre cible. Si votre allié attaque la cible avant le début de votre prochain tour, le premier jet d'attaque est effectué avec avantage. L'action Directe peut être utilisée plusieurs fois pendant le tour d'un navire.</span></p>"    },
     "Detect": {
-      "name": "Detect",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous effectuez l'action Détecter, vous consacrez votre attention à trouver quelque chose. Selon la nature de votre détection, le MD peut vous demander d'effectuer un test de Sagesse (Scan) ou d'Intelligence (Sonde).</span></p>"
-    },
+      "name": "Détection",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Lorsque vous effectuez l'action Détecter, vous consacrez votre attention à trouver quelque chose. Selon la nature de votre détection, le MD peut vous demander d'effectuer un test de Sagesse (Scan) ou d'Intelligence (Sonde).</span></p>"    },
     "Ram": {
-      "name": "Ram",
-      "description": "<p>You can attempt to ram another ship while flying through its space. When you take the ram action, you make a Strength (Ram) check opposed by la cible's Dexterity (Maneuvering) check. On a failed check the ramming action fails. On a success, both you and la cible ship take kinetic dégâts equal to two of your ship's Hull Dice + your ship's Strength modificateur. If your ship has shield points remaining, your ship instead takes half this dégâts.</p>"
-    },
+      "name": "Eperonnage",
+      "description": "<p>Vous pouvez tenter d'éperonner un autre vaisseau en traversant son espace. Lorsque vous effectuez une éperonnage, vous effectuez un test de Force (Éperonnage) opposé au test de Dextérité (Manœuvre) de la cible. En cas d'échec, l'éperonnage échoue. En cas de réussite, vous et le vaisseau cible subissez des dégâts cinétiques égaux à deux dés de coque de votre vaisseau + votre modificateur de Force. Si votre vaisseau possède encore des points de bouclier, il ne subit que la moitié de ces dégâts.</p>"    },
     "Conceal": {
-      "name": "Conceal",
-      "description": "<p>When you take the Conceal action, you make a Dexterity (Hide) check in an attempt to conceal your ship, following the rules in chapter 7 for hiding. Si vous réussissez, you gain certain benefits, as described in the \"Unseen Attackers and Targets\" section later in this chapter.</p>"
-    }
+      "name": "Dissimuler",
+      "description": "<p>Lorsque vous utilisez l'action Dissimuler, vous effectuez un test de Dextérité (Cacher) pour tenter de dissimuler votre vaisseau, en suivant les règles du chapitre 7 concernant la dissimulation. Si vous réussissez, vous obtenez certains avantages, comme décrit dans la section « Attaquants et cibles invisibles » plus loin dans ce chapitre.</p>"    }
   },
   "mapping": {
     "atFlavorText": "system.atFlavorText.value",

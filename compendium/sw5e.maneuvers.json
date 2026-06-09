@@ -2,480 +2,480 @@
   "label": "Maneuvers",
   "entries": {
     "Effective Flanking (Improved)": {
-      "name": "Effective Flanking (Improved)",
-      "description": "<p>When you use the Effective Flanking maneuver, you add the result of the dé de supériorité to both the attack and jet de dégâts for the first attack against la créature before the start of your next turn.</p>"
+      "name": "Contournement efficace (amélioré)",
+      "description": "<p>Lorsque vous utilisez la manœuvre de flanc efficace, vous ajoutez le résultat du dé de supériorité à la fois à l'attaque et au jet de dégâts pour la première attaque contre la créature avant le début de votre prochain tour.</p>"
     },
     "Survive": {
-      "name": "Survive",
-      "description": "<p>When you make an Survival check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Survivre",
+      "description": "<p>Lorsque vous effectuez un test de Survie, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Shadow Puppetry": {
-      "name": "Shadow Puppetry",
-      "description": "<p>When a creature you can see within 30 mètres of you is reduced to 0 points de vie, you can use your réaction and expend a dé de supériorité to give cette créature a final act of aggression. That creature can immediately move a number of mètres equal to 5 times the result of the die and make a single attaque d'arme against a target de votre choix within its attack range, adding the die to the attack roll.</p>"
+      "name": "Théâtre d'ombres",
+      "description": "<p>Lorsqu'une créature que vous pouvez voir à moins de 30 mètres de vous est réduite à 0 point de vie, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour donner à cette créature un dernier acte d'agression. Cette créature peut immédiatement se déplacer d'un nombre de mètres égal à 5 ​​fois le résultat du dé et effectuer une seule attaque d'arme contre une cible de votre choix dans sa portée d'attaque, en ajoutant le dé au jet d'attaque.</p>"
     },
     "Sweeping Attack": {
       "name": "Attaque radicale",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme au corps à corps, you can expend one dé de supériorité to attempt to dégâts another creature with the same attack. Choose another creature within 5 mètres of the original target and within your reach. If the original attack roll would hit the second creature, it takes dégâts equal to the number you roll on your dé de supériorité. The dégâts is of the same type dealt by the original attack.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme au corps à corps, vous pouvez dépenser un dé de supériorité pour tenter de détruire une autre créature avec la même attaque. Choisissez une autre créature à moins de 5 mètres de la cible d'origine et à votre portée. Si le jet d'attaque d'origine devait toucher la deuxième créature, elle subit des dégâts égaux au nombre que vous obtenez sur votre dé de supériorité. Les dégâts sont du même type que ceux infligés par l'attaque originale.</p>"
     },
     "Assist": {
-      "name": "Assist",
-      "description": "<p>When you make an Medicine check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Assister",
+      "description": "<p>Lorsque vous effectuez un test de Médecine, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Perform": {
-      "name": "Perform",
-      "description": "<p>When you make an Performance check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Effectuer",
+      "description": "<p>Lorsque vous effectuez un test de Performance, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Automatic Startup Sequence": {
-      "name": "Automatic Startup Sequence",
-      "description": "<p>When a creature makes a jet de sauvegarde against a pouvoir technique you cast, you may expend a dé de supériorité, subtracting the number rolled from their total.</p>"
+      "name": "Séquence de démarrage automatique",
+      "description": "<p>Lorsqu'une créature effectue un jet de sauvegarde contre une technique de pouvoir que vous lancez, vous pouvez dépenser un dé de supériorité, en soustrayant le nombre obtenu de son total.</p>"
     },
     "Parry (Improved)": {
-      "name": "Parry (Improved)",
+      "name": "Parade (améliorée)",
       "description": "<p>Parry devient pour vous une manœuvre générale.</p>"
     },
     "Sweeping Attack (Improved)": {
       "name": "Attaque balayante (améliorée)",
-      "description": "<p>When you use the Sweeping Attack maneuver, you add your maneuver modificateur de caractéristique to the jet de dégâts of the second creature.</p>"
+      "description": "<p>Lorsque vous utilisez la manœuvre Attaque balayante, vous ajoutez votre manœuvre modificateur de caractéristique au jet de dégâts de la deuxième créature.</p>"
     },
     "Administer Aid (Greater)": {
-      "name": "Administer Aid (Greater)",
-      "description": "<p>You can use your Administer Aid maneuver as an action, action bonus, or réaction on your turn.</p>"
+      "name": "Administrer l’aide (supérieure)",
+      "description": "<p>Vous pouvez utiliser votre manœuvre Administrer l'aide comme action, bonus d'action ou réaction pendant votre tour.</p>"
     },
     "Remove Toxins": {
-      "name": "Remove Toxins",
-      "description": "<p>As an action, you can expend a dé de supériorité to purge the toxins from a creature you can contact. La cible regains points de vie equal to the number rolled and, if it is empoisonné or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts la cible, you neutralize one poison or disease that you know is present, or you neutralize one at random.</p>"
+      "name": "Supprimer les toxines",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité pour purger les toxines d'une créature que vous pouvez contacter. La cible regagne des points de vie égaux au nombre obtenu et, si elle est empoisonnée ou malade, vous neutralisez le poison ou la maladie. Si plus d'un poison ou d'une maladie afflige la cible, vous neutralisez un poison ou une maladie dont vous savez qu'il est présent, ou vous en neutralisez un au hasard.</p>"
     },
     "Flex": {
-      "name": "Flex",
-      "description": "<p>When you make an Athletics check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Fléchir",
+      "description": "<p>Lorsque vous effectuez un test d'Athlétisme, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Dark Transference": {
-      "name": "Dark Transference",
-      "description": "<p>Quand vous contactez une créature with an attack, you can expend a dé de supériorité and roll it to attempt to siphon life from it. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, add the result to the jet de dégâts, and you regain one expended Hit Die.</p>"
+      "name": "Transfert sombre",
+      "description": "<p>Quand vous contactez une créature avec une attaque, vous pouvez dépenser un dé de supériorité et le lancer pour tenter de lui siphonner de la vie. La cible doit faire une Constitution jet de sauvegarde. En cas d'échec de la sauvegarde, ajoutez le résultat au jet de dégâts et vous récupérez un dé de vie dépensé.</p>"
     },
     "Befogging Ichor": {
-      "name": "Befogging Ichor",
-      "description": "<p>You can use a action bonus to expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you. La cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible can't take réactions until the start of its next turn and on its turn must use its movement to move half its speed in a random direction. Roll a [[/r d8]] and assign a direction to each face. If the direction rolled is blocked, la cible doesn't move.</p>"
+      "name": "Ichor embué",
+      "description": "<p>Vous pouvez utiliser un bonus d'action pour dépenser un dé de supériorité. Ce faisant, choisissez une créature que vous pouvez voir à moins de 30 mètres de vous. La cible doit réaliser un jet de sauvegarde Sagesse. En cas d'échec de la sauvegarde, la cible ne peut prendre de réactions qu'au début de son prochain tour et doit à son tour utiliser son mouvement pour se déplacer de la moitié de sa vitesse dans une direction aléatoire. Lancez un [[/r d8]] et attribuez une direction à chaque face. Si la direction obtenue est bloquée, la cible ne bouge pas.</p>"
     },
     "Effective Flanking (Greater)": {
-      "name": "Effective Flanking (Greater)",
-      "description": "<p>When you use the Effective Flanking maneuver, you add your maneuver modificateur de caractéristique to both the attack and jet de dégâts for the first attack against la créature before the start of your next turn.</p>"
+      "name": "Contournement efficace (supérieur)",
+      "description": "<p>Lorsque vous utilisez la manœuvre Efficace Flanking, vous ajoutez votre manœuvre modificateur de caractéristique à la fois à l'attaque et au jet de dégâts pour la première attaque contre la créature avant le début de votre prochain tour.</p>"
     },
     "Reassure": {
-      "name": "Reassure",
-      "description": "<p>As an action, you can expend a dé de supériorité and call out to a creature within 60 mètres that can see or hear you that is charmé, effrayé, or étourdi. When you do so, cette créature immediately makes another jet de sauvegarde, adding the amount rolled to the sauvegarde.</p>"
+      "name": "Rassurer",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité et appeler une créature à moins de 60 mètres qui peut vous voir ou vous entendre et qui est charmée, effrayée ou étourdi. Lorsque vous faites cela, cette créature effectue immédiatement un autre jet de sauvegarde, ajoutant le montant obtenu à la sauvegarde.</p>"
     },
     "Pin Down": {
-      "name": "Pin Down",
-      "description": "<p>When your companion attempts to grapple or knock a creature à terre, you can expend a dé de supériorité to give it direction as long as it can see or hear you. Roll a dé de supériorité and add it to your companion's Strength (Athletics) check.</p>"
+      "name": "Coincer",
+      "description": "<p>Lorsque votre compagnon tente d'agripper ou de frapper une créature à terre, vous pouvez dépenser un dé de supériorité pour lui donner une direction tant qu'il peut vous voir ou vous entendre. Lancez un dé de supériorité et ajoutez-le au test de Force (Athlétisme) de votre compagnon.</p>"
     },
     "Study": {
-      "name": "Study",
-      "description": "<p>When you make an Lore check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Étude",
+      "description": "<p>Lorsque vous effectuez un test de Connaissance, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "World on Fire": {
-      "name": "World on Fire",
-      "description": "<p>On your turn, quand vous contactez with a attaque d'arme, you can use a action bonus to expend and roll one dé de supériorité to ignite phosphorescent powder on your target, dealing extra fire dégâts equal to the result of the roll. De plus, la cible sheds dim light in a rayon de 1,5 mètre and can't become invisible jusqu'à la fin de votre prochain tour, and becomes visible if it was already invisible.</p>"
+      "name": "Monde en feu",
+      "description": "<p>A votre tour, lorsque vous contactez une attaque d'arme, vous pouvez utiliser un bonus d'action pour dépenser et lancer un dé de supériorité pour enflammer de la poudre phosphorescente sur votre cible, infligeant des dégâts de feu supplémentaires égaux au résultat du jet. De plus, la cible éclaire faiblement dans un rayon de 1,5 mètre et ne peut devenir invisible jusqu'à la fin de votre prochaine tournée, et devient visible si elle l'était déjà.</p>"
     },
     "Penetrating Shot": {
-      "name": "Penetrating Shot",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme à distance, you can expend one dé de supériorité to attempt to dégâts another creature with the same attack. Choose up to two creatures within 15 mètres of and directly behind your initial target. If the original attack roll would hit the second creature(s), it takes dégâts equal to the number you roll on your dé de supériorité.</p>\n<p>The dégâts is of the same type dealt by the original attack.</p>"
+      "name": "Tir pénétrant",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme à distance, vous pouvez dépenser un dé de supériorité pour tenter de détruire une autre créature avec la même attaque. Choisissez jusqu'à deux créatures à moins de 15 mètres et directement derrière votre cible initiale. Si le jet d'attaque original touche la ou les deuxièmes créatures, il subit des dégâts égaux au nombre obtenu sur votre dé de supériorité.</p>\n<p>Les dégâts sont du même type infligés par l'attaque originale.</p>"
     },
     "Charge": {
       "name": "Charge",
-      "description": "<p>As a action bonus on your turn, you can expend one dé de supériorité to spur your allies to move. Until the start of your next turn, creatures you choose within 10 mètres of you who can see or hear you can move an additional distance equal to 5 times the dé de supériorité rolled on their turn and ignore unenhanced difficult terrain.</p>"
+      "description": "<p>En bonus d'action à votre tour, vous pouvez dépenser un dé de supériorité pour inciter vos alliés à bouger. Jusqu'au début de votre prochain tour, les créatures que vous choisissez à moins de 10 mètres de vous et qui peuvent vous voir ou vous entendre peuvent se déplacer d'une distance supplémentaire égale à 5 fois le dé de supériorité obtenu à leur tour et ignorer les terrains difficiles non améliorés.</p>"
     },
     "Charming Presence": {
-      "name": "Charming Presence",
-      "description": "<p>As an action, you can make a Charisma (Persuasion) check and expend one dé de supériorité to attempt to charm a humanoid creature who can see or hear you within 60 mètres. Add the dé de supériorité to the roll. La cible makes a contested Wisdom (Insight) check. If your check succeeds, la cible is charmé by you jusqu'à la fin de votre prochain tour.</p>"
+      "name": "Présence charmante",
+      "description": "<p>En action, vous pouvez effectuer un test de Charisme (Persuasion) et dépenser un dé de supériorité pour tenter de charmer une créature humanoïde qui peut vous voir ou vous entendre à moins de 60 mètres. Ajoutez le dé de supériorité au rouleau. La cible makes a contested Wisdom (Insight) check. If your check succeeds, la cible is charmé by you jusqu'à la fin de votre prochain tour.</p>"
     },
     "Mind Over Matter": {
-      "name": "Mind Over Matter",
-      "description": "<p>When you are forced to make an Intelligence, Wisdom, or Charisma jet de sauvegarde, you can expend a dé de supériorité to change the jet de sauvegarde ability to your maneuver modificateur de caractéristique.</p>"
+      "name": "L'esprit avant la matière",
+      "description": "<p>Lorsque vous êtes obligé de réaliser un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme, vous pouvez dépenser un dé de supériorité pour remplacer la capacité de jet de sauvegarde par votre modificateur de caractéristique de manœuvre.</p>"
     },
     "Precision Attack": {
       "name": "Attaque de précision",
-      "description": "<p>When you make a attaque d'arme roll against a creature, you can expend one dé de supériorité to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.</p>"
+      "description": "<p>Lorsque vous effectuez un jet d'attaque d'arme contre une créature, vous pouvez dépenser un dé de supériorité pour l'ajouter au jet. Vous pouvez utiliser cette manœuvre avant ou après avoir effectué le jet d'attaque, mais avant que les effets de l'attaque ne soient appliqués.</p>"
     },
     "Go Get 'Em": {
-      "name": "Go Get 'Em",
-      "description": "<p>While your companion is moving, you can expend a dé de supériorité and add 5 times the number rolled to its vitesse de déplacement.</p>"
+      "name": "Allez les chercher",
+      "description": "<p>Pendant que votre compagnon se déplace, vous pouvez dépenser un dé de supériorité et ajouter 5 fois le chiffre obtenu à sa vitesse de déplacement.</p>"
     },
     "Deathseek": {
-      "name": "Deathseek",
-      "description": "<p>When an attack made against a hostile creature that you can see would miss, you can use a réaction and expend a dé de supériorité and roll it to force la créature to instead take the hit. The creature must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible takes the minimum dégâts the attack could have dealt plus additional dégâts equal to the result of the dé de supériorité.</p>"
+      "name": "Recherche de mort",
+      "description": "<p>Lorsqu'une attaque effectuée contre une créature hostile que vous pouvez voir raterait, vous pouvez utiliser une réaction et dépenser un dé de supériorité et le lancer pour forcer la créature à encaisser le coup à la place. La créature doit réaliser un jet de sauvegarde de Sagesse. En cas d'échec de la sauvegarde, la cible prend le minimum de dégâts que l'attaque aurait pu infliger plus des dégâts supplémentaires égaux au résultat du dé de supériorité.</p>"
     },
     "Firewall": {
-      "name": "Firewall",
-      "description": "<p>When you or an ally you can see within 60 mètres make a jet de sauvegarde against a pouvoir technique, you can use your réaction to expend a dé de supériorité, adding the number rolled to the result of that jet de sauvegarde.</p>"
+      "name": "Pare-feu",
+      "description": "<p>Lorsque vous ou un allié que vous pouvez voir à moins de 60 mètres effectuer un jet de sauvegarde contre un pouvoir technique, vous pouvez utiliser votre réaction pour dépenser un dé de supériorité, en ajoutant le nombre obtenu au résultat de ce jet de sauvegarde.</p>"
     },
     "Hacked Communications": {
-      "name": "Hacked Communications",
-      "description": "<p>As an action, you may expend a dé de supériorité, and choose any number of creatures that you can see within 60 mètres of you that have commlinks, headcomms, or other such communications devices. Each creature must succeed on a Constitution jet de sauvegarde or take sonic dégâts equal to the number rolled on the dice + your maneuver modificateur de caractéristique (minimum of one). De plus, on a failed sauvegarde, their communication devices are disabled until rebooted.</p>"
+      "name": "Communications piratées",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité et choisir n'importe quel nombre de créatures que vous pouvez voir à moins de 60 mètres de vous et qui ont des liens de communication, des communications principales ou d'autres appareils de communication similaires. Chaque créature doit réussir un jet de sauvegarde de Constitution ou subir des dégâts soniques égaux au nombre lancé sur les dés + votre manœuvre modificateur de caractéristique (au minimum un). De plus, en cas d'échec de la sauvegarde, leurs appareils de communication sont désactivés jusqu'au redémarrage.</p>"
     },
     "You Call This Archaeology?": {
       "name": "Vous appelez cela de l’archéologie ?",
-      "description": "<p>When you or a friendly creature that you can see reduces a hostile creature to 0 points de vie, you can use your réaction and expend a dé de supériorité to give yourpersonnelle or that friendly creature points de vie temporaires equal to the number rolled + your universal forcecasting modificateur.</p>"
+      "description": "<p>Lorsque vous ou une créature amie que vous pouvez voir réduisez une créature hostile à 0 point de vie, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour donner à votre personnel ou à cette créature amie des points de vie temporaires égaux au nombre obtenu + votre modificateur de force universel.</p>"
     },
     "Primal Endurance": {
-      "name": "Primal Endurance",
-      "description": "<p>As an action, you can expend a dé de supériorité to improve your companion's defense. Roll the die and add it to your companion's AC until the beginning of your next turn.</p>"
+      "name": "Endurance primordiale",
+      "description": "<p>En action, vous pouvez dépenser un dé de supériorité pour améliorer la défense de votre compagnon. Lancez le dé et ajoutez-le à la CA de votre compagnon jusqu'au début de votre prochain tour.</p>"
     },
     "Investigate": {
-      "name": "Investigate",
-      "description": "<p>When you make an Investigation check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Enquêter",
+      "description": "<p>Lorsque vous effectuez un test d'Enquête, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Overwhelming Wit": {
-      "name": "Overwhelming Wit",
-      "description": "<p>Once per round, when a creature succeeds on a pouvoir de la Force you cast or your class feature that requires a Wisdom or Charisma jet de sauvegarde, you can expend a dé de supériorité to make a universal forcecasting test de caractéristique with maîtrise, substituting the result of the roll for the sauvegarde DD for that power.</p>"
+      "name": "Un esprit débordant",
+      "description": "<p>Une fois par tour, lorsqu'une créature réussit un pouvoir de la Force que vous lancez ou une caractéristique de votre classe qui nécessite un jet de sauvegarde de Sagesse ou de Charisme, vous pouvez dépenser un dé de supériorité pour effectuer un test de lancement de force universel de caractéristique avec maîtrise, en remplaçant le résultat du jet par le DD de sauvegarde pour ce pouvoir.</p>"
     },
     "Menacing Attack": {
       "name": "Attaque menaçante",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to frighten la cible. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, it is effrayé of you jusqu'à la fin de votre prochain tour.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour tenter d'effrayer la cible. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et la cible doit faire un jet de sauvegarde Sagesse. Sur une sauvegarde échouée, il vous est effrayé jusqu'à la fin de votre prochaine tournée.</p>"
     },
     "Water of Life": {
-      "name": "Water of Life",
-      "description": "<p>When an allied creature within 30 mètres that you can see takes dégâts, you can use a réaction to expend a dé de supériorité and roll it. The ally regains a number of points de vie equal to the roll + your maneuver modificateur.</p>"
+      "name": "Eau de Vie",
+      "description": "<p>Lorsqu'une créature alliée à moins de 30 mètres que vous pouvez voir subit des dégâts, vous pouvez utiliser une réaction pour dépenser un dé de supériorité et la lancer. L'allié regagne un nombre de points de vie égal au jet + votre modificateur de manœuvre.</p>"
     },
     "Flourish": {
-      "name": "Flourish",
-      "description": "<p>When you make an Escamotage check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Fleurir",
+      "description": "<p>Lorsque vous effectuez un test d'Escamotage, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Wrestle and Drag": {
       "name": "Lutte et traînée",
-      "description": "<p>When you make a Strength (Athletics) check to grapple or shove a creature, you can expend a dé de supériorité. Until the end of your turn, you can drag the agrippé creature with you without your speed being halved. De plus, if la créature is moved at least 5 mètres, you can roll the dé de supériorité, dealing kinetic dégâts to la créature equal to the result of the roll.</p>"
+      "description": "<p>Lorsque vous effectuez un test de Force (Athlétisme) pour agripper ou bousculer une créature, vous pouvez dépenser un dé de supériorité. Jusqu'à la fin de votre tour, vous pouvez entraîner la créature agrippé avec vous sans que votre vitesse soit divisée par deux. De plus, si la créature est déplacée d'au moins 5 mètres, vous pouvez lancer le dé de supériorité, infligeant à la créature des dégâts cinétiques égaux au résultat du jet.</p>"
     },
     "Administer Aid": {
-      "name": "Administer Aid",
-      "description": "<p>As an action, you can expend a dé de supériorité to tend to a creature you can contact. The creature regains a number of points de vie equal to the number rolled + your maneuver modificateur de caractéristique.</p>"
+      "name": "Administrer l’aide",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité pour vous occuper d'une créature que vous pouvez contacter. La créature regagne un nombre de points de vie égal au nombre obtenu + votre manoeuvre modificateur de caractéristique.</p>"
     },
     "Pilot": {
-      "name": "Pilot",
-      "description": "<p>When you make an Piloting check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Pilote",
+      "description": "<p>Lorsque vous effectuez un test de Pilotage, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Calling Card": {
-      "name": "Calling Card",
-      "description": "<p>As a action bonus, you can expend a dé de supériorité to </p>\n<p>throw a sonic charge at a target you can see within 30 mètres. When you do so, la cible and chaque créature de votre choix within 5 mètres of it must make Dexterity jet de sauvegardes, taking sonic dégâts on a failure. The sonic dégâts equals the number rolled on the dé de supériorité. </p>"
+      "name": "Carte d'appel",
+      "description": "<p>En bonus d'action, vous pouvez dépenser un dé de supériorité à </p>\n<p>lancez une charge sonique sur une cible visible à moins de 30 mètres. Ce faisant, la cible et chaque créature de votre choix à moins de 5 mètres d'elle doivent effectuer des jets de sauvegarde de Dextérité, encaissant des dégâts sonores en cas d'échec. Le nombre de dégâts sonores est égal au nombre obtenu sur le dé de supériorité. "
     },
     "Riposte (Improved)": {
-      "name": "Riposte (Improved)",
-      "description": "<p>When a creature misses an ally within 30 mètres you can see with a attaque au corps à corps, and that ally can see or hear you, you can expend one dé de supériorité (no action required), and the chosen ally use their réaction to make a attaque d'arme au corps à corps against la créature. If the attack hits, the ally adds the dé de supériorité to the attack's jet de dégâts.</p>"
+      "name": "Riposte (améliorée)",
+      "description": "<p>Quand une créature manque un allié à moins de 30 mètres que vous pouvez voir avec une attaque au corps à corps, et que cet allié peut vous voir ou vous entendre, vous pouvez dépenser un dé de supériorité (aucune action requise), et l'allié choisi utilise sa réaction pour faire une attaque d'arme au corps à corps contre la créature. Si l'attaque réussit, l'allié ajoute le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Lunging Attack": {
       "name": "Attaque brusque",
-      "description": "<p>When you make a attaque d'arme au corps à corps on your turn, you can expend one dé de supériorité to increase your reach for that attack by 5 mètres. If you hit, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+      "description": "<p>Lorsque vous effectuez une attaque d'arme au corps à corps à votre tour, vous pouvez dépenser un dé de supériorité pour augmenter la portée de cette attaque de 5 mètres. Si vous touchez, vous ajoutez le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Tenacity": {
-      "name": "Tenacity",
-      "description": "<p>As a action bonus, you can expend and roll a dé de supériorité and move to an unoccupied space you can see up to a distance equal to 5 x the result of the roll. If you begin this movement hidden from a creature, and you end this movement in a space that could be hidden from la créature, this movement does not reveal your presence to cette créature.</p>"
+      "name": "Ténacité",
+      "description": "<p>En bonus d'action, vous pouvez dépenser et lancer un dé de supériorité et vous déplacer vers une case inoccupée que vous pouvez voir jusqu'à une distance égale à 5 x le résultat du jet. Si vous commencez ce mouvement caché à une créature, et que vous terminez ce mouvement dans un espace qui pourrait être caché à la créature, ce mouvement ne révèle pas votre présence à cette créature.</p>"
     },
     "Agonizing Lethargy": {
-      "name": "Agonizing Lethargy",
-      "description": "<p>Vous pouvez utiliser une action pour expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you. La cible must make a Constitution jet de sauvegarde. On a failed sauvegarde, la cible takes [[/r 1d6]] necrotic dégâts for each attack it makes jusqu'au début de votre prochain tour. </p>"
+      "name": "Léthargie angoissante",
+      "description": "<p>Vous pouvez utiliser une action pour dépenser un dé de supériorité. Ce faisant, choisissez une créature que vous pouvez voir à moins de 30 mètres de vous. La cible doit faire une Constitution jet de sauvegarde. En cas d'échec de la sauvegarde, la cible prend [[/r 1d6]] dégâts nécrotiques pour chaque attaque qu'elle effectue jusqu'au début de votre prochaine tournée. "
     },
     "Vanity": {
-      "name": "Vanity",
-      "description": "<p>When you reduce a hostile creature to 0 points de vie, you can expend and roll a dé de supériorité (no action required), regaining a number of points de vie equal to the result of the roll + your maneuver modificateur de caractéristique.</p>"
+      "name": "Vanité",
+      "description": "<p>Lorsque vous réduisez une créature hostile à 0 point de vie, vous pouvez dépenser et lancer un dé de supériorité (aucune action requise), regagnant un nombre de points de vie égal au résultat du jet + votre manœuvre modificateur de caractéristique.</p>"
     },
     "Intimidating Presence": {
-      "name": "Intimidating Presence",
-      "description": "<p>As an action, you can make a Charisma (Intimidation) check and expend one dé de supériorité to attempt to frighten a humanoid creature who can see or hear you within 60 mètres. Add the dé de supériorité to the roll. La cible makes a contested Wisdom (Insight) check. If your check succeeds, la cible is effrayé of you jusqu'à la fin de votre prochain tour.</p>"
+      "name": "Présence intimidante",
+      "description": "<p>En action, vous pouvez effectuer un test de Charisme (Intimidation) et dépenser un dé de supériorité pour tenter d'effrayer une créature humanoïde qui peut vous voir ou vous entendre à moins de 60 mètres. Ajoutez le dé de supériorité au rouleau. La cible effectue un test de Sagesse (Insight) contesté. Si votre contrôle réussit, la cible vous est effrayée jusqu'à la fin de votre prochaine tournée.</p>"
     },
     "Chains of Transfixing": {
-      "name": "Chains of Transfixing",
-      "description": "<p>You can use a action bonus to expend a dé de supériorité. When you do so, choose a creature you can see within 30 mètres of you that is no more than one size larger than you. La cible must succeed on a Strength jet de sauvegarde or gain four slowed niveaus jusqu'au début de votre prochain tour.</p>"
+      "name": "Chaînes de transfixation",
+      "description": "<p>Vous pouvez utiliser un bonus d'action pour dépenser un dé de supériorité. Ce faisant, choisissez une créature que vous pouvez voir à moins de 30 mètres de vous et qui ne mesure pas plus d'une taille de plus que vous. La cible doit réussir un jet de sauvegarde de Force ou gagner quatre niveaux ralentis jusqu'au début de votre prochaine tournée.</p>"
     },
     "Rattle": {
-      "name": "Rattle",
-      "description": "<p>On your turn, quand vous contactez with a attaque d'arme, you can use a action bonus and expend and roll one dé de supériorité to menace your target, dealing extra psychic dégâts equal to the amount rolled and forcing it to succeed on a Wisdom jet de sauvegarde or be effrayé of you jusqu'à la fin de votre prochain tour. </p>"
+      "name": "Hochet",
+      "description": "<p>À votre tour, lorsque vous contactez une attaque d'arme, vous pouvez utiliser un bonus d'action et dépenser et lancer un dé de supériorité pour menacer votre cible, lui infligeant des dégâts psychiques supplémentaires égaux au montant lancé et la forçant à réussir un jet de sauvegarde de Sagesse ou à être effrayée de vous jusqu'à la fin de votre prochaine tournée. "
     },
     "Short Round": {
       "name": "Tour court",
-      "description": "<p>When you cast a pouvoir de la Force of 1st-niveau or higher that has a casting time of 1 action, you can expend a dé de supériorité to change the casting time to 1 action bonus for this casting.</p>"
+      "description": "<p>Lorsque vous lancez un pouvoir de la Force de 1er niveau ou supérieur qui a un temps d'incantation de 1 action, vous pouvez dépenser un dé de supériorité pour changer le temps d'incantation en bonus de 1 action pour ce lancement.</p>"
     },
     "Evasive Footwork": {
-      "name": "Evasive Footwork",
-      "description": "<p>When you move, you can expend one dé de supériorité, rolling the die and adding the number rolled to your AC until you stop moving.</p>"
+      "name": "Jeu de jambes évasif",
+      "description": "<p>Lorsque vous vous déplacez, vous pouvez dépenser un dé de supériorité, en lançant le dé et en ajoutant le chiffre obtenu à votre CA jusqu'à ce que vous arrêtiez de bouger.</p>"
     },
     "Exploit Weakness": {
-      "name": "Exploit Weakness",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend a dé de supériorité and deal additional true dégâts equal to the number rolled. </p>"
+      "name": "Exploiter les faiblesses",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité et infliger de vrais dégâts supplémentaires égaux au nombre obtenu. "
     },
     "Fast Access Programs": {
-      "name": "Fast Access Programs",
-      "description": "<p>When you cast a pouvoir technique of 1st-niveau or higher that has a casting time of 1 action, you can expend a dé de supériorité to change the casting time to 1 action bonus for this casting.</p>"
+      "name": "Programmes d'accès rapide",
+      "description": "<p>Lorsque vous lancez une technique de pouvoir de 1er niveau ou supérieur qui a un temps d'incantation de 1 action, vous pouvez dépenser un dé de supériorité pour changer le temps d'incantation en bonus de 1 action pour ce lancement.</p>"
     },
     "Persuade": {
-      "name": "Persuade",
-      "description": "<p>When you make an Persuasion check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Persuader",
+      "description": "<p>Lorsque vous effectuez un test de Persuasion, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Parry": {
-      "name": "Parry",
-      "description": "<p>When another creature dégâtss you with a attaque au corps à corps, you can use your réaction and expend one dé de supériorité to reduce the dégâts by the number you roll on your dé de supériorité + your maneuver modificateur de caractéristique.</p>"
+      "name": "Parer",
+      "description": "<p>Quand une autre créature vous détruit avec une attaque au corps à corps, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour réduire les dégâts du nombre que vous obtenez sur votre dé de supériorité + votre manoeuvre modificateur de caractéristique.</p>"
     },
     "Encouraging Pace": {
-      "name": "Encouraging Pace",
-      "description": "<p>You can use a action bonus to expend and roll a dé de supériorité. When you do so, a number of friendly creatures equal to your maneuver modificateur de caractéristique can immediately use their réaction to move a number of mètres equal to 5 times the number rolled on the dé de supériorité.</p>"
+      "name": "Rythme encourageant",
+      "description": "<p>Vous pouvez utiliser un bonus d'action pour dépenser et lancer un dé de supériorité. Lorsque vous faites ainsi, un nombre de créatures amies égal à votre manœuvre modificateur de caractéristique peut immédiatement utiliser leur réaction pour se déplacer d'un nombre de mètres égal à 5 ​​fois le nombre obtenu au dé de supériorité.</p>"
     },
     "Loyal Bond": {
-      "name": "Loyal Bond",
-      "description": "<p>Whenever you are hit with an attack, you can expend one dé de supériorité to command your companion to immediately use its réaction and move up to its speed directly towards you. If it ends this movement within 5 mètres of you, roll the dé de supériorité. Your companion takes the dégâts instead of you, subtracting the amount you rolled from the total.</p>"
+      "name": "Lien de fidélité",
+      "description": "<p>À chaque fois que vous êtes touché par une attaque, vous pouvez dépenser un dé de supériorité pour ordonner à votre compagnon d'utiliser immédiatement sa réaction et d'avancer à sa vitesse directement vers vous. S'il termine ce mouvement à moins de 5 mètres de vous, lancez le dé de supériorité. Votre compagnon prend les dégâts à votre place, en soustrayant le montant obtenu du total.</p>"
     },
     "Force Resonance": {
-      "name": "Force Resonance",
-      "description": "<p>Immediately after you deal dégâts to a target with a force attack, you can expend a dé de supériorité and target a second creature that you can see within 30 mètres of the first creature. Roll the die, and the second creature takes force dégâts equal to the roll + your forcecasting modificateur. </p>"
+      "name": "Résonance de force",
+      "description": "<p>Immédiatement après avoir infligé des dégâts à une cible avec une attaque de force, vous pouvez dépenser un dé de supériorité et cibler une deuxième créature que vous pouvez voir à moins de 30 mètres de la première créature. Lancez le dé, et la deuxième créature subit des dégâts de force égaux au jet + votre modificateur de force. "
     },
     "Deliberate Movement": {
-      "name": "Deliberate Movement",
-      "description": "<p>You can expend one dé de supériorité to take the Dash action as a action bonus and ignore the effects of unenhanced difficult terrain jusqu'à la fin de votre tour.</p>"
+      "name": "Mouvement délibéré",
+      "description": "<p>Vous pouvez dépenser un dé de supériorité pour effectuer l'action Dash comme bonus d'action et ignorer les effets d'un terrain difficile non amélioré jusqu'à la fin de votre tour.</p>"
     },
     "Crippling Blow": {
-      "name": "Crippling Blow",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to cripple la créature. You add the dé de supériorité to the attack's jet de dégâts and la créature's gains 1 slowed niveau until the end of their next turn.</p>"
+      "name": "Coup paralysant",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour paralyser la créature. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque et la créature gagne 1 niveau ralenti jusqu'à la fin de son prochain tour.</p>"
     },
     "Threaten": {
-      "name": "Threaten",
-      "description": "<p>When you make an Intimidation check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Menacer",
+      "description": "<p>Lorsque vous effectuez un test d'Intimidation, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Program": {
-      "name": "Program",
-      "description": "<p>When you make an Technology check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Programme",
+      "description": "<p>Lorsque vous effectuez un test de Technologie, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Charging Attack": {
       "name": "Attaque de charge",
-      "description": "<p>If you move at least 10 mètres towards your target before successfully hitting them with a attaque au corps à corps, you may expend a dé de supériorité, causing la cible to take additional dégâts equal to the result, and forcing it to make a Strength jet de sauvegarde. On a failed sauvegarde la créature is knocked à terre.</p>"
+      "description": "<p>Si vous vous déplacez d'au moins 10 mètres vers votre cible avant de réussir à la toucher avec une attaque au corps à corps, vous pouvez dépenser un dé de supériorité, faisant subir à la cible des dégâts supplémentaires égaux au résultat, et l'obligeant à effectuer un jet de sauvegarde de Force. Lors d'une sauvegarde ratée, la créature est mise à terre.</p>"
     },
     "Trip Attack": {
       "name": "Attaque de voyage",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to knock la cible down. You add the dé de supériorité to the attack's jet de dégâts, and if la cible is Large or smaller, it must make a Strength jet de sauvegarde. On a failed sauvegarde, you knock la cible à terre.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour tenter de renverser la cible. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et si la cible est Grande ou plus petite, elle doit faire un jet de sauvegarde de Force. Sur une sauvegarde échouée, vous frappez la cible à terre.</p>"
     },
     "Goading Attack": {
       "name": "Attaque d'aiguillon",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to goad la cible into attacking you. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible has disavantage on all attack rolls against targets other than you jusqu'à la fin de votre prochain tour.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour tenter d'inciter la cible à vous attaquer. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et la cible doit faire un jet de sauvegarde Sagesse. En cas d'échec de la sauvegarde, la cible est désavantagée sur tous les jets d'attaque contre des cibles autres que vous jusqu'à la fin de votre prochaine tournée.</p>"
     },
     "Empathize": {
-      "name": "Empathize",
-      "description": "<p>When you make an Insight check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Faire preuve d'empathie",
+      "description": "<p>Lorsque vous effectuez un test d'Insight, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Return Fire": {
-      "name": "Return Fire",
-      "description": "<p>When a creature misses you with a attaque à distance, you can use your réaction and expend one dé de supériorité to make a attaque d'arme à distance against la créature. If you hit, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+      "name": "Renvoyer le feu",
+      "description": "<p>Quand une créature vous manque avec une attaque à distance, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour faire une attaque d'arme à distance contre la créature. Si vous touchez, vous ajoutez le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Encouraging Speech": {
-      "name": "Encouraging Speech",
-      "description": "<p>You can expend a dé de supériorité to give an encouraging speech, spending the next minute rallying your allies. You grant two allies points de vie temporaires equal to the amount rolled on the dé de supériorité + your maneuver modificateur de caractéristique.</p>\n<p>This increases to three allies at niveau 5, four allies at niveau 9, five allies at niveau 13, and six allies at niveau 17.</p>"
+      "name": "Discours encourageant",
+      "description": "<p>Vous pouvez dépenser un dé de supériorité pour prononcer un discours encourageant, passant la minute suivante à rallier vos alliés. Vous accordez à deux alliés des points de vie temporaires égaux au montant obtenu sur le dé de supériorité + votre manoeuvre modificateur de caractéristique.</p>\n<p>Cela passe à trois alliés au niveau 5, quatre alliés au niveau 9, cinq alliés au niveau 13 et six alliés au niveau 17.</p>"
     },
     "Maneuvering Attack": {
       "name": "Attaque de manœuvre",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to maneuver one of your comrades into a more avantageous position. You add the dé de supériorité to the attack's jet de dégâts, and you choose a friendly creature who can see or hear you. </p>\n<p>That creature can use its réaction to move up to half its speed without provoking attaque d'opportunités from la cible of your attack.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour manœuvrer un de vos camarades dans une position plus avantageuse. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et vous choisissez une créature amie qui peut vous voir ou vous entendre. \n<p>Cette créature peut utiliser sa réaction pour se déplacer jusqu'à la moitié de sa vitesse sans provoquer d'attaque d'opportunités de la part de la cible de votre attaque.</p>"
     },
     "Weak Point Strike": {
       "name": "Frappe du point faible",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend a dé de supériorité to temporarily daze la créature. Add the number rolled to the dégâts of the attaque d'arme and la créature must succeed on a Constitution jet de sauvegarde or be étourdi until the end of its next turn.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour étourdir temporairement la créature. Ajoutez le nombre obtenu aux dégâts de l'attaque d'arme et la créature doit réussir un jet de sauvegarde de Constitution ou être étourdi jusqu'à la fin de son prochain tour.</p>"
     },
     "Unrelenting Grasp": {
-      "name": "Unrelenting Grasp",
-      "description": "<p>Quand vous contactez une créature within 5 mètres of you with an attaque d'opportunité, you may expend a dé de supériorité. The creature takes additional dégâts equal to your dé de supériorité, and you may attempt to grapple la cible as part of the same réaction.</p>"
+      "name": "Emprise implacable",
+      "description": "<p>Quand vous contactez une créature à moins de 5 mètres de vous avec une attaque d'opportunité, vous pouvez dépenser un dé de supériorité. La créature subit des dégâts supplémentaires égaux à votre dé de supériorité, et vous pouvez tenter de saisir la cible dans le cadre de la même réaction.</p>"
     },
     "Targeted Strike": {
-      "name": "Targeted Strike",
-      "description": "<p>When an ally who can see or hear you makes an attack against a creature, you can use your réaction to expend a dé de supériorité. You add the dé de supériorité to the attack roll, and the jet de dégâts if it hits. You can use this maneuver before or after the attack roll, but before the GM determines whether or not the attack hits.</p>"
+      "name": "Frappe ciblée",
+      "description": "<p>Quand un allié qui peut vous voir ou vous entendre attaque une créature, vous pouvez utiliser votre réaction pour dépenser un dé de supériorité. Vous ajoutez le dé de supériorité au jet d'attaque, et le jet de dégâts s'il touche. Vous pouvez utiliser cette manœuvre avant ou après le jet d'attaque, mais avant que le MJ ne détermine si l'attaque réussit ou non.</p>"
     },
     "Handle Animal": {
-      "name": "Handle Animal",
-      "description": "<p>When you make an Dressage check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Manipuler un animal",
+      "description": "<p>Lorsque vous effectuez un test de Dressage, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Pure Sabacc": {
-      "name": "Pure Sabacc",
-      "description": "<p>When you score a critical hit with a attaque d'arme, you can expend a dé de supériorité and roll it. On a roll of 4 or higher, you deal maximum dégâts on the weapon's jet de dégâts, including the dé de supériorité. On a roll of 3 or lower, you instead deal the minimum.</p>"
+      "name": "Sabacc pur",
+      "description": "<p>Lorsque vous réussissez un coup critique avec une attaque d'arme, vous pouvez dépenser un dé de supériorité et le lancer. Sur un résultat de 4 ou plus, vous infligez un maximum de dégâts sur les jets de dégâts de l'arme, y compris le dé de supériorité. Sur un résultat de 3 ou moins, vous distribuez à la place le minimum.</p>"
     },
     "Call to Arms (Improved)": {
-      "name": "Call to Arms (Improved)",
-      "description": "<p>When you use your Call to Arms maneuver, you can roll the dé de supériorité and extend the benefits of the maneuver to a number of allies up to the result of the roll, provided those allies can see or hear you.</p>"
+      "name": "Appel aux armes (amélioré)",
+      "description": "<p>Lorsque vous utilisez votre manœuvre Appel aux armes, vous pouvez lancer le dé de supériorité et étendre les bénéfices de la manœuvre à un certain nombre d'alliés jusqu'au résultat du jet, à condition que ces alliés puissent vous voir ou vous entendre.</p>"
     },
     "Self-Preservation": {
-      "name": "Self-Preservation",
-      "description": "<p>As a réaction quand vous faites a jet de sauvegarde against an effect you can see, you can expend a dé de supériorité and add it to the result. You can use this maneuver before or after making the jet de sauvegarde, but before any effects of the jet de sauvegarde are determined.</p>"
+      "name": "Auto-préservation",
+      "description": "<p>En guise de réaction lorsque vous effectuez un jet de sauvegarde contre un effet visible, vous pouvez dépenser un dé de supériorité et l'ajouter au résultat. Vous pouvez utiliser cette manœuvre avant ou après avoir effectué le jet de sauvegarde, mais avant que les effets du jet de sauvegarde ne soient déterminés.</p>"
     },
     "Commander's Strike": {
-      "name": "Commander's Strike",
-      "description": "<p>When you take the Attack action on your turn, you can forgo one of your attacks and use a action bonus to direct one of your companions to strike. When you do so, choose a friendly creature who can see or hear you and expend one dé de supériorité. That creature can immediately use its réaction to make one attaque d'arme, adding the dé de supériorité to the attack's jet de dégâts.</p>"
+      "name": "Frappe du commandant",
+      "description": "<p>Lorsque vous effectuez l'action Attaque à votre tour, vous pouvez renoncer à une de vos attaques et utiliser un bonus d'action pour ordonner à l'un de vos compagnons de frapper. Ce faisant, choisissez une créature amie qui peut vous voir ou vous entendre et dépensez un dé de supériorité. Cette créature peut immédiatement utiliser sa réaction pour effectuer une attaque d'arme, ajoutant le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Strikeforce": {
-      "name": "Strikeforce",
-      "description": "<p>When you make a attaque d'arme au corps à corps against a creature, you can expend one dé de supériorité and add the number rolled to the attack roll. En cas de contacter, la cible takes additional force dégâts equal to the number rolled. </p>"
+      "name": "Force de frappe",
+      "description": "<p>Lorsque vous effectuez une attaque d'arme au corps à corps contre une créature, vous pouvez dépenser un dé de supériorité et ajouter le chiffre obtenu au jet d'attaque. En cas de contact, la cible subit une force de dégâts supplémentaire égale au nombre obtenu. "
     },
     "Spine-Chilling Howls": {
-      "name": "Spine-Chilling Howls",
-      "description": "<p>As an action, you can expend one dé de supériorité to command your companion to frighten another creature. La cible must then succeed on a Wisdom jet de sauvegarde against your Maneuver sauvegarde DD or become effrayé of both you and your companion pendant 1 minute. The effrayé target can repeat the jet de sauvegarde at the end of each of its turns, ending the effect on itpersonnelle on a success.</p>"
+      "name": "Des hurlements effrayants",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité pour ordonner à votre compagnon d'effrayer une autre créature. La cible doit alors réussir un jet de sauvegarde Sagesse contre votre Manœuvre de sauvegarde DD ou devenir effrayé de vous et de votre compagnon pendant 1 minute. La cible effrayée peut répéter le jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet sur son personnel en cas de réussite.</p>"
     },
     "Conceal": {
-      "name": "Conceal",
-      "description": "<p>When you make an Stealth check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Cacher",
+      "description": "<p>Lorsque vous effectuez un test de Furtivité, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Wild Senses": {
-      "name": "Wild Senses",
-      "description": "<p>Whenever you make a Wisdom (Perception) or a Wisdom (Survival) check, you can request the aid of your companion by expending a dé de supériorité, adding the number rolled to the check. You can use this maneuver before or after making the test de caractéristique, but before the results of the test de caractéristique are determined.</p>"
+      "name": "Sens sauvages",
+      "description": "<p>A chaque fois que vous effectuez un test de Sagesse (Perception) ou de Sagesse (Survie), vous pouvez demander l'aide de votre compagnon en dépensant un dé de supériorité, en ajoutant le chiffre obtenu au test. Vous pouvez utiliser cette manœuvre avant ou après avoir effectué le test de caractéristique, mais avant que les résultats du test de caractéristique ne soient déterminés.</p>"
     },
     "Steady the Nerves": {
       "name": "Stabiliser les nerfs",
-      "description": "<p>As an action, you can expend one dé de supériorité to strengthen your allies' defenses. Roll a dé de supériorité. Until the end of your next turn, you and all allies within 5 mètres of you quand vous utilisez this action has a bonus to any jet de sauvegardes they make equal to the amount rolled.</p>"
+      "description": "<p>En action, vous pouvez dépenser un dé de supériorité pour renforcer les défenses de vos alliés. Roulez un dé de supériorité. Jusqu'à la fin de votre prochain tour, vous et tous vos alliés à moins de 5 mètres de vous lorsque vous utilisez cette action bénéficient d'un bonus à tout jet de sauvegarde qu'ils réalisent égal au montant obtenu.</p>"
     },
     "Inner Strength": {
-      "name": "Inner Strength",
-      "description": "<p>As an action, you can expend and roll one dé de supériorité, gaining points de vie temporaires equal to the result of the roll + your maneuver modificateur de caractéristique.</p>"
+      "name": "Force intérieure",
+      "description": "<p>Par une action, vous pouvez dépenser et lancer un dé de supériorité, gagnant des points de vie temporaires égaux au résultat du jet + votre manœuvre modificateur de caractéristique.</p>"
     },
     "Neuroblock": {
-      "name": "Neuroblock",
-      "description": "<p>When you make an attack roll, you can expend a dé de supériorité and add it to the attack roll. En cas de contacter, la créature's next attack has disavantage and it cannot regain points de vie jusqu'au début de votre prochain tour.</p>"
+      "name": "Neurobloc",
+      "description": "<p>Lorsque vous effectuez un jet d'attaque, vous pouvez dépenser un dé de supériorité et l'ajouter au jet d'attaque. En cas de contact, la prochaine attaque de la créature est désavantageuse et elle ne peut pas regagner de points de vie jusqu'au début de votre prochaine tournée.</p>"
     },
     "Deceive": {
-      "name": "Deceive",
-      "description": "<p>When you make an Deception check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Tromper",
+      "description": "<p>Lorsque vous effectuez un test de Déception, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Precise Movements": {
-      "name": "Precise Movements",
-      "description": "<p>When you or a friendly creature you can see that can see or hear you moves, you can expend a dé de supériorité to give them verbal guidance and encouragement. </p>\n<p>Roll a dé de supériorité. The creature's speed increases by 5 times the number rolled, and they can move through the space of hostile creatures as if it were difficult terrain.</p>"
+      "name": "Mouvements précis",
+      "description": "<p>Lorsque vous ou une créature amie que vous pouvez voir et qui peut vous voir ou vous entendre bouger, vous pouvez dépenser un dé de supériorité pour lui donner des conseils et des encouragements verbaux. \n<p>Roll a dé de supériorité. La vitesse de la créature augmente de 5 fois le nombre obtenu et elle peut se déplacer dans l'espace des créatures hostiles comme s'il s'agissait d'un terrain difficile.</p>"
     },
     "Riposte": {
       "name": "Riposte",
-      "description": "<p>When a creature misses you with a attaque au corps à corps, you can use your réaction and expend one dé de supériorité to make a attaque d'arme au corps à corps against la créature. If the attack hits, you add the dé de supériorité to the attack's jet de dégâts.</p>"
+      "description": "<p>Quand une créature vous manque avec une attaque au corps à corps, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour faire une attaque d'arme au corps à corps contre la créature. Si l'attaque réussit, vous ajoutez le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Perceive": {
-      "name": "Perceive",
-      "description": "<p>When you make an Perception check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Percevoir",
+      "description": "<p>Lorsque vous effectuez un test de Perception, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Wracking Torment": {
-      "name": "Wracking Torment",
-      "description": "<p>When a hostile creature you can see within 30 mètres would take dégâts from an effect you or a friendly creature controls, you can use your réaction and expend a dé de supériorité to temporarily weaken their resilience against it. Until the end of the turn, la cible loses resistance to the type de dégâtss of the triggering attack or power.</p>"
+      "name": "Tourment dévastateur",
+      "description": "<p>Lorsqu'une créature hostile que vous pouvez voir dans un rayon de 30 mètres subirait des dégâts d'un effet que vous ou une créature amie contrôlez, vous pouvez utiliser votre réaction et dépenser un dé de supériorité pour affaiblir temporairement sa résilience contre elle. Jusqu'à la fin du tour, la cible perd la résistance au type de dégâtss de l'attaque ou du pouvoir déclenchant.</p>"
     },
     "Tumble": {
-      "name": "Tumble",
-      "description": "<p>When you make an Acrobatics check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Chute",
+      "description": "<p>Lorsque vous effectuez un test d'Acrobaties, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Administer Aid (Improved)": {
-      "name": "Administer Aid (Improved)",
+      "name": "Administrer l'aide (amélioré)",
       "description": "<p>Vous pouvez utiliser votre manœuvre Administrer l'aide comme une action ou un bonus d'action.</p>"
     },
     "Subtle Execution": {
-      "name": "Subtle Execution",
-      "description": "<p>When you cast a pouvoir technique, you may expend a dé de supériorité to cast the power without any visual or auditory cues. Creatures have disavantage on any Intelligence (Investigation) or Wisdom (Perception) checks made to determine if you were the caster.</p>"
+      "name": "Exécution subtile",
+      "description": "<p>Lorsque vous lancez une technique de pouvoir, vous pouvez dépenser un dé de supériorité pour lancer le pouvoir sans aucun signal visuel ou auditif. Les créatures ont un désavantage lors de tous les tests d'Intelligence (Enquête) ou de Sagesse (Perception) effectués pour déterminer si vous étiez le lanceur de sorts.</p>"
     },
     "Body Over Bother": {
-      "name": "Body Over Bother",
-      "description": "<p>When you are forced to make an Strength, Dexterity, or Constitution jet de sauvegarde, you can expend a dé de supériorité to change the jet de sauvegarde ability to your maneuver modificateur de caractéristique.</p>"
+      "name": "Corps au-dessus de la peine",
+      "description": "<p>Lorsque vous êtes obligé de réaliser un jet de sauvegarde en Force, Dextérité ou Constitution, vous pouvez dépenser un dé de supériorité pour changer la capacité du jet de sauvegarde en votre modificateur de caractéristique de manœuvre.</p>"
     },
     "Incite": {
-      "name": "Incite",
-      "description": "<p>On your turn, you can use an action and expend one dé de supériorité to bolster the resolve of one of an ally within 30 mètres who can see or hear you. The ally can add your maneuver modificateur de caractéristique to every jet de dégâts they make jusqu'au début de votre prochain tour. </p>"
+      "name": "Inciter",
+      "description": "<p>À votre tour, vous pouvez utiliser une action et dépenser un dé de supériorité pour renforcer la détermination d'un allié à moins de 30 mètres qui peut vous voir ou vous entendre. L'allié peut ajouter votre manœuvre modificateur de caractéristique à chaque jet de dégâts qu'il effectue jusqu'au début de votre prochaine tournée. "
     },
     "Disarming Blow": {
-      "name": "Disarming Blow",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to disarm la cible, forcing it to drop one item de votre choix that it's holding. You add the dé de supériorité to the attack's jet de dégâts, and la cible must make a Strength jet de sauvegarde. On a failed sauvegarde, it drops the object you choose. If you have a free hand and are within 5 mètres of la créature, you can catch the item. Otherwise, the object lands at la créature's mètres.</p>"
+      "name": "Coup désarmant",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour tenter de désarmer la cible, l'obligeant à lâcher un objet de votre choix qu'elle détient. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et la cible doit faire un jet de sauvegarde de Force. En cas d'échec de la sauvegarde, il supprime l'objet que vous choisissez. Si vous avez la main libre et que vous êtes à moins de 5 mètres de la créature, vous pouvez attraper l'objet. Dans le cas contraire, l'objet atterrit aux mètres de la créature.</p>"
     },
     "Call the Guards": {
       "name": "Appelez les gardes",
-      "description": "<p>When a creature makes an attack roll against you, you can use your réaction and expend a dé de supériorité and command a willing ally within 5 mètres of cette créature to use their réaction to intercede. The creature is then forced to make an attack on the ally instead. If the attack misses, the ally can immediately make a attaque d'arme against cette créature as a part of that same réaction. Roll the dé de supériorité, and add the result to the ally's attack roll.</p>"
+      "description": "<p>Lorsqu'une créature effectue un jet d'attaque contre vous, vous pouvez utiliser votre réaction et dépenser un dé de supériorité et ordonner à un allié volontaire à moins de 5 mètres de cette créature d'utiliser sa réaction pour intercéder. La créature est alors obligée de lancer une attaque sur l'allié à la place. Si l'attaque échoue, l'allié peut immédiatement lancer une attaque d'arme contre cette créature dans le cadre de cette même réaction. Lancez le dé de supériorité, et ajoutez le résultat au jet d'attaque de l'allié.</p>"
     },
     "Rampage": {
-      "name": "Rampage",
-      "description": "<p>When you reduce a creature to 0 points de vie, you can use your action bonus to expend a dé de supériorité and move up to half your speed. If you end this movement within 5 mètres of a creature, you can make a single attaque d'arme au corps à corps against cette créature, adding the dé de supériorité to the attack roll.</p>"
+      "name": "Carnage",
+      "description": "<p>Lorsque vous réduisez une créature à 0 point de vie, vous pouvez utiliser votre bonus d'action pour dépenser un dé de supériorité et vous déplacer jusqu'à la moitié de votre vitesse. Si vous terminez ce mouvement à moins de 5 mètres d'une créature, vous pouvez effectuer une seule attaque d'arme au corps à corps contre cette créature, ajoutant le dé de supériorité au jet d'attaque.</p>"
     },
     "Runtime Extension": {
-      "name": "Runtime Extension",
-      "description": "<p>When a pouvoir technique you cast with a duration of 1 minute or longer reaches the end of its duration, you may expend a dé de supériorité to extend the duration of the power by a number of rounds equal to the number rolled on your dé de supériorité.</p>"
+      "name": "Extension d'exécution",
+      "description": "<p>Lorsqu'une technique de pouvoir que vous lancez d'une durée de 1 minute ou plus atteint la fin de sa durée, vous pouvez dépenser un dé de supériorité pour prolonger la durée du pouvoir d'un nombre de tours égal au nombre obtenu sur votre dé de supériorité.</p>"
     },
     "Pushing Attack": {
       "name": "Attaque poussée",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to attempt to drive la cible back. You add the dé de supériorité to the attack's jet de dégâts, and if la cible is Large or smaller, it must make a Strength jet de sauvegarde. On a failed sauvegarde, you push la cible up to 15 mètres away from you.</p>"
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour tenter de repousser la cible. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et si la cible est Grande ou plus petite, elle doit faire un jet de sauvegarde de Force. En cas d'échec de la sauvegarde, vous repoussez la cible jusqu'à 15 mètres de vous.</p>"
     },
     "Effective Flanking": {
-      "name": "Effective Flanking",
-      "description": "<p>As a action bonus, you choose a target within 30 mètres that you can see to make a Wisdom jet de sauvegarde. On a failed sauvegarde, roll a dé de supériorité; the result is added to the first attack roll against la créature before the start of your next turn.</p>"
+      "name": "Contournement efficace",
+      "description": "<p>En bonus d'action, vous choisissez une cible à moins de 30 mètres que vous pouvez voir pour réaliser un jet de sauvegarde Sagesse. Sur une sauvegarde échouée, lancez un dé de supériorité ; le résultat est ajouté au premier jet d'attaque contre la créature avant le début de votre prochain tour.</p>"
     },
     "Adrenaline Hit": {
       "name": "Coup d'adrénaline",
-      "description": "<p>You can use an action and expend one dé de supériorité to inject a creature with regenerative medication that temporarily enhances their agility. When you do so, a creature you can contact regains points de vie equal to the dé de supériorité roll. De plus, jusqu'au début de votre prochain tour, when cette créature would take dégâts, the amount is reduced by an amount equal to your maneuver modificateur de caractéristique.</p>"
+      "description": "<p>Vous pouvez utiliser une action et dépenser un dé de supériorité pour injecter à une créature un médicament régénérateur qui améliore temporairement son agilité. Lorsque vous le faites, une créature que vous pouvez contacter récupère des points de vie égaux au jet de dé de supériorité. De plus, jusqu'au début de votre prochaine tournée, lorsque cette créature prendrait des dégâts, le montant est réduit d'un montant égal à votre manœuvre modificateur de caractéristique.</p>"
     },
     "Daring Escape": {
-      "name": "Daring Escape",
-      "description": "<p>You can expend one dé de supériorité to take the Disengage action as a action bonus on your turn. Until the end of this turn, you have avantage on test de caractéristiques and jet de sauvegardes to break effects that would grapple, restrain or slow you.</p>"
+      "name": "Évasion audacieuse",
+      "description": "<p>Vous pouvez dépenser un dé de supériorité pour effectuer l'action Désengagement en bonus d'action à votre tour. Jusqu'à la fin de ce tour, vous disposez d'un avantage sur les tests de caractéristiques et les jets de sauvegardes pour briser les effets qui pourraient vous agripper, vous retenir ou vous ralentir.</p>"
     },
     "Call to Arms": {
-      "name": "Call to Arms",
-      "description": "<p>If you are surprised at the start of combat and aren't incapacitated, you can expend one dé de supériorité to act normally.</p>"
+      "name": "Appeler aux armes",
+      "description": "<p>Si vous êtes surpris au début du combat et n'êtes pas incapable d'agir, vous pouvez dépenser un dé de supériorité pour agir normalement.</p>"
     },
     "Heads Up": {
-      "name": "Heads Up",
-      "description": "<p>When a friendly creature who can see or hear you makes a jet de sauvegarde, you can use your réaction and expend a dé de supériorité, adding the number rolled to the result of the jet de sauvegarde.</p>"
+      "name": "Attention",
+      "description": "<p>Quand une créature amie qui peut vous voir ou vous entendre effectue un jet de sauvegarde, vous pouvez utiliser votre réaction et dépenser un dé de supériorité, en ajoutant le chiffre obtenu au résultat du jet de sauvegarde.</p>"
     },
     "One With Shadows": {
       "name": "Celui avec des ombres",
-      "description": "<p>When you are in an area of dim light or darkness, you can use your action and expend one dé de supériorité to become invisible until you move or take a hostile action.</p>"
+      "description": "<p>Lorsque vous êtes dans une zone de faible luminosité ou d'obscurité, vous pouvez utiliser votre action et dépenser un dé de supériorité pour devenir invisible jusqu'à ce que vous vous déplaciez ou effectuiez une action hostile.</p>"
     },
     "One with the Force": {
       "name": "Un avec la Force",
-      "description": "<p>Une fois par tour, quand vous faites a Constitution jet de sauvegarde to maintain concentration on a pouvoir de la Force, you can expend a dé de supériorité and add the number rolled to the jet de sauvegarde.</p>"
+      "description": "<p>Une fois par tour, lorsque vous faites un jet de sauvegarde de Constitution pour maintenir la concentration sur un pouvoir de la Force, vous pouvez dépenser un dé de supériorité et ajouter le numéro obtenu au jet de sauvegarde.</p>"
     },
     "One Step Ahead": {
-      "name": "One Step Ahead",
-      "description": "<p>When you roll initiative and you are not surprised, you can expend a dé de supériorité and add the number rolled to your Initiative check.</p>"
+      "name": "Une longueur d'avance",
+      "description": "<p>Lorsque vous lancez un jet d'initiative et que vous n'êtes pas surpris, vous pouvez dépenser un dé de supériorité et ajouter le chiffre obtenu à votre test d'initiative.</p>"
     },
     "Sic 'Em": {
       "name": "Sic 'Em",
-      "description": "<p>As an action, you can expend a dé de supériorité and command your companion to savage a nearby enemy. Your companion can use its réaction to immediately move up to 10 mètres and make one attack, adding the dés de supériorité to the jet de dégâts on a hit.</p>"
+      "description": "<p>En action, vous pouvez dépenser un dé de supériorité et ordonner à votre compagnon de ravager un ennemi proche. Votre compagnon peut utiliser sa réaction pour se déplacer immédiatement jusqu'à 10 mètres et effectuer une attaque, ajoutant le dés de supériorité au jet de dégâts sur un coup.</p>"
     },
     "Commander's Strike (Greater)": {
-      "name": "Commander's Strike (Greater)",
+      "name": "Frappe du commandant (supérieure)",
       "description": "<p>Lorsque vous utilisez la manœuvre Commander's Strike, vous pouvez choisir de renoncer à une attaque ou d'utiliser votre bonus d'action, plutôt que les deux. Toutes les autres règles de Commander's Strike s'appliquent toujours à vous.</p>"
     },
     "Distracting Blow": {
-      "name": "Distracting Blow",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité to distract la créature, giving your allies an opening. You add the dé de supériorité to the attack's jet de dégâts. The next attack roll against la cible by an attacker other than you has avantage if the attack is made before the start of your next turn.</p>"
+      "name": "Coup distrayant",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité pour distraire la créature, donnant ainsi une ouverture à vos alliés. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque. Le prochain jet d'attaque contre la cible par un attaquant autre que vous a avantage si l'attaque est effectuée avant le début de votre prochain tour.</p>"
     },
     "Tyrannical Strike": {
-      "name": "Tyrannical Strike",
-      "description": "<p>Quand vous contactez une créature with a attaque d'arme, you can expend one dé de supériorité and use your réaction to issue a one-word command to a creature who can see or hear you. You add the dé de supériorité to the attack's jet de dégâts, and la cible must succeed on a Wisdom jet de sauvegarde. On a failed sauvegarde, la cible must follow the command on its next turn. </p>\n<p>La cible automatically succeeds if it is immune to charm, it doesn't understand your language, or if your command is directly harmful to it.</p>"
+      "name": "Frappe tyrannique",
+      "description": "<p>Quand vous contactez une créature avec une attaque d'arme, vous pouvez dépenser un dé de supériorité et utiliser votre réaction pour émettre un ordre d'un mot à une créature qui peut vous voir ou vous entendre. Vous ajoutez le dé de supériorité au jet de dégâts de l'attaque, et la cible doit réussir un jet de sauvegarde Sagesse. En cas d'échec de la sauvegarde, la cible doit suivre la commande lors de son prochain tour. \n<p>La cible réussit automatiquement si elle est immunisée contre le charme, si elle ne comprend pas votre langue, ou si votre commande lui est directement nuisible.</p>"
     },
     "Feinting Attack": {
       "name": "Attaque de feinte",
-      "description": "<p>You can expend one dé de supériorité and use a action bonus on your turn to feint, choosing une créature within 5 mètres of you as your target. You have avantage on your next attack roll against cette créature this turn. If that attack hits, add the dé de supériorité to the attack's jet de dégâts.</p>"
+      "description": "<p>Vous pouvez dépenser un dé de supériorité et utiliser un bonus d'action à votre tour pour feinter, en choisissant comme cible une créature à moins de 5 mètres de vous. Vous avez l'avantage sur votre prochain jet d'attaque contre cette créature ce tour-ci. Si cette attaque réussit, ajoutez le dé de supériorité au jet de dégâts de l'attaque.</p>"
     },
     "Reverse Curse": {
-      "name": "Reverse Curse",
-      "description": "<p>When another creature attempts to charm or frighten you or an ally you can see within 15 mètres of you, you can use your réaction and expend a dé de supériorité and roll it to attempt to turn the effect back on cette créature. The creature must succeed on a Wisdom jet de sauvegarde or be be charmé or effrayé by you, dependent on the triggering ability, for a number of rounds equal to the die roll or until la créature takes any dégâts.</p>"
+      "name": "Malédiction inversée",
+      "description": "<p>Lorsqu'une autre créature tente de vous charmer ou de vous effrayer, vous ou un allié que vous pouvez voir à moins de 15 mètres de vous, vous pouvez utiliser votre réaction et dépenser un dé de supériorité et le lancer pour tenter de retourner l'effet sur cette créature. La créature doit réussir un jet de sauvegarde de Sagesse ou être charmée ou effrayée par vous, en fonction de la capacité de déclenchement, pendant un nombre de tours égal au jet de dé ou jusqu'à ce que la créature subisse des dégâts.</p>"
     },
     "No Escape": {
-      "name": "No Escape",
-      "description": "<p>Whenever you or an ally you can see makes an attaque d'opportunité, you can expend a dé de supériorité. If the attack hits, roll the dé de supériorité and add the result to the jet de dégâts. De plus, the affected creature gains 4 slowed niveaus until the start of its next turn.</p>"
+      "name": "Pas d'évasion",
+      "description": "<p>Chaque fois que vous ou un allié que vous pouvez voir effectuez une attaque d'opportunité, vous pouvez dépenser un dé de supériorité. Si l'attaque touche, lancez le dé de supériorité et ajoutez le résultat au jet de dégâts. De plus, la créature affectée gagne 4 niveaux ralentis jusqu'au début de son prochain tour.</p>"
     },
     "Enhancement Injection": {
-      "name": "Enhancement Injection",
-      "description": "<p>As an action, you can expend one dé de supériorité to inject a creature you can contact with enhancements, granting them points de vie temporaires equal to the dé de supériorité roll + your maneuver modificateur de caractéristique, which last pendant 1 minute. De plus, when la cible makes a Strength or test de Constitution or jet de sauvegarde while it has these points de vie temporaires, it gains a bonus equal to your maneuver modificateur de caractéristique.</p>"
+      "name": "Injection d'amélioration",
+      "description": "<p>Par une action, vous pouvez dépenser un dé de supériorité pour injecter à une créature que vous pouvez contacter des améliorations, lui accordant des points de vie temporaires égaux au jet de dé de supériorité + votre manœuvre modificateur de caractéristique, qui dure 1 minute. De plus, lorsque la cible effectue un Force ou un test de Constitution ou un jet de sauvegarde alors qu'elle possède ces points de vie temporaires, elle gagne un bonus égal à votre manœuvre modificateur de caractéristique.</p>"
     },
     "Overcapacity Powers": {
-      "name": "Overcapacity Powers",
-      "description": "<p>When you cast a pouvoir technique of 1st-niveau or higher, you may expend a dé de supériorité to cast the power at a higher niveau, provided it does not exceed your Maximum Power Niveau. Roll the dé de supériorité, and add it to the niveau at which you are casting the power. Vous pouvez choisir to cast it at this new power niveau or lower.</p>"
+      "name": "Pouvoirs en cas de surcapacité",
+      "description": "<p>Lorsque vous lancez une technique de pouvoir de 1er niveau ou supérieur, vous pouvez dépenser un dé de supériorité pour lancer le pouvoir à un niveau supérieur, à condition qu'il ne dépasse pas votre niveau de puissance maximum. Lancez le dé de supériorité et ajoutez-le au niveau auquel vous lancez le pouvoir. Vous pouvez choisir de le lancer à ce nouveau niveau de puissance ou moins.</p>"
     },
     "Naturalize": {
-      "name": "Naturalize",
-      "description": "<p>When you make an Nature check, you can expend a dé de supériorité, rolling the die and adding it to the [[/r d20]] roll. You can wait until after rolling the [[/r d20]] before doing so, but you must decide before the GM says whether the roll succeeds or fails.</p>"
+      "name": "Naturaliser",
+      "description": "<p>Lorsque vous effectuez un test de Nature, vous pouvez dépenser un dé de supériorité en lançant le dé et en l'ajoutant au jet [[/r d20]]. Vous pouvez attendre d'avoir lancé le [[/r d20]] avant de le faire, mais vous devez décider avant que le MJ ne vous dise si le jet réussit ou échoue.</p>"
     },
     "Fortune and Glory": {
       "name": "Fortune et gloire",
-      "description": "<p>When you would make a attaque d'arme against a target within 30 mètres, you can instead manipulate the Force to expend a dé de supériorité and make a Escamotage check using your universal forcecasting ability to plant something on la cible, conceal an object on la cible, lift la cible's purse, or take something from its pocket. Roll the dé de supériorité, and add the result to the check.</p>"
+      "description": "<p>Lorsque vous souhaitez effectuer une attaque d'arme contre une cible à moins de 30 mètres, vous pouvez à la place manipuler la Force pour dépenser un dé de supériorité et effectuer un test d'Escamotage en utilisant votre capacité universelle de lancement de force pour planter quelque chose sur la cible, cacher un objet sur la cible, soulever le sac à main de la cible ou prendre quelque chose dans sa poche. Lancez le dé de supériorité, et ajoutez le résultat au chèque.</p>"
     },
     "Commander's Strike (Improved)": {
-      "name": "Commander's Strike (Improved)",
+      "name": "Frappe du commandant (améliorée)",
       "description": "<p>Lorsque vous utilisez la manœuvre Frappe du commandant, vous n'êtes plus obligé de renoncer à une attaque dans le cadre de cette manœuvre. Toutes les autres règles de Commander's Strike s'appliquent toujours à vous.</p>"
     },
     "Rally": {
-      "name": "Rally",
-      "description": "<p>On your turn, you can use a action bonus and expend one dé de supériorité to bolster the resolve of one of your companions. When you do so, choose a friendly creature who can see or hear you. That creature gains points de vie temporaires equal to the dé de supériorité roll + your maneuver modificateur de caractéristique.</p>"
+      "name": "Rallier",
+      "description": "<p>À votre tour, vous pouvez utiliser un bonus d'action et dépenser un dé de supériorité pour renforcer la détermination d'un de vos compagnons. Ce faisant, choisissez une créature amie qui peut vous voir ou vous entendre. Cette créature gagne des points de vie temporaires égaux au jet de dé de supériorité + votre manoeuvre modificateur de caractéristique.</p>"
     },
     "Assess the Situation": {
       "name": "Évaluer la situation",
-      "description": "<p>You can expend one dé de supériorité to make a Wisdom (Perception) or Intelligence (Investigation) check as a action bonus, adding the dé de supériorité to the check.</p>"
+      "description": "<p>Vous pouvez dépenser un dé de supériorité pour faire un test de Sagesse (Perception) ou d'Intelligence (Enquête) en bonus d'action, en ajoutant le dé de supériorité au test.</p>"
     }
   },
   "mapping": {

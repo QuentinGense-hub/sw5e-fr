@@ -2,223 +2,223 @@
   "label": "Starship Features",
   "entries": {
     "Retro Thrusters": {
-      "name": "Retro Thrusters",
-      "description": "<p>Also at 2nd tier, when an attacker that a crew member can see deals dégâts to your ship with a weapon, they can use their réaction to immediately move the ship up to 50 mètres in a direction of their choice, halving the dégâts your ship takes. The orientation of the ship does not change.</p><p>Once this feature has been used, it can't be used again until the ship recharges.</p>"
+      "name": "Propulseurs rétro",
+      "description": "<p>Également au 2ème niveau, lorsqu'un attaquant qu'un membre d'équipage peut voir inflige des dégâts à votre vaisseau avec une arme, il peut utiliser sa réaction pour déplacer immédiatement le vaisseau jusqu'à 50 mètres dans la direction de son choix, réduisant de moitié les dégâts subis par votre vaisseau. L'orientation du vaisseau ne change pas.</p><p>Une fois cette fonctionnalité utilisée, elle ne peut plus être utilisée jusqu'à ce que le vaisseau se recharge.</p>"
     },
     "Role: Carrier": {
-      "name": "Role: Carrier",
+      "name": "Rôle : Transporteur",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au Charisme et <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>attributs.</p>"
     },
     "Paragon Cruiser": {
-      "name": "Paragon Cruiser",
-      "description": "<p>As of 5th tier, your starship is the best in its class. One of your ship's score de caractéristiques increases by 4, and its maximum for this score increase by 4. Another two score de caractéristiques increase by 2, and its maximum for these scores increase by 2.</p>"
+      "name": "Croiseur Parangon",
+      "description": "<p>À partir du 5ème niveau, votre vaisseau est le meilleur de sa catégorie. L'un des scores de caractéristiques de votre vaisseau augmente de 4, et son maximum pour ce score augmente de 4. Deux autres scores de caractéristiques augmentent de 2, et son maximum pour ces scores augmente de 2.</p>"
     },
     "Elusive Target": {
       "name": "Cible insaisissable",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Également au 4ème rang, la taille et l'agilité de votre vaisseau permettent d'éviter facilement les attaques. Aucune attaque d'armes primaire menée contre votre navire ne peut bénéficier d'un avantage tant que votre navire n'est pas désactivé.</span></p>"
     },
     "Capital Railgun": {
-      "name": "Capital Railgun",
-      "description": "<p>Also at 3rd tier, your ship is equipped with a forward-mounted special version of a Heavy Slug Railgun at its helm. Your ship is considered to meet this weapon's constitution requirement regardless of your ship's constitution score de caractéristique. The dégâts dealt by this Heavy Slug Railgun is [[/r 7d12]].</p><p>This weapon does not utilize or count as a weapon hardpoint.</p>"
+      "name": "Railgun capital",
+      "description": "<p>Également au 3ème rang, votre vaisseau est équipé d'une version spéciale montée à l'avant d'un Heavy Slug Railgun à sa barre. Votre vaisseau est considéré comme répondant aux exigences de constitution de cette arme, quel que soit le score caractéristique de constitution de votre vaisseau. Les dégâts infligés par ce Heavy Slug Railgun sont [[/r 7d12]].</p><p>Cette arme n'utilise pas et ne compte pas comme point d'emport d'arme.</p>"
     },
     "Role: Navigator": {
-      "name": "Role: Navigator",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Navigator</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>.</p>"
+      "name": "Rôle : Navigateur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Navigateur</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>.</p>"
     },
     "Role: Predator": {
-      "name": "Role: Predator",
+      "name": "Rôle : Prédateur",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Predator</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>.</p>"
     },
     "Paragon Snubfighter: Scrambler": {
-      "name": "Paragon Snubfighter: Scrambler",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Scrambler</h3> <p>Le score de Charisme de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Snubfighter : Brouilleur",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Scrambler</h3> <p>Le score de Charisme de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Keen Accuracy": {
-      "name": "Keen Accuracy",
-      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Au 5ème niveau, la portée des coups critiques des armes de votre vaisseau augmente de 1.</span></p>"
+      "name": "Grande précision",
+      "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Au 5ème niveau, la portée des coups critiques des armes de votre vaisseau augmenté de 1.</span></p>"
     },
     "Role: Superiority Fighter": {
-      "name": "Role: Superiority Fighter",
+      "name": "Rôle : Combattant de supériorité",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Combattant de supériorité</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>.</p>"
     },
     "Role: Flagship": {
-      "name": "Role: Flagship",
+      "name": "Rôle : phare",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p> <h3>Flagship</h3> <p>Votre vaisseau gagne un bonus de +1 aux attributs Charisme et Sagesse.</p>"
     },
     "Role: Probe": {
-      "name": "Role: Probe",
+      "name": "Rôle : Sonde",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Probe</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>.</p>"
     },
     "Paragon Swarmer: Munition": {
-      "name": "Paragon Swarmer: Munition",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Munition</h3><p>Le score de Constitution de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Swarmer : Munitions",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Munition</h3><p>Le score de Constitution de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Paragon Swarmer: Droid": {
-      "name": "Paragon Swarmer: Droid",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Droid</h3><p>Le score d'intelligence de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Swarmer : Droïde",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Droid</h3><p>Le score d'intelligence de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Colonizer": {
-      "name": "Role: Colonizer",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>attributes.</p>"
+      "name": "Rôle : Colonisateur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>attributs.</p>"
     },
     "Role: Missile Boat": {
-      "name": "Role: Missile Boat",
+      "name": "Rôle : Bateau lance-missiles",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Bateau lance-missiles</h3><p>Votre navire gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>.</p>"
     },
     "Paragon Snubfighter: Scout": {
-      "name": "Paragon Snubfighter: Scout",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Scout</h3> <p>Le score d'Intelligence de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Snubfighter : Éclaireur",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Scout</h3> <p>Le score d'Intelligence de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Freighter": {
-      "name": "Role: Freighter",
+      "name": "Rôle : Cargo",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Cargo</h3><p>Votre navire gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>.</p>"
     },
     "Small": {
-      "name": "Small",
+      "name": "Petit",
       "description": ""
     },
     "Role: Mobile Metropolis": {
-      "name": "Role: Mobile Metropolis",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>attributes.</p>"
+      "name": "Rôle : Métropole mobile",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>attributs.</p>"
     },
     "Concentrated Fire": {
-      "name": "Concentrated Fire",
-      "description": "<p>Également au 2e rang, une fois par tour, lorsque vous attaquez un navire de taille Large ou plus, et qu'il a déjà été contacté par les armes d'un navire allié de taille Large ou plus depuis la fin de son dernier tour, vous avez l'avantage sur l'attaque. Si vous aviez déjà un avantage, vous pouvez relancer un des dés une fois (votre choix).</p>"
+      "name": "Feu concentré",
+      "description": "<p>Également au 2e rang, une fois par tour, lorsque vous attaquez un navire de taille Large ou plus, et qu'il a déjà été contacté par les armes d'un navire allié de taille Large ou plus depuis la fin de son dernier tour, vous avez l'avantage sur l'attaque. Si vous bénéficiez déjà d'un avantage, vous pouvez relancer un des dés une fois (votre choix).</p>"
     },
     "Hold Together": {
-      "name": "Hold Together",
-      "description": "<p>Also at 3rd tier, when your ship takes dégâts while at 0 hull points, it makes a Destruction jet de sauvegarde, instead of automatically failing.</p>"
+      "name": "Tenir ensemble",
+      "description": "<p>Également au 3ème rang, lorsque votre vaisseau subit des dégâts alors qu'il est à 0 point de coque, il effectue un jet de sauvegarde de destruction, au lieu d'échouer automatiquement.</p>"
     },
     "Blockade Runner": {
-      "name": "Blockade Runner",
-      "description": "<p>Also at 1st tier, your starship gains the ability to react to dégâts from large ships.</p><p>As a réaction to being hit with an attack roll from a Large or larger ship, a crewmember at the helm can use their réaction to immediately move the ship forward an amount equal to half its flying speed (rounded down) and then roll a Blockade Runner die, which is a [[/r 1d4]], and subtract it from the triggering attack roll, potentially causing it to miss.</p><p>Your ship's Blockade Runner die changes when it reaches certain tiers. The die becomes a [[/r 1d6]] at 2nd tier, a [[/r 1d8]] at 3rd tier, a [[/r 1d10]] at 4th tier, and a [[/r 1d12]] at 5th tier.</p><p>Cette aptitude can be used un nombre de fois égal à 3 x your ship's tier. All expended uses are regained when the ship is refitted.</p>"
+      "name": "Coureur de blocus",
+      "description": "<p>Également au 1er niveau, votre vaisseau acquiert la capacité de réagir aux dégâts des grands navires.</p><p>En réponse à un jet d'attaque d'un navire de grande taille ou plus grand, un membre d'équipage à la barre peut utiliser sa réaction pour faire immédiatement avancer le navire d'un montant égal à la moitié de sa vitesse de vol (arrondie à l'inférieur), puis lancer un dé Blockade Runner, qui est un [[/r 1d4]], et soustrayez-le du jet d'attaque déclencheur, ce qui pourrait le faire rater.</p><p>Le dé Blockade Runner de votre vaisseau change lorsqu'il atteint certains niveaux. Le dé devient un [[/r 1d6]] au 2e rang, un [[/r 1d8]] au 3e rang, un [[/r 1d10]] au 4e rang et un [[/r 1d12]] au 5e rang.</p><p>Cette aptitude peut être utilisée un nombre de fois égal à 3 x le rang de votre vaisseau. Toutes les utilisations dépensées sont récupérées lorsque le navire est réaménagé.</p>"
     },
     "Role: Scrambler": {
-      "name": "Role: Scrambler",
+      "name": "Rôle : Brouilleur",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Scrambler</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Charisma </span>.</p>"
     },
     "Role: Droid": {
-      "name": "Role: Droid",
+      "name": "Rôle : Droïde",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Droid</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>.</p>"
     },
     "Nimble Aerobatics": {
-      "name": "Nimble Aerobatics",
+      "name": "Voltige agile",
       "description": "<p><span style=\"font-family:'Open Sans', sans-serif\">Également au 2ème niveau, votre vaisseau est si agile qu'il peut ignorer les terrains difficiles non améliorés, et lorsque vous souhaitez utiliser une action pour vous libérer d'un effet qui tracte ou retient votre vaisseau, vous pouvez à la place utiliser un bonus d'action.</span></p>"
     },
     "Huge": {
-      "name": "Huge",
+      "name": "Énorme",
       "description": ""
     },
     "Nimble Starship": {
-      "name": "Nimble Starship",
+      "name": "Vaisseau agile",
       "description": "<p>Également au 2ème niveau, votre vaisseau peut ajouter la moitié de son modificateur de Dextérité (au minimum un) à tout jet de sauvegarde qu'il fabrique et qui n'inclut pas déjà ce modificateur.</p>"
     },
     "Adaptive Armor": {
       "name": "Armure adaptative",
-      "description": "<p>Also at 4th tier, when your ship is hit with an attack roll, a crew member at the helm can add the ship's Constitution modificateur to AC, potentially causing the attack to miss.</p><p>Cette aptitude can be used un nombre de fois égal à your ship's tier. All expended uses are regained when the ship is refitted.</p>"
+      "description": "<p>Également au 4ème rang, lorsque votre navire est touché par un jet d'attaque, un membre d'équipage à la barre peut ajouter le modificateur de Constitution du navire à la CA, provoquant potentiellement l'échec de l'attaque.</p><p>Cette aptitude peut être utilisée un nombre de fois égal au rang de votre navire. Toutes les utilisations dépensées sont récupérées lorsque le navire est réaménagé.</p>"
     },
     "Paragon Swarmer: Predator": {
-      "name": "Paragon Swarmer: Predator",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Predator</h3><p>Le score de Dextérité de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Swarmer : Prédateur",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Predator</h3><p>Le score de Dextérité de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Industrial Center": {
-      "name": "Role: Industrial Center",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Centre Industriel",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Medium": {
-      "name": "Medium",
+      "name": "Moyen",
       "description": ""
     },
     "Paragon Transport": {
-      "name": "Paragon Transport",
-      "description": "<p>As of 5th tier, your starship is the best in its class. Two of your ship's score de caractéristiques increase by 2. It's maximums for these scores increase by two.</p>"
+      "name": "Transport Parangon",
+      "description": "<p>À partir du 5ème niveau, votre vaisseau est le meilleur de sa catégorie. Deux des scores de caractéristiques de votre vaisseau augmentent de 2. Les maximums pour ces scores augmentent de deux.</p>"
     },
     "Devastator": {
-      "name": "Devastator",
-      "description": "<p>Also at 5th tier, as an action, a single crew member can give the ship the following benefits pendant 1 minute:</p>\n<ul>\n<li>Your ship has resistance to all dégâts.</li>\n<li>Your ship's ship attacks score a critical hit on a roll of 19 or 20 on the d20.</li>\n</ul>\n<p>Cet effet ends early if the ship is disabled. Once this feature has been used, it can't be used again until the ship undergoes refitting.</p>"
+      "name": "Dévastateur",
+      "description": "<p>Également au 5ème niveau, par une action, un seul membre d'équipage peut donner au navire les avantages suivants pendant 1 minute :</p>\n>\n<li>Votre vaisseau a une résistance à tous les dégâts.</li>\n<li>Les attaques de votre vaisseau infligent un coup critique sur un résultat de 19 ou 20 au d20.</li>\n>\n<p>Cet effet se termine plus tôt si le vaisseau est désactivé. Une fois cette fonctionnalité utilisée, elle ne peut plus être utilisée tant que le navire n'a pas été réaménagé.</p>"
     },
     "Paragon Snubfighter: Attack Fighter": {
       "name": "Paragon Snubfighter : Combattant d'attaque",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Strike Fighter</h3> <p>Le score de Force de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "description": "<p>En tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Strike Fighter</h3> <p>Le score de Force de votre vaisseau augmente de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Tiny": {
-      "name": "Tiny",
+      "name": "Minuscule",
       "description": ""
     },
     "Role: Ambassador": {
-      "name": "Role: Ambassador",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Ambassadeur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Charisme </span>et <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>attributes.</p>"
+      "name": "Rôle : Ambassadeur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Ambassadeur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Charisme </span>et <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>attributs.</p>"
     },
     "Broadside": {
-      "name": "Broadside",
-      "description": "<p>Also at 4th tier, once on each of their turns, when a crew member makes a ship attack, they can make another attack with the same weapon against a different ship that is within 100 mètres of the original target and within range of their weapon.</p>"
+      "name": "Bordée",
+      "description": "<p>Également au 4ème niveau, une fois à chacun de ses tours, lorsqu'un membre d'équipage effectue une attaque de navire, il peut effectuer une autre attaque avec la même arme contre un navire différent qui se trouve à moins de 100 mètres de la cible d'origine et à portée de son arme.</p>"
     },
     "Paragon Swarmer: Probe": {
-      "name": "Paragon Swarmer: Probe",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Probe</h3><p>Le score de Sagesse de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Swarmer : Sonde",
+      "description": "<p>En tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Probe</h3><p>Le score de Sagesse de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Damage Control": {
       "name": "Contrôle des dégâts",
-      "description": "<p>Also at 1st tier, your starship gains the ability to automatically mitigate dégâts from ships.</p><p>Une fois par tour, as a réaction to being dealt dégâts by a ship weapon, a crew member can use their réaction and roll a Damage Control die, which is a [[/r 1d4]], and subtract it from the jet de dégâts.</p><p>Your ship's Damage Control die changes when it reaches certain tiers. The die becomes a [[/r 1d6]] at 2nd tier, a [[/r 1d8]] at 3rd tier, a [[/r 1d10]] at 4th tier, and a [[/r 1d12]] at 5th tier.</p><p>Cette aptitude can be used un nombre de fois égal à 4 x your ship's tier. All expended uses are regained when the ship undergoes refitting.</p>"
+      "description": "<p>Également au 1er niveau, votre vaisseau gagne la capacité d'atténuer automatiquement les dégâts des navires.</p><p>Une fois par tour, en réaction aux dégâts infligés par une arme du navire, un membre de l'équipage peut utiliser sa réaction et lancer un dé de contrôle des dommages, qui est un [[/r 1d4]], et le soustraire du jet de dégâts.</p><p>Le dé de contrôle des dégâts de votre vaisseau change lorsqu'il atteint certains niveaux. Le dé devient un [[/r 1d6]] au 2e rang, un [[/r 1d8]] au 3e rang, un [[/r 1d10]] au 4e rang et un [[/r 1d12]] au 5e rang.</p><p>Cette aptitude peut être utilisée un nombre de fois égal à 4 x le rang de votre vaisseau. Toutes les utilisations dépensées sont récupérées lorsque le navire subit un réaménagement.</p>"
     },
     "Role: Satellite": {
-      "name": "Role: Satellite",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Satellite</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Charisma </span>.</p>"
+      "name": "Rôle : Satellite",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Satellite</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Charisme </span>.</p>"
     },
     "Role: Bomber": {
-      "name": "Role: Bomber",
+      "name": "Rôle : Bombardier",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Bomber</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>.</p>"
     },
     "Role: Command Ship": {
-      "name": "Role: Command Ship",
+      "name": "Rôle : Navire de commandement",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p> <h3>Navire de commandement</h3> <p>Votre vaisseau gagne un bonus de +1 aux attributs Charisme et Sagesse.</p>"
     },
     "Large": {
-      "name": "Large",
+      "name": "Grand",
       "description": ""
     },
     "Role: Juggernaut": {
-      "name": "Role: Juggernaut",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Juggernaut",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Paragon Dreadnought": {
-      "name": "Paragon Dreadnought",
-      "description": "<p>As of 5th tier, your starship is the best in its class. Two of your ship's score de caractéristiques increase by 4, and its maximum for these scores increase by 4. Another score de caractéristique increases by 2, and its maximum for this score increases by 2.</p>"
+      "name": "Dreadnought Parangon",
+      "description": "<p>À partir du 5ème niveau, votre vaisseau est le meilleur de sa catégorie. Deux des scores de caractéristiques de votre vaisseau augmentent de 4, et son maximum pour ces scores augmente de 4. Un autre score de caractéristique augmente de 2, et son maximum pour ce score augmente de 2.</p>"
     },
     "Role: Picket Ship": {
-      "name": "Role: Picket Ship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Picket Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>attributes.</p>"
+      "name": "Rôle : Navire de piquetage",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Picket Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>attributs.</p>"
     },
     "Paragon Snubfighter: Shuttle": {
-      "name": "Paragon Snubfighter: Shuttle",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Shuttle</h3> <p>Le score de Constitution de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Snubfighter : Navette",
+      "description": "<p>En tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Shuttle</h3> <p>Le score de Constitution de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Blockade Ship": {
-      "name": "Role: Blockade Ship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Navire de blocus",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Paragon Frigate": {
-      "name": "Paragon Frigate",
-      "description": "<p>As of 5th tier, your starship is a the best in its class. Three of your ship's score de caractéristiques increase by 2. Its maximum for these scores increases by 2.</p>"
+      "name": "Frégate Parangon",
+      "description": "<p>À partir du 5ème niveau, votre vaisseau est le meilleur de sa catégorie. Trois des scores de caractéristiques de votre vaisseau augmentent de 2. Son maximum pour ces scores augmente de 2.</p>"
     },
     "Role: Interdictor": {
-      "name": "Role: Interdictor",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Interdicteur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "A Leaf on the Wind": {
       "name": "Une feuille au vent",
-      "description": "<p>Also at 5th tier, when your ship, or a deployed crew member, makes an test de caractéristique, attack roll, or jet de sauvegarde, a deployed crew member can use their réaction to treat the amount rolled on the d20 as a 20.</p>\n<p>Once this feature has been used, it can't be used again until the ship recharges.</p>"
+      "description": "<p>Également au 5ème rang, lorsque votre vaisseau, ou un membre d'équipage déployé, effectue un test de caractéristique, un jet d'attaque ou un jet de sauvegarde, un membre d'équipage déployé peut utiliser sa réaction pour traiter le montant obtenu sur le d20 comme un 20.</p>\n<p>Une fois cette fonctionnalité utilisée, elle ne peut plus être utilisée tant que le vaisseau n'est pas rechargé.</p>"
     },
     "Auto-Thrusters": {
-      "name": "Auto-Thrusters",
+      "name": "Propulseurs automatiques",
       "description": "<p>Également au 3ème niveau, votre vaisseau peut ajouter la moitié de son modificateur de Force (arrondi à l'inférieur, minimum un) à ses jets de sauvegarde de Dextérité.</p>"
     },
     "Armor Class Improvement": {
-      "name": "Classe d'armure Improvement",
-      "description": "<p>À partir du second Tier, your ship's classe d'armure improves, giving your ship a +1 to its AC. It gains an additional +1 bonus to AC at 3rd Tier (+2 total), 4th Tier (+3 total), and 5th Tier (+4 total).</p><p>Applies to all ship sizes.</p>"
+      "name": "Amélioration de la classe d'armure",
+      "description": "<p>À partir du deuxième Tier, la classe d'armure de votre vaisseau s'améliore, donnant à votre vaisseau un +1 à sa CA. Il bénéficie d'un bonus supplémentaire de +1 à la CA au 3ème niveau (+2 au total), au 4ème niveau (+3 au total) et au 5ème niveau (+4 au total).</p><p>S'applique à toutes les tailles de navires.</p>"
     },
     "Role: Worker": {
-      "name": "Role: Worker",
+      "name": "Rôle : Ouvrier",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Worker</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>.</p>"
     },
     "Role: Attack Fighter": {
@@ -226,96 +226,96 @@
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Attack Fighter</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>.</p>"
     },
     "Role: Warship": {
-      "name": "Role: Warship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributes.</p>"
+      "name": "Rôle : Navire de guerre",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributs.</p>"
     },
     "Prime Doctrine": {
-      "name": "Prime Doctrine",
-      "description": "<p>Also at 2nd tier, your starship strikes fear in your enemies. When crew members roll initiative, one crew member can attempt to frighten other ships. Each crew member deployed on a hostile ship must make a Wisdom jet de sauvegarde contested by a Charisma (Menace) check. On a failed sauvegarde, affected crew members have disavantage on the first test de caractéristique, attack roll, or jet de sauvegarde they make each round pendant 1 minute. At the end of each of their turns, they repeat this sauvegarde, ending this effect on a success. De plus, on a successful sauvegarde, they become immune to this feature for one day.</p>\n<p>Once this feature has been used, it can't be used again until the ship recharges.</p>"
+      "name": "Doctrine première",
+      "description": "<p>Également au 2ème niveau, votre vaisseau sème la peur chez vos ennemis. Lorsque les membres de l'équipage lancent un jet d'initiative, un membre de l'équipage peut tenter d'effrayer les autres navires. Chaque membre d'équipage déployé sur un navire hostile doit effectuer un jet de sauvegarde de Sagesse contesté par un test de Charisme (Menace). En cas d'échec de la sauvegarde, les membres d'équipage concernés sont désavantagés sur le premier test de caractéristique, jet d'attaque ou jet de sauvegarde qu'ils effectuent à chaque tour pendant 1 minute. A la fin de chacun de leurs tours, ils réitèrent cette sauvegarde, terminant cet effet sur une réussite. De plus, en cas de sauvegarde réussie, ils deviennent immunisés contre cette fonctionnalité pendant une journée.</p>\n<p>Une fois cette fonctionnalité utilisée, elle ne peut plus être utilisée tant que le vaisseau n'est pas rechargé.</p>"
     },
     "Role: Cruiser": {
-      "name": "Role: Cruiser",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Cruiser</h3><p>Votre navire gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Croiseur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Cruiser</h3><p>Votre navire gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Sagesse </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Role: Ship's Tender": {
-      "name": "Role: Ship's Tender",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Annexe du navire</h3><p>Votre navire gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributes.</p>"
+      "name": "Rôle : Annexe du navire",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Annexe du navire</h3><p>Votre navire gagne un bonus de +1 à la <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>et <span style=\"font-family:'Open Sans', sans-serif\">Force </span>attributs.</p>"
     },
     "Role: Explorer": {
-      "name": "Role: Explorer",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Explorateur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>attributes.</p>"
+      "name": "Rôle : Explorateur",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Explorateur</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>et <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>attributs.</p>"
     },
     "Role: Courier": {
-      "name": "Role: Courier",
+      "name": "Rôle : Coursier",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Courier</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Dextérité </span>.</p>"
     },
     "Paragon Swarmer: Worker": {
-      "name": "Paragon Swarmer: Worker",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Worker</h3><p>Le score de Force de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Swarmer : Ouvrier",
+      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Worker</h3><p>Le score de Force de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Researcher": {
-      "name": "Role: Researcher",
+      "name": "Rôle : Chercheur",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Flagship</h3><p>Votre vaisseau gagne un bonus de +1 aux attributs <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>et Sagesse.</p>"
     },
     "Capital Ship": {
-      "name": "Capital Ship",
-      "description": "<p>Also at 5th tier, a crew member can, as a action bonus, delegate a plan of action to the crew. The ship can immediately move up to its flying speed, and up to five crew members on that ship can use their réaction to immediately take an action.</p>\n<p>Once this feature has been used, it can't be used again until the ship recharges.</p>"
+      "name": "Navire capital",
+      "description": "<p>Également au 5ème palier, un membre d'équipage peut, en bonus d'action, déléguer un plan d'action à l'équipage. Le vaisseau peut immédiatement atteindre sa vitesse de vol, et jusqu'à cinq membres d'équipage de ce vaisseau peuvent utiliser leur réaction pour entreprendre immédiatement une action.</p>\n<p>Une fois cette fonctionnalité utilisée, elle ne peut plus être utilisée tant que le vaisseau n'est pas rechargé.</p>"
     },
     "Pinpoint Strike": {
-      "name": "Pinpoint Strike",
-      "description": "<p>Also at 1st tier, your starship gains the ability to slip underneath the shields of an enemy ship.</p><p>When your ship occupies the same square occupied by a target ship and the crew member at the helm makes an attack roll, as a réaction, they can, before rolling the attack, roll a Pinpoint Strike die, which is a [[/r 1d4]], and add it to the attack roll. If the attack requires a jet de sauvegarde instead, you may subtract the Pinpoint Strike die from la cible's sauvegarde result. En cas de contacter or a failed sauvegarde, the attack deals normal dégâts that bypasses any shields and directly hits the hull of la cible ship. Cette aptitude can only be used once per round.</p><p>Your ship's Pinpoint Strike die changes when it reaches certain tiers. The die becomes a [[/r 1d6]] at 2nd tier, a [[/r 1d8]] at 3rd tier, a [[/r 1d10]] at 4th tier, and a [[/r 1d12]] at 5th tier.</p><p>Cette aptitude can be used un nombre de fois égal à your ship's tier. All expended uses are regained when the ship recharges.</p>"
+      "name": "Frappe précise",
+      "description": "<p>Également au 1er niveau, votre vaisseau acquiert la capacité de se glisser sous les boucliers d'un navire ennemi.</p><p>Lorsque votre vaisseau occupe la même case occupée par un navire cible et que le membre de l'équipage à la barre effectue un jet d'attaque, en guise de réaction, il peut, avant de lancer l'attaque, lancer un dé de frappe localisée, qui est un [[/r 1d4]], et l'ajouter au jet d'attaque. Si l'attaque nécessite à la place un jet de sauvegarde, vous pouvez soustraire le dé Pinpoint Strike du résultat de sauvegarde de la cible. En cas de contact ou d'échec de la sauvegarde, l'attaque inflige des dégâts normaux qui contournent tous les boucliers et touchent directement la coque du navire cible. Cette aptitude ne peut être utilisée qu'une seule fois par tour.</p><p>Le dé Pinpoint Strike de votre vaisseau change lorsqu'il atteint certains niveaux. Le dé devient un [[/r 1d6]] au 2ème rang, un [[/r 1d8]] au 3ème rang, un [[/r 1d10]] au 4ème rang et un [[/r 1d12]] au 5ème rang.</p><p>Cette aptitude peut être utilisée un nombre de fois égal au rang de votre vaisseau. Toutes les utilisations dépensées sont récupérées lorsque le navire se recharge.</p>"
     },
     "Gargantuan": {
-      "name": "Gargantuan",
+      "name": "Gargantuesque",
       "description": ""
     },
     "Evasive Maneuvers": {
-      "name": "Evasive Maneuvers",
-      "description": "<p>Also at 1st tier, when a crew member at the helm rolls for initiative, they can immediately move the ship. This movement happens before the initiative order is determined.</p><p>The amount the ship moves is determined by rolling an Evasive Maneuvers die, which is a [[/r 1d4]], and multiplying it by 50 mètres. The ship then gains that many mètres that it can move or spend to turn.</p><p>Your ship's Evasive Maneuvers die changes when it reaches certain tiers. The die becomes a [[/r 1d6]] at 2nd tier, a [[/r 1d8]] at 3rd tier, a [[/r 1d10]] at 4th tier, and a [[/r 1d12]] at 5th tier.</p><p>Cette aptitude can be used un nombre de fois égal à 2 x your ship's tier. All expended uses are regained when the ship is refitted.</p>"
+      "name": "Manœuvres d'évasion",
+      "description": "<p>Également au 1er rang, lorsqu'un membre d'équipage à la barre lance un jet d'initiative, il peut immédiatement déplacer le navire. Ce mouvement se produit avant que l'ordre d'initiative ne soit déterminé.</p><p>La quantité de mouvement du navire est déterminée en lançant un dé de manœuvres évasives, qui est un [[/r 1d4]], et en le multipliant par 50 mètres. Le vaisseau gagne alors autant de mètres qu'il peut se déplacer ou dépenser pour tourner.</p><p>Le dé des manœuvres évasives de votre vaisseau change lorsqu'il atteint certains niveaux. Le dé devient un [[/r 1d6]] au 2e rang, un [[/r 1d8]] au 3e rang, un [[/r 1d10]] au 4e rang et un [[/r 1d12]] au 5e rang.</p><p>Cette aptitude peut être utilisée un nombre de fois égal à 2 x le rang de votre vaisseau. Toutes les utilisations dépensées sont récupérées lorsque le navire est réaménagé.</p>"
     },
     "Role: Battleship": {
-      "name": "Role: Battleship",
-      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributes.</p>"
+      "name": "Rôle : Cuirassé",
+      "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Command Ship</h3><p>Votre vaisseau gagne un bonus de +1 au <span style=\"font-family:'Open Sans', sans-serif\">Wisdom </span>et <span style=\"font-family:'Open Sans', sans-serif\">Strength </span>attributs.</p>"
     },
     "Paragon Snubfighter: Bomber": {
-      "name": "Paragon Snubfighter: Bomber",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Bomber</h3> <p>Le score de Sagesse de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Paragon Snubfighter : Bombardier",
+      "description": "<p>En tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p> <h3>Bomber</h3> <p>Le score de Sagesse de votre vaisseau augmenté de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Ability Score Improvement": {
       "name": "Score de caractéristique Improvement",
-      "description": "<h3>Ability Score Improvement</h3><p>At 1st tier, and again at 2nd, 3rd, 4th, and 5th tier, you can increase one of your ship's score de caractéristiques by 2, or you can increase two of these score de caractéristiques by 1. You can't increase your score de caractéristiques other than Dexterity above 20, or your Dexterity above 22, with this feature.</p>"
+      "description": "<h3>Amélioration du score de capacité</h3><p>Au 1er niveau, puis de nouveau aux 2ème, 3ème, 4ème et 5ème niveaux, vous pouvez augmenter l'un des scores de caractéristiques de votre vaisseau de 2, ou vous pouvez augmenter deux de ces scores de caractéristiques de 1. Vous ne pouvez pas augmenter votre score de caractéristiques autre que la Dextérité au-dessus de 20, ou votre Dextérité. au-dessus de 22, avec cette fonctionnalité.</p>"
     },
     "Paragon Swarmer: Satellite": {
-      "name": "Paragon Swarmer: Satellite",
-      "description": "<p>AEn tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Satellite</h3><p>Le score de Charisme de votre vaisseau augmente de 2. Son maximum pour ce score augmente de 2.</p>"
+      "name": "Swarmer Parangon : Satellite",
+      "description": "<p>En tant que 5ème niveau, votre vaisseau est le meilleur de sa catégorie.</p><h3>Satellite</h3><p>Le score de Charisme de votre vaisseau augmente de 2. Son maximum pour ce score augmenté de 2.</p>"
     },
     "Role: Munition": {
-      "name": "Role: Munition",
+      "name": "Rôle : Munitions",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Munition</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>.</p>"
     },
     "Role: Gunship": {
-      "name": "Role: Gunship",
+      "name": "Rôle : Gunship",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Gunship</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut Force.</p>"
     },
     "Role: Corvette": {
-      "name": "Role: Corvette",
+      "name": "Rôle : Corvette",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p> <h3>Corvette</h3> <p>Votre vaisseau gagne un bonus de +1 aux attributs Force et Dextérité.</p>"
     },
     "Role: Yacht": {
-      "name": "Role: Yacht",
+      "name": "Rôle : Yacht",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre navire.</p><h3>Yacht</h3><p>Votre navire gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Charisma </span>.</p>"
     },
     "Role: Shuttle": {
-      "name": "Role: Shuttle",
+      "name": "Rôle : Navette",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Shuttle</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Constitution </span>.</p>"
     },
     "Role: Scout": {
-      "name": "Role: Scout",
+      "name": "Rôle : éclaireur",
       "description": "<p>Au niveau 0, vous adoptez un style de conception particulier pour votre vaisseau.</p><h3>Scout</h3><p>Votre vaisseau gagne un bonus de +1 à l'attribut <span style=\"font-family:'Open Sans', sans-serif\">Intelligence </span>.</p>"
     },
     "Citadel": {
-      "name": "Citadel",
-      "description": "<p>Également au 4ème niveau, la capacité de toutes vos suites est doublée. Si la capacité d'un type de suite a déjà été doublée, sa taille est triplée par rapport à sa taille standard. De plus, la capacité maximale de votre vaisseau en carburant et en consommables double, et les civils, les membres d'équipage et les soldats à bord de votre vaisseau bénéficient d'un avantage sur les jets de sauvegarde Constitution conçus pour éviter l'épuisement. Si la capacité en carburant et/ou consommables était déjà le double de sa quantité standard, elle est désormais le triple de sa capacité d'origine.</p>"
+      "name": "Citadelle",
+      "description": "<p>Également au 4ème niveau, la capacité de toutes vos suites est doublée. Si la capacité d'un type de suite a déjà été doublée, sa taille est triple par rapport à sa taille standard. De plus, la capacité de votre vaisseau en carburant et en consommables double, et les civils, les membres d'équipage et les soldats maximum à bord de votre vaisseau bénéficient d'un avantage sur les jets de sauvegarde Constitution conçue pour éviter l'épuisement. Si la capacité en carburant et/ou consommables était déjà le double de sa quantité standard, elle est désormais le triple de sa capacité d'origine.</p>"
     }
   },
   "mapping": {
